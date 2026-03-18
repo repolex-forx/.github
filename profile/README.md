@@ -4,7 +4,7 @@
 
 ## What is this?
 
-Each repository in this org is a parsed representation of an open source project. For example, [`TopQuadrant--shacl`](https://github.com/repolex-forx/TopQuadrant--shacl) contains the full knowledge graph of [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl).
+Each repository in this org is a parsed representation of an open source project. For example, [`repolex-ai--lexq`](https://github.com/repolex-forx/repolex-ai--lexq) contains the full knowledge graph of [repolex-ai/lexq](https://github.com/repolex-ai/lexq).
 
 ## Quick start
 
@@ -17,7 +17,7 @@ uv tool install git+https://github.com/repolex-ai/lexq
 Download and query any repo:
 
 ```bash
-lexq download TopQuadrant/shacl
+lexq download repolex-ai/lexq
 lexq query "SELECT ?class WHERE { ?class a ast:ClassDeclaration }"
 ```
 
