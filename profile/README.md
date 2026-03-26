@@ -32,14 +32,15 @@ lexq download repolex-ai/lexq
 ## Recently Parsed
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
-| Source | Tag | Parsed |
-|--------|-----|--------|
-| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.4.4 | 2026-03-26 |
-| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | 2026-03-26 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.1 | 2026-03-26 |
-| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_2.1.0-alpha1 | 2026-03-26 |
-| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.5.0 | 2026-03-26 |
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | `c54bec0d4e` | 2026-03-24 |
+| Source | Tag | Data | Parsed |
+|--------|-----|------|--------|
+| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/3.0.0-beta2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-26 |
+| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.4.4 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-26 |
+| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-26 |
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-26 |
+| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_2.1.0-alpha1 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-26 |
+| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.5.0 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-26 |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | `c54bec0d4e` | [view](https://github.com/repolex-forx/twitter--the-algorithm) | 2026-03-24 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
