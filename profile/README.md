@@ -14,14 +14,20 @@ Install [lexq](https://github.com/repolex-ai/lexq), the query tool for repolex k
 uv tool install git+https://github.com/repolex-ai/lexq
 ```
 
-Download and query any parsed repo:
+Download a parsed repo:
 
 ```bash
-lexq download TopQuadrant/shacl
-lexq query "SELECT ?class ?name WHERE { ?class a ast:ClassDefinition ; ast:name ?name }"
+lexq download repolex-ai/lexq
 ```
 
-**lexq is designed to be used by LLMs in a terminal.** Start your favorite AI assistant and ask it to use lexq. It handles the SPARQL.
+**lexq is designed to be used by LLMs in a terminal.** Start your favorite AI assistant and ask it to use lexq. It handles the SPARQL — you just ask questions in plain English.
+
+```
+"Claude, can you check the --help menu of lexq"
+"Hermes, can you use the lexq tool to download someorg/somerepo"
+"What classes are defined in this codebase?"
+"Show me the dependency graph"
+```
 
 ## Recently Parsed
 
