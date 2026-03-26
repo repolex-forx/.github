@@ -1,51 +1,58 @@
 # repolex-forx
 
-**Source code as a knowledge graph.** Every repo here contains RDF graph data parsed from an open source project - abstract syntax trees, git history, semantic analysis, and more, queryable with SPARQL.
+**Source code as a knowledge graph.** Every repo here contains RDF graph data parsed from an open source project — abstract syntax trees, dependency graphs, LSP-enriched semantic analysis, git history, and more — all queryable with SPARQL.
 
-## What is this?
+## [forx-index](https://github.com/repolex-forx/forx-index) — The Catalog
 
-Each repository in this org is a parsed representation of an open source project. For example, [`repolex-ai--lexq`](https://github.com/repolex-forx/repolex-ai--lexq) contains the full knowledge graph of [repolex-ai/lexq](https://github.com/repolex-ai/lexq).
+The **[forx-index](https://github.com/repolex-forx/forx-index)** repo is the central catalog of everything we've parsed. It contains JSON-LD manifests that form a lightweight knowledge graph: repositories, parsed commits, and the web of dependencies between projects. Load them into any RDF tool and query with SPARQL.
 
-## Quick start
+## Getting Started
 
-Install the [lexq](https://github.com/repolex-ai/lexq) query tool:
+Install [lexq](https://github.com/repolex-ai/lexq), the query tool for repolex knowledge graphs:
 
 ```bash
 uv tool install git+https://github.com/repolex-ai/lexq
 ```
 
-Download and query any repo:
+Download and query any parsed repo:
 
 ```bash
-lexq download repolex-ai/lexq
-lexq query "SELECT ?class WHERE { ?class a ast:ClassDeclaration }"
+lexq download TopQuadrant/shacl
+lexq query "SELECT ?class ?name WHERE { ?class a ast:ClassDefinition ; ast:name ?name }"
 ```
 
-lexq is designed to be used primarily by LLMs in a terminal. Start up your favorite LLM and ask it to use the lexq tool.
+**lexq is designed to be used by LLMs in a terminal.** Start your favorite AI assistant and ask it to use lexq. It handles the SPARQL.
 
-## Parsed repositories
+## Recently Parsed
 
-<!-- This section will be auto-updated by forx update-index -->
+<!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
+| Source | Tag | Parsed |
+|--------|-----|--------|
+| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.4.4 | 2026-03-26 |
+| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | 2026-03-26 |
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.1 | 2026-03-26 |
+| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_2.1.0-alpha1 | 2026-03-26 |
+| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.5.0 | 2026-03-26 |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | `c54bec0d4e` | 2026-03-24 |
+<!-- END AUTO-UPDATED -->
 
-| Source | Knowledge Graph | Language |
-|--------|----------------|----------|
-| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | [TopQuadrant--shacl](https://github.com/repolex-forx/TopQuadrant--shacl) | Java |
-| [pallets/flask](https://github.com/pallets/flask) | [pallets--flask](https://github.com/repolex-forx/pallets--flask) | Python |
-| [psf/requests](https://github.com/psf/requests) | [psf--requests](https://github.com/repolex-forx/psf--requests) | Python |
-| [Textualize/rich](https://github.com/Textualize/rich) | [Textualize--rich](https://github.com/repolex-forx/Textualize--rich) | Python |
-| [expressjs/express](https://github.com/expressjs/express) | [expressjs--express](https://github.com/repolex-forx/expressjs--express) | JavaScript |
-| [colinhacks/zod](https://github.com/colinhacks/zod) | [colinhacks--zod](https://github.com/repolex-forx/colinhacks--zod) | TypeScript |
-| [trpc/trpc](https://github.com/trpc/trpc) | [trpc--trpc](https://github.com/repolex-forx/trpc--trpc) | TypeScript |
-| [serde-rs/serde](https://github.com/serde-rs/serde) | [serde-rs--serde](https://github.com/repolex-forx/serde-rs--serde) | Rust |
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | [gin-gonic--gin](https://github.com/repolex-forx/gin-gonic--gin) | Go |
-| [rack/rack](https://github.com/rack/rack) | [rack--rack](https://github.com/repolex-forx/rack--rack) | Ruby |
-| [dart-lang/http](https://github.com/dart-lang/http) | [dart-lang--http](https://github.com/repolex-forx/dart-lang--http) | Dart |
-| [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | [JamesNK--Newtonsoft.Json](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | C# |
-| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | [pixeltable--pixeltable](https://github.com/repolex-forx/pixeltable--pixeltable) | Python |
-| ...and more | | |
+> Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
 
-> This data is experimental and subject to change without notice.
+## What's in each repo?
+
+| Directory | Contents |
+|-----------|----------|
+| `blob/` | Per-file AST graphs, content-addressed by git blob SHA |
+| `aggregate/ast/` | Combined AST graph per commit — the full codebase structure |
+| `aggregate/lsp/` | LSP enrichment: resolved symbols, definitions, references, types |
+| `aggregate/repolex/` | Combined graph (AST + LSP + dataflow) per commit |
+| `dep/` | Resolved dependency graph with links to other parsed repos |
+| `commit/` | Git commit metadata |
+| `branch/` `tag/` | Branch and tag metadata |
+| `filetree/` | File tree snapshots per commit |
+
+All data is gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) (`.nq.gz`), loadable into any triplestore.
 
 ---
 
-*Powered by [repolex](https://repolex.ai)*
+*Powered by [repolex](https://repolex.ai) · Orchestrated by [forx](https://github.com/repolex-ai/forx) · Queried with [lexq](https://github.com/repolex-ai/lexq)*
