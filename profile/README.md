@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [square/okhttp](https://github.com/square/okhttp) | 1.3.0 | [view](https://github.com/repolex-forx/square--okhttp) | 2026-03-27 |
-| [pallets/flask](https://github.com/pallets/flask) | 0.3.1 | [view](https://github.com/repolex-forx/pallets--flask) | 2026-03-27 |
-| [colinhacks/zod](https://github.com/colinhacks/zod) | v1.1.2 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-27 |
-| [Textualize/rich](https://github.com/Textualize/rich) | v0.3.3 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-27 |
-| [google/gson](https://github.com/google/gson) | 1.1.1 | [view](https://github.com/repolex-forx/google--gson) | 2026-03-27 |
-| [pallets/click](https://github.com/pallets/click) | 0.5.1 | [view](https://github.com/repolex-forx/pallets--click) | 2026-03-27 |
-| [encode/httpx](https://github.com/encode/httpx) | 0.0.3 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-27 |
-| [asimov-platform/asimov.rs](https://github.com/asimov-platform/asimov.rs) | 25.0.3 | [view](https://github.com/repolex-forx/asimov-platform--asimov.rs) | 2026-03-27 |
-| [asimov-platform/asimov-cli](https://github.com/asimov-platform/asimov-cli) | 25.0.3 | [view](https://github.com/repolex-forx/asimov-platform--asimov-cli) | 2026-03-27 |
-| [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) | 0.0.3 | [view](https://github.com/repolex-forx/jmespath--jmespath.py) | 2026-03-27 |
+| [serde-rs/serde](https://github.com/serde-rs/serde) | v0.2.1 | [view](https://github.com/repolex-forx/serde-rs--serde) | 2026-03-27 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v0.0.1 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-27 |
+| [asimov-platform/asimov-cli](https://github.com/asimov-platform/asimov-cli) | 25.1.1 | [view](https://github.com/repolex-forx/asimov-platform--asimov-cli) | 2026-03-27 |
+| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2015.04.28 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-27 |
+| [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) | 0.1.0 | [view](https://github.com/repolex-forx/jmespath--jmespath.py) | 2026-03-27 |
+| [digitalbazaar/pyld](https://github.com/digitalbazaar/pyld) | 0.4.10 | [view](https://github.com/repolex-forx/digitalbazaar--pyld) | 2026-03-27 |
+| [hukkin/tomli-w](https://github.com/hukkin/tomli-w) | 0.1.0 | [view](https://github.com/repolex-forx/hukkin--tomli-w) | 2026-03-27 |
+| [hukkin/tomli](https://github.com/hukkin/tomli) | 0.2.10 | [view](https://github.com/repolex-forx/hukkin--tomli) | 2026-03-27 |
+| [psf/requests](https://github.com/psf/requests) | v0.2.4 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-27 |
+| [lodash/lodash](https://github.com/lodash/lodash) | 0.1.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
