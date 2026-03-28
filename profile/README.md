@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [colinhacks/zod](https://github.com/colinhacks/zod) | v4.3.6 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-27 |
-| [rack/rack](https://github.com/rack/rack) | v3.2.5 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-27 |
+| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.5.0 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-28 |
+| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-28 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | v2026.3.23 | [view](https://github.com/repolex-forx/NousResearch--hermes-agent) | 2026-03-28 |
 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | v1.12.0 | [view](https://github.com/repolex-forx/gin-gonic--gin) | 2026-03-27 |
 | [serde-rs/serde](https://github.com/serde-rs/serde) | v1.0.228 | [view](https://github.com/repolex-forx/serde-rs--serde) | 2026-03-27 |
+| [expressjs/express](https://github.com/expressjs/express) | v5.2.1 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-27 |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | v4.3.6 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-27 |
+| [rack/rack](https://github.com/rack/rack) | v3.2.5 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-27 |
 | [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.4.4 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-27 |
-| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-27 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/3.0.0-beta2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-27 |
-| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_2.1.0-alpha1 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-27 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-27 |
-| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.5.0 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
