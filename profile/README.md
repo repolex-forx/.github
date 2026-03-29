@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/3.0.0-beta2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-29 |
+| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2020.12.05 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v2.2.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 2.1.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2020.11.08 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
 | [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-29 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2020.06.20 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v2.1.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 1.3.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2020.04.05 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
-| [lodash/lodash](https://github.com/lodash/lodash) | 1.2.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2019.11.28 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
