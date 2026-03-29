@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [square/okio](https://github.com/square/okio) | 2.2.2 | [view](https://github.com/repolex-forx/square--okio) | 2026-03-29 |
+| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2016.02.28 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
+| [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) | 0.4.1 | [view](https://github.com/repolex-forx/jmespath--jmespath.py) | 2026-03-29 |
+| [digitalbazaar/pyld](https://github.com/digitalbazaar/pyld) | 0.7.3 | [view](https://github.com/repolex-forx/digitalbazaar--pyld) | 2026-03-29 |
+| [hukkin/tomli](https://github.com/hukkin/tomli) | 1.2.3 | [view](https://github.com/repolex-forx/hukkin--tomli) | 2026-03-29 |
+| [hukkin/tomli-w](https://github.com/hukkin/tomli-w) | 0.4.0 | [view](https://github.com/repolex-forx/hukkin--tomli-w) | 2026-03-29 |
+| [expressjs/express](https://github.com/expressjs/express) | 0.3.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
+| [trpc/trpc](https://github.com/trpc/trpc) | 0.7.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
+| [lodash/lodash](https://github.com/lodash/lodash) | 0.3.2 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v1.2.0 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-29 |
-| [stretchr/testify](https://github.com/stretchr/testify) | v1.2.2 | [view](https://github.com/repolex-forx/stretchr--testify) | 2026-03-29 |
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | v1.3.0 | [view](https://github.com/repolex-forx/gin-gonic--gin) | 2026-03-29 |
-| [psf/requests](https://github.com/psf/requests) | v0.4.1 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-29 |
-| [Textualize/rich](https://github.com/Textualize/rich) | v0.7.2 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-29 |
-| [serde-rs/serde](https://github.com/serde-rs/serde) | v0.5.3 | [view](https://github.com/repolex-forx/serde-rs--serde) | 2026-03-29 |
-| [pallets/flask](https://github.com/pallets/flask) | 0.7.2 | [view](https://github.com/repolex-forx/pallets--flask) | 2026-03-29 |
-| [google/gson](https://github.com/google/gson) | 1.2.3 | [view](https://github.com/repolex-forx/google--gson) | 2026-03-29 |
-| [encode/httpx](https://github.com/encode/httpx) | 0.1.1 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
-| [asimov-platform/asimov.rs](https://github.com/asimov-platform/asimov.rs) | 25.1.0 | [view](https://github.com/repolex-forx/asimov-platform--asimov.rs) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
