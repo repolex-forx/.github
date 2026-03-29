@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [square/okio](https://github.com/square/okio) | 2.4.1 | [view](https://github.com/repolex-forx/square--okio) | 2026-03-29 |
+| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-29 |
 | [trpc/trpc](https://github.com/trpc/trpc) | 0.8.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 0.4.2 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) | 0.5.0 | [view](https://github.com/repolex-forx/jmespath--jmespath.py) | 2026-03-29 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [hukkin/tomli](https://github.com/hukkin/tomli) | 2.0.2 | [view](https://github.com/repolex-forx/hukkin--tomli) | 2026-03-29 |
 | [hukkin/tomli-w](https://github.com/hukkin/tomli-w) | 1.0.0 | [view](https://github.com/repolex-forx/hukkin--tomli-w) | 2026-03-29 |
 | [square/okio](https://github.com/square/okio) | 2.2.2 | [view](https://github.com/repolex-forx/square--okio) | 2026-03-29 |
-| [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 1.3.1 | [view](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | 2026-03-29 |
-| [Textualize/rich](https://github.com/Textualize/rich) | v0.8.12 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
