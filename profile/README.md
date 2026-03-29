@@ -34,7 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [encode/httpx](https://github.com/encode/httpx) | 0.14.3 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.6.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.0.0b9 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-29 |
 | [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 9.0.1 | [view](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | 2026-03-29 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.13.3 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.5.3.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [trpc/trpc](https://github.com/trpc/trpc) | v8.1.4 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.0.0b8 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-29 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.1.1 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.5.2.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | v1.12.0 | [view](https://github.com/repolex-forx/gin-gonic--gin) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
