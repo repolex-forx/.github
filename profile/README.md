@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2022.05.18 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
 | [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2021.10.08 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 2.2.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-29 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2020.12.05 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v2.2.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 2.1.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2020.11.08 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
