@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [expressjs/express](https://github.com/expressjs/express) | 2.5.11 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.1.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
+| [python-trio/trio](https://github.com/python-trio/trio) | v0.15.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-29 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.14 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.14.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.12.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
+| [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.3.1 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
 | [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.4.2 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.1.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.11.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-29 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.13 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.0.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
-| [python-trio/trio](https://github.com/python-trio/trio) | v0.13.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-29 |
-| [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.3.0 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
-| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.4.1 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
