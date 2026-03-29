@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [lodash/lodash](https://github.com/lodash/lodash) | 4.5.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.4.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.3.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.2.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [expressjs/express](https://github.com/expressjs/express) | 2.2.2 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.10.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-29 |
 | [expressjs/express](https://github.com/expressjs/express) | 2.1.1 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
-| [python-trio/trio](https://github.com/python-trio/trio) | v0.12.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
