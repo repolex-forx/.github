@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [trpc/trpc](https://github.com/trpc/trpc) | v7.3.3 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
+| [stretchr/testify](https://github.com/stretchr/testify) | v1.10.0 | [view](https://github.com/repolex-forx/stretchr--testify) | 2026-03-29 |
+| [encode/httpx](https://github.com/encode/httpx) | 0.10.0 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
+| [rack/rack](https://github.com/rack/rack) | 1.2.8 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-29 |
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.0.0b3 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-29 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.9.5 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
 | [rack/rack](https://github.com/rack/rack) | 1.1.6 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-29 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.0.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-29 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v7.2.1 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.8.0 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 1.0.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-29 |
-| [lodash/lodash](https://github.com/lodash/lodash) | 3.6.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [encode/httpx](https://github.com/encode/httpx) | 0.7.8 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
-| [serde-rs/serde](https://github.com/serde-rs/serde) | v1.0.228 | [view](https://github.com/repolex-forx/serde-rs--serde) | 2026-03-29 |
-| [trpc/trpc](https://github.com/trpc/trpc) | v7.1.1 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
