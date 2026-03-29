@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pallets/flask](https://github.com/pallets/flask) | 1.1.x | [view](https://github.com/repolex-forx/pallets--flask) | 2026-03-29 |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | v1.10.1 | [view](https://github.com/repolex-forx/gin-gonic--gin) | 2026-03-29 |
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.5.0.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
+| [psf/requests](https://github.com/psf/requests) | v0.10.8 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-29 |
 | [pallets/flask](https://github.com/pallets/flask) | 1.0.4 | [view](https://github.com/repolex-forx/pallets--flask) | 2026-03-29 |
 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | v1.9.1 | [view](https://github.com/repolex-forx/gin-gonic--gin) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.5.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [psf/requests](https://github.com/psf/requests) | v0.9.3 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-29 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.5.1 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.10.0.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | v1.8.2 | [view](https://github.com/repolex-forx/gin-gonic--gin) | 2026-03-29 |
-| [lodash/lodash](https://github.com/lodash/lodash) | 4.7.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.10.0.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
-| [psf/requests](https://github.com/psf/requests) | v0.8.9 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
