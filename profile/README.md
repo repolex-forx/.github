@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.6.6 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
+| [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 13.0.4 | [view](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | 2026-03-29 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.0.22 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.6.4 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.17.1 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
 | [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 12.0.3 | [view](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | 2026-03-29 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [psf/requests](https://github.com/psf/requests) | v0.14.2 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-29 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.16.1 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v3.1.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-29 |
-| [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 11.0.2 | [view](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.6.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
-| [encode/httpx](https://github.com/encode/httpx) | 0.15.5 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
