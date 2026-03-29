@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [expressjs/express](https://github.com/expressjs/express) | 3.3.8 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
+| [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.3 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
 | [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.2 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
+| [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | 0.2.5 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.12.0a1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.2 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.2.6 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 | [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.13 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
 | [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | 0.2.4 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.12.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.19 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
-| [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.12 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.11.0rc1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
