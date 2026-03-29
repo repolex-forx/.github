@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.0.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-29 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.8.0 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 1.0.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 3.6.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [encode/httpx](https://github.com/encode/httpx) | 0.6.8 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
 | [serde-rs/serde](https://github.com/serde-rs/serde) | v0.9.15 | [view](https://github.com/repolex-forx/serde-rs--serde) | 2026-03-29 |
 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | v1.6.3 | [view](https://github.com/repolex-forx/gin-gonic--gin) | 2026-03-29 |
-| [serde-rs/serde](https://github.com/serde-rs/serde) | v0.8.23 | [view](https://github.com/repolex-forx/serde-rs--serde) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
