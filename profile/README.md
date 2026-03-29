@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.6.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.15.5 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
 | [psf/requests](https://github.com/psf/requests) | v0.13.9 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.9.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.0.0b9 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-29 |
 | [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 9.0.1 | [view](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | 2026-03-29 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.13.3 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.5.3.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
