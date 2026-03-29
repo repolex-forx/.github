@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [expressjs/express](https://github.com/expressjs/express) | 0.5.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
+| [stretchr/testify](https://github.com/stretchr/testify) | v1.5.1 | [view](https://github.com/repolex-forx/stretchr--testify) | 2026-03-29 |
+| [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) | 0.7.1 | [view](https://github.com/repolex-forx/jmespath--jmespath.py) | 2026-03-29 |
+| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2017.01.23 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
+| [digitalbazaar/pyld](https://github.com/digitalbazaar/pyld) | v2.0.4 | [view](https://github.com/repolex-forx/digitalbazaar--pyld) | 2026-03-29 |
+| [hukkin/tomli-w](https://github.com/hukkin/tomli-w) | 1.2.0 | [view](https://github.com/repolex-forx/hukkin--tomli-w) | 2026-03-29 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v1.0.1 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
+| [hukkin/tomli](https://github.com/hukkin/tomli) | 2.2.1 | [view](https://github.com/repolex-forx/hukkin--tomli) | 2026-03-29 |
+| [lodash/lodash](https://github.com/lodash/lodash) | 0.5.2 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [square/okio](https://github.com/square/okio) | 3.9.1 | [view](https://github.com/repolex-forx/square--okio) | 2026-03-29 |
-| [stretchr/testify](https://github.com/stretchr/testify) | v1.4.0 | [view](https://github.com/repolex-forx/stretchr--testify) | 2026-03-29 |
-| [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) | 0.6.2 | [view](https://github.com/repolex-forx/jmespath--jmespath.py) | 2026-03-29 |
-| [digitalbazaar/pyld](https://github.com/digitalbazaar/pyld) | 1.0.5 | [view](https://github.com/repolex-forx/digitalbazaar--pyld) | 2026-03-29 |
-| [hukkin/tomli-w](https://github.com/hukkin/tomli-w) | 1.1.0 | [view](https://github.com/repolex-forx/hukkin--tomli-w) | 2026-03-29 |
-| [hukkin/tomli](https://github.com/hukkin/tomli) | 2.1.0 | [view](https://github.com/repolex-forx/hukkin--tomli) | 2026-03-29 |
-| [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 2.0.4 | [view](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | 2026-03-29 |
-| [square/okio](https://github.com/square/okio) | 2.4.1 | [view](https://github.com/repolex-forx/square--okio) | 2026-03-29 |
-| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2016.09.26 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
-| [expressjs/express](https://github.com/expressjs/express) | 0.4.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
