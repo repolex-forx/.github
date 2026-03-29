@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.0.16 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 0.10.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v0.1.0-alpha.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-29 |
+| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | shacl-1.0.1 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
 | [repolex-ai/lexq](https://github.com/repolex-ai/lexq) | v0.0.1-dev0 | [view](https://github.com/repolex-forx/repolex-ai--lexq) | 2026-03-29 |
+| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-29 |
 | [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2018.08.24 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
+| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/3.0.0-beta2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-29 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v1.3.1 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | cloud-release | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-29 |
-| [lodash/lodash](https://github.com/lodash/lodash) | 0.9.2 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [dart-lang/http](https://github.com/dart-lang/http) | 0.13.4 | [view](https://github.com/repolex-forx/dart-lang--http) | 2026-03-29 |
-| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2018.04.16 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
-| [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) | 1.1.0 | [view](https://github.com/repolex-forx/jmespath--jmespath.py) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
