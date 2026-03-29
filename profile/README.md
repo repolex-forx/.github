@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_1_1 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-29 |
+| [lodash/lodash](https://github.com/lodash/lodash) | 4.6.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_1_0 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-29 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | origin | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.5.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.2.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.1.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.0.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [expressjs/express](https://github.com/expressjs/express) | 2.3.12 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
-| [expressjs/express](https://github.com/expressjs/express) | 2.2.2 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
