@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.7.4.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
+| [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.2.2 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.1 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.13 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-29 |
 | [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.2.1 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [pypa/twine](https://github.com/pypa/twine) | 1.3.1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-29 |
 | [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.2.0 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.0.25 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.7.4 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
-| [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.1.1 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
