@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.4.0 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.9.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-29 |
 | [junit-team/junit4](https://github.com/junit-team/junit4) | r3.8.2 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-29 |
 | [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | shacl-1.1.0 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.24 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.6.1 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.5.3 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
-| [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.6 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
