@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2019.09.11 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
+| [lodash/lodash](https://github.com/lodash/lodash) | 1.1.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
+| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/3.0.0-beta2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-29 |
 | [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2019.06.16 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v1.5.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
 | [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-29 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v0.1.0-beta.3 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-29 |
 | [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2018.11.29 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v1.4.3 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
-| [lodash/lodash](https://github.com/lodash/lodash) | 1.0.2 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.5.23 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-29 |
-| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2018.10.15 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
