@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | v1.9.1 | [view](https://github.com/repolex-forx/gin-gonic--gin) | 2026-03-29 |
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.5.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [psf/requests](https://github.com/psf/requests) | v0.9.3 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-29 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.5.1 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.10.0.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.10.0.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [psf/requests](https://github.com/psf/requests) | v0.8.9 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-29 |
 | [pallets/flask](https://github.com/pallets/flask) | 0.12.5 | [view](https://github.com/repolex-forx/pallets--flask) | 2026-03-29 |
-| [colinhacks/zod](https://github.com/colinhacks/zod) | v3.4.2 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.10.0.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
