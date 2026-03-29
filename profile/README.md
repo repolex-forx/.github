@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [lodash/lodash](https://github.com/lodash/lodash) | 4.15.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.24 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
+| [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.6.1 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
+| [expressjs/express](https://github.com/expressjs/express) | 3.5.3 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 | [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.6 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
+| [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | 0.2.9 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.12.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.23 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | 0.2.7 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-29 |
 | [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.5 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
-| [expressjs/express](https://github.com/expressjs/express) | 3.4.8 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.12.0rc1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
-| [lodash/lodash](https://github.com/lodash/lodash) | 4.14.2 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.21 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
-| [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.4 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
