@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [Textualize/rich](https://github.com/Textualize/rich) | v1.1.9 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-29 |
-| [rack/rack](https://github.com/rack/rack) | 0.9.1 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-29 |
-| [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 3.5.8 | [view](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | 2026-03-29 |
-| [dart-lang/http](https://github.com/dart-lang/http) | 0.1.1 | [view](https://github.com/repolex-forx/dart-lang--http) | 2026-03-29 |
-| [stretchr/testify](https://github.com/stretchr/testify) | v1.6.1 | [view](https://github.com/repolex-forx/stretchr--testify) | 2026-03-29 |
-| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2017.04.17 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
-| [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) | 0.8.0 | [view](https://github.com/repolex-forx/jmespath--jmespath.py) | 2026-03-29 |
-| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.4.4 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
-| [hukkin/tomli](https://github.com/hukkin/tomli) | 2.3.0 | [view](https://github.com/repolex-forx/hukkin--tomli) | 2026-03-29 |
-| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/3.0.0-beta2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-29 |
+| [Textualize/rich](https://github.com/Textualize/rich) | v1.2.3 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-29 |
+| [dart-lang/http](https://github.com/dart-lang/http) | 0.2.0 | [view](https://github.com/repolex-forx/dart-lang--http) | 2026-03-29 |
+| [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 4.0.8 | [view](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | 2026-03-29 |
+| [stretchr/testify](https://github.com/stretchr/testify) | v1.7.5 | [view](https://github.com/repolex-forx/stretchr--testify) | 2026-03-29 |
+| [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) | 0.9.5 | [view](https://github.com/repolex-forx/jmespath--jmespath.py) | 2026-03-29 |
+| [certifi/python-certifi](https://github.com/certifi/python-certifi) | 2017.07.27 | [view](https://github.com/repolex-forx/certifi--python-certifi) | 2026-03-29 |
+| [hukkin/tomli](https://github.com/hukkin/tomli) | 2.4.0 | [view](https://github.com/repolex-forx/hukkin--tomli) | 2026-03-29 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v1.1.1 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
+| [lodash/lodash](https://github.com/lodash/lodash) | 0.6.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
+| [expressjs/express](https://github.com/expressjs/express) | 0.6.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
