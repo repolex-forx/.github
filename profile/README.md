@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 7.0.1 | [view](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | 2026-03-29 |
+| [encode/httpx](https://github.com/encode/httpx) | 0.11.1 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
+| [rack/rack](https://github.com/rack/rack) | 1.3.10 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-29 |
+| [stretchr/testify](https://github.com/stretchr/testify) | v1.11.1 | [view](https://github.com/repolex-forx/stretchr--testify) | 2026-03-29 |
+| [expressjs/express](https://github.com/expressjs/express) | 0.9.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v7.3.3 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
 | [stretchr/testify](https://github.com/stretchr/testify) | v1.10.0 | [view](https://github.com/repolex-forx/stretchr--testify) | 2026-03-29 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.10.0 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
 | [rack/rack](https://github.com/rack/rack) | 1.2.8 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-29 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.0.0b3 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-29 |
-| [encode/httpx](https://github.com/encode/httpx) | 0.9.5 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
-| [rack/rack](https://github.com/rack/rack) | 1.1.6 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-29 |
-| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.0.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-29 |
-| [trpc/trpc](https://github.com/trpc/trpc) | v7.2.1 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-29 |
-| [encode/httpx](https://github.com/encode/httpx) | 0.8.0 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
