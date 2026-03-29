@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [lodash/lodash](https://github.com/lodash/lodash) | 4.7.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.10.0.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
+| [psf/requests](https://github.com/psf/requests) | v0.8.9 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-29 |
 | [pallets/flask](https://github.com/pallets/flask) | 0.12.5 | [view](https://github.com/repolex-forx/pallets--flask) | 2026-03-29 |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | v3.4.2 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.10.0.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_1_2 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-29 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_1_1 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.6.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_1_0 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-29 |
-| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | origin | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-29 |
-| [lodash/lodash](https://github.com/lodash/lodash) | 4.5.1 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [lodash/lodash](https://github.com/lodash/lodash) | 4.4.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
