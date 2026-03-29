@@ -35,6 +35,7 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.10.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-29 |
+| [expressjs/express](https://github.com/expressjs/express) | 1.0.9 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.1.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-29 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.0.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-29 |
 | [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | shacl-1.3.2 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pypa/twine](https://github.com/pypa/twine) | 1.15.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-29 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.11 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-29 |
 | [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | shacl-1.3.1 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
-| [expressjs/express](https://github.com/expressjs/express) | 0.14.1 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
