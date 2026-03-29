@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.11.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
+| [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.10 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
+| [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | 0.2.1 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-29 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.16.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.10.0rc1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.16 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.0.6 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.15.1 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-29 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.15 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | 0.2.0 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-29 |
-| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.5.0 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.10.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
-| [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | 0.1.0 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-29 |
-| [expressjs/express](https://github.com/expressjs/express) | 2.5.11 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
