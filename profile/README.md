@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [lodash/lodash](https://github.com/lodash/lodash) | 3.8.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.0.19 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
+| [rack/rack](https://github.com/rack/rack) | 2.0.9 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-29 |
 | [pypa/twine](https://github.com/pypa/twine) | 1.11.0rc1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-29 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.0 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-29 |
 | [rack/rack](https://github.com/rack/rack) | 1.6.13 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-29 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.0.18 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v2.3.1 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-29 |
 | [expressjs/express](https://github.com/expressjs/express) | 0.11.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
-| [rack/rack](https://github.com/rack/rack) | 1.5.5 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-29 |
-| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v-alpha | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-29 |
-| [pypa/twine](https://github.com/pypa/twine) | 1.10.0rc1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
