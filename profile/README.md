@@ -35,6 +35,7 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.0.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
+| [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.2.4 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.7.4.3 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.11 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.2.3 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.14 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.7.4.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.2.2 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.1 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
