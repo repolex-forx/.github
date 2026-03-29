@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pypa/twine](https://github.com/pypa/twine) | 1.14.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-29 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v0.1.0-beta.7 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-29 |
 | [rack/rack](https://github.com/rack/rack) | v3.0.18 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-29 |
 | [pypa/twine](https://github.com/pypa/twine) | 1.13.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-29 |
+| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | shacl-1.3.0 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.10 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-29 |
 | [expressjs/express](https://github.com/expressjs/express) | 0.13.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v0.1.0-beta.6 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-29 |
 | [rack/rack](https://github.com/rack/rack) | v2.2.22 | [view](https://github.com/repolex-forx/rack--rack) | 2026-03-29 |
 | [pypa/twine](https://github.com/pypa/twine) | 1.12.1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-29 |
-| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | shacl-1.2.1 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
-| [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v0.1.0-beta.5 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
