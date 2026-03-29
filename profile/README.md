@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.0.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
+| [python-trio/trio](https://github.com/python-trio/trio) | v0.13.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-29 |
+| [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.4.1 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.12 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.0.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.2.4 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 3.7.4.3 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.11 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.2.3 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.11.2 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.10 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
-| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.14 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.7.4.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
-| [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.2.2 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
