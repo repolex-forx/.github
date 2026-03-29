@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.7.4.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.0 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [pypa/twine](https://github.com/pypa/twine) | 1.3.1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-29 |
 | [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.2.0 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.0.25 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.10.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.0.23 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
 | [alethiophile/qtoml](https://github.com/alethiophile/qtoml) | v0.1.0 | [view](https://github.com/repolex-forx/alethiophile--qtoml) | 2026-03-29 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 3.6.6 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-29 |
-| [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 13.0.4 | [view](https://github.com/repolex-forx/JamesNK--Newtonsoft.Json) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
