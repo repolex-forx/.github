@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.0.9 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.7.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.7.0rc1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.18.6 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.26.2 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [uiri/toml](https://github.com/uiri/toml) | 0.9.3 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.5.4 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-30 |
 | [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.0.8 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.6.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
-| [expressjs/express](https://github.com/expressjs/express) | 3.17.8 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
