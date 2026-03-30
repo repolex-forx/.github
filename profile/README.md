@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.11.0 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.5.5 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-30 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.18.0 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
 | [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.0.9 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.26.2 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.47 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.2.3 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-30 |
-| [uiri/toml](https://github.com/uiri/toml) | 0.9.3 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
