@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.14.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
+| [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.0.12 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
+| [uiri/toml](https://github.com/uiri/toml) | 0.10.1 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.14.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [uiri/toml](https://github.com/uiri/toml) | 0.10.0 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
 | [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.0.11 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.13.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-beta4-rc1 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.20 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
-| [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.9 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-30 |
-| [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.0.10 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.12.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
