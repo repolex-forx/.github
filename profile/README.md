@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.11.5 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
+| [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 0.1.10-alpha | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-30 |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | v3.23.8 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
+| [apache/jena](https://github.com/apache/jena) | jena-2.12.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.3.3 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v1.0.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.26 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
 | [wolever/pprintpp](https://github.com/wolever/pprintpp) | 0.3.0 | [view](https://github.com/repolex-forx/wolever--pprintpp) | 2026-03-30 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.11.4 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.22.4 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 4.0.0a108824688.post2 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.9.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.3.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-30 |
-| [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13.2 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
