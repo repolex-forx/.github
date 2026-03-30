@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.26 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
 | [wolever/pprintpp](https://github.com/wolever/pprintpp) | 0.3.0 | [view](https://github.com/repolex-forx/wolever--pprintpp) | 2026-03-30 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.11.4 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.22.4 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13.2 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.25 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
 | [uiri/toml](https://github.com/uiri/toml) | v0.6.5 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
-| [Textualize/rich](https://github.com/Textualize/rich) | v9.0.1 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
