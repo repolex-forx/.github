@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 3.3.4 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 5.1.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.7.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.13.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.3.2 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 4.0.2 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.6.3 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
-| [expressjs/express](https://github.com/expressjs/express) | 3.12.1 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
