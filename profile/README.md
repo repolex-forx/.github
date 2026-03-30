@@ -34,7 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [psf/requests](https://github.com/psf/requests) | v1.1.0 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.0.2 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-30 |
+| [encode/httpx](https://github.com/encode/httpx) | 0.19.0 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 1.0.0rc2 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v9.0.1 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v3.3.2 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 1.0.0rc1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.17.23 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.3 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 1.0.0b2 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
-| [trpc/trpc](https://github.com/trpc/trpc) | v8.4.2 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
