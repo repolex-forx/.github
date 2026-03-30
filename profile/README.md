@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.24 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
+| [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13.1 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
 | [uiri/toml](https://github.com/uiri/toml) | 0.9.6 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v8.0.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
 | [psf/requests](https://github.com/psf/requests) | v2.9.2 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.20.6 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 4.0.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-beta6 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.7.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | 9.12.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
