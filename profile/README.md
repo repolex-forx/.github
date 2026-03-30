@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [psf/requests](https://github.com/psf/requests) | v2.9.2 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
+| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.11.2 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.20.6 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 4.0.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-beta6 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [trpc/trpc](https://github.com/trpc/trpc) | v9.15.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.20.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-30 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.20.3 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
-| [uiri/toml](https://github.com/uiri/toml) | 0.9.5 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
-| [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13-rc-2 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
