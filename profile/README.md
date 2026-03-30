@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [expressjs/express](https://github.com/expressjs/express) | 3.9.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
+| [pypa/twine](https://github.com/pypa/twine) | 3.8.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.0.3 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 3.7.1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.0.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.8.1 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.0.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 3.6.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 3.5.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
-| [pypa/twine](https://github.com/pypa/twine) | 3.4.2 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
-| [pypa/twine](https://github.com/pypa/twine) | 3.4.1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
-| [pypa/twine](https://github.com/pypa/twine) | 3.4.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
