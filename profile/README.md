@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [apache/jena](https://github.com/apache/jena) | jena-2.11.2 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
+| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.23 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.5 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_2_7 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-30 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.11.1 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
 | [psf/requests](https://github.com/psf/requests) | v2.8.1 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.1.0 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.7.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.19.2 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 3.7.1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
-| [python-trio/trio](https://github.com/python-trio/trio) | v0.27.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
-| [uiri/toml](https://github.com/uiri/toml) | 0.9.4 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
