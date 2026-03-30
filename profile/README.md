@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_2_3 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-30 |
+| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-beta3-rc1 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
+| [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | 0.3.0 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
 | [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.10.1 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.9.0rc1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_2_2 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-30 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.16.1 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.6.2 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.9.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
-| [pypa/twine](https://github.com/pypa/twine) | 6.2.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
-| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_2_1 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
