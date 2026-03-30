@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.48 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
+| [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13-rc-1 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_2_6 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-30 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.11.0 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.5.5 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-30 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.7.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.7.0rc1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.18.6 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
-| [python-trio/trio](https://github.com/python-trio/trio) | v0.26.2 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.47 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
