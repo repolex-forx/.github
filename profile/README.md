@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | 9.12.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-30 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v9.15.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
+| [expressjs/express](https://github.com/expressjs/express) | 3.20.3 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
 | [uiri/toml](https://github.com/uiri/toml) | 0.9.5 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
 | [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13-rc-2 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
 | [apache/jena](https://github.com/apache/jena) | jena-2.11.2 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.5 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_2_7 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-30 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.11.1 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
-| [psf/requests](https://github.com/psf/requests) | v2.8.1 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
-| [colinhacks/zod](https://github.com/colinhacks/zod) | v3.19.1 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
-| [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.1.0 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
