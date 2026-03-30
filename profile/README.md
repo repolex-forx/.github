@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.19 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.35 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v4.2.1 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.14.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.13.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.18 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.26.0 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-30 |
-| [Textualize/rich](https://github.com/Textualize/rich) | v4.1.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
