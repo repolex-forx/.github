@@ -35,6 +35,7 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.1.0 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.7.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.19.2 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.7.1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.27.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.48 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13-rc-1 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_2_6 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-30 |
-| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.11.0 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
