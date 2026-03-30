@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pypa/twine](https://github.com/pypa/twine) | 6.2.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_2_1 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-30 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.15.1 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.8.0rc1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [junit-team/junit4](https://github.com/junit-team/junit4) | r4.12-beta-3 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.6.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.8.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
-| [colinhacks/zod](https://github.com/colinhacks/zod) | v3.14.5 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
