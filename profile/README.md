@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.11.3 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
+| [psf/requests](https://github.com/psf/requests) | v2.10.0 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-beta6-rc1 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 4.0.0a108824688.post1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.21.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-30 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v.5.2.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-30 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.24 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
 | [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13.1 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
-| [uiri/toml](https://github.com/uiri/toml) | 0.9.6 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
-| [Textualize/rich](https://github.com/Textualize/rich) | v8.0.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
