@@ -35,6 +35,7 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.20 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
+| [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.9 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-30 |
 | [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.0.10 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.12.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [apache/jena](https://github.com/apache/jena) | jena-2.11.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.0.1 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-beta4 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
 | [psf/requests](https://github.com/psf/requests) | v2.6.2 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
-| [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.0.0 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
