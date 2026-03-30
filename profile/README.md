@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pallets/flask](https://github.com/pallets/flask) | 2.3.3 | [view](https://github.com/repolex-forx/pallets--flask) | 2026-03-30 |
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.1.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
+| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-alpha2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
 | [junit-team/junit4](https://github.com/junit-team/junit4) | r4.11-beta-1 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
 | [pallets/flask](https://github.com/pallets/flask) | 2.2.5 | [view](https://github.com/repolex-forx/pallets--flask) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.0.6 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-alpha1 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.0.5 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.4.0 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-30 |
-| [expressjs/express](https://github.com/expressjs/express) | 3.10.5 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.0.4 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
-| [expressjs/express](https://github.com/expressjs/express) | 3.9.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
