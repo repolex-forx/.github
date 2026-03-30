@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pypa/twine](https://github.com/pypa/twine) | 1.6.1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 1.3.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [psf/requests](https://github.com/psf/requests) | v2.1.0 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 1.2.3 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 1.6.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [encode/httpx](https://github.com/encode/httpx) | 0.23.3 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 1.2.2 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 1.5.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
-| [psf/requests](https://github.com/psf/requests) | v2.0.1 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
-| [encode/httpx](https://github.com/encode/httpx) | 0.22.0 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
