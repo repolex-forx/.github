@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.11.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
+| [psf/requests](https://github.com/psf/requests) | v2.3.0 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
 | [apache/jena](https://github.com/apache/jena) | jena-2.10.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.13.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.25.2 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-30 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [Textualize/rich](https://github.com/Textualize/rich) | v4.0.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.13.0rc1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.11.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.32 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.10.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
