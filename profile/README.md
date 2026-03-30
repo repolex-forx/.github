@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pallets/flask](https://github.com/pallets/flask) | 2.0.3 | [view](https://github.com/repolex-forx/pallets--flask) | 2026-03-30 |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | v3.7.3 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.3.0 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-29 |
 | [TopQuadrant/shacl](https://github.com/TopQuadrant/shacl) | v1.4.0 | [view](https://github.com/repolex-forx/TopQuadrant--shacl) | 2026-03-29 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.9.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-29 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.0RC4 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-29 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.6.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-29 |
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.15.0 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-29 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.24 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-29 |
-| [samuelcolvin/rtoml](https://github.com/samuelcolvin/rtoml) | v0.6.1 | [view](https://github.com/repolex-forx/samuelcolvin--rtoml) | 2026-03-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
