@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.12.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.10.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_1_6 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-30 |
 | [junit-team/junit4](https://github.com/junit-team/junit4) | r4.12 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pallets/flask](https://github.com/pallets/flask) | 3.0.3 | [view](https://github.com/repolex-forx/pallets--flask) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.1.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.10.3 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
-| [pallets/flask](https://github.com/pallets/flask) | 2.3.3 | [view](https://github.com/repolex-forx/pallets--flask) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
