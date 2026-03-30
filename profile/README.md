@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.3.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 3.0.0rc3 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.41 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.1.2 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-30 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.23.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.2.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.0.0rc2 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.4 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
-| [python-trio/trio](https://github.com/python-trio/trio) | v0.22.2 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.15.0rc1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
