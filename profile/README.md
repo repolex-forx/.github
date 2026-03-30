@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pypa/twine](https://github.com/pypa/twine) | 2.0.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.22.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.16.3 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 1.9.1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pypa/twine](https://github.com/pypa/twine) | 1.9.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.20.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.16.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-30 |
-| [pypa/twine](https://github.com/pypa/twine) | 1.8.1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
