@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [uiri/toml](https://github.com/uiri/toml) | 0.7.0 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v9.13.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.2.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [apache/jena](https://github.com/apache/jena) | jena-2.11.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.14.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.14.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) | v1.0.12 | [view](https://github.com/repolex-forx/bobfang1992--pytomlpp) | 2026-03-30 |
 | [uiri/toml](https://github.com/uiri/toml) | 0.10.1 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.14.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
-| [uiri/toml](https://github.com/uiri/toml) | 0.10.0 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
