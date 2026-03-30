@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python-trio/trio](https://github.com/python-trio/trio) | v0.2.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
+| [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.16.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-30 |
+| [pypa/twine](https://github.com/pypa/twine) | 1.8.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.19.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.15.2 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 2.0.2 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.3.4 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-30 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.18.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v9.8.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
-| [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.15.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-30 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 2.0.1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
-| [pypa/twine](https://github.com/pypa/twine) | 1.7.3 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
