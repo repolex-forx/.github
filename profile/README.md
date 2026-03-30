@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.7.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
+| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.5.0 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-30 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.15.3 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 3.4.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 6.0.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.12.0 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.7.0rc1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [apache/jena](https://github.com/apache/jena) | jena-2.10.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
 | [expressjs/express](https://github.com/expressjs/express) | 3.14.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-30 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.4.3 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-30 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 3.3.4 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
-| [pypa/twine](https://github.com/pypa/twine) | 5.1.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.7.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
