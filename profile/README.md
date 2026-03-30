@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.3.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-30 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.25 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
 | [uiri/toml](https://github.com/uiri/toml) | v0.6.5 | [view](https://github.com/repolex-forx/uiri--toml) | 2026-03-30 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v9.0.1 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 4.0.0a108824688.post1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.21.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-30 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v3.21.4 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.8.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
