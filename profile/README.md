@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pypa/twine](https://github.com/pypa/twine) | 3.5.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 3.4.2 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 3.4.1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 3.4.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pypa/twine](https://github.com/pypa/twine) | 3.2.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.0.3 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 3.1.1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
-| [pypa/twine](https://github.com/pypa/twine) | 3.1.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
