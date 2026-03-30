@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [encode/httpx](https://github.com/encode/httpx) | 0.22.0 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-30 |
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 1.2.1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v9.2.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.1.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-30 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.21.3 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-30 |
 | [psf/requests](https://github.com/psf/requests) | v1.2.3 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 1.2.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.20.0 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-30 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/2.0 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v9.1.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
-| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.1.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-30 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 1.1.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
-| [psf/requests](https://github.com/psf/requests) | v1.1.0 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
-| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.0.2 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
