@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.6.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 3.3.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.6.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.2.1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.25.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.6.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.1.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.24.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.5.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 3.0.1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
