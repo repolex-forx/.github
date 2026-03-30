@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [trpc/trpc](https://github.com/trpc/trpc) | v8.3.1 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.28 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_1_4 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-30 |
 | [apache/jena](https://github.com/apache/jena) | apache-jena-2.7.0-incubating | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [lodash/lodash](https://github.com/lodash/lodash) | 4.16.6 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-30 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/2.0 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.25 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
-| [colinhacks/zod](https://github.com/colinhacks/zod) | v3.8.0 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
