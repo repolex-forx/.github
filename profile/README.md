@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.8.10 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-30 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.12.2 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v4.1.13 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-beta8-rc1 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.12.1 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v4.0.17 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-30 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-beta8 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.0.3 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
