@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.3 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 1.0.0b2 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v8.4.2 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.29 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v8.3.1 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.28 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [apache/jena](https://github.com/apache/jena) | apache-jena-2.7.0-incubating | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.27 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [apache/jena](https://github.com/apache/jena) | 2.7.3-RC3 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.26 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
-| [lodash/lodash](https://github.com/lodash/lodash) | 4.16.6 | [view](https://github.com/repolex-forx/lodash--lodash) | 2026-03-30 |
-| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/2.0 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
