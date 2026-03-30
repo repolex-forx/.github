@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.12.0 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-30 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 0.2.0 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-30 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.7.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 4.1.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-beta7-rc2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 4.0.0rc1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 0.1.9 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-30 |
-| [apache/jena](https://github.com/apache/jena) | jena-2.12.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
