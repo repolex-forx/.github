@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 1.3.1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
+| [pypa/twine](https://github.com/pypa/twine) | 1.6.2 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
+| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.16 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v9.4.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.2.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 1.6.1 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 1.3.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [psf/requests](https://github.com/psf/requests) | v2.1.0 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 1.2.3 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [pypa/twine](https://github.com/pypa/twine) | 1.6.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
-| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 1.2.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-30 |
-| [trpc/trpc](https://github.com/trpc/trpc) | v9.3.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
-| [encode/httpx](https://github.com/encode/httpx) | 0.23.3 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-30 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 1.2.2 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
-| [pypa/twine](https://github.com/pypa/twine) | 1.5.0 | [view](https://github.com/repolex-forx/pypa--twine) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
