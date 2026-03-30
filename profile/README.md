@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.4 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.15.0rc1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.0.0rc1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.18.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [trpc/trpc](https://github.com/trpc/trpc) | v9.11.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v5.2.1 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.0.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.38 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
