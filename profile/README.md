@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.38 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.14.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 2.2.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v5.1.2 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [Textualize/rich](https://github.com/Textualize/rich) | v5.0.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.36 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.14.0rc1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
-| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.19 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
