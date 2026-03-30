@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python-trio/trio](https://github.com/python-trio/trio) | v0.23.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.40 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
+| [apache/jena](https://github.com/apache/jena) | jena-2.10.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.2.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 3.0.0rc2 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.4 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.22.2 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.15.0rc1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 3.0.0rc1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-30 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.18.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-30 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.39 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
-| [apache/jena](https://github.com/apache/jena) | jena-2.10.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
-| [python/typing_extensions](https://github.com/python/typing_extensions) | 4.15.0 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
-| [trpc/trpc](https://github.com/trpc/trpc) | v9.11.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
