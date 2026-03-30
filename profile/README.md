@@ -35,15 +35,15 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.13.2 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
+| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.18 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-30 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.26.0 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-30 |
+| [Textualize/rich](https://github.com/Textualize/rich) | v4.1.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.34 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.11.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
 | [psf/requests](https://github.com/psf/requests) | v2.3.0 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-30 |
 | [apache/jena](https://github.com/apache/jena) | jena-2.10.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-30 |
 | [python/typing_extensions](https://github.com/python/typing_extensions) | 4.13.1 | [view](https://github.com/repolex-forx/python--typing_extensions) | 2026-03-30 |
 | [encode/httpx](https://github.com/encode/httpx) | 0.25.2 | [view](https://github.com/repolex-forx/encode--httpx) | 2026-03-30 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v0.11.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-30 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.33 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-30 |
-| [Textualize/rich](https://github.com/Textualize/rich) | v4.0.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-30 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
