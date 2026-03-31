@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [expressjs/express](https://github.com/expressjs/express) | 4.3.2 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-31 |
+| [apache/jena](https://github.com/apache/jena) | jena-2.12.1-rc1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.2.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 0.3.0 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v9.20.3 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.8.5 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [carpedm20/emoji](https://github.com/carpedm20/emoji) | 1.0.0 | [view](https://github.com/repolex-forx/carpedm20--emoji) | 2026-03-31 |
 | [tartley/colorama](https://github.com/tartley/colorama) | 0.3.7 | [view](https://github.com/repolex-forx/tartley--colorama) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.13.1 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
-| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.3.4 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
-| [junit-team/junit4](https://github.com/junit-team/junit4) | r4.8.1 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-31 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.2.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
