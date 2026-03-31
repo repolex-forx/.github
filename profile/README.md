@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.5.8 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-31 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_3_0 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-31 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.29.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 0.2.3 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v4.2.1 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.12.3 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.5.7_FINAL | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-31 |
-| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0-beta9 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
