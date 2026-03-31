@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.3 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
+| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.8.0 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.6.2 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 4.9.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-31 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v10.3.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.7.2 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.11 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 4.8.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-31 |
-| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.1-rc3 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-31 |
-| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.7.1 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
