@@ -36,14 +36,14 @@ lexq download repolex-ai/lexq
 |--------|-----|------|--------|
 | [pallets/itsdangerous](https://github.com/pallets/itsdangerous) | 0.10 | [view](https://github.com/repolex-forx/pallets--itsdangerous) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.9.1 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
+| [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.2.2rc1 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.11.0 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-03-31 |
+| [Textualize/rich](https://github.com/Textualize/rich) | v10.5.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.4 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.6.0 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-31 |
 | [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.1.7 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.9.0 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/2.10.0 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-31 |
-| [pallets/werkzeug](https://github.com/pallets/werkzeug) | 0.11.1 | [view](https://github.com/repolex-forx/pallets--werkzeug) | 2026-03-31 |
-| [Textualize/rich](https://github.com/Textualize/rich) | v10.4.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
