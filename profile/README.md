@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [Textualize/rich](https://github.com/Textualize/rich) | v9.8.2 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.0.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [psf/requests](https://github.com/psf/requests) | v2.17.3 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.4.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.4.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [expressjs/express](https://github.com/expressjs/express) | 4.15.5 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v1.3.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.3.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
