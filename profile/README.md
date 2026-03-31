@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.8.12 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | v4.3.6 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.12.4 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.7 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-31 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.5.8 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-31 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 0.2.3 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.3.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.10.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.8.11 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [colinhacks/zod](https://github.com/colinhacks/zod) | v4.2.1 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
