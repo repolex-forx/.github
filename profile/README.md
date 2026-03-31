@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [Textualize/rich](https://github.com/Textualize/rich) | v10.4.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
+| [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.2.2 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.3 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.8.0 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.6.2 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.7.2 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.6.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.11 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 4.8.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
