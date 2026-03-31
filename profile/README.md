@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.4.3 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.5.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.4.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [apache/jena](https://github.com/apache/jena) | jena-2.7.1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.2.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.2.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.16.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [rtfd/commonmark.py](https://github.com/rtfd/commonmark.py) | 0.9.0 | [view](https://github.com/repolex-forx/rtfd--commonmark.py) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
