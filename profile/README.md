@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.0.0rc1 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v9.23.6 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-31 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.33.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
 | [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
 | [carpedm20/emoji](https://github.com/carpedm20/emoji) | v1.5.1 | [view](https://github.com/repolex-forx/carpedm20--emoji) | 2026-03-31 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.7.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.4.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.4.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-31 |
-| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.30 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
-| [psf/requests](https://github.com/psf/requests) | v2.15.1 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
