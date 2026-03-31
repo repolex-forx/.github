@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.7.2 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.6.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.11 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.10 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.7.0 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
