@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.12.4 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | v0.1.7 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-python) | 2026-03-31 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.5.8 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-31 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_3_0 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-31 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.29.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.10.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.8.11 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v4.2.1 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-31 |
-| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.12.3 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
-| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | SLF4J_1.5.7_FINAL | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
