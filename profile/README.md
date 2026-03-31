@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pallets-eco/blinker](https://github.com/pallets-eco/blinker) | 1.5 | [view](https://github.com/repolex-forx/pallets-eco--blinker) | 2026-03-31 |
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v11.2.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v10.0.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_3_7 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-31 |
 | [apache/jena](https://github.com/apache/jena) | jena-2.7.1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v9.27.4 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.6.3 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v11.0.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [expressjs/express](https://github.com/expressjs/express) | 4.20.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-31 |
-| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_3_6 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
