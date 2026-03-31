@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.6.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
+| [trpc/trpc](https://github.com/trpc/trpc) | v9.26.2 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.9.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.6.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [expressjs/express](https://github.com/expressjs/express) | 4.19.2 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-31 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [apache/jena](https://github.com/apache/jena) | jena-2.7.1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
 | [expressjs/express](https://github.com/expressjs/express) | 4.18.3 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.5.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.7.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.5.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
