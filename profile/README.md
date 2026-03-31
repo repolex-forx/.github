@@ -35,6 +35,7 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.5.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.9.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v1.1.7 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [rtfd/commonmark.py](https://github.com/rtfd/commonmark.py) | 0.6.2 | [view](https://github.com/repolex-forx/rtfd--commonmark.py) | 2026-03-31 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.1.0b3 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
 | [junit-team/junit4](https://github.com/junit-team/junit4) | r4.9b1 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.9.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
-| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.6 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
