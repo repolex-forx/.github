@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
+| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.1-rc2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-31 |
 | [apache/jena](https://github.com/apache/jena) | jena-2.7.1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.6.0 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.3.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.5.8 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.5.7 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [pallets-eco/blinker](https://github.com/pallets-eco/blinker) | 1.9.0 | [view](https://github.com/repolex-forx/pallets-eco--blinker) | 2026-03-31 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.2.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [pallets-eco/blinker](https://github.com/pallets-eco/blinker) | 1.8.2 | [view](https://github.com/repolex-forx/pallets-eco--blinker) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
