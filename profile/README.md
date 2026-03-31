@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.0.2-site-update | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-31 |
+| [Textualize/rich](https://github.com/Textualize/rich) | v9.13.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.0 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.12.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [pallets/werkzeug](https://github.com/pallets/werkzeug) | 0.10 | [view](https://github.com/repolex-forx/pallets--werkzeug) | 2026-03-31 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.11.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [pallets/werkzeug](https://github.com/pallets/werkzeug) | 0.1 | [view](https://github.com/repolex-forx/pallets--werkzeug) | 2026-03-31 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.8 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
-| [Textualize/rich](https://github.com/Textualize/rich) | v9.11.1 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
-| [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.9.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
