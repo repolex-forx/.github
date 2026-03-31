@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pallets/werkzeug](https://github.com/pallets/werkzeug) | 0.10.1 | [view](https://github.com/repolex-forx/pallets--werkzeug) | 2026-03-31 |
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.5.2 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.13.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.0rc1 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-03-31 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.0 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.0 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.12.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [pallets/werkzeug](https://github.com/pallets/werkzeug) | 0.10 | [view](https://github.com/repolex-forx/pallets--werkzeug) | 2026-03-31 |
-| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.9 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
-| [junit-team/junit4](https://github.com/junit-team/junit4) | r4.9b4 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
