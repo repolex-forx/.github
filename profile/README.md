@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [expressjs/express](https://github.com/expressjs/express) | 4.0.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.8.12 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [colinhacks/zod](https://github.com/colinhacks/zod) | v4.3.6 | [view](https://github.com/repolex-forx/colinhacks--zod) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.12.4 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.29.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 0.2.3 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.3.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.10.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
