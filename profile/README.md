@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.4.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-31 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.30 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
 | [psf/requests](https://github.com/psf/requests) | v2.15.1 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v1.1.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.0.0 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.32.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
-| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/3.0.0-beta2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
