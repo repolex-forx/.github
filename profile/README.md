@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [junit-team/junit4](https://github.com/junit-team/junit4) | r4.8b3 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-31 |
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.7.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.4.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v1.1.3 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.5.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-31 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.4 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [rtfd/commonmark.py](https://github.com/rtfd/commonmark.py) | 0.5.5 | [view](https://github.com/repolex-forx/rtfd--commonmark.py) | 2026-03-31 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v9.6.2 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.0.0rc1 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
-| [trpc/trpc](https://github.com/trpc/trpc) | v9.23.6 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-31 |
-| [python-trio/trio](https://github.com/python-trio/trio) | v0.33.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
-| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
