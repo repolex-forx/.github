@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.6.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
+| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.11 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 4.8.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-31 |
+| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.1-rc3 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.7.1 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.10 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.7.0 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.4.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | log4j-2.1-rc2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-03-31 |
-| [apache/jena](https://github.com/apache/jena) | jena-2.7.1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
-| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.6.0 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.3.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.5.9 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
