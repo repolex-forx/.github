@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [Textualize/rich](https://github.com/Textualize/rich) | v9.5.1 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
+| [tartley/colorama](https://github.com/tartley/colorama) | v0.3.4 | [view](https://github.com/repolex-forx/tartley--colorama) | 2026-03-31 |
+| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_3_2 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-31 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.0.0 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.32.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_2.1.0-alpha1 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [carpedm20/emoji](https://github.com/carpedm20/emoji) | v1.5.0 | [view](https://github.com/repolex-forx/carpedm20--emoji) | 2026-03-31 |
-| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.4.5 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.6.4 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
-| [expressjs/express](https://github.com/expressjs/express) | 4.12.4 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
