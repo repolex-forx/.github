@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [Textualize/rich](https://github.com/Textualize/rich) | v9.3.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.3.3 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.30.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.24.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.28 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
 | [expressjs/express](https://github.com/expressjs/express) | 4.1.2 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.8.3 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [tartley/colorama](https://github.com/tartley/colorama) | 0.3.5 | [view](https://github.com/repolex-forx/tartley--colorama) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
