@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python-trio/trio](https://github.com/python-trio/trio) | v0.9.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.1.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [rtfd/commonmark.py](https://github.com/rtfd/commonmark.py) | 0.6.4 | [view](https://github.com/repolex-forx/rtfd--commonmark.py) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v1.1.9 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.8.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v1.5.9-RC0 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-31 |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | 4.6.2.post1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-31 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v1.1.8 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
