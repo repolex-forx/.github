@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [junit-team/junit4](https://github.com/junit-team/junit4) | r4.9b4 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.11.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [pallets/werkzeug](https://github.com/pallets/werkzeug) | 0.1 | [view](https://github.com/repolex-forx/pallets--werkzeug) | 2026-03-31 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.8 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [carpedm20/emoji](https://github.com/carpedm20/emoji) | v1.6.2 | [view](https://github.com/repolex-forx/carpedm20--emoji) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.5.11 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v9.10.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
-| [psf/requests](https://github.com/psf/requests) | v2.19.1 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
