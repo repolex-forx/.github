@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 4.11.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-31 |
 | [carpedm20/emoji](https://github.com/carpedm20/emoji) | 1.0.0 | [view](https://github.com/repolex-forx/carpedm20--emoji) | 2026-03-31 |
 | [tartley/colorama](https://github.com/tartley/colorama) | 0.3.7 | [view](https://github.com/repolex-forx/tartley--colorama) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.13.1 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.3.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-31 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 0.2.5b2 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.29 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.8.4 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
