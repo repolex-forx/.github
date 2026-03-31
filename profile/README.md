@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pallets/jinja](https://github.com/pallets/jinja) | 2.10.3 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.16.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.10.2 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-03-31 |
 | [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.1.5 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.2.0rc4 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v1.7.7 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.15.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.1.4 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
