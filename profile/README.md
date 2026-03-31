@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 0.4.0 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.3.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.8.7 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
+| [agronholm/anyio](https://github.com/agronholm/anyio) | 4.12.1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-31 |
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.13.3 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [apache/jena](https://github.com/apache/jena) | jena-2.12.1-rc1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-03-31 |
 | [carpedm20/emoji](https://github.com/carpedm20/emoji) | v.1.1.0 | [view](https://github.com/repolex-forx/carpedm20--emoji) | 2026-03-31 |
 | [tartley/colorama](https://github.com/tartley/colorama) | 0.3.9 | [view](https://github.com/repolex-forx/tartley--colorama) | 2026-03-31 |
 | [expressjs/express](https://github.com/expressjs/express) | 4.4.5 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.2.2 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
-| [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 0.3.1 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v0.8.6 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 4.12.0 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-31 |
-| [trpc/trpc](https://github.com/trpc/trpc) | v9.21.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
