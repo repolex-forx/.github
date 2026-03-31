@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.10.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
+| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.5.11 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [psf/requests](https://github.com/psf/requests) | v2.19.1 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-31 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.8.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-31 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v9.9.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.5.10 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
 | [psf/requests](https://github.com/psf/requests) | v2.18.4 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-31 |
 | [anthropics/anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) | v1.7.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-ruby) | 2026-03-31 |
-| [Textualize/rich](https://github.com/Textualize/rich) | v9.8.2 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.0.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
