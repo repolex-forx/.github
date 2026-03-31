@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [carpedm20/emoji](https://github.com/carpedm20/emoji) | v1.5.0 | [view](https://github.com/repolex-forx/carpedm20--emoji) | 2026-03-31 |
+| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.4.5 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.6.4 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [expressjs/express](https://github.com/expressjs/express) | 4.12.4 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-31 |
 | [psf/requests](https://github.com/psf/requests) | v2.14.2 | [view](https://github.com/repolex-forx/psf--requests) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v1.1.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 0.5.2 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_3_11 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-03-31 |
 | [carpedm20/emoji](https://github.com/carpedm20/emoji) | v0.3.4 | [view](https://github.com/repolex-forx/carpedm20--emoji) | 2026-03-31 |
-| [sdispater/tomlkit](https://github.com/sdispater/tomlkit) | 0.4.4 | [view](https://github.com/repolex-forx/sdispater--tomlkit) | 2026-03-31 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v2.6.3 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
-| [expressjs/express](https://github.com/expressjs/express) | 4.11.2 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
