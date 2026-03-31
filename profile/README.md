@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v10.15.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.1.1 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-03-31 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.2.0rc2 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v10.1.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.2.0rc1 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
 | [pallets/werkzeug](https://github.com/pallets/werkzeug) | 0.10.1 | [view](https://github.com/repolex-forx/pallets--werkzeug) | 2026-03-31 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v10.0.1 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-03-31 |
-| [agronholm/anyio](https://github.com/agronholm/anyio) | 4.6.2.post1 | [view](https://github.com/repolex-forx/agronholm--anyio) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
