@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.4.2 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-03-31 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_2.1.0-alpha1 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [python-trio/trio](https://github.com/python-trio/trio) | v0.5.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.2.5 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-03-31 |
 | [rtfd/commonmark.py](https://github.com/rtfd/commonmark.py) | 0.6.0 | [view](https://github.com/repolex-forx/rtfd--commonmark.py) | 2026-03-31 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.1.0 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-03-31 |
-| [python-trio/trio](https://github.com/python-trio/trio) | v0.4.0 | [view](https://github.com/repolex-forx/python-trio--trio) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
