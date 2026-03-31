@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pallets-eco/blinker](https://github.com/pallets-eco/blinker) | 1.6 | [view](https://github.com/repolex-forx/pallets-eco--blinker) | 2026-03-31 |
 | [pallets-eco/blinker](https://github.com/pallets-eco/blinker) | 1.5 | [view](https://github.com/repolex-forx/pallets-eco--blinker) | 2026-03-31 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v11.2.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v10.0.0 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-31 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v11.1.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-03-31 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.0 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v9.27.4 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-03-31 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.6.3 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-03-31 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
