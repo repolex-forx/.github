@@ -34,7 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.2.4 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 2.0.0rc1 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-04-01 |
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.7.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [django/django](https://github.com/django/django) | 1.0.2 | [view](https://github.com/repolex-forx/django--django) | 2026-04-01 |
 | [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.2.3 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.7.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.2.14 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
 | [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.2.13 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.6.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.2.12 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
-| [apache/jena](https://github.com/apache/jena) | jena-3.0.0-rc1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
