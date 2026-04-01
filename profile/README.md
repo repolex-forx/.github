@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [twitter-archive/diffy](https://github.com/twitter-archive/diffy) | v1.0.0 | [view](https://github.com/repolex-forx/twitter-archive--diffy) | 2026-04-01 |
+| [pallets/jinja](https://github.com/pallets/jinja) | 2.3.1 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
+| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
+| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/3.0.0-beta2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-04-01 |
 | [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.9.3 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.9.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.9.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [django/django](https://github.com/django/django) | 1.0.4 | [view](https://github.com/repolex-forx/django--django) | 2026-04-01 |
 | [apache/jena](https://github.com/apache/jena) | jena-3.0.0-rc1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.9.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [django/django](https://github.com/django/django) | 1.0.3 | [view](https://github.com/repolex-forx/django--django) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.8.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 2.0.0rc4 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
