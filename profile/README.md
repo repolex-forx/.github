@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.3.4 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [psf/requests](https://github.com/psf/requests) | v2.25.1 | [view](https://github.com/repolex-forx/psf--requests) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.3.3 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [pallets-eco/blinker](https://github.com/pallets-eco/blinker) | rel-1.0 | [view](https://github.com/repolex-forx/pallets-eco--blinker) | 2026-04-01 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pallets/itsdangerous](https://github.com/pallets/itsdangerous) | 0.22 | [view](https://github.com/repolex-forx/pallets--itsdangerous) | 2026-04-01 |
 | [pallets/itsdangerous](https://github.com/pallets/itsdangerous) | 0.21 | [view](https://github.com/repolex-forx/pallets--itsdangerous) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.3.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [psf/requests](https://github.com/psf/requests) | v2.23.0 | [view](https://github.com/repolex-forx/psf--requests) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
