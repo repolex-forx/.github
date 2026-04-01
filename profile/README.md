@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.2.11 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.7.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-04-01 |
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.5.3 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.2.10 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.7.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-04-01 |
 | [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.1.9 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.5.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [pallets/werkzeug](https://github.com/pallets/werkzeug) | 0.11.11 | [view](https://github.com/repolex-forx/pallets--werkzeug) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.5.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.6.4 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.5.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.2 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
