@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_4_1 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-04-01 |
+| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.7.11 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-01 |
+| [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.14 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v14.2.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.13 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v14.1.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.12 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.5 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
 | [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.11 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v10.4.3 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-04-01 |
-| [tokio-rs/tokio-core](https://github.com/tokio-rs/tokio-core) | 0.1.0 | [view](https://github.com/repolex-forx/tokio-rs--tokio-core) | 2026-04-01 |
-| [pallets/jinja](https://github.com/pallets/jinja) | 2.4.1 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v14.0.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.10 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
