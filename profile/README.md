@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v3.0.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
+| [apache/jena](https://github.com/apache/jena) | jena-3.0.0-rc1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v3.0.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v2.3.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v2.3.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.7.3 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v2.2.6 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v2.2.5 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [apache/jena](https://github.com/apache/jena) | jena-3.0.0-rc1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
 | [pallets/werkzeug](https://github.com/pallets/werkzeug) | 0.11.14 | [view](https://github.com/repolex-forx/pallets--werkzeug) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v2.2.4 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v2.2.3 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
