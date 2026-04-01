@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.13 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v14.1.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.12 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.5 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.4.1 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v14.0.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.10 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
-| [expressjs/express](https://github.com/expressjs/express) | v5.2.1 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
