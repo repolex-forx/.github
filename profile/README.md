@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [psf/requests](https://github.com/psf/requests) | v2.27.1 | [view](https://github.com/repolex-forx/psf--requests) | 2026-04-01 |
 | [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_4_2 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v14.3.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [pallets-eco/blinker](https://github.com/pallets-eco/blinker) | rel-1.2 | [view](https://github.com/repolex-forx/pallets-eco--blinker) | 2026-04-01 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.15-py38-win | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.7.12 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-01 |
 | [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.15 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
-| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_4_1 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
