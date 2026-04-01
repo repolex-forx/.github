@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.15 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-04-01 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.14 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.4.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.13 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-04-01 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [apache/jena](https://github.com/apache/jena) | jena-2.7.4 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.3.4 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [psf/requests](https://github.com/psf/requests) | v2.25.1 | [view](https://github.com/repolex-forx/psf--requests) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.3.3 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
