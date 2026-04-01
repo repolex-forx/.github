@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | rel_0_3_9 | [view](https://github.com/repolex-forx/sqlalchemy--sqlalchemy) | 2026-04-01 |
+| [pallets/itsdangerous](https://github.com/pallets/itsdangerous) | 0.18 | [view](https://github.com/repolex-forx/pallets--itsdangerous) | 2026-04-01 |
+| [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.0 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
+| [apache/jena](https://github.com/apache/jena) | jena-2.7.3-RC1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
 | [expressjs/express](https://github.com/expressjs/express) | v4.22.1 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.1.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.6.6 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-01 |
 | [pallets/itsdangerous](https://github.com/pallets/itsdangerous) | 0.17 | [view](https://github.com/repolex-forx/pallets--itsdangerous) | 2026-04-01 |
 | [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.3.4 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.2.1 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.0.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [pallets/itsdangerous](https://github.com/pallets/itsdangerous) | 0.16 | [view](https://github.com/repolex-forx/pallets--itsdangerous) | 2026-04-01 |
-| [apache/jena](https://github.com/apache/jena) | jena-2.7.3 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
-| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.6.5 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
