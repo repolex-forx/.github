@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-04-01 |
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.9.3 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.9.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.9.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [django/django](https://github.com/django/django) | 1.0.4 | [view](https://github.com/repolex-forx/django--django) | 2026-04-01 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [django/django](https://github.com/django/django) | 1.0.3 | [view](https://github.com/repolex-forx/django--django) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.8.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 2.0.0rc4 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-04-01 |
-| [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 2.0.0rc3 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.8.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
