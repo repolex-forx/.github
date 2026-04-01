@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pallets/itsdangerous](https://github.com/pallets/itsdangerous) | 0.19 | [view](https://github.com/repolex-forx/pallets--itsdangerous) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.2.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [trpc/trpc](https://github.com/trpc/trpc) | v10.2.1 | [view](https://github.com/repolex-forx/trpc--trpc) | 2026-04-01 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.7.0 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-01 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [apache/jena](https://github.com/apache/jena) | jena-2.7.3-RC1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
 | [expressjs/express](https://github.com/expressjs/express) | v4.22.1 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.1.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.6.6 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
