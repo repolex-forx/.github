@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pallets/werkzeug](https://github.com/pallets/werkzeug) | 0.11.11 | [view](https://github.com/repolex-forx/pallets--werkzeug) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.5.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 2.6.4 | [view](https://github.com/repolex-forx/pytest-dev--pytest) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.5.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.15 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-04-01 |
 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.14 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.4.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | v0.3.13 | [view](https://github.com/repolex-forx/pixeltable--pixeltable) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
