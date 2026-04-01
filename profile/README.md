@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.6.3 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-01 |
+| [django/django](https://github.com/django/django) | 1.0 | [view](https://github.com/repolex-forx/django--django) | 2026-04-01 |
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.11.3 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
 | [Textualize/rich](https://github.com/Textualize/rich) | v10.8.0 | [view](https://github.com/repolex-forx/Textualize--rich) | 2026-04-01 |
 | [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.3.1 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
@@ -41,9 +43,7 @@ lexq download repolex-ai/lexq
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.5.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.6.2 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-01 |
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.11.2 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
-| [django/django](https://github.com/django/django) | 1.0 | [view](https://github.com/repolex-forx/django--django) | 2026-04-01 |
 | [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 1.3.0rc1 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-04-01 |
-| [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.3 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
