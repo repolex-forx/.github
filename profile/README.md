@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.3.3 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
+| [pallets/jinja](https://github.com/pallets/jinja) | 2.2 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
+| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/2.10.0 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-04-01 |
 | [pallets/itsdangerous](https://github.com/pallets/itsdangerous) | 0.15 | [view](https://github.com/repolex-forx/pallets--itsdangerous) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.0.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.6.4 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-01 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.11.x | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
 | [pallets/itsdangerous](https://github.com/pallets/itsdangerous) | 0.14 | [view](https://github.com/repolex-forx/pallets--itsdangerous) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v12.6.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/2.10.0 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-04-01 |
-| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.6.3 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-01 |
-| [django/django](https://github.com/django/django) | 1.0 | [view](https://github.com/repolex-forx/django--django) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
