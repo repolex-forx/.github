@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pallets-eco/blinker](https://github.com/pallets-eco/blinker) | rel-1.0 | [view](https://github.com/repolex-forx/pallets-eco--blinker) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.3.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [psf/requests](https://github.com/psf/requests) | v2.24.0 | [view](https://github.com/repolex-forx/psf--requests) | 2026-04-01 |
 | [pallets/itsdangerous](https://github.com/pallets/itsdangerous) | 0.23 | [view](https://github.com/repolex-forx/pallets--itsdangerous) | 2026-04-01 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [psf/requests](https://github.com/psf/requests) | v2.23.0 | [view](https://github.com/repolex-forx/psf--requests) | 2026-04-01 |
 | [apache/jena](https://github.com/apache/jena) | jena-2.7.3-RC2 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
 | [pallets/itsdangerous](https://github.com/pallets/itsdangerous) | 0.20 | [view](https://github.com/repolex-forx/pallets--itsdangerous) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.3.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
