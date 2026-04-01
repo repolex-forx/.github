@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [tokio-rs/tokio-core](https://github.com/tokio-rs/tokio-core) | 0.1.0 | [view](https://github.com/repolex-forx/tokio-rs--tokio-core) | 2026-04-01 |
+| [pallets/jinja](https://github.com/pallets/jinja) | 2.4.1 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
+| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v14.0.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
+| [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) | 0.4.10 | [view](https://github.com/repolex-forx/python-greenlet--greenlet) | 2026-04-01 |
 | [expressjs/express](https://github.com/expressjs/express) | v5.2.1 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-04-01 |
 | [django/django](https://github.com/django/django) | 1.1 | [view](https://github.com/repolex-forx/django--django) | 2026-04-01 |
 | [pallets/jinja](https://github.com/pallets/jinja) | 2.4 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
 | [expressjs/express](https://github.com/expressjs/express) | v5.1.0 | [view](https://github.com/repolex-forx/expressjs--express) | 2026-04-01 |
 | [willmcgugan/rich](https://github.com/willmcgugan/rich) | v13.9.4 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
 | [twitter-archive/diffy](https://github.com/twitter-archive/diffy) | v1.0.0 | [view](https://github.com/repolex-forx/twitter-archive--diffy) | 2026-04-01 |
-| [pallets/jinja](https://github.com/pallets/jinja) | 2.3.1 | [view](https://github.com/repolex-forx/pallets--jinja) | 2026-04-01 |
-| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
-| [apache/logging-log4j2](https://github.com/apache/logging-log4j2) | rel/3.0.0-beta2 | [view](https://github.com/repolex-forx/apache--logging-log4j2) | 2026-04-01 |
-| [Jelly-RDF/jelly-jvm](https://github.com/Jelly-RDF/jelly-jvm) | v3.7.1 | [view](https://github.com/repolex-forx/Jelly-RDF--jelly-jvm) | 2026-04-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
