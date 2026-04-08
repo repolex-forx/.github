@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v3.3.2 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.4.0 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v3.3.1 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.3.5 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
-| [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.3.4 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v3.3.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [jquast/wcwidth](https://github.com/jquast/wcwidth) | 0.3.3 | [view](https://github.com/repolex-forx/jquast--wcwidth) | 2026-04-01 |
-| [willmcgugan/rich](https://github.com/willmcgugan/rich) | v3.2.0 | [view](https://github.com/repolex-forx/willmcgugan--rich) | 2026-04-01 |
-| [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) | 3.0.0rc2 | [view](https://github.com/repolex-forx/readthedocs--sphinx_rtd_theme) | 2026-04-01 |
-| [apache/jena](https://github.com/apache/jena) | jena-3.0.0-rc1 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-01 |
+| [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13.2 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-04-08 |
+| [hukkin/tomli](https://github.com/hukkin/tomli) | 2.4.0 | [view](https://github.com/repolex-forx/hukkin--tomli) | 2026-04-08 |
+| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-07 |
+| [asimov-platform/llama-index-asimov](https://github.com/asimov-platform/llama-index-asimov) | 0.0.2 | [view](https://github.com/repolex-forx/asimov-platform--llama-index-asimov) | 2026-04-03 |
+| [asimov-platform/asimov-packaging](https://github.com/asimov-platform/asimov-packaging) | v25.0.0-dev.3 | [view](https://github.com/repolex-forx/asimov-platform--asimov-packaging) | 2026-04-03 |
+| [asimov-platform/asimov-packaging](https://github.com/asimov-platform/asimov-packaging) | auto | [view](https://github.com/repolex-forx/asimov-platform--asimov-packaging) | 2026-04-03 |
+| [asimov-platform/langchain-asimov](https://github.com/asimov-platform/langchain-asimov) | 0.0.2 | [view](https://github.com/repolex-forx/asimov-platform--langchain-asimov) | 2026-04-03 |
+| [asimov-platform/asimov.rs](https://github.com/asimov-platform/asimov.rs) | 24.0.0-dev.6 | [view](https://github.com/repolex-forx/asimov-platform--asimov.rs) | 2026-04-03 |
+| [asimov-platform/asimov-dataset-cli](https://github.com/asimov-platform/asimov-dataset-cli) | 25.0.0-dev.4 | [view](https://github.com/repolex-forx/asimov-platform--asimov-dataset-cli) | 2026-04-03 |
+| [asimov-platform/asimov-cli](https://github.com/asimov-platform/asimov-cli) | 25.0.0-dev.13 | [view](https://github.com/repolex-forx/asimov-platform--asimov-cli) | 2026-04-03 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
