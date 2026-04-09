@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pyasn1/pyasn1](https://github.com/pyasn1/pyasn1) | v0.6.3 | [view](https://github.com/repolex-forx/pyasn1--pyasn1) | 2026-04-09 |
+| [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) | 1.0.0 | [view](https://github.com/repolex-forx/sphinx-doc--alabaster) | 2026-04-09 |
 | [pyinvoke/invoke](https://github.com/pyinvoke/invoke) | just-rebased-414 | [view](https://github.com/repolex-forx/pyinvoke--invoke) | 2026-04-09 |
 | [pyca/cryptography](https://github.com/pyca/cryptography) | 46.0.7 | [view](https://github.com/repolex-forx/pyca--cryptography) | 2026-04-09 |
 | [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov) | v7.1.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest-cov) | 2026-04-09 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [boto/boto3](https://github.com/boto/boto3) | 1.42.86 | [view](https://github.com/repolex-forx/boto--boto3) | 2026-04-09 |
 | [pallets/pallets-sphinx-themes](https://github.com/pallets/pallets-sphinx-themes) | 2.4.0 | [view](https://github.com/repolex-forx/pallets--pallets-sphinx-themes) | 2026-04-09 |
 | [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) | v1.2.2 | [view](https://github.com/repolex-forx/theskumar--python-dotenv) | 2026-04-09 |
-| [django/asgiref](https://github.com/django/asgiref) | 3.11.1 | [view](https://github.com/repolex-forx/django--asgiref) | 2026-04-09 |
-| [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | v3.1.0.dev0 | [view](https://github.com/repolex-forx/pandas-dev--pandas) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
