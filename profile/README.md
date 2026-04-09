@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pedroburon/dotenv](https://github.com/pedroburon/dotenv) | 0.0.5 | [view](https://github.com/repolex-forx/pedroburon--dotenv) | 2026-04-09 |
 | [pallets/pallets-sphinx-themes](https://github.com/pallets/pallets-sphinx-themes) | 2.4.0 | [view](https://github.com/repolex-forx/pallets--pallets-sphinx-themes) | 2026-04-09 |
 | [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) | v1.2.2 | [view](https://github.com/repolex-forx/theskumar--python-dotenv) | 2026-04-09 |
 | [django/asgiref](https://github.com/django/asgiref) | 3.11.1 | [view](https://github.com/repolex-forx/django--asgiref) | 2026-04-09 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [nedbat/coveragepy](https://github.com/nedbat/coveragepy) | coverage-5.6b1 | [view](https://github.com/repolex-forx/nedbat--coveragepy) | 2026-04-09 |
 | [rbarrois/uconf](https://github.com/rbarrois/uconf) | v0.4.0 | [view](https://github.com/repolex-forx/rbarrois--uconf) | 2026-04-09 |
 | [boto/botocore](https://github.com/boto/botocore) | 1.9.9 | [view](https://github.com/repolex-forx/boto--botocore) | 2026-04-09 |
-| [python-thread/thread](https://github.com/python-thread/thread) | v2.0.6 | [view](https://github.com/repolex-forx/python-thread--thread) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
