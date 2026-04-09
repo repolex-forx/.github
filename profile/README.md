@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pyca/cryptography](https://github.com/pyca/cryptography) | 46.0.7 | [view](https://github.com/repolex-forx/pyca--cryptography) | 2026-04-09 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.3.10 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-09 |
+| [typicode/husky](https://github.com/typicode/husky) | v9.1.7 | [view](https://github.com/repolex-forx/typicode--husky) | 2026-04-09 |
+| [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) | v4.4.0 | [view](https://github.com/repolex-forx/sweepline--eslint-plugin-unused-imports) | 2026-04-09 |
+| [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | v8.58.1 | [view](https://github.com/repolex-forx/typescript-eslint--typescript-eslint) | 2026-04-09 |
 | [boto/boto3](https://github.com/boto/boto3) | 1.42.86 | [view](https://github.com/repolex-forx/boto--boto3) | 2026-04-09 |
 | [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) | v13.0.0 | [view](https://github.com/repolex-forx/lydell--eslint-plugin-simple-import-sort) | 2026-04-09 |
 | [rollup/plugins](https://github.com/rollup/plugins) | yaml-v4.1.2 | [view](https://github.com/repolex-forx/rollup--plugins) | 2026-04-09 |
-| [pyca/cryptography](https://github.com/pyca/cryptography) | 46.0.7 | [view](https://github.com/repolex-forx/pyca--cryptography) | 2026-04-09 |
 | [remithomas/eslint-plugin-ban](https://github.com/remithomas/eslint-plugin-ban) | v2.0.0 | [view](https://github.com/repolex-forx/remithomas--eslint-plugin-ban) | 2026-04-09 |
 | [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) | v9.1.0 | [view](https://github.com/repolex-forx/sphinx-doc--sphinx) | 2026-04-09 |
-| [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | v8.58.1 | [view](https://github.com/repolex-forx/typescript-eslint--typescript-eslint) | 2026-04-09 |
-| [bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) | 2.1.3 | [view](https://github.com/repolex-forx/bestiejs--benchmark.js) | 2026-04-09 |
-| [boto/botocore](https://github.com/boto/botocore) | 1.42.86 | [view](https://github.com/repolex-forx/boto--botocore) | 2026-04-09 |
-| [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | v3.1.0.dev0 | [view](https://github.com/repolex-forx/pandas-dev--pandas) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
