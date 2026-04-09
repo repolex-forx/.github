@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [svetlyak40wt/python-repr](https://github.com/svetlyak40wt/python-repr) | v0.3.0 | [view](https://github.com/repolex-forx/svetlyak40wt--python-repr) | 2026-04-09 |
 | [xiaojieluo/vlde](https://github.com/xiaojieluo/vlde) | v0.3.1 | [view](https://github.com/repolex-forx/xiaojieluo--vlde) | 2026-04-09 |
 | [ipython/ipython](https://github.com/ipython/ipython) | rel-4.1.2 | [view](https://github.com/repolex-forx/ipython--ipython) | 2026-04-09 |
 | [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) | v17.0.0 | [view](https://github.com/repolex-forx/PyAV-Org--PyAV) | 2026-04-09 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [docker/docker-py](https://github.com/docker/docker-py) | rtd-test | [view](https://github.com/repolex-forx/docker--docker-py) | 2026-04-09 |
 | [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) | v0.1.58 | [view](https://github.com/repolex-forx/anthropics--claude-code-sdk-python) | 2026-04-09 |
 | [hmrc/service-manager](https://github.com/hmrc/service-manager) | 1.4.0 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-09 |
-| [tqdm/tqdm](https://github.com/tqdm/tqdm) | v4.67.3 | [view](https://github.com/repolex-forx/tqdm--tqdm) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
