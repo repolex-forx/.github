@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [boto/botocore](https://github.com/boto/botocore) | 1.42.86 | [view](https://github.com/repolex-forx/boto--botocore) | 2026-04-09 |
+| [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | v3.1.0.dev0 | [view](https://github.com/repolex-forx/pandas-dev--pandas) | 2026-04-09 |
+| [chardet/chardet](https://github.com/chardet/chardet) | charade-1.0.3 | [view](https://github.com/repolex-forx/chardet--chardet) | 2026-04-09 |
+| [urllib3/urllib3](https://github.com/urllib3/urllib3) | 2.6.3 | [view](https://github.com/repolex-forx/urllib3--urllib3) | 2026-04-09 |
+| [pyca/cryptography](https://github.com/pyca/cryptography) | 46.0.7 | [view](https://github.com/repolex-forx/pyca--cryptography) | 2026-04-09 |
 | [Anorov/PySocks](https://github.com/Anorov/PySocks) | 1.6.8 | [view](https://github.com/repolex-forx/Anorov--PySocks) | 2026-04-09 |
 | [snowballstem/snowball](https://github.com/snowballstem/snowball) | v3.0.1 | [view](https://github.com/repolex-forx/snowballstem--snowball) | 2026-04-09 |
 | [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) | v9.1.0 | [view](https://github.com/repolex-forx/sphinx-doc--sphinx) | 2026-04-09 |
 | [boto/boto3](https://github.com/boto/boto3) | 1.42.86 | [view](https://github.com/repolex-forx/boto--boto3) | 2026-04-09 |
-| [pyca/cryptography](https://github.com/pyca/cryptography) | 46.0.7 | [view](https://github.com/repolex-forx/pyca--cryptography) | 2026-04-09 |
 | [pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock) | v3.15.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest-mock) | 2026-04-09 |
-| [kevin1024/pytest-httpbin](https://github.com/kevin1024/pytest-httpbin) | v2.1.0 | [view](https://github.com/repolex-forx/kevin1024--pytest-httpbin) | 2026-04-09 |
-| [requests/httpbin](https://github.com/requests/httpbin) | v0.7.0 | [view](https://github.com/repolex-forx/requests--httpbin) | 2026-04-09 |
-| [pyasn1/pyasn1](https://github.com/pyasn1/pyasn1) | v0.6.3 | [view](https://github.com/repolex-forx/pyasn1--pyasn1) | 2026-04-09 |
-| [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) | 1.0.0 | [view](https://github.com/repolex-forx/sphinx-doc--alabaster) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
