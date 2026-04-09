@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pyinvoke/invoke](https://github.com/pyinvoke/invoke) | just-rebased-414 | [view](https://github.com/repolex-forx/pyinvoke--invoke) | 2026-04-09 |
+| [pyca/cryptography](https://github.com/pyca/cryptography) | 46.0.7 | [view](https://github.com/repolex-forx/pyca--cryptography) | 2026-04-09 |
 | [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov) | v7.1.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest-cov) | 2026-04-09 |
 | [pypa/packaging](https://github.com/pypa/packaging) | 26.0 | [view](https://github.com/repolex-forx/pypa--packaging) | 2026-04-09 |
 | [pedroburon/dotenv](https://github.com/pedroburon/dotenv) | 0.0.5 | [view](https://github.com/repolex-forx/pedroburon--dotenv) | 2026-04-09 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) | v1.2.2 | [view](https://github.com/repolex-forx/theskumar--python-dotenv) | 2026-04-09 |
 | [django/asgiref](https://github.com/django/asgiref) | 3.11.1 | [view](https://github.com/repolex-forx/django--asgiref) | 2026-04-09 |
 | [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | v3.1.0.dev0 | [view](https://github.com/repolex-forx/pandas-dev--pandas) | 2026-04-09 |
-| [python/importlib_metadata](https://github.com/python/importlib_metadata) | v8.9.0 | [view](https://github.com/repolex-forx/python--importlib_metadata) | 2026-04-09 |
-| [pallets/markupsafe](https://github.com/pallets/markupsafe) | 3.0.3 | [view](https://github.com/repolex-forx/pallets--markupsafe) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
