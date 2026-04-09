@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) | v3.1.2 | [view](https://github.com/repolex-forx/cloudpipe--cloudpickle) | 2026-04-09 |
+| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-09 |
+| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.7.14 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-08 |
 | [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13.2 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-04-08 |
 | [hukkin/tomli](https://github.com/hukkin/tomli) | 2.4.0 | [view](https://github.com/repolex-forx/hukkin--tomli) | 2026-04-08 |
-| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-07 |
 | [asimov-platform/llama-index-asimov](https://github.com/asimov-platform/llama-index-asimov) | 0.0.2 | [view](https://github.com/repolex-forx/asimov-platform--llama-index-asimov) | 2026-04-03 |
 | [asimov-platform/asimov-packaging](https://github.com/asimov-platform/asimov-packaging) | v25.0.0-dev.3 | [view](https://github.com/repolex-forx/asimov-platform--asimov-packaging) | 2026-04-03 |
 | [asimov-platform/asimov-packaging](https://github.com/asimov-platform/asimov-packaging) | auto | [view](https://github.com/repolex-forx/asimov-platform--asimov-packaging) | 2026-04-03 |
 | [asimov-platform/langchain-asimov](https://github.com/asimov-platform/langchain-asimov) | 0.0.2 | [view](https://github.com/repolex-forx/asimov-platform--langchain-asimov) | 2026-04-03 |
 | [asimov-platform/asimov.rs](https://github.com/asimov-platform/asimov.rs) | 24.0.0-dev.6 | [view](https://github.com/repolex-forx/asimov-platform--asimov.rs) | 2026-04-03 |
-| [asimov-platform/asimov-dataset-cli](https://github.com/asimov-platform/asimov-dataset-cli) | 25.0.0-dev.4 | [view](https://github.com/repolex-forx/asimov-platform--asimov-dataset-cli) | 2026-04-03 |
-| [asimov-platform/asimov-cli](https://github.com/asimov-platform/asimov-cli) | 25.0.0-dev.13 | [view](https://github.com/repolex-forx/asimov-platform--asimov-cli) | 2026-04-03 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
