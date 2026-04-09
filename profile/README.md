@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) | futures-cpupool-0.1.8 | [view](https://github.com/repolex-forx/rust-lang--futures-rs) | 2026-04-09 |
 | [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) | v3.1.2 | [view](https://github.com/repolex-forx/cloudpipe--cloudpickle) | 2026-04-09 |
 | [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-09 |
 | [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.7.14 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-08 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [asimov-platform/asimov-packaging](https://github.com/asimov-platform/asimov-packaging) | v25.0.0-dev.3 | [view](https://github.com/repolex-forx/asimov-platform--asimov-packaging) | 2026-04-03 |
 | [asimov-platform/asimov-packaging](https://github.com/asimov-platform/asimov-packaging) | auto | [view](https://github.com/repolex-forx/asimov-platform--asimov-packaging) | 2026-04-03 |
 | [asimov-platform/langchain-asimov](https://github.com/asimov-platform/langchain-asimov) | 0.0.2 | [view](https://github.com/repolex-forx/asimov-platform--langchain-asimov) | 2026-04-03 |
-| [asimov-platform/asimov.rs](https://github.com/asimov-platform/asimov.rs) | 24.0.0-dev.6 | [view](https://github.com/repolex-forx/asimov-platform--asimov.rs) | 2026-04-03 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
