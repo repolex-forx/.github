@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [xiaojieluo/vlde](https://github.com/xiaojieluo/vlde) | v0.3.1 | [view](https://github.com/repolex-forx/xiaojieluo--vlde) | 2026-04-09 |
+| [ipython/ipython](https://github.com/ipython/ipython) | rel-4.1.2 | [view](https://github.com/repolex-forx/ipython--ipython) | 2026-04-09 |
 | [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) | v17.0.0 | [view](https://github.com/repolex-forx/PyAV-Org--PyAV) | 2026-04-09 |
 | [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) | 0.42.1 | [view](https://github.com/repolex-forx/kvesteri--sqlalchemy-utils) | 2026-04-09 |
 | [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) | v1.13.0 | [view](https://github.com/repolex-forx/HypothesisWorks--hypothesis) | 2026-04-09 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) | v0.1.58 | [view](https://github.com/repolex-forx/anthropics--claude-code-sdk-python) | 2026-04-09 |
 | [hmrc/service-manager](https://github.com/hmrc/service-manager) | 1.4.0 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-09 |
 | [tqdm/tqdm](https://github.com/tqdm/tqdm) | v4.67.3 | [view](https://github.com/repolex-forx/tqdm--tqdm) | 2026-04-09 |
-| [pytorch/vision](https://github.com/pytorch/vision) | v0.26.0-rc6 | [view](https://github.com/repolex-forx/pytorch--vision) | 2026-04-09 |
-| [dabeaz/curio](https://github.com/dabeaz/curio) | v0.2 | [view](https://github.com/repolex-forx/dabeaz--curio) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
