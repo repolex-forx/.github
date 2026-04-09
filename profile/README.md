@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) | v9.1.0 | [view](https://github.com/repolex-forx/sphinx-doc--sphinx) | 2026-04-09 |
+| [boto/boto3](https://github.com/boto/boto3) | 1.42.86 | [view](https://github.com/repolex-forx/boto--boto3) | 2026-04-09 |
 | [pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock) | v3.15.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest-mock) | 2026-04-09 |
 | [kevin1024/pytest-httpbin](https://github.com/kevin1024/pytest-httpbin) | v2.1.0 | [view](https://github.com/repolex-forx/kevin1024--pytest-httpbin) | 2026-04-09 |
 | [requests/httpbin](https://github.com/requests/httpbin) | v0.7.0 | [view](https://github.com/repolex-forx/requests--httpbin) | 2026-04-09 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [pyinvoke/invoke](https://github.com/pyinvoke/invoke) | just-rebased-414 | [view](https://github.com/repolex-forx/pyinvoke--invoke) | 2026-04-09 |
 | [pyca/cryptography](https://github.com/pyca/cryptography) | 46.0.7 | [view](https://github.com/repolex-forx/pyca--cryptography) | 2026-04-09 |
 | [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov) | v7.1.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest-cov) | 2026-04-09 |
-| [pypa/packaging](https://github.com/pypa/packaging) | 26.0 | [view](https://github.com/repolex-forx/pypa--packaging) | 2026-04-09 |
-| [pedroburon/dotenv](https://github.com/pedroburon/dotenv) | 0.0.5 | [view](https://github.com/repolex-forx/pedroburon--dotenv) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
