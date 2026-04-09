@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock) | v3.15.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest-mock) | 2026-04-09 |
+| [kevin1024/pytest-httpbin](https://github.com/kevin1024/pytest-httpbin) | v2.1.0 | [view](https://github.com/repolex-forx/kevin1024--pytest-httpbin) | 2026-04-09 |
 | [requests/httpbin](https://github.com/requests/httpbin) | v0.7.0 | [view](https://github.com/repolex-forx/requests--httpbin) | 2026-04-09 |
 | [pyasn1/pyasn1](https://github.com/pyasn1/pyasn1) | v0.6.3 | [view](https://github.com/repolex-forx/pyasn1--pyasn1) | 2026-04-09 |
 | [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) | 1.0.0 | [view](https://github.com/repolex-forx/sphinx-doc--alabaster) | 2026-04-09 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov) | v7.1.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest-cov) | 2026-04-09 |
 | [pypa/packaging](https://github.com/pypa/packaging) | 26.0 | [view](https://github.com/repolex-forx/pypa--packaging) | 2026-04-09 |
 | [pedroburon/dotenv](https://github.com/pedroburon/dotenv) | 0.0.5 | [view](https://github.com/repolex-forx/pedroburon--dotenv) | 2026-04-09 |
-| [boto/boto3](https://github.com/boto/boto3) | 1.42.86 | [view](https://github.com/repolex-forx/boto--boto3) | 2026-04-09 |
-| [pallets/pallets-sphinx-themes](https://github.com/pallets/pallets-sphinx-themes) | 2.4.0 | [view](https://github.com/repolex-forx/pallets--pallets-sphinx-themes) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
