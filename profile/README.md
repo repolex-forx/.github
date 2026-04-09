@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) | futures-cpupool-0.1.8 | [view](https://github.com/repolex-forx/rust-lang--futures-rs) | 2026-04-09 |
-| [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) | v3.1.2 | [view](https://github.com/repolex-forx/cloudpipe--cloudpickle) | 2026-04-09 |
-| [apache/jena](https://github.com/apache/jena) | jena-6.0.0 | [view](https://github.com/repolex-forx/apache--jena) | 2026-04-09 |
-| [qos-ch/slf4j](https://github.com/qos-ch/slf4j) | v_1.7.14 | [view](https://github.com/repolex-forx/qos-ch--slf4j) | 2026-04-08 |
-| [junit-team/junit4](https://github.com/junit-team/junit4) | r4.13.2 | [view](https://github.com/repolex-forx/junit-team--junit4) | 2026-04-08 |
-| [hukkin/tomli](https://github.com/hukkin/tomli) | 2.4.0 | [view](https://github.com/repolex-forx/hukkin--tomli) | 2026-04-08 |
-| [asimov-platform/llama-index-asimov](https://github.com/asimov-platform/llama-index-asimov) | 0.0.2 | [view](https://github.com/repolex-forx/asimov-platform--llama-index-asimov) | 2026-04-03 |
-| [asimov-platform/asimov-packaging](https://github.com/asimov-platform/asimov-packaging) | v25.0.0-dev.3 | [view](https://github.com/repolex-forx/asimov-platform--asimov-packaging) | 2026-04-03 |
-| [asimov-platform/asimov-packaging](https://github.com/asimov-platform/asimov-packaging) | auto | [view](https://github.com/repolex-forx/asimov-platform--asimov-packaging) | 2026-04-03 |
-| [asimov-platform/langchain-asimov](https://github.com/asimov-platform/langchain-asimov) | 0.0.2 | [view](https://github.com/repolex-forx/asimov-platform--langchain-asimov) | 2026-04-03 |
+| [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) | v17.0.0 | [view](https://github.com/repolex-forx/PyAV-Org--PyAV) | 2026-04-09 |
+| [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) | 0.42.1 | [view](https://github.com/repolex-forx/kvesteri--sqlalchemy-utils) | 2026-04-09 |
+| [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) | v1.13.0 | [view](https://github.com/repolex-forx/HypothesisWorks--hypothesis) | 2026-04-09 |
+| [psycopg/psycopg2](https://github.com/psycopg/psycopg2) | 2.9.11 | [view](https://github.com/repolex-forx/psycopg--psycopg2) | 2026-04-09 |
+| [docker/docker-py](https://github.com/docker/docker-py) | rtd-test | [view](https://github.com/repolex-forx/docker--docker-py) | 2026-04-09 |
+| [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) | v0.1.58 | [view](https://github.com/repolex-forx/anthropics--claude-code-sdk-python) | 2026-04-09 |
+| [hmrc/service-manager](https://github.com/hmrc/service-manager) | 1.4.0 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-09 |
+| [tqdm/tqdm](https://github.com/tqdm/tqdm) | v4.67.3 | [view](https://github.com/repolex-forx/tqdm--tqdm) | 2026-04-09 |
+| [pytorch/vision](https://github.com/pytorch/vision) | v0.26.0-rc6 | [view](https://github.com/repolex-forx/pytorch--vision) | 2026-04-09 |
+| [dabeaz/curio](https://github.com/dabeaz/curio) | v0.2 | [view](https://github.com/repolex-forx/dabeaz--curio) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
