@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [wlongxiang/initpkg](https://github.com/wlongxiang/initpkg) | v0.1.5 | [view](https://github.com/repolex-forx/wlongxiang--initpkg) | 2026-04-09 |
+| [boto/boto3](https://github.com/boto/boto3) | 1.42.86 | [view](https://github.com/repolex-forx/boto--boto3) | 2026-04-09 |
+| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | v1.27.0 | [view](https://github.com/repolex-forx/modelcontextprotocol--python-sdk) | 2026-04-09 |
 | [svetlyak40wt/python-repr](https://github.com/svetlyak40wt/python-repr) | v0.3.0 | [view](https://github.com/repolex-forx/svetlyak40wt--python-repr) | 2026-04-09 |
 | [xiaojieluo/vlde](https://github.com/xiaojieluo/vlde) | v0.3.1 | [view](https://github.com/repolex-forx/xiaojieluo--vlde) | 2026-04-09 |
 | [ipython/ipython](https://github.com/ipython/ipython) | rel-4.1.2 | [view](https://github.com/repolex-forx/ipython--ipython) | 2026-04-09 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) | 0.42.1 | [view](https://github.com/repolex-forx/kvesteri--sqlalchemy-utils) | 2026-04-09 |
 | [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) | v1.13.0 | [view](https://github.com/repolex-forx/HypothesisWorks--hypothesis) | 2026-04-09 |
 | [psycopg/psycopg2](https://github.com/psycopg/psycopg2) | 2.9.11 | [view](https://github.com/repolex-forx/psycopg--psycopg2) | 2026-04-09 |
-| [docker/docker-py](https://github.com/docker/docker-py) | rtd-test | [view](https://github.com/repolex-forx/docker--docker-py) | 2026-04-09 |
-| [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) | v0.1.58 | [view](https://github.com/repolex-forx/anthropics--claude-code-sdk-python) | 2026-04-09 |
-| [hmrc/service-manager](https://github.com/hmrc/service-manager) | 1.4.0 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
