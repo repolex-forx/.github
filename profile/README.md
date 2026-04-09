@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [Anorov/PySocks](https://github.com/Anorov/PySocks) | 1.6.8 | [view](https://github.com/repolex-forx/Anorov--PySocks) | 2026-04-09 |
+| [snowballstem/snowball](https://github.com/snowballstem/snowball) | v3.0.1 | [view](https://github.com/repolex-forx/snowballstem--snowball) | 2026-04-09 |
 | [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) | v9.1.0 | [view](https://github.com/repolex-forx/sphinx-doc--sphinx) | 2026-04-09 |
 | [boto/boto3](https://github.com/boto/boto3) | 1.42.86 | [view](https://github.com/repolex-forx/boto--boto3) | 2026-04-09 |
+| [pyca/cryptography](https://github.com/pyca/cryptography) | 46.0.7 | [view](https://github.com/repolex-forx/pyca--cryptography) | 2026-04-09 |
 | [pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock) | v3.15.1 | [view](https://github.com/repolex-forx/pytest-dev--pytest-mock) | 2026-04-09 |
 | [kevin1024/pytest-httpbin](https://github.com/kevin1024/pytest-httpbin) | v2.1.0 | [view](https://github.com/repolex-forx/kevin1024--pytest-httpbin) | 2026-04-09 |
 | [requests/httpbin](https://github.com/requests/httpbin) | v0.7.0 | [view](https://github.com/repolex-forx/requests--httpbin) | 2026-04-09 |
 | [pyasn1/pyasn1](https://github.com/pyasn1/pyasn1) | v0.6.3 | [view](https://github.com/repolex-forx/pyasn1--pyasn1) | 2026-04-09 |
 | [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) | 1.0.0 | [view](https://github.com/repolex-forx/sphinx-doc--alabaster) | 2026-04-09 |
-| [pyinvoke/invoke](https://github.com/pyinvoke/invoke) | just-rebased-414 | [view](https://github.com/repolex-forx/pyinvoke--invoke) | 2026-04-09 |
-| [pyca/cryptography](https://github.com/pyca/cryptography) | 46.0.7 | [view](https://github.com/repolex-forx/pyca--cryptography) | 2026-04-09 |
-| [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov) | v7.1.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest-cov) | 2026-04-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
