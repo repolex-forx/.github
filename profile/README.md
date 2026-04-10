@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v6.0-beta | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-10 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v9.39.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-10 |
 | [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) | v8.4.2 | [view](https://github.com/repolex-forx/pillarjs--path-to-regexp) | 2026-04-10 |
 | [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.4 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-10 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [jshttp/content-disposition](https://github.com/jshttp/content-disposition) | v0.5.4 | [view](https://github.com/repolex-forx/jshttp--content-disposition) | 2026-04-10 |
 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-10 |
 | [jshttp/type-is](https://github.com/jshttp/type-is) | 2.0.1 | [view](https://github.com/repolex-forx/jshttp--type-is) | 2026-04-10 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.57.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
