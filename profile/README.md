@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [eslint/eslint](https://github.com/eslint/eslint) | v10.2.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-09 |
-| [prettier/prettier](https://github.com/prettier/prettier) | remove | [view](https://github.com/repolex-forx/prettier--prettier) | 2026-04-09 |
-| [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | v3.1.0.dev0 | [view](https://github.com/repolex-forx/pandas-dev--pandas) | 2026-04-09 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.3.8 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-09 |
-| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-09 |
-| [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | v8.58.1 | [view](https://github.com/repolex-forx/typescript-eslint--typescript-eslint) | 2026-04-09 |
-| [rollup/plugins](https://github.com/rollup/plugins) | yaml-v4.1.0 | [view](https://github.com/repolex-forx/rollup--plugins) | 2026-04-09 |
-| [privatenumber/tsx](https://github.com/privatenumber/tsx) | v4.21.0 | [view](https://github.com/repolex-forx/privatenumber--tsx) | 2026-04-09 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.60.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-09 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.3.9 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-09 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v10.1.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-10 |
+| [pyca/cryptography](https://github.com/pyca/cryptography) | 46.0.6 | [view](https://github.com/repolex-forx/pyca--cryptography) | 2026-04-10 |
+| [rollup/plugins](https://github.com/rollup/plugins) | yaml-v2.1.1 | [view](https://github.com/repolex-forx/rollup--plugins) | 2026-04-10 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.60.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
+| [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | v8.58.1 | [view](https://github.com/repolex-forx/typescript-eslint--typescript-eslint) | 2026-04-10 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v6.0-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-10 |
+| [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | v3.0.2 | [view](https://github.com/repolex-forx/pandas-dev--pandas) | 2026-04-10 |
+| [prettier/prettier](https://github.com/prettier/prettier) | remove | [view](https://github.com/repolex-forx/prettier--prettier) | 2026-04-10 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.3.5 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
+| [rollup/plugins](https://github.com/rollup/plugins) | yaml-v3.0.0 | [view](https://github.com/repolex-forx/rollup--plugins) | 2026-04-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
