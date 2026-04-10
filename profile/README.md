@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [component/escape-html](https://github.com/component/escape-html) | v1.0.3 | [view](https://github.com/repolex-forx/component--escape-html) | 2026-04-10 |
 | [facebook/jest](https://github.com/facebook/jest) | v30.1.2 | [view](https://github.com/repolex-forx/facebook--jest) | 2026-04-10 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.60.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.23-nightly-20260403.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-10 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-10 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v6.0-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-10 |
 | [babel/babel](https://github.com/babel/babel) | v8.0.0-rc.1 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-10 |
-| [debug-js/debug](https://github.com/debug-js/debug) | 4.4.3 | [view](https://github.com/repolex-forx/debug-js--debug) | 2026-04-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
