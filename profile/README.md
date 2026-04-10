@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-10 |
+| [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.1.2 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-10 |
+| [visionmedia/node-cookie-signature](https://github.com/visionmedia/node-cookie-signature) | 1.2.1 | [view](https://github.com/repolex-forx/visionmedia--node-cookie-signature) | 2026-04-10 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.60.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
+| [jshttp/fresh](https://github.com/jshttp/fresh) | v2.0.0 | [view](https://github.com/repolex-forx/jshttp--fresh) | 2026-04-10 |
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.23-nightly-20260403.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-10 |
+| [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.4 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-10 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v10.0.0-alpha.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-10 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v6.0-beta | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-10 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.0.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
-| [jshttp/vary](https://github.com/jshttp/vary) | v1.1.1 | [view](https://github.com/repolex-forx/jshttp--vary) | 2026-04-10 |
-| [jshttp/cookie](https://github.com/jshttp/cookie) | v1.1.1 | [view](https://github.com/repolex-forx/jshttp--cookie) | 2026-04-10 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.60.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
-| [pillarjs/send](https://github.com/pillarjs/send) | v1.0.0 | [view](https://github.com/repolex-forx/pillarjs--send) | 2026-04-10 |
-| [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.4 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-10 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.0.1-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
-| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-10 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.23-nightly-20260403.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
