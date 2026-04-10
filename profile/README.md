@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [eslint/eslint](https://github.com/eslint/eslint) | v10.0.0-rc.1 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-10 |
+| [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.31 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-10 |
+| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-10 |
+| [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) | v10.0.2 | [view](https://github.com/repolex-forx/prettier--eslint-config-prettier) | 2026-04-10 |
+| [pytorch/vision](https://github.com/pytorch/vision) | v0.26.0-rc6 | [view](https://github.com/repolex-forx/pytorch--vision) | 2026-04-10 |
+| [dsherret/ts-morph](https://github.com/dsherret/ts-morph) | tsa-21.0.1 | [view](https://github.com/repolex-forx/dsherret--ts-morph) | 2026-04-10 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v6.0-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-10 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.3.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.23-nightly-20260403.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-10 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.60.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
-| [babel/babel](https://github.com/babel/babel) | v8.0.0-rc.2 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-10 |
-| [boto/botocore](https://github.com/boto/botocore) | 1.42.86 | [view](https://github.com/repolex-forx/boto--botocore) | 2026-04-10 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.3.2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v10.0.0-rc.2 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-10 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v6.0-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-10 |
-| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-10 |
-| [jestjs/jest](https://github.com/jestjs/jest) | v30.1.1 | [view](https://github.com/repolex-forx/jestjs--jest) | 2026-04-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
