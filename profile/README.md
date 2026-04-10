@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pillarjs/send](https://github.com/pillarjs/send) | v1.0.0 | [view](https://github.com/repolex-forx/pillarjs--send) | 2026-04-10 |
+| [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.4 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-10 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.0.1-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
+| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-10 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v6.0-beta | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-10 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.23-nightly-20260403.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-10 |
 | [jshttp/range-parser](https://github.com/jshttp/range-parser) | v1.2.0 | [view](https://github.com/repolex-forx/jshttp--range-parser) | 2026-04-10 |
 | [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.1.3 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-10 |
 | [jshttp/proxy-addr](https://github.com/jshttp/proxy-addr) | v2.0.6 | [view](https://github.com/repolex-forx/jshttp--proxy-addr) | 2026-04-10 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.60.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
-| [pillarjs/parseurl](https://github.com/pillarjs/parseurl) | 1.3.2 | [view](https://github.com/repolex-forx/pillarjs--parseurl) | 2026-04-10 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.0.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v10.0.0-alpha.1 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-10 |
-| [isaacs/node-mkdirp](https://github.com/isaacs/node-mkdirp) | v3.0.1 | [view](https://github.com/repolex-forx/isaacs--node-mkdirp) | 2026-04-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
