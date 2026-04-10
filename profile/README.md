@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [expressjs/method-override](https://github.com/expressjs/method-override) | 3.0.0 | [view](https://github.com/repolex-forx/expressjs--method-override) | 2026-04-10 |
+| [jadejs/jade](https://github.com/jadejs/jade) | 2.0.0-beta6 | [view](https://github.com/repolex-forx/jadejs--jade) | 2026-04-10 |
 | [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.1.0-beta.2 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-10 |
 | [mde/ejs](https://github.com/mde/ejs) | v2.7.3 | [view](https://github.com/repolex-forx/mde--ejs) | 2026-04-10 |
 | [jshttp/content-disposition](https://github.com/jshttp/content-disposition) | v0.5.0 | [view](https://github.com/repolex-forx/jshttp--content-disposition) | 2026-04-10 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.4 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-10 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.55.3 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
 | [expressjs/vhost](https://github.com/expressjs/vhost) | v3.0.2 | [view](https://github.com/repolex-forx/expressjs--vhost) | 2026-04-10 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v16.7.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
-| [expressjs/morgan](https://github.com/expressjs/morgan) | 1.10.1 | [view](https://github.com/repolex-forx/expressjs--morgan) | 2026-04-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
