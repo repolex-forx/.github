@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [jshttp/type-is](https://github.com/jshttp/type-is) | 2.0.1 | [view](https://github.com/repolex-forx/jshttp--type-is) | 2026-04-10 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.57.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v16.9.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
 | [jshttp/accepts](https://github.com/jshttp/accepts) | 1.3.8 | [view](https://github.com/repolex-forx/jshttp--accepts) | 2026-04-10 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [jshttp/content-type](https://github.com/jshttp/content-type) | v1.0.5 | [view](https://github.com/repolex-forx/jshttp--content-type) | 2026-04-10 |
 | [jshttp/content-disposition](https://github.com/jshttp/content-disposition) | v1.0.0 | [view](https://github.com/repolex-forx/jshttp--content-disposition) | 2026-04-10 |
 | [mde/ejs](https://github.com/mde/ejs) | v3.1.3 | [view](https://github.com/repolex-forx/mde--ejs) | 2026-04-10 |
-| [jaredhanson/utils-merge](https://github.com/jaredhanson/utils-merge) | v1.0.0 | [view](https://github.com/repolex-forx/jaredhanson--utils-merge) | 2026-04-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
