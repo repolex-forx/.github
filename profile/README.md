@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [boto/botocore](https://github.com/boto/botocore) | 1.42.86 | [view](https://github.com/repolex-forx/boto--botocore) | 2026-04-10 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.3.4-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v6.0-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-10 |
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.24-nightly-20260404.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-10 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.60.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
-| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-10 |
-| [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | v8.58.1 | [view](https://github.com/repolex-forx/typescript-eslint--typescript-eslint) | 2026-04-10 |
-| [prettier/prettier](https://github.com/prettier/prettier) | remove | [view](https://github.com/repolex-forx/prettier--prettier) | 2026-04-10 |
 | [babel/babel](https://github.com/babel/babel) | v8.0.0-rc.2 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-10 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.3.5-beta-2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v10.1.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-10 |
-| [pyca/cryptography](https://github.com/pyca/cryptography) | 46.0.6 | [view](https://github.com/repolex-forx/pyca--cryptography) | 2026-04-10 |
+| [prettier/prettier](https://github.com/prettier/prettier) | remove | [view](https://github.com/repolex-forx/prettier--prettier) | 2026-04-10 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v17.3.4 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
+| [swc-project/jest](https://github.com/swc-project/jest) | v0.2.32 | [view](https://github.com/repolex-forx/swc-project--jest) | 2026-04-10 |
+| [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | v8.58.1 | [view](https://github.com/repolex-forx/typescript-eslint--typescript-eslint) | 2026-04-10 |
+| [boto/botocore](https://github.com/boto/botocore) | 1.42.86 | [view](https://github.com/repolex-forx/boto--botocore) | 2026-04-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
