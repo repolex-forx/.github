@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.23-nightly-20260403.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-10 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v6.0-beta | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-10 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v16.10.4-beta-2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
-| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-10 |
+| [mochajs/mocha](https://github.com/mochajs/mocha) | v12.0.0-beta-9.2 | [view](https://github.com/repolex-forx/mochajs--mocha) | 2026-04-10 |
+| [mde/ejs](https://github.com/mde/ejs) | v3.1.8 | [view](https://github.com/repolex-forx/mde--ejs) | 2026-04-10 |
+| [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.1.0-beta.6 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-10 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v16.10.2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-10 |
 | [mochajs/mocha](https://github.com/mochajs/mocha) | v12.0.0-beta-9.1 | [view](https://github.com/repolex-forx/mochajs--mocha) | 2026-04-10 |
-| [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.1.1 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-10 |
-| [mde/ejs](https://github.com/mde/ejs) | v5.0.1 | [view](https://github.com/repolex-forx/mde--ejs) | 2026-04-10 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.60.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
-| [shouldjs/should.js](https://github.com/shouldjs/should.js) | 13.2.3 | [view](https://github.com/repolex-forx/shouldjs--should.js) | 2026-04-10 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.59.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-10 |
+| [markedjs/marked](https://github.com/markedjs/marked) | v17.0.5 | [view](https://github.com/repolex-forx/markedjs--marked) | 2026-04-10 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v6.0-beta | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-10 |
 | [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.4 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-10 |
+| [mde/ejs](https://github.com/mde/ejs) | v3.1.9 | [view](https://github.com/repolex-forx/mde--ejs) | 2026-04-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
