@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [openai/openai-python](https://github.com/openai/openai-python) | v2.31.0 | [view](https://github.com/repolex-forx/openai--openai-python) | 2026-04-11 |
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.21 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-11 |
+| [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.0.9 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-11 |
+| [mde/ejs](https://github.com/mde/ejs) | v2.3.1 | [view](https://github.com/repolex-forx/mde--ejs) | 2026-04-11 |
+| [ljharb/qs](https://github.com/ljharb/qs) | v6.10.7 | [view](https://github.com/repolex-forx/ljharb--qs) | 2026-04-11 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v16.3.7 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-11 |
+| [lepture/mistune](https://github.com/lepture/mistune) | v3.2.0 | [view](https://github.com/repolex-forx/lepture--mistune) | 2026-04-11 |
+| [mde/ejs](https://github.com/mde/ejs) | v2.3.2 | [view](https://github.com/repolex-forx/mde--ejs) | 2026-04-11 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.53.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-11 |
 | [ljharb/qs](https://github.com/ljharb/qs) | v6.11.0 | [view](https://github.com/repolex-forx/ljharb--qs) | 2026-04-11 |
-| [materialsproject/fireworks](https://github.com/materialsproject/fireworks) | v2.1.2 | [view](https://github.com/repolex-forx/materialsproject--fireworks) | 2026-04-11 |
-| [huggingface/transformers](https://github.com/huggingface/transformers) | v5.5.3 | [view](https://github.com/repolex-forx/huggingface--transformers) | 2026-04-11 |
-| [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.0.10 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-11 |
-| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-11 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.21 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-11 |
-| [openai/openai-python](https://github.com/openai/openai-python) | v2.31.0 | [view](https://github.com/repolex-forx/openai--openai-python) | 2026-04-11 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v16.3.8 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-11 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v9.31.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
