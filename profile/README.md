@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.52.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-11 |
-| [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.3 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-11 |
-| [explosion/spaCy](https://github.com/explosion/spaCy) | v4.0.0.dev4 | [view](https://github.com/repolex-forx/explosion--spaCy) | 2026-04-11 |
-| [ljharb/qs](https://github.com/ljharb/qs) | v6.9.5 | [view](https://github.com/repolex-forx/ljharb--qs) | 2026-04-11 |
-| [mde/ejs](https://github.com/mde/ejs) | v2.0.5 | [view](https://github.com/repolex-forx/mde--ejs) | 2026-04-11 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v16.2.4-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-11 |
-| [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.0.1 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-11 |
+| [ljharb/qs](https://github.com/ljharb/qs) | v6.8.5 | [view](https://github.com/repolex-forx/ljharb--qs) | 2026-04-11 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.50.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-11 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-11 |
-| [ljharb/qs](https://github.com/ljharb/qs) | v6.9.6 | [view](https://github.com/repolex-forx/ljharb--qs) | 2026-04-11 |
-| [explosion/spaCy](https://github.com/explosion/spaCy) | v4.0.0.dev5 | [view](https://github.com/repolex-forx/explosion--spaCy) | 2026-04-11 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v9.22.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-11 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v16.1.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-11 |
+| [explosion/spaCy](https://github.com/explosion/spaCy) | v4.0.0.dev1 | [view](https://github.com/repolex-forx/explosion--spaCy) | 2026-04-11 |
+| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-11 |
+| [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.0.0-beta.17 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-11 |
+| [ljharb/qs](https://github.com/ljharb/qs) | v6.9.0 | [view](https://github.com/repolex-forx/ljharb--qs) | 2026-04-11 |
+| [apache/arrow](https://github.com/apache/arrow) | r-universe-release | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
