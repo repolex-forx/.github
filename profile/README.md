@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-11 |
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.21-nightly-20260322.3 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-11 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v15.1.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-11 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v9.17.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-11 |
 | [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.0 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-11 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.0.0-beta.5 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-11 |
 | [m-bain/whisperx](https://github.com/m-bain/whisperx) | v3.8.4 | [view](https://github.com/repolex-forx/m-bain--whisperx) | 2026-04-11 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v1.8.1 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-11 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-11 |
-| [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.25 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
