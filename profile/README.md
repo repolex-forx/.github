@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [cdgriffith/puremagic](https://github.com/cdgriffith/puremagic) | v1.1 | [view](https://github.com/repolex-forx/cdgriffith--puremagic) | 2026-04-11 |
-| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 0.1.450 | [view](https://github.com/repolex-forx/DefinitelyTyped--DefinitelyTyped) | 2026-04-11 |
+| [jestjs/jest](https://github.com/jestjs/jest) | v30.0.0-alpha.6 | [view](https://github.com/repolex-forx/jestjs--jest) | 2026-04-11 |
+| [mistralai/client-python](https://github.com/mistralai/client-python) | v2.3.1 | [view](https://github.com/repolex-forx/mistralai--client-python) | 2026-04-11 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.21-nightly-20260322.3 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-11 |
-| [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) | v0.91.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-python) | 2026-04-11 |
 | [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.0 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-11 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-11 |
-| [materialsproject/fireworks](https://github.com/materialsproject/fireworks) | v1.9.6 | [view](https://github.com/repolex-forx/materialsproject--fireworks) | 2026-04-11 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v15.1.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-11 |
-| [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.0.0-beta.4 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-11 |
-| [materialsproject/fireworks](https://github.com/materialsproject/fireworks) | v1.9.7 | [view](https://github.com/repolex-forx/materialsproject--fireworks) | 2026-04-11 |
+| [replicate/replicate-python-beta](https://github.com/replicate/replicate-python-beta) | v2.0.0-beta.3 | [view](https://github.com/repolex-forx/replicate--replicate-python-beta) | 2026-04-11 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.46.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-11 |
+| [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.0.0-beta.3 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-11 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v9.16.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-11 |
+| [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) | v0.91.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-python) | 2026-04-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
