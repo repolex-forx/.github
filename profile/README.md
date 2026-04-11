@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v14.1.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-11 |
+| [encode/uvicorn](https://github.com/encode/uvicorn) | 0.43.0 | [view](https://github.com/repolex-forx/encode--uvicorn) | 2026-04-11 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.21-nightly-20260322.3 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-11 |
 | [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.0 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-11 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-11 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [mistralai/client-python](https://github.com/mistralai/client-python) | v2.3.1 | [view](https://github.com/repolex-forx/mistralai--client-python) | 2026-04-11 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.45.3 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-11 |
 | [explosion/spaCy](https://github.com/explosion/spaCy) | v3.5.0 | [view](https://github.com/repolex-forx/explosion--spaCy) | 2026-04-11 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v14.1.2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-11 |
-| [ollama/ollama-python](https://github.com/ollama/ollama-python) | v0.6.0 | [view](https://github.com/repolex-forx/ollama--ollama-python) | 2026-04-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
