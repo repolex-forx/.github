@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.21-nightly-20260322.3 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-11 |
+| [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.0 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-11 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-11 |
 | [vitest-dev/vitest](https://github.com/vitest-dev/vitest) | v4.0.0-beta.2 | [view](https://github.com/repolex-forx/vitest-dev--vitest) | 2026-04-11 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v9.15.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-11 |
 | [mistralai/client-python](https://github.com/mistralai/client-python) | v2.3.1 | [view](https://github.com/repolex-forx/mistralai--client-python) | 2026-04-11 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [explosion/spaCy](https://github.com/explosion/spaCy) | v3.5.0 | [view](https://github.com/repolex-forx/explosion--spaCy) | 2026-04-11 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v14.1.2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-11 |
 | [ollama/ollama-python](https://github.com/ollama/ollama-python) | v0.6.0 | [view](https://github.com/repolex-forx/ollama--ollama-python) | 2026-04-11 |
-| [jestjs/jest](https://github.com/jestjs/jest) | v30.0.0-alpha.6 | [view](https://github.com/repolex-forx/jestjs--jest) | 2026-04-11 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.21-nightly-20260322.3 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-11 |
-| [babel/babel](https://github.com/babel/babel) | v8.0.0-beta.0 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
