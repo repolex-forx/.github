@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-12 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.10.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
+| [keleshev/schema](https://github.com/keleshev/schema) | v0.7.8 | [view](https://github.com/repolex-forx/keleshev--schema) | 2026-04-12 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-12 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.34.4 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-12 |
 | [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.19 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-12 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.10.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
 | [aws/aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby) | v2.11.632 | [view](https://github.com/repolex-forx/aws--aws-sdk-ruby) | 2026-04-12 |
 | [MatthewGilbert/mapping](https://github.com/MatthewGilbert/mapping) | v0.1.5 | [view](https://github.com/repolex-forx/MatthewGilbert--mapping) | 2026-04-12 |
 | [davidfraser/WSGIUtils](https://github.com/davidfraser/WSGIUtils) | v0.7.1 | [view](https://github.com/repolex-forx/davidfraser--WSGIUtils) | 2026-04-12 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v9.0.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-12 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-12 |
-| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.7.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-12 |
-| [PyTables/PyTables](https://github.com/PyTables/PyTables) | v3.11.0 | [view](https://github.com/repolex-forx/PyTables--PyTables) | 2026-04-12 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
