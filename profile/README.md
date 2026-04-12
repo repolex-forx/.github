@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [astral-sh/ruff](https://github.com/astral-sh/ruff) | v0.4.10 | [view](https://github.com/repolex-forx/astral-sh--ruff) | 2026-04-12 |
+| [ruby/rbs](https://github.com/ruby/rbs) | v4.1.0.pre.1 | [view](https://github.com/repolex-forx/ruby--rbs) | 2026-04-12 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v13.0.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-12 |
 | [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.21 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-12 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v9.9.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-12 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.41.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-12 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v1.7.2 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-12 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v13.0.3 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
-| [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) | v1.4.0a0 | [view](https://github.com/repolex-forx/pytest-dev--pytest-asyncio) | 2026-04-12 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.41.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-12 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v13.0.4 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
