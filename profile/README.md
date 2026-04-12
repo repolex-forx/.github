@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [eslint/eslint](https://github.com/eslint/eslint) | v9.10.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-12 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-12 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v13.1.0-beta-2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.42.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-12 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [eslint/eslint](https://github.com/eslint/eslint) | v9.11.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-12 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.43.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-12 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v13.1.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
-| [tiangolo/fastapi](https://github.com/tiangolo/fastapi) | 0.135.3 | [view](https://github.com/repolex-forx/tiangolo--fastapi) | 2026-04-12 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
