@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v14.0.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.45.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-12 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-12 |
 | [python/mypy](https://github.com/python/mypy) | v1.20.0 | [view](https://github.com/repolex-forx/python--mypy) | 2026-04-12 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v9.14.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-12 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [mistralai/client-python](https://github.com/mistralai/client-python) | v2.3.1 | [view](https://github.com/repolex-forx/mistralai--client-python) | 2026-04-12 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v14.1.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
 | [tox-dev/py-filelock](https://github.com/tox-dev/py-filelock) | v3.0.10 | [view](https://github.com/repolex-forx/tox-dev--py-filelock) | 2026-04-12 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.21-nightly-20260322.3 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-12 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.45.2 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-12 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
