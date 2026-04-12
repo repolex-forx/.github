@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.34.9 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-12 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.12.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-12 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v9.3.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-12 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.12.2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
-| [bblimke/webmock](https://github.com/bblimke/webmock) | v3.26.2 | [view](https://github.com/repolex-forx/bblimke--webmock) | 2026-04-12 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.35.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-12 |
-| [astral-sh/ruff](https://github.com/astral-sh/ruff) | v0.4.10 | [view](https://github.com/repolex-forx/astral-sh--ruff) | 2026-04-12 |
-| [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.20 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-12 |
-| [jeremyevans/minitest-hooks](https://github.com/jeremyevans/minitest-hooks) | 1.5.2 | [view](https://github.com/repolex-forx/jeremyevans--minitest-hooks) | 2026-04-12 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v9.1.1 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-12 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.11.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-12 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.34.7 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-12 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.11.2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.34.8 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-12 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.11.3 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-12 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v9.2.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-12 |
+| [lsegal/yard](https://github.com/lsegal/yard) | v0.9.39 | [view](https://github.com/repolex-forx/lsegal--yard) | 2026-04-12 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
