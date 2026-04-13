@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.16.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
+| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.3.7 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
+| [jmreidy/grunt-browserify](https://github.com/jmreidy/grunt-browserify) | v6.0.0 | [view](https://github.com/repolex-forx/jmreidy--grunt-browserify) | 2026-04-13 |
+| [gruntjs/grunt-contrib-clean](https://github.com/gruntjs/grunt-contrib-clean) | v2.0.1 | [view](https://github.com/repolex-forx/gruntjs--grunt-contrib-clean) | 2026-04-13 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.29.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.19-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.54.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-13 |
 | [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.3.8 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.16.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
-| [facebook/jest](https://github.com/facebook/jest) | v29.4.0 | [view](https://github.com/repolex-forx/facebook--jest) | 2026-04-13 |
-| [gruntjs/grunt](https://github.com/gruntjs/grunt) | v1.6.1 | [view](https://github.com/repolex-forx/gruntjs--grunt) | 2026-04-13 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.29.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
-| [intesso/connect-livereload](https://github.com/intesso/connect-livereload) | v0.6.0 | [view](https://github.com/repolex-forx/intesso--connect-livereload) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
