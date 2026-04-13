@@ -35,15 +35,15 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v4.0.4 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.30.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
+| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.6.3 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-13 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.1.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
+| [Tina-1300/crate](https://github.com/Tina-1300/crate) | v0.1.1 | [view](https://github.com/repolex-forx/Tina-1300--crate) | 2026-04-13 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.57.1 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-13 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.30.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
 | [pyo3/pyo3](https://github.com/pyo3/pyo3) | v0.28.3 | [view](https://github.com/repolex-forx/pyo3--pyo3) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.2.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
-| [facebook/jest](https://github.com/facebook/jest) | v29.4.2 | [view](https://github.com/repolex-forx/facebook--jest) | 2026-04-13 |
-| [jestjs/jest](https://github.com/jestjs/jest) | v29.4.2 | [view](https://github.com/repolex-forx/jestjs--jest) | 2026-04-13 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.3.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
