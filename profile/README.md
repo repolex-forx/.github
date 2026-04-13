@@ -34,15 +34,15 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.5.1-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 | [babel/babel](https://github.com/babel/babel) | v8.0.0-alpha.11 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-13 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v9.0.0-beta.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-13 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.33.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
 | [boydgreenfield/query](https://github.com/boydgreenfield/query) | v0.1.3 | [view](https://github.com/repolex-forx/boydgreenfield--query) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.5.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 | [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) | 3.10.1 | [view](https://github.com/repolex-forx/Python-Markdown--markdown) | 2026-04-13 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.6.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
