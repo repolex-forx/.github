@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [onehealth/grunt-open](https://github.com/onehealth/grunt-open) | v0.2.4 | [view](https://github.com/repolex-forx/onehealth--grunt-open) | 2026-04-13 |
 | [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.3.3 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.19-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.14.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [gruntjs/grunt-contrib-watch](https://github.com/gruntjs/grunt-contrib-watch) | v1.1.0 | [view](https://github.com/repolex-forx/gruntjs--grunt-contrib-watch) | 2026-04-13 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.29.0-1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
 | [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.3.5a0 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.14.2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
