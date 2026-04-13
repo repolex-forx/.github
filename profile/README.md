@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.3.8 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.16.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
+| [facebook/jest](https://github.com/facebook/jest) | v29.4.0 | [view](https://github.com/repolex-forx/facebook--jest) | 2026-04-13 |
+| [gruntjs/grunt](https://github.com/gruntjs/grunt) | v1.6.1 | [view](https://github.com/repolex-forx/gruntjs--grunt) | 2026-04-13 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.29.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
 | [intesso/connect-livereload](https://github.com/intesso/connect-livereload) | v0.6.0 | [view](https://github.com/repolex-forx/intesso--connect-livereload) | 2026-04-13 |
 | [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.3.9 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.19-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.16.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v8.55.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-13 |
-| [chriseppstein/compass](https://github.com/chriseppstein/compass) | v0.13.alpha.10 | [view](https://github.com/repolex-forx/chriseppstein--compass) | 2026-04-13 |
-| [substack/node-browserify](https://github.com/substack/node-browserify) | v17.0.1 | [view](https://github.com/repolex-forx/substack--node-browserify) | 2026-04-13 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.29.2 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.17.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
