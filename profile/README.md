@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [python-cffi/cffi](https://github.com/python-cffi/cffi) | v2.0.0 | [view](https://github.com/repolex-forx/python-cffi--cffi) | 2026-04-13 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.4.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.31.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [Infinidat/munch](https://github.com/Infinidat/munch) | 4.0.0 | [view](https://github.com/repolex-forx/Infinidat--munch) | 2026-04-13 |
 | [jaraco/portend](https://github.com/jaraco/portend) | v3.2.1 | [view](https://github.com/repolex-forx/jaraco--portend) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.5.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
-| [kennethreitz/clint](https://github.com/kennethreitz/clint) | v0.5.1 | [view](https://github.com/repolex-forx/kennethreitz--clint) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
