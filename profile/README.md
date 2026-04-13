@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.13.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 | [stephenc/wagon-gitsite](https://github.com/stephenc/wagon-gitsite) | wagon-gitsite-site-0.2 | [view](https://github.com/repolex-forx/stephenc--wagon-gitsite) | 2026-04-13 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.19-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.3.0 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
 | [hamcrest/JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) | v3.0 | [view](https://github.com/repolex-forx/hamcrest--JavaHamcrest) | 2026-04-13 |
 | [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.3.1 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.14.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
