@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
+| [alex/pretend](https://github.com/alex/pretend) | v1.0.8 | [view](https://github.com/repolex-forx/alex--pretend) | 2026-04-13 |
 | [zopefoundation/Zope](https://github.com/zopefoundation/Zope) | philikon-aq-checkpoint | [view](https://github.com/repolex-forx/zopefoundation--Zope) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.5.0-beta-4 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 | [babel/babel](https://github.com/babel/babel) | v8.0.0-alpha.11 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-13 |
 | [jaraco/keyring](https://github.com/jaraco/keyring) | v25.7.0 | [view](https://github.com/repolex-forx/jaraco--keyring) | 2026-04-13 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v9.0.0-alpha.2 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-13 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
 | [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.18 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-13 |
 | [git-albertomarin/winpath](https://github.com/git-albertomarin/winpath) | 202002.1b0 | [view](https://github.com/repolex-forx/git-albertomarin--winpath) | 2026-04-13 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.33.0-0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
