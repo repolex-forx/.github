@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pypa/readme_renderer](https://github.com/pypa/readme_renderer) | 44.0 | [view](https://github.com/repolex-forx/pypa--readme_renderer) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.5.0-beta-2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.5.0-beta-3 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 | [requests/toolbelt](https://github.com/requests/toolbelt) | 1.0.0 | [view](https://github.com/repolex-forx/requests--toolbelt) | 2026-04-13 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.32.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
-| [alex/pretend](https://github.com/alex/pretend) | v1.0.8 | [view](https://github.com/repolex-forx/alex--pretend) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
