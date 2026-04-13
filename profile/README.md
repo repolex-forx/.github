@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.19-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
+| [gruntjs/grunt-contrib-copy](https://github.com/gruntjs/grunt-contrib-copy) | v1.0.0 | [view](https://github.com/repolex-forx/gruntjs--grunt-contrib-copy) | 2026-04-13 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v8.53.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-13 |
 | [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.3.5 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v1.6.2 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.15.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.29.0-2 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
 | [gruntjs/grunt-contrib-connect](https://github.com/gruntjs/grunt-contrib-connect) | v5.0.1 | [view](https://github.com/repolex-forx/gruntjs--grunt-contrib-connect) | 2026-04-13 |
-| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.3.6 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.16.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
-| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.3.7 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
