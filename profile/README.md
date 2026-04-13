@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
+| [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.18 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-13 |
+| [git-albertomarin/winpath](https://github.com/git-albertomarin/winpath) | 202002.1b0 | [view](https://github.com/repolex-forx/git-albertomarin--winpath) | 2026-04-13 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.33.0-0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.5.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [python-trio/trustme](https://github.com/python-trio/trustme) | v1.2.1 | [view](https://github.com/repolex-forx/python-trio--trustme) | 2026-04-13 |
 | [kjd/idna](https://github.com/kjd/idna) | v3.10 | [view](https://github.com/repolex-forx/kjd--idna) | 2026-04-13 |
 | [python-trio/outcome](https://github.com/python-trio/outcome) | v1.3.0 | [view](https://github.com/repolex-forx/python-trio--outcome) | 2026-04-13 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.5.1-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
-| [babel/babel](https://github.com/babel/babel) | v8.0.0-alpha.11 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
