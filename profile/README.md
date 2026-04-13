@@ -35,15 +35,15 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [babel/babel](https://github.com/babel/babel) | v8.0.0-alpha.11 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-13 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.6.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.6.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
-| [seequent/properties](https://github.com/seequent/properties) | v0.6.1 | [view](https://github.com/repolex-forx/seequent--properties) | 2026-04-13 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.20-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.34.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
+| [ivanovmg/unitofwork](https://github.com/ivanovmg/unitofwork) | v0.3.0 | [view](https://github.com/repolex-forx/ivanovmg--unitofwork) | 2026-04-13 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v9.0.0-beta.1 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-13 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.6.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
+| [seequent/properties](https://github.com/seequent/properties) | v0.6.1 | [view](https://github.com/repolex-forx/seequent--properties) | 2026-04-13 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.34.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.7.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
-| [ActiveState/ez_setup](https://github.com/ActiveState/ez_setup) | v0.9 | [view](https://github.com/repolex-forx/ActiveState--ez_setup) | 2026-04-13 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v9.0.0-beta.2 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-13 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.7.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
