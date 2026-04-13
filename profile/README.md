@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v4.0.1 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.18.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.30.0-0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
+| [wolever/parameterized](https://github.com/wolever/parameterized) | v0.8.1 | [view](https://github.com/repolex-forx/wolever--parameterized) | 2026-04-13 |
+| [jestjs/jest](https://github.com/jestjs/jest) | v29.4.1 | [view](https://github.com/repolex-forx/jestjs--jest) | 2026-04-13 |
 | [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v4.0.2 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.0.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.56.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-13 |
 | [PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust) | v1.12.1 | [view](https://github.com/repolex-forx/PyO3--setuptools-rust) | 2026-04-13 |
 | [toml-rs/toml](https://github.com/toml-rs/toml) | v0.25.11 | [view](https://github.com/repolex-forx/toml-rs--toml) | 2026-04-13 |
-| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v4.0.3 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.30.0-1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v12.0.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
-| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v4.0.4 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
