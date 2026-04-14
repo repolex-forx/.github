@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [eslint/eslint](https://github.com/eslint/eslint) | v8.33.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.18-nightly-20260301.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-14 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.3.1-beta-3 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
+| [agronholm/exceptiongroup](https://github.com/agronholm/exceptiongroup) | 1.3.1 | [view](https://github.com/repolex-forx/agronholm--exceptiongroup) | 2026-04-14 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.22.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.3.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.18-nightly-20260301.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-14 |
 | [python-attrs/attrs](https://github.com/python-attrs/attrs) | 26.1.0 | [view](https://github.com/repolex-forx/python-attrs--attrs) | 2026-04-14 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.34.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.22.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.4.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
-| [di/id](https://github.com/di/id) | v1.6.1 | [view](https://github.com/repolex-forx/di--id) | 2026-04-14 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.4.0-beta-2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.22.2 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
