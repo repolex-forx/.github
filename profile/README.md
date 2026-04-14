@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [python-pillow/Pillow](https://github.com/python-pillow/Pillow) | 12.2.0 | [view](https://github.com/repolex-forx/python-pillow--Pillow) | 2026-04-14 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.23.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v8.38.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
 | [bcgit/bc-java](https://github.com/bcgit/bc-java) | r1v60 | [view](https://github.com/repolex-forx/bcgit--bc-java) | 2026-04-14 |
+| [numpy/numpy](https://github.com/numpy/numpy) | with_maskna | [view](https://github.com/repolex-forx/numpy--numpy) | 2026-04-14 |
+| [giampaolo/psutil](https://github.com/giampaolo/psutil) | v7.2.2 | [view](https://github.com/repolex-forx/giampaolo--psutil) | 2026-04-14 |
+| [python-pillow/Pillow](https://github.com/python-pillow/Pillow) | 12.2.0 | [view](https://github.com/repolex-forx/python-pillow--Pillow) | 2026-04-14 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.8.0-beta-2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
 | [xunit/xunit](https://github.com/xunit/xunit) | v3-4.0.0-pre.33 | [view](https://github.com/repolex-forx/xunit--xunit) | 2026-04-14 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.23.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.39.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.8.0-beta-3 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
-| [nunit/nunit](https://github.com/nunit/nunit) | v5.0.0-alpha.1 | [view](https://github.com/repolex-forx/nunit--nunit) | 2026-04-14 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.24.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
-| [numpy/numpy](https://github.com/numpy/numpy) | with_maskna | [view](https://github.com/repolex-forx/numpy--numpy) | 2026-04-14 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.8.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
