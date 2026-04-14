@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.13.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
-| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.2.6 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v8.50.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-13 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.27.4 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-13 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.19-nightly-20260302.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-13 |
-| [encode/httpcore](https://github.com/encode/httpcore) | 1.0.9 | [view](https://github.com/repolex-forx/encode--httpcore) | 2026-04-13 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.9-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-13 |
-| [antlr/antlr4](https://github.com/antlr/antlr4) | v4.11.1 | [view](https://github.com/repolex-forx/antlr--antlr4) | 2026-04-13 |
-| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.2.7 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-13 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.13.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-13 |
+| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.0.3 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-14 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.27.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v8.46.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
+| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.0.4 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-14 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.7.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.27.1-0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
+| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.1.0 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-14 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.8.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
+| [hamcrest/JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) | v3.0-rc1 | [view](https://github.com/repolex-forx/hamcrest--JavaHamcrest) | 2026-04-14 |
+| [google/brotli](https://github.com/google/brotli) | v1.0.9 | [view](https://github.com/repolex-forx/google--brotli) | 2026-04-14 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
