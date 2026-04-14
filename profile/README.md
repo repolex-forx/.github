@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.24.3 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.41.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
 | [jestjs/jest](https://github.com/jestjs/jest) | v29.0.2 | [view](https://github.com/repolex-forx/jestjs--jest) | 2026-04-14 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.8.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-14 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) | v3.8.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest-xdist) | 2026-04-14 |
 | [guzzle/guzzle_sphinx_theme](https://github.com/guzzle/guzzle_sphinx_theme) | 0.7.11 | [view](https://github.com/repolex-forx/guzzle--guzzle_sphinx_theme) | 2026-04-14 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.24.4 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.18 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-14 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
