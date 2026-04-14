@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.24.4 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.18 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-14 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.2.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
 | [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.0.0-a5 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-14 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.8.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-14 |
 | [Marco-Sulla/python-frozendict](https://github.com/Marco-Sulla/python-frozendict) | v2.4.7 | [view](https://github.com/repolex-forx/Marco-Sulla--python-frozendict) | 2026-04-14 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.42.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
 | [hamcrest/JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) | v2.2 | [view](https://github.com/repolex-forx/hamcrest--JavaHamcrest) | 2026-04-14 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.18 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-14 |
 | [tkem/cachetools](https://github.com/tkem/cachetools) | v7.0.5 | [view](https://github.com/repolex-forx/tkem--cachetools) | 2026-04-14 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.25.0-0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.3.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.3.1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
