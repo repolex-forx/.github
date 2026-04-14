@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [facebook/jest](https://github.com/facebook/jest) | v29.0.0-alpha.6 | [view](https://github.com/repolex-forx/facebook--jest) | 2026-04-14 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.7.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.22.3 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
 | [bcgit/bc-java](https://github.com/bcgit/bc-java) | r1v60 | [view](https://github.com/repolex-forx/bcgit--bc-java) | 2026-04-14 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.22.5 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.8.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
-| [erdewit/nest_asyncio](https://github.com/erdewit/nest_asyncio) | v1.6.0 | [view](https://github.com/repolex-forx/erdewit--nest_asyncio) | 2026-04-14 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v8.38.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
-| [numpy/numpy](https://github.com/numpy/numpy) | with_maskna | [view](https://github.com/repolex-forx/numpy--numpy) | 2026-04-14 |
-| [giampaolo/psutil](https://github.com/giampaolo/psutil) | v7.2.2 | [view](https://github.com/repolex-forx/giampaolo--psutil) | 2026-04-14 |
-| [python-pillow/Pillow](https://github.com/python-pillow/Pillow) | 12.2.0 | [view](https://github.com/repolex-forx/python-pillow--Pillow) | 2026-04-14 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.8.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-14 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.5.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
+| [apache/iceberg-python](https://github.com/apache/iceberg-python) | pyiceberg-0.11.1rc3 | [view](https://github.com/repolex-forx/apache--iceberg-python) | 2026-04-14 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v8.37.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.6.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.22.4 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
+| [pymupdf/pymupdf](https://github.com/pymupdf/pymupdf) | v1.12.6 | [view](https://github.com/repolex-forx/pymupdf--pymupdf) | 2026-04-14 |
+| [facebook/jest](https://github.com/facebook/jest) | v29.0.0-alpha.6 | [view](https://github.com/repolex-forx/facebook--jest) | 2026-04-14 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
