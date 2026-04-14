@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.1.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
+| [axios/axios](https://github.com/axios/axios) | v1.15.0 | [view](https://github.com/repolex-forx/axios--axios) | 2026-04-14 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.8.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-14 |
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.18 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-14 |
+| [expressjs/compression](https://github.com/expressjs/compression) | v1.8.1 | [view](https://github.com/repolex-forx/expressjs--compression) | 2026-04-14 |
+| [bcgit/bc-java](https://github.com/bcgit/bc-java) | r1v60 | [view](https://github.com/repolex-forx/bcgit--bc-java) | 2026-04-14 |
+| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.0.0-a4 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-14 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.24.3 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.41.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
 | [jestjs/jest](https://github.com/jestjs/jest) | v29.0.2 | [view](https://github.com/repolex-forx/jestjs--jest) | 2026-04-14 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.8.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-14 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v11.2.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
-| [pylint-dev/pylint](https://github.com/pylint-dev/pylint) | v3.0.0-a4 | [view](https://github.com/repolex-forx/pylint-dev--pylint) | 2026-04-14 |
-| [tox-dev/tox](https://github.com/tox-dev/tox) | 4.52.1 | [view](https://github.com/repolex-forx/tox-dev--tox) | 2026-04-14 |
-| [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) | v3.8.0 | [view](https://github.com/repolex-forx/pytest-dev--pytest-xdist) | 2026-04-14 |
-| [guzzle/guzzle_sphinx_theme](https://github.com/guzzle/guzzle_sphinx_theme) | 0.7.11 | [view](https://github.com/repolex-forx/guzzle--guzzle_sphinx_theme) | 2026-04-14 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.24.4 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
