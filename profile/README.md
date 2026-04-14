@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.22.3 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.22.3-0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
 | [bcgit/bc-java](https://github.com/bcgit/bc-java) | r1v60 | [view](https://github.com/repolex-forx/bcgit--bc-java) | 2026-04-14 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.8.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-14 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.4.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
+| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.5.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-14 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v8.36.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
+| [aws/constructs](https://github.com/aws/constructs) | v10.6.0 | [view](https://github.com/repolex-forx/aws--constructs) | 2026-04-14 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.22.3 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.5.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
 | [apache/iceberg-python](https://github.com/apache/iceberg-python) | pyiceberg-0.11.1rc3 | [view](https://github.com/repolex-forx/apache--iceberg-python) | 2026-04-14 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v8.37.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-14 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.6.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-14 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.22.4 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-14 |
-| [pymupdf/pymupdf](https://github.com/pymupdf/pymupdf) | v1.12.6 | [view](https://github.com/repolex-forx/pymupdf--pymupdf) | 2026-04-14 |
-| [facebook/jest](https://github.com/facebook/jest) | v29.0.0-alpha.6 | [view](https://github.com/repolex-forx/facebook--jest) | 2026-04-14 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
