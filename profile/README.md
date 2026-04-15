@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.19.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v8.28.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-15 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.3.0-beta-1 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-15 |
 | [bcgit/bc-java](https://github.com/bcgit/bc-java) | r1rv83 | [view](https://github.com/repolex-forx/bcgit--bc-java) | 2026-04-15 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.8-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-15 |
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.17 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-15 |
+| [sqlalchemy/mako](https://github.com/sqlalchemy/mako) | rel_1_3_9 | [view](https://github.com/repolex-forx/sqlalchemy--mako) | 2026-04-15 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.19.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.3.0-beta-2 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-15 |
 | [redis/redis-py](https://github.com/redis/redis-py) | v7.4.0 | [view](https://github.com/repolex-forx/redis--redis-py) | 2026-04-15 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v8.29.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-15 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.8-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-15 |
-| [malthe/chameleon](https://github.com/malthe/chameleon) | 4.5.4 | [view](https://github.com/repolex-forx/malthe--chameleon) | 2026-04-15 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.3.0-beta-3 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-15 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.19.2 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
-| [antlr/antlr4](https://github.com/antlr/antlr4) | v4.11.0 | [view](https://github.com/repolex-forx/antlr--antlr4) | 2026-04-15 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.3.0-beta-4 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
