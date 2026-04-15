@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [asimov-platform/langchain-asimov](https://github.com/asimov-platform/langchain-asimov) | 0.0.4 | [view](https://github.com/repolex-forx/asimov-platform--langchain-asimov) | 2026-04-15 |
 | [bcgit/bc-java](https://github.com/bcgit/bc-java) | r1rv82 | [view](https://github.com/repolex-forx/bcgit--bc-java) | 2026-04-15 |
 | [asimov-platform/asimov-universe.py](https://github.com/asimov-platform/asimov-universe.py) | 25.0.0.dev0 | [view](https://github.com/repolex-forx/asimov-platform--asimov-universe.py) | 2026-04-15 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.16.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.9 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-15 |
 | [asimov-platform/build-rust-action](https://github.com/asimov-platform/build-rust-action) | v6 | [view](https://github.com/repolex-forx/asimov-platform--build-rust-action) | 2026-04-15 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.16.2 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
-| [facebook/jest](https://github.com/facebook/jest) | v28.0.0 | [view](https://github.com/repolex-forx/facebook--jest) | 2026-04-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
