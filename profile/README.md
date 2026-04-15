@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.8-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-15 |
+| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.3.0-beta-4 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-15 |
+| [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) | v6.0.0 | [view](https://github.com/repolex-forx/gorakhargosh--watchdog) | 2026-04-15 |
+| [lericson/pylibmc](https://github.com/lericson/pylibmc) | pregit | [view](https://github.com/repolex-forx/lericson--pylibmc) | 2026-04-15 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.20.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.3.0-beta-5 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-15 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.30.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-15 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.8-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-15 |
 | [jquast/blessed](https://github.com/jquast/blessed) | terminator-1.0.1 | [view](https://github.com/repolex-forx/jquast--blessed) | 2026-04-15 |
 | [RobertCraigie/pyright-python](https://github.com/RobertCraigie/pyright-python) | v1.1.408 | [view](https://github.com/repolex-forx/RobertCraigie--pyright-python) | 2026-04-15 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.3.0-beta-6 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-15 |
-| [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.11 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-15 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.21.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
-| [bartscheers/gsm](https://github.com/bartscheers/gsm) | v2.2.2 | [view](https://github.com/repolex-forx/bartscheers--gsm) | 2026-04-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
