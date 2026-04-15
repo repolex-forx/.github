@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.16.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
+| [asimov-platform/asimov-universe.rb](https://github.com/asimov-platform/asimov-universe.rb) | 25.0.0.dev.0 | [view](https://github.com/repolex-forx/asimov-platform--asimov-universe.rb) | 2026-04-15 |
 | [asimov-platform/asimov-dataset-cli](https://github.com/asimov-platform/asimov-dataset-cli) | 25.0.0-dev.6 | [view](https://github.com/repolex-forx/asimov-platform--asimov-dataset-cli) | 2026-04-15 |
 | [asimov-platform/asimov-account-cli](https://github.com/asimov-platform/asimov-account-cli) | 25.0.0-dev.0 | [view](https://github.com/repolex-forx/asimov-platform--asimov-account-cli) | 2026-04-15 |
 | [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.9 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-15 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [facebook/jest](https://github.com/facebook/jest) | v28.0.0 | [view](https://github.com/repolex-forx/facebook--jest) | 2026-04-15 |
 | [asimov-platform/homebrew-tap](https://github.com/asimov-platform/homebrew-tap) | asimov-cli-25.0.0-dev.3 | [view](https://github.com/repolex-forx/asimov-platform--homebrew-tap) | 2026-04-15 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.23.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-15 |
-| [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.0.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-15 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.16.3 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
