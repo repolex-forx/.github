@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.15.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.14.3 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.17-nightly-20260226.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-15 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v8.19.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-15 |
+| [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) | vertex-sdk-v0.15.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-typescript) | 2026-04-15 |
+| [anthropics/s5cmd](https://github.com/anthropics/s5cmd) | v2.3.12 | [view](https://github.com/repolex-forx/anthropics--s5cmd) | 2026-04-15 |
+| [NousResearch/llama.cpp](https://github.com/NousResearch/llama.cpp) | master-0728c5a | [view](https://github.com/repolex-forx/NousResearch--llama.cpp) | 2026-04-15 |
+| [rollup/rollup](https://github.com/rollup/rollup) | v4.15.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.20.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-15 |
 | [asimov-platform/manifest-verifier](https://github.com/asimov-platform/manifest-verifier) | 0.1.1 | [view](https://github.com/repolex-forx/asimov-platform--manifest-verifier) | 2026-04-15 |
 | [asimov-platform/apache-airflow-providers-asimov](https://github.com/asimov-platform/apache-airflow-providers-asimov) | 0.0.0 | [view](https://github.com/repolex-forx/asimov-platform--apache-airflow-providers-asimov) | 2026-04-15 |
-| [asimov-platform/prefect-asimov](https://github.com/asimov-platform/prefect-asimov) | 0.0.0 | [view](https://github.com/repolex-forx/asimov-platform--prefect-asimov) | 2026-04-15 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.16.0 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
-| [asimov-platform/llama-index-asimov](https://github.com/asimov-platform/llama-index-asimov) | 0.0.2 | [view](https://github.com/repolex-forx/asimov-platform--llama-index-asimov) | 2026-04-15 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v8.22.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-15 |
-| [asimov-platform/langchain-asimov](https://github.com/asimov-platform/langchain-asimov) | 0.0.4 | [view](https://github.com/repolex-forx/asimov-platform--langchain-asimov) | 2026-04-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
