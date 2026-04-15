@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [asimov-platform/asimov-dataset-cli](https://github.com/asimov-platform/asimov-dataset-cli) | 25.0.0-dev.6 | [view](https://github.com/repolex-forx/asimov-platform--asimov-dataset-cli) | 2026-04-15 |
+| [asimov-platform/asimov-account-cli](https://github.com/asimov-platform/asimov-account-cli) | 25.0.0-dev.0 | [view](https://github.com/repolex-forx/asimov-platform--asimov-account-cli) | 2026-04-15 |
+| [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.9 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-15 |
 | [asimov-platform/build-rust-action](https://github.com/asimov-platform/build-rust-action) | v6 | [view](https://github.com/repolex-forx/asimov-platform--build-rust-action) | 2026-04-15 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.16.2 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
 | [facebook/jest](https://github.com/facebook/jest) | v28.0.0 | [view](https://github.com/repolex-forx/facebook--jest) | 2026-04-15 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.23.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-15 |
 | [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) | v10.0.0 | [view](https://github.com/repolex-forx/sverweij--dependency-cruiser) | 2026-04-15 |
 | [rollup/rollup](https://github.com/rollup/rollup) | v4.16.3 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
-| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.3.1 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-15 |
-| [asimov-platform/asimov.rb](https://github.com/asimov-platform/asimov.rb) | 25.0.0.dev.6 | [view](https://github.com/repolex-forx/asimov-platform--asimov.rb) | 2026-04-15 |
-| [bcgit/bc-java](https://github.com/bcgit/bc-java) | r1rv83 | [view](https://github.com/repolex-forx/bcgit--bc-java) | 2026-04-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
