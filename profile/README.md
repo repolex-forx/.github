@@ -35,15 +35,15 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.16-nightly-20260226.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-16 |
+| [anthropics/healthcare](https://github.com/anthropics/healthcare) | v1.0.0 | [view](https://github.com/repolex-forx/anthropics--healthcare) | 2026-04-16 |
+| [eslint/eslint](https://github.com/eslint/eslint) | v8.12.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-16 |
+| [anthropics/life-sciences](https://github.com/anthropics/life-sciences) | v1.1.1 | [view](https://github.com/repolex-forx/anthropics--life-sciences) | 2026-04-16 |
 | [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.7 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-16 |
 | [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) | v0.2.97 | [view](https://github.com/repolex-forx/anthropics--claude-agent-sdk-typescript) | 2026-04-16 |
 | [anthropics/anthropic-sdk-php](https://github.com/anthropics/anthropic-sdk-php) | v0.12.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-php) | 2026-04-16 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.13.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-16 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v1.2.8 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-16 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v11.0.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-16 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v8.14.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-16 |
-| [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | v1.0.91 | [view](https://github.com/repolex-forx/anthropics--claude-code-action) | 2026-04-16 |
-| [anthropics/claude-code-base-action](https://github.com/anthropics/claude-code-base-action) | v0.0.63 | [view](https://github.com/repolex-forx/anthropics--claude-code-base-action) | 2026-04-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
