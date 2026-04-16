@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [eslint/eslint](https://github.com/eslint/eslint) | v8.14.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-16 |
+| [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | v1.0.91 | [view](https://github.com/repolex-forx/anthropics--claude-code-action) | 2026-04-16 |
 | [anthropics/claude-code-base-action](https://github.com/anthropics/claude-code-base-action) | v0.0.63 | [view](https://github.com/repolex-forx/anthropics--claude-code-base-action) | 2026-04-15 |
 | [bcgit/bc-java](https://github.com/bcgit/bc-java) | r1rv81 | [view](https://github.com/repolex-forx/bcgit--bc-java) | 2026-04-15 |
 | [jestjs/jest](https://github.com/jestjs/jest) | v28.0.0-alpha.5 | [view](https://github.com/repolex-forx/jestjs--jest) | 2026-04-15 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [anthropics/devcontainer-features](https://github.com/anthropics/devcontainer-features) | feature_claude-code_1.0.4 | [view](https://github.com/repolex-forx/anthropics--devcontainer-features) | 2026-04-15 |
 | [anthropics/anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) | v2.22.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-java) | 2026-04-15 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.16.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-15 |
-| [rollup/rollup](https://github.com/rollup/rollup) | v4.13.1 | [view](https://github.com/repolex-forx/rollup--rollup) | 2026-04-15 |
-| [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.8 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
