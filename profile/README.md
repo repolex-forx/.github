@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.7-beta | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-16 |
+| [facebook/jest](https://github.com/facebook/jest) | v28.0.0-alpha.1 | [view](https://github.com/repolex-forx/facebook--jest) | 2026-04-16 |
+| [python-hyper/h11](https://github.com/python-hyper/h11) | v0.16.0 | [view](https://github.com/repolex-forx/python-hyper--h11) | 2026-04-16 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v10.4.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-16 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v1.2.7 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-16 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.10.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-16 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [anthropics/anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) | v2.21.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-java) | 2026-04-16 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.11.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-16 |
 | [anthropics/buffa](https://github.com/anthropics/buffa) | v0.3.0 | [view](https://github.com/repolex-forx/anthropics--buffa) | 2026-04-16 |
-| [anthropics/connect-rust](https://github.com/anthropics/connect-rust) | v0.3.2 | [view](https://github.com/repolex-forx/anthropics--connect-rust) | 2026-04-16 |
-| [anthropics/healthcare](https://github.com/anthropics/healthcare) | v1.0.0 | [view](https://github.com/repolex-forx/anthropics--healthcare) | 2026-04-16 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v8.12.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
