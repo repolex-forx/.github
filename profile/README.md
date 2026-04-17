@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v15.13.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-17 |
+| [anthropics/anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) | v2.16.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-java) | 2026-04-17 |
+| [deedy5/duckduckgo_search](https://github.com/deedy5/duckduckgo_search) | v9.12.1 | [view](https://github.com/repolex-forx/deedy5--duckduckgo_search) | 2026-04-17 |
+| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.2.1 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-17 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+17 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-17 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.12-nightly-20260222.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-17 |
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v15.13.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-17 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.6.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-17 |
 | [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) | v0.14.1 | [view](https://github.com/repolex-forx/jaredpalmer--tsdx) | 2026-04-17 |
 | [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) | v2.0.0 | [view](https://github.com/repolex-forx/jaredpalmer--tsdx) | 2026-04-17 |
 | [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | v3.0.0 | [view](https://github.com/repolex-forx/pandas-dev--pandas) | 2026-04-17 |
-| [eslint/eslint](https://github.com/eslint/eslint) | v8.7.0 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-17 |
-| [lerna/lerna](https://github.com/lerna/lerna) | v9.0.7 | [view](https://github.com/repolex-forx/lerna--lerna) | 2026-04-17 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | v2026.4.3 | [view](https://github.com/repolex-forx/NousResearch--hermes-agent) | 2026-04-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
