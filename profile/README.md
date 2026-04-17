@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [alexjoverm/tslint-config-prettier](https://github.com/alexjoverm/tslint-config-prettier) | v1.18.0 | [view](https://github.com/repolex-forx/alexjoverm--tslint-config-prettier) | 2026-04-17 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+17 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-17 |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v15.13.1 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-17 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.6-beta | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-17 |
+| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.2.2 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-17 |
+| [anthropics/anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) | v2.17.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-java) | 2026-04-17 |
+| [antlr/antlr4](https://github.com/antlr/antlr4) | v4.10.0 | [view](https://github.com/repolex-forx/antlr--antlr4) | 2026-04-17 |
+| [anthropics/connect-rust](https://github.com/anthropics/connect-rust) | v0.2.0 | [view](https://github.com/repolex-forx/anthropics--connect-rust) | 2026-04-17 |
+| [alexjoverm/tslint-config-prettier](https://github.com/alexjoverm/tslint-config-prettier) | v1.18.0 | [view](https://github.com/repolex-forx/alexjoverm--tslint-config-prettier) | 2026-04-17 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v10.2.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-17 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v1.2.3 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-17 |
-| [anthropics/anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) | v2.18.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-java) | 2026-04-17 |
-| [anthropics/connect-rust](https://github.com/anthropics/connect-rust) | v0.2.1 | [view](https://github.com/repolex-forx/anthropics--connect-rust) | 2026-04-17 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.6-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-17 |
-| [hmrc/service-manager](https://github.com/hmrc/service-manager) | 0.0.4 | [view](https://github.com/repolex-forx/hmrc--service-manager) | 2026-04-16 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v10.2.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
