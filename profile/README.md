@@ -34,9 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+17 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-17 |
 | [groq/groq-python](https://github.com/groq/groq-python) | v1.1.2 | [view](https://github.com/repolex-forx/groq--groq-python) | 2026-04-17 |
 | [bigcat88/pillow_heif](https://github.com/bigcat88/pillow_heif) | v1.3.0 | [view](https://github.com/repolex-forx/bigcat88--pillow_heif) | 2026-04-17 |
-| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+17 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-17 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v10.1.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-17 |
 | [praw-dev/prawcore](https://github.com/praw-dev/prawcore) | v3.0.2 | [view](https://github.com/repolex-forx/praw-dev--prawcore) | 2026-04-17 |
 | [eslint/eslint](https://github.com/eslint/eslint) | v8.4.1 | [view](https://github.com/repolex-forx/eslint--eslint) | 2026-04-17 |
