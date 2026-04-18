@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [webpack-contrib/imports-loader](https://github.com/webpack-contrib/imports-loader) | v5.0.0 | [view](https://github.com/repolex-forx/webpack-contrib--imports-loader) | 2026-04-18 |
 | [apache/arrow](https://github.com/apache/arrow) | r-16.1.0 | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-18 |
 | [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) | v5.0.2 | [view](https://github.com/repolex-forx/webpack-contrib--file-loader) | 2026-04-18 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+16 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-18 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [aFarkas/html5shiv](https://github.com/aFarkas/html5shiv) | 3.7.3 | [view](https://github.com/repolex-forx/aFarkas--html5shiv) | 2026-04-18 |
 | [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) | v5.1.0 | [view](https://github.com/repolex-forx/webpack-contrib--file-loader) | 2026-04-18 |
 | [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) | v6.0.0 | [view](https://github.com/repolex-forx/webpack-contrib--file-loader) | 2026-04-18 |
-| [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | v4.6.2 | [view](https://github.com/repolex-forx/FortAwesome--Font-Awesome) | 2026-04-18 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
