@@ -35,15 +35,15 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [apache/arrow](https://github.com/apache/arrow) | r-16.1.0 | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-18 |
+| [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) | v5.0.2 | [view](https://github.com/repolex-forx/webpack-contrib--file-loader) | 2026-04-18 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+16 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-18 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v0.1.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-18 |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v15.5.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-18 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.5 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-18 |
+| [aFarkas/html5shiv](https://github.com/aFarkas/html5shiv) | 3.7.3 | [view](https://github.com/repolex-forx/aFarkas--html5shiv) | 2026-04-18 |
+| [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) | v5.1.0 | [view](https://github.com/repolex-forx/webpack-contrib--file-loader) | 2026-04-18 |
 | [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) | v6.0.0 | [view](https://github.com/repolex-forx/webpack-contrib--file-loader) | 2026-04-18 |
 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | v4.6.2 | [view](https://github.com/repolex-forx/FortAwesome--Font-Awesome) | 2026-04-18 |
-| [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) | v6.1.0 | [view](https://github.com/repolex-forx/webpack-contrib--file-loader) | 2026-04-18 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.10-nightly-20260119.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-18 |
-| [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) | v6.1.1 | [view](https://github.com/repolex-forx/webpack-contrib--file-loader) | 2026-04-18 |
-| [webpack/css-loader](https://github.com/webpack/css-loader) | v7.1.3 | [view](https://github.com/repolex-forx/webpack--css-loader) | 2026-04-18 |
-| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.0.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-18 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
