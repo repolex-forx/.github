@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.0.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-18 |
 | [apache/arrow](https://github.com/apache/arrow) | r-16.1.0 | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-18 |
+| [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) | v6.1.0 | [view](https://github.com/repolex-forx/webpack-contrib--file-loader) | 2026-04-18 |
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.10-nightly-20260119.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-18 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.5 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-18 |
+| [webpack-contrib/file-loader](https://github.com/webpack-contrib/file-loader) | v6.1.1 | [view](https://github.com/repolex-forx/webpack-contrib--file-loader) | 2026-04-18 |
+| [webpack/css-loader](https://github.com/webpack/css-loader) | v7.1.3 | [view](https://github.com/repolex-forx/webpack--css-loader) | 2026-04-18 |
+| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.0.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-18 |
 | [thoughtbot/neat](https://github.com/thoughtbot/neat) | v2.1.0 | [view](https://github.com/repolex-forx/thoughtbot--neat) | 2026-04-18 |
 | [webpack-contrib/copy-webpack-plugin](https://github.com/webpack-contrib/copy-webpack-plugin) | v14.0.0 | [view](https://github.com/repolex-forx/webpack-contrib--copy-webpack-plugin) | 2026-04-18 |
 | [thoughtbot/neat](https://github.com/thoughtbot/neat) | v3.0.1 | [view](https://github.com/repolex-forx/thoughtbot--neat) | 2026-04-18 |
-| [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) | v7.3.0 | [view](https://github.com/repolex-forx/thoughtbot--bourbon) | 2026-04-18 |
-| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+17 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-18 |
-| [mattstyles/grunt-banner](https://github.com/mattstyles/grunt-banner) | v0.1.1 | [view](https://github.com/repolex-forx/mattstyles--grunt-banner) | 2026-04-18 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.5-beta | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-18 |
-| [gruntjs/grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) | v5.1.0 | [view](https://github.com/repolex-forx/gruntjs--grunt-contrib-uglify) | 2026-04-18 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
