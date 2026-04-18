@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.2.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-17 |
-| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+17 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-17 |
+| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+17 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-18 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.5-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-18 |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v15.10.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-18 |
+| [lancedb/lancedb](https://github.com/lancedb/lancedb) | v0.28.0-beta.1 | [view](https://github.com/repolex-forx/lancedb--lancedb) | 2026-04-18 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v10.1.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-18 |
 | [cypress-io/cypress](https://github.com/cypress-io/cypress) | v15.11.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-17 |
+| [anthropics/anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) | v2.16.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-java) | 2026-04-17 |
+| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.2.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-17 |
 | [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) | v20241101-00-lfs-pointers | [view](https://github.com/repolex-forx/huggingface--huggingface_hub) | 2026-04-17 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.5.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-17 |
-| [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) | v2.41.5 | [view](https://github.com/repolex-forx/pydantic--pydantic-core) | 2026-04-17 |
-| [groq/groq-python](https://github.com/groq/groq-python) | v1.1.2 | [view](https://github.com/repolex-forx/groq--groq-python) | 2026-04-17 |
-| [bigcat88/pillow_heif](https://github.com/bigcat88/pillow_heif) | v1.3.0 | [view](https://github.com/repolex-forx/bigcat88--pillow_heif) | 2026-04-17 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v10.1.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-17 |
-| [praw-dev/prawcore](https://github.com/praw-dev/prawcore) | v3.0.2 | [view](https://github.com/repolex-forx/praw-dev--prawcore) | 2026-04-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
