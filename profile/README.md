@@ -35,15 +35,15 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+17 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-18 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v10.0.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-18 |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | v5.5.2 | [view](https://github.com/repolex-forx/huggingface--transformers) | 2026-04-18 |
+| [babel/babel](https://github.com/babel/babel) | v7.25.8 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-18 |
+| [anthropics/anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) | v2.15.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-java) | 2026-04-18 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.5-rc | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-18 |
+| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.1.1 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-18 |
 | [cypress-io/cypress](https://github.com/cypress-io/cypress) | v15.10.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-18 |
 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | v0.28.0-beta.1 | [view](https://github.com/repolex-forx/lancedb--lancedb) | 2026-04-18 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v10.1.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-18 |
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v15.11.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-17 |
-| [anthropics/anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) | v2.16.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-java) | 2026-04-17 |
-| [macournoyer/thin](https://github.com/macournoyer/thin) | v1.2.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-17 |
-| [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) | v20241101-00-lfs-pointers | [view](https://github.com/repolex-forx/huggingface--huggingface_hub) | 2026-04-17 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.5.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
