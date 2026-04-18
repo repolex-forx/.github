@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [mattstyles/grunt-banner](https://github.com/mattstyles/grunt-banner) | v0.1.1 | [view](https://github.com/repolex-forx/mattstyles--grunt-banner) | 2026-04-18 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.5-beta | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-18 |
 | [apache/arrow](https://github.com/apache/arrow) | r-16.1.0 | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-18 |
 | [gruntjs/grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) | v5.1.0 | [view](https://github.com/repolex-forx/gruntjs--grunt-contrib-uglify) | 2026-04-18 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [bower/bower](https://github.com/bower/bower) | v1.8.12 | [view](https://github.com/repolex-forx/bower--bower) | 2026-04-18 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v0.2.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-18 |
 | [anthropics/anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) | v2.14.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-java) | 2026-04-18 |
-| [MiCHiLU/python-functools32](https://github.com/MiCHiLU/python-functools32) | 3.2.3 | [view](https://github.com/repolex-forx/MiCHiLU--python-functools32) | 2026-04-18 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
