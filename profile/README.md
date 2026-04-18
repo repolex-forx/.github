@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [sphinx-contrib/jquery](https://github.com/sphinx-contrib/jquery) | v4.1 | [view](https://github.com/repolex-forx/sphinx-contrib--jquery) | 2026-04-18 |
+| [apache/arrow](https://github.com/apache/arrow) | r-16.1.0 | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-18 |
+| [pypa/build](https://github.com/pypa/build) | 1.4.2 | [view](https://github.com/repolex-forx/pypa--build) | 2026-04-18 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+17 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-18 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.5-beta | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-18 |
+| [sphinx-contrib/jquery](https://github.com/sphinx-contrib/jquery) | v4.1 | [view](https://github.com/repolex-forx/sphinx-contrib--jquery) | 2026-04-18 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v1.1.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-18 |
 | [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) | 3.9.10 | [view](https://github.com/repolex-forx/tox-dev--sphinx-autodoc-typehints) | 2026-04-18 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.5-beta | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-18 |
 | [python-trio/trio-typing](https://github.com/python-trio/trio-typing) | v0.9.0 | [view](https://github.com/repolex-forx/python-trio--trio-typing) | 2026-04-18 |
 | [antlr/antlr4](https://github.com/antlr/antlr4) | runtime/Go/antlr/v4/v4.12.0 | [view](https://github.com/repolex-forx/antlr--antlr4) | 2026-04-18 |
 | [jaraco/configparser](https://github.com/jaraco/configparser) | v7.1.0 | [view](https://github.com/repolex-forx/jaraco--configparser) | 2026-04-18 |
-| [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) | 5.3.0 | [view](https://github.com/repolex-forx/mkleehammer--pyodbc) | 2026-04-18 |
-| [testing-cabal/fixtures](https://github.com/testing-cabal/fixtures) | 4.3.2 | [view](https://github.com/repolex-forx/testing-cabal--fixtures) | 2026-04-18 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
