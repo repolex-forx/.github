@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [sphinx-contrib/jquery](https://github.com/sphinx-contrib/jquery) | v4.1 | [view](https://github.com/repolex-forx/sphinx-contrib--jquery) | 2026-04-18 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+17 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-18 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v1.1.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-18 |
 | [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) | 3.9.10 | [view](https://github.com/repolex-forx/tox-dev--sphinx-autodoc-typehints) | 2026-04-18 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [jaraco/configparser](https://github.com/jaraco/configparser) | v7.1.0 | [view](https://github.com/repolex-forx/jaraco--configparser) | 2026-04-18 |
 | [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) | 5.3.0 | [view](https://github.com/repolex-forx/mkleehammer--pyodbc) | 2026-04-18 |
 | [testing-cabal/fixtures](https://github.com/testing-cabal/fixtures) | 4.3.2 | [view](https://github.com/repolex-forx/testing-cabal--fixtures) | 2026-04-18 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | v10.0.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-18 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
