@@ -36,14 +36,14 @@ lexq download repolex-ai/lexq
 |--------|-----|------|--------|
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.5 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-19 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+16 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-19 |
+| [webpack-contrib/style-loader](https://github.com/webpack-contrib/style-loader) | v4.0.0 | [view](https://github.com/repolex-forx/webpack-contrib--style-loader) | 2026-04-19 |
+| [webpack-contrib/sass-loader](https://github.com/webpack-contrib/sass-loader) | v16.0.7 | [view](https://github.com/repolex-forx/webpack-contrib--sass-loader) | 2026-04-19 |
 | [choffmeister/roboto-fontface-bower](https://github.com/choffmeister/roboto-fontface-bower) | v0.10.0 | [view](https://github.com/repolex-forx/choffmeister--roboto-fontface-bower) | 2026-04-19 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.2.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-19 |
 | [NMFR/optimize-css-assets-webpack-plugin](https://github.com/NMFR/optimize-css-assets-webpack-plugin) | v6.0.1 | [view](https://github.com/repolex-forx/NMFR--optimize-css-assets-webpack-plugin) | 2026-04-19 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.8 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-19 |
 | [sass/node-sass](https://github.com/sass/node-sass) | v8.0.0 | [view](https://github.com/repolex-forx/sass--node-sass) | 2026-04-19 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v0.8.2 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-19 |
-| [apache/arrow](https://github.com/apache/arrow) | r-16.1.0 | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-19 |
-| [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) | v2.10.2 | [view](https://github.com/repolex-forx/webpack-contrib--mini-css-extract-plugin) | 2026-04-18 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
