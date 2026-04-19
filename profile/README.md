@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [TheKevJames/coveralls-python](https://github.com/TheKevJames/coveralls-python) | 4.1.0 | [view](https://github.com/repolex-forx/TheKevJames--coveralls-python) | 2026-04-19 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.105.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-19 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+15 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-19 |
 | [webpack/webpack-cli](https://github.com/webpack/webpack-cli) | v4.0.0-beta.9 | [view](https://github.com/repolex-forx/webpack--webpack-cli) | 2026-04-19 |
 | [snide/wyrm](https://github.com/snide/wyrm) | 1.0.9 | [view](https://github.com/repolex-forx/snide--wyrm) | 2026-04-19 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [antlr/antlr4](https://github.com/antlr/antlr4) | runtime/Go/antlr/v4/v4.11.0 | [view](https://github.com/repolex-forx/antlr--antlr4) | 2026-04-19 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 4.0.0-beta.2 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-19 |
 | [1337programming/webpack-shell-plugin](https://github.com/1337programming/webpack-shell-plugin) | 0.3.2 | [view](https://github.com/repolex-forx/1337programming--webpack-shell-plugin) | 2026-04-19 |
-| [macournoyer/thin](https://github.com/macournoyer/thin) | v0.7.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-19 |
-| [survivejs/webpack-merge](https://github.com/survivejs/webpack-merge) | v6.0.1 | [view](https://github.com/repolex-forx/survivejs--webpack-merge) | 2026-04-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
