@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [antlr/antlr4](https://github.com/antlr/antlr4) | runtime/Go/antlr/v4/v4.11.0 | [view](https://github.com/repolex-forx/antlr--antlr4) | 2026-04-19 |
+| [jquery/jquery](https://github.com/jquery/jquery) | 4.0.0-beta.2 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-19 |
+| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+15 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-19 |
+| [1337programming/webpack-shell-plugin](https://github.com/1337programming/webpack-shell-plugin) | 0.3.2 | [view](https://github.com/repolex-forx/1337programming--webpack-shell-plugin) | 2026-04-19 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v0.7.0 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-19 |
 | [survivejs/webpack-merge](https://github.com/survivejs/webpack-merge) | v6.0.1 | [view](https://github.com/repolex-forx/survivejs--webpack-merge) | 2026-04-19 |
-| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+15 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-19 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.105.3 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-19 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-19 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.1.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-19 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.105.4 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-19 |
-| [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) | v5.2.3 | [view](https://github.com/repolex-forx/webpack--webpack-dev-server) | 2026-04-19 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.4 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-19 |
-| [antlr/antlr4](https://github.com/antlr/antlr4) | v4.11.1 | [view](https://github.com/repolex-forx/antlr--antlr4) | 2026-04-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
