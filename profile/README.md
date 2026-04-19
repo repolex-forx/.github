@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.3 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-19 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.1.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-19 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.105.4 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-19 |
+| [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server) | v5.2.3 | [view](https://github.com/repolex-forx/webpack--webpack-dev-server) | 2026-04-19 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.4 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-19 |
 | [antlr/antlr4](https://github.com/antlr/antlr4) | v4.11.1 | [view](https://github.com/repolex-forx/antlr--antlr4) | 2026-04-19 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+16 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-19 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v0.7.1 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-19 |
 | [cypress-io/cypress](https://github.com/cypress-io/cypress) | v14.5.3 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-19 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.5 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-19 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.2.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-19 |
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v14.5.4 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-19 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 4.0.0-rc.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
