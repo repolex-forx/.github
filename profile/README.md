@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [juanbindez/pytubefix](https://github.com/juanbindez/pytubefix) | v8.11.0 | [view](https://github.com/repolex-forx/juanbindez--pytubefix) | 2026-04-20 |
+| [apple/foundationdb](https://github.com/apple/foundationdb) | snowflake-71.3.6-rc1 | [view](https://github.com/repolex-forx/apple--foundationdb) | 2026-04-20 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-20 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.104.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-20 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+15 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-20 |
 | [apple/coremltools](https://github.com/apple/coremltools) | v3.0-beta | [view](https://github.com/repolex-forx/apple--coremltools) | 2026-04-20 |
+| [juanbindez/pytubefix](https://github.com/juanbindez/pytubefix) | v8.11.0 | [view](https://github.com/repolex-forx/juanbindez--pytubefix) | 2026-04-20 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.104.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-20 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v0.6.3 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-20 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-20 |
 | [apple/swift-protobuf](https://github.com/apple/swift-protobuf) | protoc-artifactbundle-v31.1 | [view](https://github.com/repolex-forx/apple--swift-protobuf) | 2026-04-20 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.0.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-20 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.105.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-20 |
-| [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) | v4.3.0 | [view](https://github.com/repolex-forx/CodSpeedHQ--pytest-codspeed) | 2026-04-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
