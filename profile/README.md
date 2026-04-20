@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.105.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-20 |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-20 |
+| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+15 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-20 |
 | [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) | v4.3.0 | [view](https://github.com/repolex-forx/CodSpeedHQ--pytest-codspeed) | 2026-04-19 |
 | [TheKevJames/coveralls-python](https://github.com/TheKevJames/coveralls-python) | 4.1.0 | [view](https://github.com/repolex-forx/TheKevJames--coveralls-python) | 2026-04-19 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.105.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-19 |
-| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+15 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-19 |
 | [webpack/webpack-cli](https://github.com/webpack/webpack-cli) | v4.0.0-beta.9 | [view](https://github.com/repolex-forx/webpack--webpack-cli) | 2026-04-19 |
 | [snide/wyrm](https://github.com/snide/wyrm) | 1.0.9 | [view](https://github.com/repolex-forx/snide--wyrm) | 2026-04-19 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.105.2 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-19 |
 | [Fridus/webpack-watch-files-plugin](https://github.com/Fridus/webpack-watch-files-plugin) | v1.2.1 | [view](https://github.com/repolex-forx/Fridus--webpack-watch-files-plugin) | 2026-04-19 |
-| [antlr/antlr4](https://github.com/antlr/antlr4) | runtime/Go/antlr/v4/v4.11.0 | [view](https://github.com/repolex-forx/antlr--antlr4) | 2026-04-19 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 4.0.0-beta.2 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
