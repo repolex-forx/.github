@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [praw-dev/praw](https://github.com/praw-dev/praw) | v4.3.0 | [view](https://github.com/repolex-forx/praw-dev--praw) | 2026-04-20 |
-| [apple/swift-numerics](https://github.com/apple/swift-numerics) | 1.1.1 | [view](https://github.com/repolex-forx/apple--swift-numerics) | 2026-04-20 |
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v14.3.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-20 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.1.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-20 |
-| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+15 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-20 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.102.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-20 |
-| [apple/foundationdb](https://github.com/apple/foundationdb) | snowflake-71.3.6-rc1 | [view](https://github.com/repolex-forx/apple--foundationdb) | 2026-04-20 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.103.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-20 |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | v5.4.2 | [view](https://github.com/repolex-forx/microsoft--TypeScript) | 2026-04-20 |
-| [apple/swift-nio](https://github.com/apple/swift-nio) | 2.97.1 | [view](https://github.com/repolex-forx/apple--swift-nio) | 2026-04-20 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.6 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v13.16.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-21 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.7 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Foundry-v0.4.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-21 |
+| [macournoyer/thin](https://github.com/macournoyer/thin) | v0.5.3 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-21 |
+| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.4 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-21 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.8 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
+| [jquery/jquery](https://github.com/jquery/jquery) | 3.6.4 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-21 |
+| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+15 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-21 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.9 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
