@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.5 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
+| [apple/swift-metrics](https://github.com/apple/swift-metrics) | 2.8.0 | [view](https://github.com/repolex-forx/apple--swift-metrics) | 2026-04-21 |
 | [apple/swift-log](https://github.com/apple/swift-log) | 1.11.0 | [view](https://github.com/repolex-forx/apple--swift-log) | 2026-04-21 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.6.3 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-21 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.99.6 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Foundry-v0.4.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-21 |
 | [macournoyer/thin](https://github.com/macournoyer/thin) | v0.5.3 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-21 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.4 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-21 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.8 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 3.6.4 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
