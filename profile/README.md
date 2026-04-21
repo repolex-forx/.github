@@ -34,10 +34,10 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+14 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-21 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.98.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.6.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-21 |
 | [apple/swift-atomics](https://github.com/apple/swift-atomics) | 1.3.0 | [view](https://github.com/repolex-forx/apple--swift-atomics) | 2026-04-21 |
-| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+14 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-21 |
 | [apple/swift-algorithms](https://github.com/apple/swift-algorithms) | 1.2.1 | [view](https://github.com/repolex-forx/apple--swift-algorithms) | 2026-04-21 |
 | [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) | 1.7.1 | [view](https://github.com/repolex-forx/apple--swift-argument-parser) | 2026-04-21 |
 | [apple/swift-system](https://github.com/apple/swift-system) | v0.0.2 | [view](https://github.com/repolex-forx/apple--swift-system) | 2026-04-21 |
