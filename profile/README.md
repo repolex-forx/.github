@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.4 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
-| [macournoyer/thin](https://github.com/macournoyer/thin) | v0.5.2 | [view](https://github.com/repolex-forx/macournoyer--thin) | 2026-04-21 |
-| [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) | 1.0.0-beta.3 | [view](https://github.com/repolex-forx/apple--swift-distributed-actors) | 2026-04-21 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+14 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-21 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.5 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
-| [apple/swift-metrics](https://github.com/apple/swift-metrics) | 2.8.0 | [view](https://github.com/repolex-forx/apple--swift-metrics) | 2026-04-21 |
-| [apple/swift-log](https://github.com/apple/swift-log) | 1.11.0 | [view](https://github.com/repolex-forx/apple--swift-log) | 2026-04-21 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 3.6.3 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-21 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.6 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v13.16.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-21 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
+| [antlr/antlr4](https://github.com/antlr/antlr4) | runtime/Go/antlr/v1.4.10 | [view](https://github.com/repolex-forx/antlr--antlr4) | 2026-04-21 |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v13.15.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-21 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.2 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
+| [apple/swift-crypto](https://github.com/apple/swift-crypto) | 4.3.1 | [view](https://github.com/repolex-forx/apple--swift-crypto) | 2026-04-21 |
+| [jquery/jquery](https://github.com/jquery/jquery) | 3.6.2 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-21 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Foundry-v0.3.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-21 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.99.3 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
