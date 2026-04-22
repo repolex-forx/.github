@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [rayon-rs/rayon](https://github.com/rayon-rs/rayon) | v1.11.0 | [view](https://github.com/repolex-forx/rayon-rs--rayon) | 2026-04-22 |
+| [twitter-archive/diffy](https://github.com/twitter-archive/diffy) | v0.0.1 | [view](https://github.com/repolex-forx/twitter-archive--diffy) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.90.3 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
 | [zkat/miette](https://github.com/zkat/miette) | v7.6.0 | [view](https://github.com/repolex-forx/zkat--miette) | 2026-04-22 |
 | [clap-rs/clap](https://github.com/clap-rs/clap) | v4.6.0 | [view](https://github.com/repolex-forx/clap-rs--clap) | 2026-04-22 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.5.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
 | [pypa/setuptools](https://github.com/pypa/setuptools) | v82.0.1 | [view](https://github.com/repolex-forx/pypa--setuptools) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.92.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Bedrock-v0.2.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-22 |
-| [twitter-archive/diffy](https://github.com/twitter-archive/diffy) | v1.0.0 | [view](https://github.com/repolex-forx/twitter-archive--diffy) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
