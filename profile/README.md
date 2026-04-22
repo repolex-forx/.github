@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [rubocop/rubocop](https://github.com/rubocop/rubocop) | v1.86.1 | [view](https://github.com/repolex-forx/rubocop--rubocop) | 2026-04-22 |
+| [babel/babel](https://github.com/babel/babel) | v7.22.8 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-22 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.90.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
+| [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) | find-msvc-tools-v0.1.9 | [view](https://github.com/repolex-forx/rust-lang--cc-rs) | 2026-04-22 |
+| [known-facts/known-errors](https://github.com/known-facts/known-errors) | 0.1.1 | [view](https://github.com/repolex-forx/known-facts--known-errors) | 2026-04-22 |
 | [baoyachi/shadow-rs](https://github.com/baoyachi/shadow-rs) | v1.7.1 | [view](https://github.com/repolex-forx/baoyachi--shadow-rs) | 2026-04-22 |
 | [katharostech/cfg_aliases](https://github.com/katharostech/cfg_aliases) | v0.2.1 | [view](https://github.com/repolex-forx/katharostech--cfg_aliases) | 2026-04-22 |
 | [dtolnay/indoc](https://github.com/dtolnay/indoc) | 2.0.7 | [view](https://github.com/repolex-forx/dtolnay--indoc) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.90.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
 | [hyperium/mime](https://github.com/hyperium/mime) | v0.3.17 | [view](https://github.com/repolex-forx/hyperium--mime) | 2026-04-22 |
-| [bojand/infer](https://github.com/bojand/infer) | v0.19.0 | [view](https://github.com/repolex-forx/bojand--infer) | 2026-04-22 |
-| [servo/rust-url](https://github.com/servo/rust-url) | v2.5.8 | [view](https://github.com/repolex-forx/servo--rust-url) | 2026-04-22 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Bedrock-v0.1.2 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-22 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 3.4.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
-| [dtolnay/thiserror](https://github.com/dtolnay/thiserror) | 2.0.18 | [view](https://github.com/repolex-forx/dtolnay--thiserror) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
