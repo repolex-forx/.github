@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.91.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
+| [jquery/jquery](https://github.com/jquery/jquery) | 3.5.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
+| [pypa/setuptools](https://github.com/pypa/setuptools) | v82.0.1 | [view](https://github.com/repolex-forx/pypa--setuptools) | 2026-04-22 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.92.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Bedrock-v0.2.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-22 |
 | [twitter-archive/diffy](https://github.com/twitter-archive/diffy) | v1.0.0 | [view](https://github.com/repolex-forx/twitter-archive--diffy) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.92.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
 | [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) | v0.1.1 | [view](https://github.com/repolex-forx/apple--python-apple-fm-sdk) | 2026-04-22 |
 | [apple/container](https://github.com/apple/container) | 0.11.0 | [view](https://github.com/repolex-forx/apple--container) | 2026-04-22 |
 | [apple/swift-configuration](https://github.com/apple/swift-configuration) | 1.2.0 | [view](https://github.com/repolex-forx/apple--swift-configuration) | 2026-04-22 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.93.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v13.13.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-22 |
-| [apple/containerization](https://github.com/apple/containerization) | 0.30.1 | [view](https://github.com/repolex-forx/apple--containerization) | 2026-04-22 |
-| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | v0.20.0 | [view](https://github.com/repolex-forx/apple--embedding-atlas) | 2026-04-22 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 3.5.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
