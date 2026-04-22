@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.92.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
+| [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) | v0.1.1 | [view](https://github.com/repolex-forx/apple--python-apple-fm-sdk) | 2026-04-22 |
 | [apple/container](https://github.com/apple/container) | 0.11.0 | [view](https://github.com/repolex-forx/apple--container) | 2026-04-22 |
 | [apple/swift-configuration](https://github.com/apple/swift-configuration) | 1.2.0 | [view](https://github.com/repolex-forx/apple--swift-configuration) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.93.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | v0.20.0 | [view](https://github.com/repolex-forx/apple--embedding-atlas) | 2026-04-22 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.5.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
 | [babel/babel](https://github.com/babel/babel) | v7.22.14 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-22 |
-| [apple/swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) | v1.0.0-rc.1 | [view](https://github.com/repolex-forx/apple--swift-homomorphic-encryption) | 2026-04-22 |
-| [apple/pkl](https://github.com/apple/pkl) | 0.31.1 | [view](https://github.com/repolex-forx/apple--pkl) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
