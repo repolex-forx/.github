@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [dtolnay/indoc](https://github.com/dtolnay/indoc) | 2.0.7 | [view](https://github.com/repolex-forx/dtolnay--indoc) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.90.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
 | [hyperium/mime](https://github.com/hyperium/mime) | v0.3.17 | [view](https://github.com/repolex-forx/hyperium--mime) | 2026-04-22 |
 | [bojand/infer](https://github.com/bojand/infer) | v0.19.0 | [view](https://github.com/repolex-forx/bojand--infer) | 2026-04-22 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [dtolnay/thiserror](https://github.com/dtolnay/thiserror) | 2.0.18 | [view](https://github.com/repolex-forx/dtolnay--thiserror) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.90.2 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
 | [rayon-rs/rayon](https://github.com/rayon-rs/rayon) | v1.11.0 | [view](https://github.com/repolex-forx/rayon-rs--rayon) | 2026-04-22 |
-| [twitter-archive/diffy](https://github.com/twitter-archive/diffy) | v0.0.1 | [view](https://github.com/repolex-forx/twitter-archive--diffy) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
