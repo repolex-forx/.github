@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.95.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
+| [apple/pkl](https://github.com/apple/pkl) | 0.31.1 | [view](https://github.com/repolex-forx/apple--pkl) | 2026-04-22 |
+| [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) | 1.11.1 | [view](https://github.com/repolex-forx/apple--swift-openapi-generator) | 2026-04-22 |
 | [apple/swift-http-types](https://github.com/apple/swift-http-types) | 1.5.1 | [view](https://github.com/repolex-forx/apple--swift-http-types) | 2026-04-22 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.2 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-22 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.6.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) | 1.1.1 | [view](https://github.com/repolex-forx/apple--ml-stable-diffusion) | 2026-04-22 |
 | [apple/unityplugins](https://github.com/apple/unityplugins) | SpatialController-1.0.4 | [view](https://github.com/repolex-forx/apple--unityplugins) | 2026-04-22 |
 | [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) | v0.1.3 | [view](https://github.com/repolex-forx/apple--ml-ane-transformers) | 2026-04-22 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.96.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
-| [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) | 1.1.3 | [view](https://github.com/repolex-forx/apple--swift-async-algorithms) | 2026-04-21 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.97.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
