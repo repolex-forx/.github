@@ -35,6 +35,8 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [rubocop/rubocop](https://github.com/rubocop/rubocop) | v1.86.1 | [view](https://github.com/repolex-forx/rubocop--rubocop) | 2026-04-22 |
+| [ruby/ruby](https://github.com/ruby/ruby) | v4.0.2 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-22 |
+| [socketry/async](https://github.com/socketry/async) | v2.39.0 | [view](https://github.com/repolex-forx/socketry--async) | 2026-04-22 |
 | [babel/babel](https://github.com/babel/babel) | v7.22.8 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.90.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
 | [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) | find-msvc-tools-v0.1.9 | [view](https://github.com/repolex-forx/rust-lang--cc-rs) | 2026-04-22 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [baoyachi/shadow-rs](https://github.com/baoyachi/shadow-rs) | v1.7.1 | [view](https://github.com/repolex-forx/baoyachi--shadow-rs) | 2026-04-22 |
 | [katharostech/cfg_aliases](https://github.com/katharostech/cfg_aliases) | v0.2.1 | [view](https://github.com/repolex-forx/katharostech--cfg_aliases) | 2026-04-22 |
 | [dtolnay/indoc](https://github.com/dtolnay/indoc) | 2.0.7 | [view](https://github.com/repolex-forx/dtolnay--indoc) | 2026-04-22 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.90.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
-| [hyperium/mime](https://github.com/hyperium/mime) | v0.3.17 | [view](https://github.com/repolex-forx/hyperium--mime) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
