@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [servo/rust-url](https://github.com/servo/rust-url) | v2.5.8 | [view](https://github.com/repolex-forx/servo--rust-url) | 2026-04-22 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.4.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
 | [dtolnay/thiserror](https://github.com/dtolnay/thiserror) | 2.0.18 | [view](https://github.com/repolex-forx/dtolnay--thiserror) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.90.2 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [zkat/miette](https://github.com/zkat/miette) | v7.6.0 | [view](https://github.com/repolex-forx/zkat--miette) | 2026-04-22 |
 | [clap-rs/clap](https://github.com/clap-rs/clap) | v4.6.0 | [view](https://github.com/repolex-forx/clap-rs--clap) | 2026-04-22 |
 | [dryrust/clientele.rs](https://github.com/dryrust/clientele.rs) | 0.3.8 | [view](https://github.com/repolex-forx/dryrust--clientele.rs) | 2026-04-22 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.91.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
