@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [apple/container](https://github.com/apple/container) | 0.11.0 | [view](https://github.com/repolex-forx/apple--container) | 2026-04-22 |
+| [apple/swift-configuration](https://github.com/apple/swift-configuration) | 1.2.0 | [view](https://github.com/repolex-forx/apple--swift-configuration) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.93.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
 | [cypress-io/cypress](https://github.com/cypress-io/cypress) | v13.13.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-22 |
 | [apple/containerization](https://github.com/apple/containerization) | 0.30.1 | [view](https://github.com/repolex-forx/apple--containerization) | 2026-04-22 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [babel/babel](https://github.com/babel/babel) | v7.22.14 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-22 |
 | [apple/swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) | v1.0.0-rc.1 | [view](https://github.com/repolex-forx/apple--swift-homomorphic-encryption) | 2026-04-22 |
 | [apple/pkl](https://github.com/apple/pkl) | 0.31.1 | [view](https://github.com/repolex-forx/apple--pkl) | 2026-04-22 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.94.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Bedrock-v0.3.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
