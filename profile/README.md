@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [apple/swift-http-types](https://github.com/apple/swift-http-types) | 1.5.1 | [view](https://github.com/repolex-forx/apple--swift-http-types) | 2026-04-22 |
 | [swc-project/swc](https://github.com/swc-project/swc) | v1.15.2 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-22 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.6.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.96.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.96.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
 | [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) | 1.1.3 | [view](https://github.com/repolex-forx/apple--swift-async-algorithms) | 2026-04-21 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.97.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-21 |
-| [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | v3.0.0rc2 | [view](https://github.com/repolex-forx/pandas-dev--pandas) | 2026-04-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
