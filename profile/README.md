@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.93.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v13.13.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-22 |
+| [apple/containerization](https://github.com/apple/containerization) | 0.30.1 | [view](https://github.com/repolex-forx/apple--containerization) | 2026-04-22 |
+| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | v0.20.0 | [view](https://github.com/repolex-forx/apple--embedding-atlas) | 2026-04-22 |
+| [jquery/jquery](https://github.com/jquery/jquery) | 3.5.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
 | [babel/babel](https://github.com/babel/babel) | v7.22.14 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-22 |
 | [apple/swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) | v1.0.0-rc.1 | [view](https://github.com/repolex-forx/apple--swift-homomorphic-encryption) | 2026-04-22 |
 | [apple/pkl](https://github.com/apple/pkl) | 0.31.1 | [view](https://github.com/repolex-forx/apple--pkl) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.94.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Bedrock-v0.3.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-22 |
-| [praw-dev/praw](https://github.com/praw-dev/praw) | v4.0.0b6 | [view](https://github.com/repolex-forx/praw-dev--praw) | 2026-04-22 |
-| [apple/corenet](https://github.com/apple/corenet) | corenet-v0.1.1 | [view](https://github.com/repolex-forx/apple--corenet) | 2026-04-22 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.95.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
-| [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) | 1.11.1 | [view](https://github.com/repolex-forx/apple--swift-openapi-generator) | 2026-04-22 |
-| [apple/swift-http-types](https://github.com/apple/swift-http-types) | 1.5.1 | [view](https://github.com/repolex-forx/apple--swift-http-types) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
