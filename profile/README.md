@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [clap-rs/clap](https://github.com/clap-rs/clap) | v4.6.0 | [view](https://github.com/repolex-forx/clap-rs--clap) | 2026-04-22 |
+| [dryrust/clientele.rs](https://github.com/dryrust/clientele.rs) | 0.3.8 | [view](https://github.com/repolex-forx/dryrust--clientele.rs) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.91.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.5.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
 | [pypa/setuptools](https://github.com/pypa/setuptools) | v82.0.1 | [view](https://github.com/repolex-forx/pypa--setuptools) | 2026-04-22 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [twitter-archive/diffy](https://github.com/twitter-archive/diffy) | v1.0.0 | [view](https://github.com/repolex-forx/twitter-archive--diffy) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.92.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
 | [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) | v0.1.1 | [view](https://github.com/repolex-forx/apple--python-apple-fm-sdk) | 2026-04-22 |
-| [apple/container](https://github.com/apple/container) | 0.11.0 | [view](https://github.com/repolex-forx/apple--container) | 2026-04-22 |
-| [apple/swift-configuration](https://github.com/apple/swift-configuration) | 1.2.0 | [view](https://github.com/repolex-forx/apple--swift-configuration) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
