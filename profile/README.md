@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.85.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
+| [ruby/ruby](https://github.com/ruby/ruby) | v4.0.2 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-23 |
+| [seanmonstar/num_cpus](https://github.com/seanmonstar/num_cpus) | v1.17.0 | [view](https://github.com/repolex-forx/seanmonstar--num_cpus) | 2026-04-23 |
 | [babel/babel](https://github.com/babel/babel) | v7.22.3 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-23 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.3.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-23 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.85.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
-| [ruby/ruby](https://github.com/ruby/ruby) | v4.0.2 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-23 |
 | [near/near-api-rs](https://github.com/near/near-api-rs) | v0.6.1 | [view](https://github.com/repolex-forx/near--near-api-rs) | 2026-04-23 |
 | [rust-itertools/itertools](https://github.com/rust-itertools/itertools) | v0.14.0 | [view](https://github.com/repolex-forx/rust-itertools--itertools) | 2026-04-23 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.1.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.86.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
-| [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) | 0.29 | [view](https://github.com/repolex-forx/crossterm-rs--crossterm) | 2026-04-23 |
-| [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) | v0.6.1 | [view](https://github.com/repolex-forx/crossbeam-rs--crossbeam) | 2026-04-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
