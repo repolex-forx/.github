@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.2.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Bedrock-v0.1.2 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
-| [ruby/ruby](https://github.com/ruby/ruby) | v4.0.2 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-23 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 3.1.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-23 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.84.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 3.2.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-23 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.0.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.84.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
-| [ratatui/ratatui](https://github.com/ratatui/ratatui) | v0.30.0-alpha.1 | [view](https://github.com/repolex-forx/ratatui--ratatui) | 2026-04-23 |
-| [pygments/pygments](https://github.com/pygments/pygments) | 2.19.1 | [view](https://github.com/repolex-forx/pygments--pygments) | 2026-04-23 |
+| [apple/servicetalk](https://github.com/apple/servicetalk) | 0.42.63 | [view](https://github.com/repolex-forx/apple--servicetalk) | 2026-04-23 |
+| [pygments/pygments](https://github.com/pygments/pygments) | 2.18.0 | [view](https://github.com/repolex-forx/pygments--pygments) | 2026-04-23 |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v13.6.2 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-23 |
+| [palantir/tslint](https://github.com/palantir/tslint) | 6.1.3 | [view](https://github.com/repolex-forx/palantir--tslint) | 2026-04-23 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Anthropic-v12.8.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.83.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
+| [rubocop/rubocop](https://github.com/rubocop/rubocop) | v1.86.0 | [view](https://github.com/repolex-forx/rubocop--rubocop) | 2026-04-23 |
+| [rust-rdf/rdf.rs](https://github.com/rust-rdf/rdf.rs) | 0.1.1 | [view](https://github.com/repolex-forx/rust-rdf--rdf.rs) | 2026-04-23 |
+| [pygments/pygments](https://github.com/pygments/pygments) | 2.19.0 | [view](https://github.com/repolex-forx/pygments--pygments) | 2026-04-23 |
+| [rust-rdf/rdf.rs](https://github.com/rust-rdf/rdf.rs) | 0.2.0 | [view](https://github.com/repolex-forx/rust-rdf--rdf.rs) | 2026-04-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
