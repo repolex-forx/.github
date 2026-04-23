@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [babel/babel](https://github.com/babel/babel) | v7.21.8 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-23 |
+| [near/near-gas](https://github.com/near/near-gas) | v0.3.5 | [view](https://github.com/repolex-forx/near--near-gas) | 2026-04-23 |
 | [ruby/ruby](https://github.com/ruby/ruby) | v3_4_8 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-23 |
 | [apple/servicetalk](https://github.com/apple/servicetalk) | 0.42.63 | [view](https://github.com/repolex-forx/apple--servicetalk) | 2026-04-23 |
 | [apache/arrow](https://github.com/apache/arrow) | r-15.0.1 | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-23 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.0.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-23 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.82.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
 | [tokio-rs/tracing](https://github.com/tokio-rs/tracing) | tracing-subscriber-0.3.23 | [view](https://github.com/repolex-forx/tokio-rs--tracing) | 2026-04-23 |
-| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+7 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-23 |
-| [palantir/tslint](https://github.com/palantir/tslint) | 6.1.3 | [view](https://github.com/repolex-forx/palantir--tslint) | 2026-04-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
