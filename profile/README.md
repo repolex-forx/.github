@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Bedrock-v0.1.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
 | [pygments/pygments](https://github.com/pygments/pygments) | 2.19.2 | [view](https://github.com/repolex-forx/pygments--pygments) | 2026-04-23 |
-| [ruby/ruby](https://github.com/ruby/ruby) | v4.0.2 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-22 |
+| [ruby/ruby](https://github.com/ruby/ruby) | v4.0.2 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-23 |
+| [tokio-rs/mio](https://github.com/tokio-rs/mio) | v1.2.0 | [view](https://github.com/repolex-forx/tokio-rs--mio) | 2026-04-23 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.88.2 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
 | [rust-lang/log](https://github.com/rust-lang/log) | env_logger-0.4.3 | [view](https://github.com/repolex-forx/rust-lang--log) | 2026-04-22 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.4.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
 | [rubocop/rubocop](https://github.com/rubocop/rubocop) | v1.86.1 | [view](https://github.com/repolex-forx/rubocop--rubocop) | 2026-04-22 |
 | [browserify/browserify](https://github.com/browserify/browserify) | v17.0.1 | [view](https://github.com/repolex-forx/browserify--browserify) | 2026-04-22 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.89.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-22 |
-| [swc-project/swc](https://github.com/swc-project/swc) | v1.15.1-nightly-20251108.1 | [view](https://github.com/repolex-forx/swc-project--swc) | 2026-04-22 |
-| [socketry/async](https://github.com/socketry/async) | v2.39.0 | [view](https://github.com/repolex-forx/socketry--async) | 2026-04-22 |
-| [babel/babel](https://github.com/babel/babel) | v7.22.8 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
