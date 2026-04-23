@@ -34,8 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.1.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
 | [ruby/ruby](https://github.com/ruby/ruby) | v4.0.2 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-23 |
+| [rust-itertools/itertools](https://github.com/rust-itertools/itertools) | v0.14.0 | [view](https://github.com/repolex-forx/rust-itertools--itertools) | 2026-04-23 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.1.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.86.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
 | [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) | 0.29 | [view](https://github.com/repolex-forx/crossterm-rs--crossterm) | 2026-04-23 |
 | [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) | v0.6.1 | [view](https://github.com/repolex-forx/crossbeam-rs--crossbeam) | 2026-04-23 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.87.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.3.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-23 |
 | [near/borsh-rs](https://github.com/near/borsh-rs) | v0.10.3 | [view](https://github.com/repolex-forx/near--borsh-rs) | 2026-04-23 |
-| [rust-cli/env_logger](https://github.com/rust-cli/env_logger) | v0.11.10 | [view](https://github.com/repolex-forx/rust-cli--env_logger) | 2026-04-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
