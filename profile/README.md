@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [pygments/pygments](https://github.com/pygments/pygments) | 2.19.1 | [view](https://github.com/repolex-forx/pygments--pygments) | 2026-04-23 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.2.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Bedrock-v0.1.2 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
 | [ruby/ruby](https://github.com/ruby/ruby) | v4.0.2 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-23 |
-| [faern/oneshot](https://github.com/faern/oneshot) | v0.2.1 | [view](https://github.com/repolex-forx/faern--oneshot) | 2026-04-23 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.85.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
-| [seanmonstar/num_cpus](https://github.com/seanmonstar/num_cpus) | v1.17.0 | [view](https://github.com/repolex-forx/seanmonstar--num_cpus) | 2026-04-23 |
-| [babel/babel](https://github.com/babel/babel) | v7.22.3 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-23 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 3.3.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-23 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.85.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
-| [near/near-api-rs](https://github.com/near/near-api-rs) | v0.6.1 | [view](https://github.com/repolex-forx/near--near-api-rs) | 2026-04-23 |
-| [rust-itertools/itertools](https://github.com/rust-itertools/itertools) | v0.14.0 | [view](https://github.com/repolex-forx/rust-itertools--itertools) | 2026-04-23 |
+| [jquery/jquery](https://github.com/jquery/jquery) | 3.1.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-23 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.84.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
+| [jquery/jquery](https://github.com/jquery/jquery) | 3.2.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-23 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.0.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.84.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
+| [ratatui/ratatui](https://github.com/ratatui/ratatui) | v0.30.0-alpha.1 | [view](https://github.com/repolex-forx/ratatui--ratatui) | 2026-04-23 |
+| [pygments/pygments](https://github.com/pygments/pygments) | 2.19.1 | [view](https://github.com/repolex-forx/pygments--pygments) | 2026-04-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
