@@ -34,7 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.88.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
 | [ruby/ruby](https://github.com/ruby/ruby) | v4.0.2 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-23 |
+| [tokio-rs/slab](https://github.com/tokio-rs/slab) | v0.4.11 | [view](https://github.com/repolex-forx/tokio-rs--slab) | 2026-04-23 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.88.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
 | [alexcrichton/scoped-tls](https://github.com/alexcrichton/scoped-tls) | 1.0.1 | [view](https://github.com/repolex-forx/alexcrichton--scoped-tls) | 2026-04-23 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Bedrock-v0.1.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [tokio-rs/mio](https://github.com/tokio-rs/mio) | v1.2.0 | [view](https://github.com/repolex-forx/tokio-rs--mio) | 2026-04-23 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.88.2 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
 | [rust-lang/log](https://github.com/rust-lang/log) | env_logger-0.4.3 | [view](https://github.com/repolex-forx/rust-lang--log) | 2026-04-22 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 3.4.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-22 |
-| [rubocop/rubocop](https://github.com/rubocop/rubocop) | v1.86.1 | [view](https://github.com/repolex-forx/rubocop--rubocop) | 2026-04-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
