@@ -35,12 +35,12 @@ lexq download repolex-ai/lexq
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.81.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
+| [apache/arrow](https://github.com/apache/arrow) | r-15.0.1 | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-23 |
 | [ruby/ruby](https://github.com/ruby/ruby) | v3_4_8 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-23 |
 | [asimov-modules/asimov-modules.py](https://github.com/asimov-modules/asimov-modules.py) | 25.0.0.dev0 | [view](https://github.com/repolex-forx/asimov-modules--asimov-modules.py) | 2026-04-23 |
 | [babel/babel](https://github.com/babel/babel) | v7.21.8 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-23 |
 | [near/near-gas](https://github.com/near/near-gas) | v0.3.5 | [view](https://github.com/repolex-forx/near--near-gas) | 2026-04-23 |
 | [apple/servicetalk](https://github.com/apple/servicetalk) | 0.42.63 | [view](https://github.com/repolex-forx/apple--servicetalk) | 2026-04-23 |
-| [apache/arrow](https://github.com/apache/arrow) | r-15.0.1 | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-23 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.82.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
 | [near/nearcore](https://github.com/near/nearcore) | vtest1 | [view](https://github.com/repolex-forx/near--nearcore) | 2026-04-23 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.0.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-23 |
