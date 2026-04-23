@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [apache/arrow](https://github.com/apache/arrow) | r-15.0.1 | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-23 |
-| [apple/servicetalk](https://github.com/apple/servicetalk) | 0.42.63 | [view](https://github.com/repolex-forx/apple--servicetalk) | 2026-04-23 |
 | [ruby/ruby](https://github.com/ruby/ruby) | v3_4_8 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-23 |
+| [apple/servicetalk](https://github.com/apple/servicetalk) | 0.42.63 | [view](https://github.com/repolex-forx/apple--servicetalk) | 2026-04-23 |
+| [apache/arrow](https://github.com/apache/arrow) | r-15.0.1 | [view](https://github.com/repolex-forx/apache--arrow) | 2026-04-23 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.82.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
+| [near/nearcore](https://github.com/near/nearcore) | vtest1 | [view](https://github.com/repolex-forx/near--nearcore) | 2026-04-23 |
+| [jquery/jquery](https://github.com/jquery/jquery) | 3.0.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-23 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.82.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
 | [tokio-rs/tracing](https://github.com/tokio-rs/tracing) | tracing-subscriber-0.3.23 | [view](https://github.com/repolex-forx/tokio-rs--tracing) | 2026-04-23 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+7 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-23 |
 | [palantir/tslint](https://github.com/palantir/tslint) | 6.1.3 | [view](https://github.com/repolex-forx/palantir--tslint) | 2026-04-23 |
-| [pygments/pygments](https://github.com/pygments/pygments) | 2.18.0 | [view](https://github.com/repolex-forx/pygments--pygments) | 2026-04-23 |
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v13.6.2 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-23 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Anthropic-v12.8.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
