@@ -34,8 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [eyre-rs/eyre](https://github.com/eyre-rs/eyre) | v0.6.11 | [view](https://github.com/repolex-forx/eyre-rs--eyre) | 2026-04-23 |
 | [ruby/ruby](https://github.com/ruby/ruby) | v4.0.2 | [view](https://github.com/repolex-forx/ruby--ruby) | 2026-04-23 |
+| [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) | v0.6.1 | [view](https://github.com/repolex-forx/crossbeam-rs--crossbeam) | 2026-04-23 |
+| [eyre-rs/eyre](https://github.com/eyre-rs/eyre) | v0.6.11 | [view](https://github.com/repolex-forx/eyre-rs--eyre) | 2026-04-23 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.87.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 3.3.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-23 |
 | [near/borsh-rs](https://github.com/near/borsh-rs) | v0.10.3 | [view](https://github.com/repolex-forx/near--borsh-rs) | 2026-04-23 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.88.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
 | [tokio-rs/slab](https://github.com/tokio-rs/slab) | v0.4.11 | [view](https://github.com/repolex-forx/tokio-rs--slab) | 2026-04-23 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.88.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-23 |
-| [alexcrichton/scoped-tls](https://github.com/alexcrichton/scoped-tls) | 1.0.1 | [view](https://github.com/repolex-forx/alexcrichton--scoped-tls) | 2026-04-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
