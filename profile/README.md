@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.74.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-24 |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | v0.14.15 | [view](https://github.com/repolex-forx/run-llama--llama_index) | 2026-04-24 |
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v13.2.0 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-24 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.75.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-24 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Vertex-v0.0.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-24 |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | v0.14.16 | [view](https://github.com/repolex-forx/run-llama--llama_index) | 2026-04-24 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 2.2.4 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-24 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.76.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-24 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.76.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-24 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 3.0.0-alpha1+compat | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-24 |
+| [pygments/pygments](https://github.com/pygments/pygments) | 2.17.1 | [view](https://github.com/repolex-forx/pygments--pygments) | 2026-04-25 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.70.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
+| [babel/babel](https://github.com/babel/babel) | v7.20.15 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-25 |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | v12.17.4 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-24 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.71.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-24 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.72.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-24 |
+| [jquery/jquery](https://github.com/jquery/jquery) | 2.2.2 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-24 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.72.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-24 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Foundry-v0.4.2 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-24 |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | v0.14.14 | [view](https://github.com/repolex-forx/run-llama--llama_index) | 2026-04-24 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
