@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+1 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-25 |
+| [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) | v8.0.2 | [view](https://github.com/repolex-forx/kpdecker--jsdiff) | 2026-04-25 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.67.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
 | [cspotcode/v8-compile-cache-lib](https://github.com/cspotcode/v8-compile-cache-lib) | v3.0.1 | [view](https://github.com/repolex-forx/cspotcode--v8-compile-cache-lib) | 2026-04-25 |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | v0.14.7 | [view](https://github.com/repolex-forx/run-llama--llama_index) | 2026-04-25 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [cspotcode/node-source-map-support](https://github.com/cspotcode/node-source-map-support) | v0.8.0 | [view](https://github.com/repolex-forx/cspotcode--node-source-map-support) | 2026-04-25 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.69.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
 | [acornjs/acorn](https://github.com/acornjs/acorn) | v0.1 | [view](https://github.com/repolex-forx/acornjs--acorn) | 2026-04-25 |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | v0.14.8 | [view](https://github.com/repolex-forx/run-llama--llama_index) | 2026-04-25 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Foundry-v0.4.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-25 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
