@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.66.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
+| [vercel/arg](https://github.com/vercel/arg) | 5.0.2 | [view](https://github.com/repolex-forx/vercel--arg) | 2026-04-25 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+1 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-25 |
 | [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) | v8.0.2 | [view](https://github.com/repolex-forx/kpdecker--jsdiff) | 2026-04-25 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.67.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.68.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 2.2.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-25 |
 | [cspotcode/node-source-map-support](https://github.com/cspotcode/node-source-map-support) | v0.8.0 | [view](https://github.com/repolex-forx/cspotcode--node-source-map-support) | 2026-04-25 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.69.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
-| [acornjs/acorn](https://github.com/acornjs/acorn) | v0.1 | [view](https://github.com/repolex-forx/acornjs--acorn) | 2026-04-25 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
