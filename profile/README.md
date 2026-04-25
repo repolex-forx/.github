@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | v0.14.8 | [view](https://github.com/repolex-forx/run-llama--llama_index) | 2026-04-25 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Foundry-v0.4.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-25 |
+| [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) | v4.0.0 | [view](https://github.com/repolex-forx/executablebooks--markdown-it-py) | 2026-04-25 |
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.69.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
 | [kinnison/marked-yaml](https://github.com/kinnison/marked-yaml) | marked-yaml-v0.8.0 | [view](https://github.com/repolex-forx/kinnison--marked-yaml) | 2026-04-25 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 2.2.1 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-25 |
 | [pygments/pygments](https://github.com/pygments/pygments) | 2.17.1 | [view](https://github.com/repolex-forx/pygments--pygments) | 2026-04-25 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.70.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
 | [babel/babel](https://github.com/babel/babel) | v7.20.15 | [view](https://github.com/repolex-forx/babel--babel) | 2026-04-25 |
 | [cypress-io/cypress](https://github.com/cypress-io/cypress) | v12.17.4 | [view](https://github.com/repolex-forx/cypress-io--cypress) | 2026-04-24 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.71.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-24 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.72.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-24 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 2.2.2 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-24 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.72.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-24 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
