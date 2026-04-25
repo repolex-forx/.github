@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [webpack/webpack](https://github.com/webpack/webpack) | v5.67.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
+| [cspotcode/v8-compile-cache-lib](https://github.com/cspotcode/v8-compile-cache-lib) | v3.0.1 | [view](https://github.com/repolex-forx/cspotcode--v8-compile-cache-lib) | 2026-04-25 |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | v0.14.7 | [view](https://github.com/repolex-forx/run-llama--llama_index) | 2026-04-25 |
 | [webpack/webpack](https://github.com/webpack/webpack) | v5.68.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
 | [jquery/jquery](https://github.com/jquery/jquery) | 2.2.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-25 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [acornjs/acorn](https://github.com/acornjs/acorn) | v0.1 | [view](https://github.com/repolex-forx/acornjs--acorn) | 2026-04-25 |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | v0.14.8 | [view](https://github.com/repolex-forx/run-llama--llama_index) | 2026-04-25 |
 | [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Foundry-v0.4.1 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-04-25 |
-| [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) | v4.0.0 | [view](https://github.com/repolex-forx/executablebooks--markdown-it-py) | 2026-04-25 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.69.1 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
