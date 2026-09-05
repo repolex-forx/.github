@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
+| [pygments/pygments](https://github.com/pygments/pygments) | 2.17.0 | [view](https://github.com/repolex-forx/pygments--pygments) | 2026-09-05 |
+| [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) | v0.5.11 | [view](https://github.com/repolex-forx/oxigraph--oxigraph) | 2026-09-05 |
+| [serde-rs/serde](https://github.com/serde-rs/serde) | v1.0.229 | [view](https://github.com/repolex-forx/serde-rs--serde) | 2026-09-05 |
+| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Foundry-v0.4.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-09-05 |
+| [repolex-ai/pan](https://github.com/repolex-ai/pan) | main | [view](https://github.com/repolex-forx/repolex-ai--pan) | 2026-09-05 |
+| [repolex-ai/rlex](https://github.com/repolex-ai/rlex) | main | [view](https://github.com/repolex-forx/repolex-ai--rlex) | 2026-09-05 |
 | [repolex-ai/multilspy](https://github.com/repolex-ai/multilspy) | main | [view](https://github.com/repolex-forx/repolex-ai--multilspy) | 2026-09-05 |
 | [hukkin/tomli-w](https://github.com/hukkin/tomli-w) | 1.2.0 | [view](https://github.com/repolex-forx/hukkin--tomli-w) | 2026-09-05 |
-| [clap-rs/clap](https://github.com/clap-rs/clap) | v4.5.55 | [view](https://github.com/repolex-forx/clap-rs--clap) | 2026-05-12 |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | v0.14.20 | [view](https://github.com/repolex-forx/run-llama--llama_index) | 2026-05-12 |
-| [pallets/markupsafe](https://github.com/pallets/markupsafe) | 2.1.4 | [view](https://github.com/repolex-forx/pallets--markupsafe) | 2026-05-12 |
-| [tokio-rs/tokio](https://github.com/tokio-rs/tokio) | tokio-util-0.7.11 | [view](https://github.com/repolex-forx/tokio-rs--tokio) | 2026-05-12 |
-| [near/near-api-rs](https://github.com/near/near-api-rs) | v0.6.0 | [view](https://github.com/repolex-forx/near--near-api-rs) | 2026-05-11 |
-| [apache/airflow](https://github.com/apache/airflow) | upgrade-check/1.4.0rc2 | [view](https://github.com/repolex-forx/apache--airflow) | 2026-05-11 |
-| [dtolnay/indoc](https://github.com/dtolnay/indoc) | 2.0.6 | [view](https://github.com/repolex-forx/dtolnay--indoc) | 2026-05-11 |
-| [katharostech/cfg_aliases](https://github.com/katharostech/cfg_aliases) | v0.2.0 | [view](https://github.com/repolex-forx/katharostech--cfg_aliases) | 2026-05-11 |
+| [near/near-cli-rs](https://github.com/near/near-cli-rs) | v0.23.4 | [view](https://github.com/repolex-forx/near--near-cli-rs) | 2026-05-12 |
+| [apache/airflow](https://github.com/apache/airflow) | upgrade-check/1.4.0rc1 | [view](https://github.com/repolex-forx/apache--airflow) | 2026-05-12 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
