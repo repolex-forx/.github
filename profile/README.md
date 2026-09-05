@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.66.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
-| [vercel/arg](https://github.com/vercel/arg) | 5.0.2 | [view](https://github.com/repolex-forx/vercel--arg) | 2026-04-25 |
-| [openjdk/jdk](https://github.com/openjdk/jdk) | jdk-27+1 | [view](https://github.com/repolex-forx/openjdk--jdk) | 2026-04-25 |
-| [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) | v8.0.2 | [view](https://github.com/repolex-forx/kpdecker--jsdiff) | 2026-04-25 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.67.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
-| [cspotcode/v8-compile-cache-lib](https://github.com/cspotcode/v8-compile-cache-lib) | v3.0.1 | [view](https://github.com/repolex-forx/cspotcode--v8-compile-cache-lib) | 2026-04-25 |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | v0.14.7 | [view](https://github.com/repolex-forx/run-llama--llama_index) | 2026-04-25 |
-| [webpack/webpack](https://github.com/webpack/webpack) | v5.68.0 | [view](https://github.com/repolex-forx/webpack--webpack) | 2026-04-25 |
-| [jquery/jquery](https://github.com/jquery/jquery) | 2.2.0 | [view](https://github.com/repolex-forx/jquery--jquery) | 2026-04-25 |
-| [cspotcode/node-source-map-support](https://github.com/cspotcode/node-source-map-support) | v0.8.0 | [view](https://github.com/repolex-forx/cspotcode--node-source-map-support) | 2026-04-25 |
+| [repolex-ai/multilspy](https://github.com/repolex-ai/multilspy) | main | [view](https://github.com/repolex-forx/repolex-ai--multilspy) | 2026-09-05 |
+| [hukkin/tomli-w](https://github.com/hukkin/tomli-w) | 1.2.0 | [view](https://github.com/repolex-forx/hukkin--tomli-w) | 2026-09-05 |
+| [clap-rs/clap](https://github.com/clap-rs/clap) | v4.5.55 | [view](https://github.com/repolex-forx/clap-rs--clap) | 2026-05-12 |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | v0.14.20 | [view](https://github.com/repolex-forx/run-llama--llama_index) | 2026-05-12 |
+| [pallets/markupsafe](https://github.com/pallets/markupsafe) | 2.1.4 | [view](https://github.com/repolex-forx/pallets--markupsafe) | 2026-05-12 |
+| [tokio-rs/tokio](https://github.com/tokio-rs/tokio) | tokio-util-0.7.11 | [view](https://github.com/repolex-forx/tokio-rs--tokio) | 2026-05-12 |
+| [near/near-api-rs](https://github.com/near/near-api-rs) | v0.6.0 | [view](https://github.com/repolex-forx/near--near-api-rs) | 2026-05-11 |
+| [apache/airflow](https://github.com/apache/airflow) | upgrade-check/1.4.0rc2 | [view](https://github.com/repolex-forx/apache--airflow) | 2026-05-11 |
+| [dtolnay/indoc](https://github.com/dtolnay/indoc) | 2.0.6 | [view](https://github.com/repolex-forx/dtolnay--indoc) | 2026-05-11 |
+| [katharostech/cfg_aliases](https://github.com/katharostech/cfg_aliases) | v0.2.0 | [view](https://github.com/repolex-forx/katharostech--cfg_aliases) | 2026-05-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
