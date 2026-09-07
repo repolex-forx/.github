@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Source | Tag | Data | Parsed |
 |--------|-----|------|--------|
-| [pygments/pygments](https://github.com/pygments/pygments) | 2.17.0 | [view](https://github.com/repolex-forx/pygments--pygments) | 2026-09-05 |
-| [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) | v0.5.11 | [view](https://github.com/repolex-forx/oxigraph--oxigraph) | 2026-09-05 |
-| [serde-rs/serde](https://github.com/serde-rs/serde) | v1.0.229 | [view](https://github.com/repolex-forx/serde-rs--serde) | 2026-09-05 |
-| [anthropics/anthropic-sdk-csharp](https://github.com/anthropics/anthropic-sdk-csharp) | Foundry-v0.4.0 | [view](https://github.com/repolex-forx/anthropics--anthropic-sdk-csharp) | 2026-09-05 |
-| [repolex-ai/pan](https://github.com/repolex-ai/pan) | main | [view](https://github.com/repolex-forx/repolex-ai--pan) | 2026-09-05 |
-| [repolex-ai/rlex](https://github.com/repolex-ai/rlex) | main | [view](https://github.com/repolex-forx/repolex-ai--rlex) | 2026-09-05 |
-| [repolex-ai/multilspy](https://github.com/repolex-ai/multilspy) | main | [view](https://github.com/repolex-forx/repolex-ai--multilspy) | 2026-09-05 |
-| [hukkin/tomli-w](https://github.com/hukkin/tomli-w) | 1.2.0 | [view](https://github.com/repolex-forx/hukkin--tomli-w) | 2026-09-05 |
-| [near/near-cli-rs](https://github.com/near/near-cli-rs) | v0.23.4 | [view](https://github.com/repolex-forx/near--near-cli-rs) | 2026-05-12 |
-| [apache/airflow](https://github.com/apache/airflow) | upgrade-check/1.4.0rc1 | [view](https://github.com/repolex-forx/apache--airflow) | 2026-05-12 |
+| [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) | v0.26.8 | [view](https://github.com/repolex-forx/tree-sitter--tree-sitter) | 2026-09-07 |
+| [rust-lang/libc](https://github.com/rust-lang/libc) | ctest-v0.5.1 | [view](https://github.com/repolex-forx/rust-lang--libc) | 2026-09-07 |
+| [hyperium/hyper](https://github.com/hyperium/hyper) | v1.9.0 | [view](https://github.com/repolex-forx/hyperium--hyper) | 2026-09-07 |
+| [chronotope/chrono](https://github.com/chronotope/chrono) | v0.4.44 | [view](https://github.com/repolex-forx/chronotope--chrono) | 2026-09-07 |
+| [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) | libgit2-sys-v0.12.22+1.1.0 | [view](https://github.com/repolex-forx/rust-lang--git2-rs) | 2026-09-07 |
+| [rust-lang/regex](https://github.com/rust-lang/regex) | rure-0.2.5 | [view](https://github.com/repolex-forx/rust-lang--regex) | 2026-09-07 |
+| [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) | v0.13.2 | [view](https://github.com/repolex-forx/seanmonstar--reqwest) | 2026-09-07 |
+| [rust-random/rand](https://github.com/rust-random/rand) | rand_xoshiro-0.4.0 | [view](https://github.com/repolex-forx/rust-random--rand) | 2026-09-07 |
+| [tower-rs/tower](https://github.com/tower-rs/tower) | tower-util-0.3.1 | [view](https://github.com/repolex-forx/tower-rs--tower) | 2026-09-07 |
+| [hyperium/http](https://github.com/hyperium/http) | v1.4.0 | [view](https://github.com/repolex-forx/hyperium--http) | 2026-09-07 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
