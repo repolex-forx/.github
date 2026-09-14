@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v11.2.0 | 2026-09-14 |
+| [handlebars-lang/handlebars.js](https://github.com/repolex-forx/handlebars-lang--handlebars.js) | v4.7.9 | 2026-09-14 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.62.2 | 2026-09-14 |
 | [image-rs/image](https://github.com/repolex-forx/image-rs--image) | v0.25.5 | 2026-09-14 |
 | [dtolnay/unicode-ident](https://github.com/repolex-forx/dtolnay--unicode-ident) | 1.0.19 | 2026-09-14 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.63.0 | 2026-09-09 |
 | [image-rs/image](https://github.com/repolex-forx/image-rs--image) | v0.25.6 | 2026-09-09 |
 | [asciidoctor/asciidoctor-tabs](https://github.com/repolex-forx/asciidoctor--asciidoctor-tabs) | v1.0.0-beta.6 | 2026-09-09 |
-| [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.19.2 | 2026-09-09 |
-| [dtolnay/unicode-ident](https://github.com/repolex-forx/dtolnay--unicode-ident) | 1.0.20 | 2026-09-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
