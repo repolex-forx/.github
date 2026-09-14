@@ -32,18 +32,18 @@ lexq download repolex-ai/lexq
 ## Recently Parsed
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
-| Source | Tag | Data | Parsed |
-|--------|-----|------|--------|
-| [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) | v0.26.8 | [view](https://github.com/repolex-forx/tree-sitter--tree-sitter) | 2026-09-07 |
-| [rust-lang/libc](https://github.com/rust-lang/libc) | ctest-v0.5.1 | [view](https://github.com/repolex-forx/rust-lang--libc) | 2026-09-07 |
-| [hyperium/hyper](https://github.com/hyperium/hyper) | v1.9.0 | [view](https://github.com/repolex-forx/hyperium--hyper) | 2026-09-07 |
-| [chronotope/chrono](https://github.com/chronotope/chrono) | v0.4.44 | [view](https://github.com/repolex-forx/chronotope--chrono) | 2026-09-07 |
-| [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) | libgit2-sys-v0.12.22+1.1.0 | [view](https://github.com/repolex-forx/rust-lang--git2-rs) | 2026-09-07 |
-| [rust-lang/regex](https://github.com/rust-lang/regex) | rure-0.2.5 | [view](https://github.com/repolex-forx/rust-lang--regex) | 2026-09-07 |
-| [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) | v0.13.2 | [view](https://github.com/repolex-forx/seanmonstar--reqwest) | 2026-09-07 |
-| [rust-random/rand](https://github.com/rust-random/rand) | rand_xoshiro-0.4.0 | [view](https://github.com/repolex-forx/rust-random--rand) | 2026-09-07 |
-| [tower-rs/tower](https://github.com/tower-rs/tower) | tower-util-0.3.1 | [view](https://github.com/repolex-forx/tower-rs--tower) | 2026-09-07 |
-| [hyperium/http](https://github.com/hyperium/http) | v1.4.0 | [view](https://github.com/repolex-forx/hyperium--http) | 2026-09-07 |
+| Data Source | Tag | Parsed |
+|-------------|-----|--------|
+| [jquery/jquery](https://github.com/repolex-forx/jquery--jquery) | 2.1.1 | 2026-09-08 |
+| [jquery/jquery](https://github.com/repolex-forx/jquery--jquery) | 2.1.2 | 2026-09-08 |
+| [jquery/jquery](https://github.com/repolex-forx/jquery--jquery) | 2.1.3 | 2026-09-08 |
+| [rust-lang/regex](https://github.com/repolex-forx/rust-lang--regex) | rure-0.2.3 | 2026-09-07 |
+| [rust-random/rand](https://github.com/repolex-forx/rust-random--rand) | rand_xoshiro-0.3.1 | 2026-09-07 |
+| [rust-lang/regex](https://github.com/repolex-forx/rust-lang--regex) | rure-0.2.4 | 2026-09-07 |
+| [BurntSushi/aho-corasick](https://github.com/repolex-forx/BurntSushi--aho-corasick) | 1.1.2 | 2026-09-07 |
+| [chronotope/chrono](https://github.com/repolex-forx/chronotope--chrono) | v0.4.43 | 2026-09-07 |
+| [Frommi/miniz_oxide](https://github.com/repolex-forx/Frommi--miniz_oxide) | 0.9.0 | 2026-09-07 |
+| [srijs/rust-crc32fast](https://github.com/repolex-forx/srijs--rust-crc32fast) | v1.5.1 | 2026-09-07 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
