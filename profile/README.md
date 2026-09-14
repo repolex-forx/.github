@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [jquery/jquery](https://github.com/repolex-forx/jquery--jquery) | 2.1.1 | 2026-09-08 |
-| [jquery/jquery](https://github.com/repolex-forx/jquery--jquery) | 2.1.2 | 2026-09-08 |
-| [jquery/jquery](https://github.com/repolex-forx/jquery--jquery) | 2.1.3 | 2026-09-08 |
-| [rust-lang/regex](https://github.com/repolex-forx/rust-lang--regex) | rure-0.2.3 | 2026-09-07 |
-| [rust-random/rand](https://github.com/repolex-forx/rust-random--rand) | rand_xoshiro-0.3.1 | 2026-09-07 |
-| [rust-lang/regex](https://github.com/repolex-forx/rust-lang--regex) | rure-0.2.4 | 2026-09-07 |
-| [BurntSushi/aho-corasick](https://github.com/repolex-forx/BurntSushi--aho-corasick) | 1.1.2 | 2026-09-07 |
-| [chronotope/chrono](https://github.com/repolex-forx/chronotope--chrono) | v0.4.43 | 2026-09-07 |
-| [Frommi/miniz_oxide](https://github.com/repolex-forx/Frommi--miniz_oxide) | 0.9.0 | 2026-09-07 |
-| [srijs/rust-crc32fast](https://github.com/repolex-forx/srijs--rust-crc32fast) | v1.5.1 | 2026-09-07 |
+| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.62.2 | 2026-09-14 |
+| [image-rs/image](https://github.com/repolex-forx/image-rs--image) | v0.25.5 | 2026-09-14 |
+| [dtolnay/unicode-ident](https://github.com/repolex-forx/dtolnay--unicode-ident) | 1.0.19 | 2026-09-14 |
+| [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.19.1 | 2026-09-09 |
+| [huggingface/transformers](https://github.com/repolex-forx/huggingface--transformers) | v5.5.1 | 2026-09-09 |
+| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.63.0 | 2026-09-09 |
+| [image-rs/image](https://github.com/repolex-forx/image-rs--image) | v0.25.6 | 2026-09-09 |
+| [asciidoctor/asciidoctor-tabs](https://github.com/repolex-forx/asciidoctor--asciidoctor-tabs) | v1.0.0-beta.6 | 2026-09-09 |
+| [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.19.2 | 2026-09-09 |
+| [dtolnay/unicode-ident](https://github.com/repolex-forx/dtolnay--unicode-ident) | 1.0.20 | 2026-09-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
