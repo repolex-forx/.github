@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.15.4 | 2026-09-15 |
+| [andialbrecht/sqlparse](https://github.com/repolex-forx/andialbrecht--sqlparse) | 0.5.5 | 2026-09-15 |
+| [langchain-ai/langchain](https://github.com/repolex-forx/langchain-ai--langchain) | v0.0.336 | 2026-09-15 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.26.0 | 2026-09-15 |
 | [image-rs/image](https://github.com/repolex-forx/image-rs--image) | v0.24.4 | 2026-09-15 |
 | [bestiejs/platform.js](https://github.com/repolex-forx/bestiejs--platform.js) | 1.3.4 | 2026-09-15 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [apache/arrow](https://github.com/repolex-forx/apache--arrow) | r-13.0.0 | 2026-09-15 |
 | [huggingface/transformers](https://github.com/repolex-forx/huggingface--transformers) | v4.55.2 | 2026-09-15 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+16 | 2026-09-15 |
-| [langchain-ai/langchain](https://github.com/repolex-forx/langchain-ai--langchain) | v0.0.337 | 2026-09-15 |
-| [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.15.5 | 2026-09-15 |
-| [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.47 | 2026-09-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
