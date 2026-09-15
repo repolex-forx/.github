@@ -35,15 +35,15 @@ lexq download repolex-ai/lexq
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
 | [squidfunk/mkdocs-material](https://github.com/repolex-forx/squidfunk--mkdocs-material) | 9.7.4 | 2026-09-15 |
+| [jshttp/statuses](https://github.com/repolex-forx/jshttp--statuses) | v2.0.2 | 2026-09-15 |
+| [jshttp/on-finished](https://github.com/repolex-forx/jshttp--on-finished) | v2.4.1 | 2026-09-15 |
+| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-15 |
+| [apache/arrow](https://github.com/repolex-forx/apache--arrow) | go/v17.0.0 | 2026-09-15 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v8.4.1 | 2026-09-15 |
 | [jshttp/mime-types](https://github.com/repolex-forx/jshttp--mime-types) | v3.0.2 | 2026-09-15 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.24.2 | 2026-09-15 |
 | [jshttp/http-errors](https://github.com/repolex-forx/jshttp--http-errors) | v2.0.1 | 2026-09-15 |
-| [apache/arrow](https://github.com/repolex-forx/apache--arrow) | go/v17.0.0 | 2026-09-15 |
-| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-15 |
 | [tomchristie/mkautodoc](https://github.com/repolex-forx/tomchristie--mkautodoc) | 0.2.0 | 2026-09-15 |
-| [huggingface/transformers](https://github.com/repolex-forx/huggingface--transformers) | v4.55.1 | 2026-09-15 |
-| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.24.3 | 2026-09-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
