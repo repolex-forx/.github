@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.38.0 | 2026-09-15 |
+| [dtolnay/unicode-ident](https://github.com/repolex-forx/dtolnay--unicode-ident) | 1.0.13 | 2026-09-15 |
+| [PyO3/pyo3-async-runtimes](https://github.com/repolex-forx/PyO3--pyo3-async-runtimes) | v0.25.0 | 2026-09-15 |
 | [pandas-dev/pandas](https://github.com/repolex-forx/pandas-dev--pandas) | v3.0.0.dev0 | 2026-09-15 |
+| [huggingface/transformers](https://github.com/repolex-forx/huggingface--transformers) | v5.4.0 | 2026-09-15 |
+| [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.16.11 | 2026-09-15 |
+| [dtolnay/unicode-ident](https://github.com/repolex-forx/dtolnay--unicode-ident) | 1.0.17 | 2026-09-15 |
+| [PyO3/pyo3-async-runtimes](https://github.com/repolex-forx/PyO3--pyo3-async-runtimes) | v0.28.0 | 2026-09-15 |
 | [apple/foundationdb](https://github.com/repolex-forx/apple--foundationdb) | snowflake-71.3.5-rc3 | 2026-09-15 |
 | [apple/coremltools](https://github.com/repolex-forx/apple--coremltools) | v2.0 | 2026-09-15 |
-| [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.13.3 | 2026-09-15 |
-| [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.16.11 | 2026-09-15 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v9.5.0 | 2026-09-15 |
-| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.40.0 | 2026-09-15 |
-| [sebastienrousseau/serde_yml](https://github.com/repolex-forx/sebastienrousseau--serde_yml) | v0.0.11 | 2026-09-15 |
-| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+20 | 2026-09-15 |
-| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.41.0 | 2026-09-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
