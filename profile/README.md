@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.36.1 | 2026-09-15 |
-| [eslint/doctrine](https://github.com/repolex-forx/eslint--doctrine) | v2.0.1 | 2026-09-15 |
-| [huggingface/transformers](https://github.com/repolex-forx/huggingface--transformers) | v5.1.0 | 2026-09-15 |
-| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+19 | 2026-09-15 |
-| [eslint/doctrine](https://github.com/repolex-forx/eslint--doctrine) | v3.0.0 | 2026-09-15 |
-| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.37.1 | 2026-09-15 |
-| [pandas-dev/pandas](https://github.com/repolex-forx/pandas-dev--pandas) | v2.3.3 | 2026-09-15 |
-| [es-shims/Object.groupBy](https://github.com/repolex-forx/es-shims--Object.groupBy) | v1.0.3 | 2026-09-15 |
-| [es-shims/Array.prototype.findLastIndex](https://github.com/repolex-forx/es-shims--Array.prototype.findLastIndex) | v1.2.6 | 2026-09-15 |
-| [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.13.2 | 2026-09-15 |
+| [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.51 | 2026-09-15 |
+| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v9.2.1 | 2026-09-15 |
+| [langchain-ai/langchain](https://github.com/repolex-forx/langchain-ai--langchain) | v0.0.339rc1 | 2026-09-15 |
+| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.27.1 | 2026-09-15 |
+| [apache/arrow](https://github.com/repolex-forx/apache--arrow) | r-13.0.0 | 2026-09-15 |
+| [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.15.5 | 2026-09-15 |
+| [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 2.1.2 | 2026-09-15 |
+| [import-js/eslint-plugin-import](https://github.com/repolex-forx/import-js--eslint-plugin-import) | v2.25.2 | 2026-09-15 |
+| [apple/foundationdb](https://github.com/repolex-forx/apple--foundationdb) | snowflake-71.3.2-rc3 | 2026-09-15 |
+| [huggingface/transformers](https://github.com/repolex-forx/huggingface--transformers) | v4.56.1-Vault-Gemma-preview | 2026-09-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
