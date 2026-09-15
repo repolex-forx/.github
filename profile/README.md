@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [tomchristie/mkautodoc](https://github.com/repolex-forx/tomchristie--mkautodoc) | 0.2.0 | 2026-09-15 |
+| [squidfunk/mkdocs-material](https://github.com/repolex-forx/squidfunk--mkdocs-material) | 9.7.4 | 2026-09-15 |
 | [huggingface/transformers](https://github.com/repolex-forx/huggingface--transformers) | v4.55.1 | 2026-09-15 |
-| [mkdocs/mkdocs](https://github.com/repolex-forx/mkdocs--mkdocs) | 1.6.1 | 2026-09-15 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v8.6.0 | 2026-09-15 |
+| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.24.3 | 2026-09-15 |
+| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v8.5.0 | 2026-09-15 |
+| [squidfunk/mkdocs-material](https://github.com/repolex-forx/squidfunk--mkdocs-material) | 9.7.6 | 2026-09-15 |
+| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.25.0 | 2026-09-15 |
 | [apache/arrow](https://github.com/repolex-forx/apache--arrow) | r-12.0.1.1 | 2026-09-15 |
-| [mhammond/pywin32](https://github.com/repolex-forx/mhammond--pywin32) | py3k-merge-complete | 2026-09-15 |
-| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.25.1 | 2026-09-15 |
-| [coveragepy/coveragepy](https://github.com/repolex-forx/coveragepy--coveragepy) | coverage-5.6b1 | 2026-09-15 |
-| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.44.0 | 2026-09-15 |
-| [apple/foundationdb](https://github.com/repolex-forx/apple--foundationdb) | snowflake-71.3.0-rc3 | 2026-09-15 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v8.7.0 | 2026-09-15 |
+| [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 2.1.1 | 2026-09-15 |
+| [mkdocs/mkdocs](https://github.com/repolex-forx/mkdocs--mkdocs) | 1.6.1 | 2026-09-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
