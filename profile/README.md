@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.42.1 | 2026-09-15 |
+| [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 2.7.4 | 2026-09-15 |
+| [image-rs/image](https://github.com/repolex-forx/image-rs--image) | v0.25.1 | 2026-09-15 |
+| [Byron/open-rs](https://github.com/repolex-forx/Byron--open-rs) | v5.2.0 | 2026-09-15 |
+| [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.14.1 | 2026-09-15 |
+| [PrefectHQ/prefect](https://github.com/repolex-forx/PrefectHQ--prefect) | prefect-sqlalchemy-0.5.0 | 2026-09-15 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.45.0 | 2026-09-15 |
+| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v9.6.1 | 2026-09-15 |
+| [langchain-ai/langchain](https://github.com/repolex-forx/langchain-ai--langchain) | v0.0.346 | 2026-09-15 |
 | [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 2.9.0 | 2026-09-15 |
-| [image-rs/image](https://github.com/repolex-forx/image-rs--image) | v0.25.4 | 2026-09-14 |
-| [dtolnay/unicode-ident](https://github.com/repolex-forx/dtolnay--unicode-ident) | 1.0.18 | 2026-09-14 |
-| [apache/arrow](https://github.com/repolex-forx/apache--arrow) | r-14.0.0.1-cran | 2026-09-14 |
-| [langchain-ai/langchain](https://github.com/repolex-forx/langchain-ai--langchain) | v0.1.0 | 2026-09-14 |
-| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.52.0 | 2026-09-14 |
-| [huggingface/transformers](https://github.com/repolex-forx/huggingface--transformers) | v5.5.0 | 2026-09-14 |
-| [pandas-dev/pandas](https://github.com/repolex-forx/pandas-dev--pandas) | v3.0.0rc1 | 2026-09-14 |
-| [PrefectHQ/prefect](https://github.com/repolex-forx/PrefectHQ--prefect) | prefect-sqlalchemy-0.6.0 | 2026-09-14 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
