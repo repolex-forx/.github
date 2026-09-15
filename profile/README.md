@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [langchain-ai/langchain](https://github.com/repolex-forx/langchain-ai--langchain) | v0.0.343 | 2026-09-15 |
+| [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.13.5 | 2026-09-15 |
+| [known-facts/known-types](https://github.com/repolex-forx/known-facts--known-types) | 0.1.0 | 2026-09-15 |
+| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v9.5.2 | 2026-09-15 |
 | [PrefectHQ/prefect](https://github.com/repolex-forx/PrefectHQ--prefect) | prefect-sqlalchemy-0.4.3 | 2026-09-15 |
+| [langchain-ai/langchain](https://github.com/repolex-forx/langchain-ai--langchain) | v0.0.343 | 2026-09-15 |
+| [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.16.12 | 2026-09-15 |
 | [KokaKiwi/rust-hex](https://github.com/repolex-forx/KokaKiwi--rust-hex) | v0.4.3 | 2026-09-15 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.41.1 | 2026-09-15 |
-| [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.16.12 | 2026-09-15 |
 | [apache/arrow](https://github.com/repolex-forx/apache--arrow) | r-14.0.0.1-cran | 2026-09-15 |
 | [PrefectHQ/prefect](https://github.com/repolex-forx/PrefectHQ--prefect) | prefect-sqlalchemy-0.4.4 | 2026-09-15 |
-| [JelteF/derive_more](https://github.com/repolex-forx/JelteF--derive_more) | v2.1.1 | 2026-09-15 |
-| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.42.1 | 2026-09-15 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v9.5.3 | 2026-09-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
