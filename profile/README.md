@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [micromatch/is-glob](https://github.com/repolex-forx/micromatch--is-glob) | v4.0.3 | 2026-09-15 |
 | [huggingface/transformers](https://github.com/repolex-forx/huggingface--transformers) | v4.55.2 | 2026-09-15 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v9.1.0 | 2026-09-15 |
 | [apple/foundationdb](https://github.com/repolex-forx/apple--foundationdb) | snowflake-71.3.1-rc1 | 2026-09-15 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [apache/arrow](https://github.com/repolex-forx/apache--arrow) | r-13.0.0 | 2026-09-15 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.26.2 | 2026-09-15 |
 | [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.15.5 | 2026-09-15 |
-| [image-rs/image](https://github.com/repolex-forx/image-rs--image) | v0.24.6 | 2026-09-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
