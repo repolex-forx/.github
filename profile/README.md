@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pandas-dev/pandas](https://github.com/repolex-forx/pandas-dev--pandas) | v2.3.3 | 2026-09-15 |
+| [huggingface/transformers](https://github.com/repolex-forx/huggingface--transformers) | v5.1.0 | 2026-09-15 |
+| [es-shims/Object.groupBy](https://github.com/repolex-forx/es-shims--Object.groupBy) | v1.0.3 | 2026-09-15 |
 | [es-shims/Array.prototype.findLastIndex](https://github.com/repolex-forx/es-shims--Array.prototype.findLastIndex) | v1.2.6 | 2026-09-15 |
 | [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.13.2 | 2026-09-15 |
 | [babel/babel](https://github.com/repolex-forx/babel--babel) | v7.16.8 | 2026-09-15 |
-| [pandas-dev/pandas](https://github.com/repolex-forx/pandas-dev--pandas) | v2.3.3 | 2026-09-15 |
-| [huggingface/transformers](https://github.com/repolex-forx/huggingface--transformers) | v5.1.0 | 2026-09-15 |
 | [image-rs/image](https://github.com/repolex-forx/image-rs--image) | v0.25.0 | 2026-09-15 |
 | [dividab/tsconfig-paths](https://github.com/repolex-forx/dividab--tsconfig-paths) | v4.2.0 | 2026-09-15 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.38.0 | 2026-09-15 |
 | [dtolnay/unicode-ident](https://github.com/repolex-forx/dtolnay--unicode-ident) | 1.0.13 | 2026-09-15 |
-| [PyO3/pyo3-async-runtimes](https://github.com/repolex-forx/PyO3--pyo3-async-runtimes) | v0.25.0 | 2026-09-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
