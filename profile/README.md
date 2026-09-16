@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [micromatch/picomatch](https://github.com/repolex-forx/micromatch--picomatch) | 4.0.4 | 2026-09-16 |
+| [sysid/sse-starlette](https://github.com/repolex-forx/sysid--sse-starlette) | v3.3.4 | 2026-09-16 |
 | [mccormicka/string-argv](https://github.com/repolex-forx/mccormicka--string-argv) | v0.3.0 | 2026-09-16 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.3.0 | 2026-09-16 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [pydantic/typing-inspection](https://github.com/repolex-forx/pydantic--typing-inspection) | v0.4.2 | 2026-09-16 |
 | [sysid/sse-starlette](https://github.com/repolex-forx/sysid--sse-starlette) | 0.2.1 | 2026-09-16 |
 | [open-telemetry/opentelemetry-python](https://github.com/repolex-forx/open-telemetry--opentelemetry-python) | v1.41.0 | 2026-09-16 |
-| [pydantic/pydantic-settings](https://github.com/repolex-forx/pydantic--pydantic-settings) | v2.13.1 | 2026-09-16 |
-| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 2.12.1 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
