@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pydantic/typing-inspection](https://github.com/repolex-forx/pydantic--typing-inspection) | v0.4.2 | 2026-09-16 |
+| [sysid/sse-starlette](https://github.com/repolex-forx/sysid--sse-starlette) | 0.2.1 | 2026-09-16 |
 | [open-telemetry/opentelemetry-python](https://github.com/repolex-forx/open-telemetry--opentelemetry-python) | v1.41.0 | 2026-09-16 |
+| [pydantic/pydantic-settings](https://github.com/repolex-forx/pydantic--pydantic-settings) | v2.13.1 | 2026-09-16 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.32 | 2026-09-16 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 2.12.1 | 2026-09-16 |
 | [florimondmanca/httpx-sse](https://github.com/repolex-forx/florimondmanca--httpx-sse) | 0.4.3 | 2026-09-16 |
 | [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 2.0.1 | 2026-09-16 |
 | [Kludex/python-multipart](https://github.com/repolex-forx/Kludex--python-multipart) | 0.0.24 | 2026-09-16 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.4.0 | 2026-09-16 |
-| [yargs/yargs-parser](https://github.com/repolex-forx/yargs--yargs-parser) | yargs-parser-v22.0.0 | 2026-09-16 |
-| [sindresorhus/type-fest](https://github.com/repolex-forx/sindresorhus--type-fest) | v5.5.0 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
