@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [mccormicka/string-argv](https://github.com/repolex-forx/mccormicka--string-argv) | v0.3.0 | 2026-09-16 |
+| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.3.0 | 2026-09-16 |
 | [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.32 | 2026-09-16 |
 | [listr2/listr2](https://github.com/repolex-forx/listr2--listr2) | v7.0.0-beta.3 | 2026-09-16 |
@@ -41,9 +43,7 @@ lexq download repolex-ai/lexq
 | [sysid/sse-starlette](https://github.com/repolex-forx/sysid--sse-starlette) | 0.2.1 | 2026-09-16 |
 | [open-telemetry/opentelemetry-python](https://github.com/repolex-forx/open-telemetry--opentelemetry-python) | v1.41.0 | 2026-09-16 |
 | [pydantic/pydantic-settings](https://github.com/repolex-forx/pydantic--pydantic-settings) | v2.13.1 | 2026-09-16 |
-| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 2.12.1 | 2026-09-16 |
-| [florimondmanca/httpx-sse](https://github.com/repolex-forx/florimondmanca--httpx-sse) | 0.4.3 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
