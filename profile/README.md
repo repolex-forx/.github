@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ipython/traitlets](https://github.com/repolex-forx/ipython--traitlets) | v5.14.3 | 2026-09-16 |
+| [ipython/matplotlib-inline](https://github.com/repolex-forx/ipython--matplotlib-inline) | 0.2.1 | 2026-09-16 |
 | [ipython/ipython-pygments-lexers](https://github.com/repolex-forx/ipython--ipython-pygments-lexers) | 1.1.1 | 2026-09-16 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [alexmojaki/stack_data](https://github.com/repolex-forx/alexmojaki--stack_data) | v0.6.3 | 2026-09-16 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.20.2 | 2026-09-16 |
 | [twitchyliquid64/golang-asm](https://github.com/repolex-forx/twitchyliquid64--golang-asm) | v0.15.1 | 2026-09-16 |
 | [quic-go/quic-go](https://github.com/repolex-forx/quic-go--quic-go) | v0.59.0 | 2026-09-16 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.7.0 | 2026-09-16 |
-| [quic-go/qpack](https://github.com/repolex-forx/quic-go--qpack) | v0.6.0 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
