@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.33 | 2026-09-16 |
+| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.52 | 2026-09-16 |
 | [psf/httpbin](https://github.com/repolex-forx/psf--httpbin) | v0.10.2 | 2026-09-16 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.5.0 | 2026-09-16 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [ipython/traitlets](https://github.com/repolex-forx/ipython--traitlets) | v5.14.3 | 2026-09-16 |
 | [ipython/matplotlib-inline](https://github.com/repolex-forx/ipython--matplotlib-inline) | 0.2.1 | 2026-09-16 |
 | [ipython/ipython-pygments-lexers](https://github.com/repolex-forx/ipython--ipython-pygments-lexers) | 1.1.1 | 2026-09-16 |
-| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
-| [alexmojaki/stack_data](https://github.com/repolex-forx/alexmojaki--stack_data) | v0.6.3 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
