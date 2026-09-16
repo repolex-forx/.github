@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Preston-Landers/concurrent-log-handler](https://github.com/repolex-forx/Preston-Landers--concurrent-log-handler) | 0.9.29 | 2026-09-16 |
+| [NVIDIA/NeMo-Relay](https://github.com/repolex-forx/NVIDIA--NeMo-Relay) | 0.9.0-rc.1 | 2026-09-16 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [pallets-eco/croniter](https://github.com/repolex-forx/pallets-eco--croniter) | 6.2.2 | 2026-09-16 |
 | [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | v0.1.16 | 2026-09-16 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [evanw/esbuild](https://github.com/repolex-forx/evanw--esbuild) | v0.28.0 | 2026-09-16 |
 | [cpburnz/python-pathspec](https://github.com/repolex-forx/cpburnz--python-pathspec) | v1.0.4 | 2026-09-16 |
 | [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-16 |
-| [PrefectHQ/prefect](https://github.com/repolex-forx/PrefectHQ--prefect) | prefect-sqlalchemy-0.5.0rc1 | 2026-09-16 |
-| [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.7.1 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
