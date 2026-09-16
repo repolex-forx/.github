@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ugorji/go](https://github.com/repolex-forx/ugorji--go) | v1.2.14 | 2026-09-16 |
+| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.6.0 | 2026-09-16 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.20.2 | 2026-09-16 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [twitchyliquid64/golang-asm](https://github.com/repolex-forx/twitchyliquid64--golang-asm) | v0.15.1 | 2026-09-16 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [quic-go/qpack](https://github.com/repolex-forx/quic-go--qpack) | v0.6.0 | 2026-09-16 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.21.0 | 2026-09-16 |
 | [pmezard/go-difflib](https://github.com/repolex-forx/pmezard--go-difflib) | v1.0.0 | 2026-09-16 |
-| [pelletier/go-toml](https://github.com/repolex-forx/pelletier--go-toml) | v2.3.0 | 2026-09-16 |
-| [modern-go/reflect2](https://github.com/repolex-forx/modern-go--reflect2) | v1.0.2 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
