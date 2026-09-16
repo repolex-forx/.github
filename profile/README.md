@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [gin-contrib/sse](https://github.com/repolex-forx/gin-contrib--sse) | v1.1.1 | 2026-09-16 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.23.0 | 2026-09-16 |
 | [bytedance/sonic](https://github.com/repolex-forx/bytedance--sonic) | v1.15.0 | 2026-09-16 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 2.1 | 2026-09-16 |
 | [cloudwego/base64x](https://github.com/repolex-forx/cloudwego--base64x) | v0.1.6 | 2026-09-16 |
 | [squidfunk/mkdocs-material](https://github.com/repolex-forx/squidfunk--mkdocs-material) | 9.7.4 | 2026-09-16 |
-| [bytedance/gopkg](https://github.com/repolex-forx/bytedance--gopkg) | v0.1.4 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
