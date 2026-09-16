@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.22.0 | 2026-09-16 |
+| [go-playground/universal-translator](https://github.com/repolex-forx/go-playground--universal-translator) | v0.18.1 | 2026-09-16 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v8.2.0 | 2026-09-16 |
 | [gin-contrib/sse](https://github.com/repolex-forx/gin-contrib--sse) | v1.1.1 | 2026-09-16 |
-| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.23.0 | 2026-09-16 |
 | [bytedance/sonic](https://github.com/repolex-forx/bytedance--sonic) | v1.15.0 | 2026-09-16 |
 | [gabriel-vasile/mimetype](https://github.com/repolex-forx/gabriel-vasile--mimetype) | v1.4.13 | 2026-09-16 |
 | [davecgh/go-spew](https://github.com/repolex-forx/davecgh--go-spew) | v1.1.1 | 2026-09-16 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v8.3.0 | 2026-09-16 |
-| [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 2.1 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
