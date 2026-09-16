@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [alexmojaki/stack_data](https://github.com/repolex-forx/alexmojaki--stack_data) | v0.6.3 | 2026-09-16 |
 | [ugorji/go](https://github.com/repolex-forx/ugorji--go) | v1.2.14 | 2026-09-16 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.6.0 | 2026-09-16 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.20.2 | 2026-09-16 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.7.0 | 2026-09-16 |
 | [quic-go/qpack](https://github.com/repolex-forx/quic-go--qpack) | v0.6.0 | 2026-09-16 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.21.0 | 2026-09-16 |
-| [pmezard/go-difflib](https://github.com/repolex-forx/pmezard--go-difflib) | v1.0.0 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
