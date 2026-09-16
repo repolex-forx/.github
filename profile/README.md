@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [squidfunk/mkdocs-material](https://github.com/repolex-forx/squidfunk--mkdocs-material) | 9.7.4 | 2026-09-16 |
+| [bytedance/gopkg](https://github.com/repolex-forx/bytedance--gopkg) | v0.1.4 | 2026-09-16 |
+| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v8.3.1 | 2026-09-16 |
+| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
+| [pillarjs/encodeurl](https://github.com/repolex-forx/pillarjs--encodeurl) | v1.0.0 | 2026-09-16 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.24.0 | 2026-09-16 |
 | [apache/arrow](https://github.com/repolex-forx/apache--arrow) | go/v17.0.0 | 2026-09-16 |
-| [squidfunk/mkdocs-material](https://github.com/repolex-forx/squidfunk--mkdocs-material) | 9.7.4 | 2026-09-16 |
 | [pillarjs/encodeurl](https://github.com/repolex-forx/pillarjs--encodeurl) | v1.0.1 | 2026-09-16 |
 | [pillarjs/router](https://github.com/repolex-forx/pillarjs--router) | v2.2.0 | 2026-09-16 |
-| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [pillarjs/encodeurl](https://github.com/repolex-forx/pillarjs--encodeurl) | v1.0.2 | 2026-09-16 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v8.4.0 | 2026-09-15 |
-| [pillarjs/finalhandler](https://github.com/repolex-forx/pillarjs--finalhandler) | v2.1.1 | 2026-09-15 |
-| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.24.1 | 2026-09-15 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
