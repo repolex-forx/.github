@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [jawah/charset_normalizer](https://github.com/repolex-forx/jawah--charset_normalizer) | 3.4.7 | 2026-09-16 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.2.0 | 2026-09-16 |
-| [pypdfium2-team/pypdfium2](https://github.com/repolex-forx/pypdfium2-team--pypdfium2) | 5.7.0 | 2026-09-16 |
-| [tinylibs/tinyexec](https://github.com/repolex-forx/tinylibs--tinyexec) | 1.1.1 | 2026-09-16 |
-| [laurent-laporte-pro/deprecated](https://github.com/repolex-forx/laurent-laporte-pro--deprecated) | v1.3.1 | 2026-09-16 |
-| [readthedocs/sphinx-notfound-page](https://github.com/repolex-forx/readthedocs--sphinx-notfound-page) | 1.1.0 | 2026-09-16 |
-| [micromatch/picomatch](https://github.com/repolex-forx/micromatch--picomatch) | 4.0.4 | 2026-09-16 |
-| [sysid/sse-starlette](https://github.com/repolex-forx/sysid--sse-starlette) | v3.3.4 | 2026-09-16 |
-| [mccormicka/string-argv](https://github.com/repolex-forx/mccormicka--string-argv) | v0.3.0 | 2026-09-16 |
+| [pallets-eco/croniter](https://github.com/repolex-forx/pallets-eco--croniter) | 6.2.2 | 2026-09-16 |
+| [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | v0.1.16 | 2026-09-16 |
+| [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 16.0 | 2026-09-16 |
+| [pexpect/ptyprocess](https://github.com/repolex-forx/pexpect--ptyprocess) | 0.7.0 | 2026-09-16 |
+| [evanw/esbuild](https://github.com/repolex-forx/evanw--esbuild) | v0.28.0 | 2026-09-16 |
+| [cpburnz/python-pathspec](https://github.com/repolex-forx/cpburnz--python-pathspec) | v1.0.4 | 2026-09-16 |
+| [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-16 |
+| [PrefectHQ/prefect](https://github.com/repolex-forx/PrefectHQ--prefect) | prefect-sqlalchemy-0.5.0rc1 | 2026-09-16 |
+| [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.7.1 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
