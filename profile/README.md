@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.21.1 | 2026-09-16 |
+| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
+| [go-playground/locales](https://github.com/repolex-forx/go-playground--locales) | v0.14.1 | 2026-09-16 |
+| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v8.0.0 | 2026-09-16 |
+| [leodido/go-urn](https://github.com/repolex-forx/leodido--go-urn) | v1.4.0 | 2026-09-16 |
+| [kr/text](https://github.com/repolex-forx/kr--text) | v0.2.0 | 2026-09-16 |
 | [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.36 | 2026-09-16 |
 | [klauspost/cpuid](https://github.com/repolex-forx/klauspost--cpuid) | v2.3.0 | 2026-09-16 |
 | [json-iterator/go](https://github.com/repolex-forx/json-iterator--go) | v1.1.12 | 2026-09-16 |
-| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
-| [go-playground/locales](https://github.com/repolex-forx/go-playground--locales) | v0.14.1 | 2026-09-16 |
 | [goccy/go-yaml](https://github.com/repolex-forx/goccy--go-yaml) | v1.19.2 | 2026-09-16 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v8.1.0 | 2026-09-16 |
-| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.21.2 | 2026-09-16 |
-| [goccy/go-json](https://github.com/repolex-forx/goccy--go-json) | v0.10.6 | 2026-09-16 |
-| [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.37 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
