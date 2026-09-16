@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.36 | 2026-09-16 |
+| [klauspost/cpuid](https://github.com/repolex-forx/klauspost--cpuid) | v2.3.0 | 2026-09-16 |
 | [json-iterator/go](https://github.com/repolex-forx/json-iterator--go) | v1.1.12 | 2026-09-16 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [go-playground/locales](https://github.com/repolex-forx/go-playground--locales) | v0.14.1 | 2026-09-16 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.21.2 | 2026-09-16 |
 | [goccy/go-json](https://github.com/repolex-forx/goccy--go-json) | v0.10.6 | 2026-09-16 |
 | [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.37 | 2026-09-16 |
-| [go-playground/validator](https://github.com/repolex-forx/go-playground--validator) | v10.30.1 | 2026-09-16 |
-| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.22.0 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
