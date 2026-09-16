@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [json5/json5](https://github.com/repolex-forx/json5--json5) | v2.2.3 | 2026-09-16 |
+| [huafu/bs-logger](https://github.com/repolex-forx/huafu--bs-logger) | v0.2.6 | 2026-09-16 |
 | [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.33 | 2026-09-16 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.52 | 2026-09-16 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.20.1 | 2026-09-16 |
 | [pexpect/pexpect](https://github.com/repolex-forx/pexpect--pexpect) | 4.9 | 2026-09-16 |
 | [ipython/traitlets](https://github.com/repolex-forx/ipython--traitlets) | v5.14.3 | 2026-09-16 |
-| [ipython/matplotlib-inline](https://github.com/repolex-forx/ipython--matplotlib-inline) | 0.2.1 | 2026-09-16 |
-| [ipython/ipython-pygments-lexers](https://github.com/repolex-forx/ipython--ipython-pygments-lexers) | 1.1.1 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
