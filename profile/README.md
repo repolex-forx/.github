@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [yargs/yargs-parser](https://github.com/repolex-forx/yargs--yargs-parser) | yargs-parser-v22.0.0 | 2026-09-16 |
+| [sindresorhus/type-fest](https://github.com/repolex-forx/sindresorhus--type-fest) | v5.5.0 | 2026-09-16 |
 | [json5/json5](https://github.com/repolex-forx/json5--json5) | v2.2.3 | 2026-09-16 |
 | [huafu/bs-logger](https://github.com/repolex-forx/huafu--bs-logger) | v0.2.6 | 2026-09-16 |
 | [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.33 | 2026-09-16 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [psf/httpbin](https://github.com/repolex-forx/psf--httpbin) | v0.10.2 | 2026-09-16 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.5.0 | 2026-09-16 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.20.1 | 2026-09-16 |
-| [pexpect/pexpect](https://github.com/repolex-forx/pexpect--pexpect) | 4.9 | 2026-09-16 |
-| [ipython/traitlets](https://github.com/repolex-forx/ipython--traitlets) | v5.14.3 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
