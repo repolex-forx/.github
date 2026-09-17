@@ -34,11 +34,11 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [NVIDIA/NeMo-Relay](https://github.com/repolex-forx/NVIDIA--NeMo-Relay) | 0.9.0-rc.1 | 2026-09-16 |
+| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
+| [NVIDIA/NeMo-Relay](https://github.com/repolex-forx/NVIDIA--NeMo-Relay) | 0.9.0-rc.1 | 2026-09-17 |
 | [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.2.4 | 2026-09-16 |
 | [psf/requests](https://github.com/repolex-forx/psf--requests) | v2.32.5 | 2026-09-16 |
 | [Preston-Landers/concurrent-log-handler](https://github.com/repolex-forx/Preston-Landers--concurrent-log-handler) | 0.9.29 | 2026-09-16 |
-| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-16 |
 | [pallets-eco/croniter](https://github.com/repolex-forx/pallets-eco--croniter) | 6.2.2 | 2026-09-16 |
 | [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | v0.1.16 | 2026-09-16 |
 | [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 16.0 | 2026-09-16 |
