@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `d79791e26e` | 2026-09-17 |
+| [repolex-ai/forx](https://github.com/repolex-forx/repolex-ai--forx) | `8f9ab6f3bb` | 2026-09-17 |
+| [repolex-ai/multilspy](https://github.com/repolex-forx/repolex-ai--multilspy) | `63e88426dc` | 2026-09-17 |
+| [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `bc7e632fa6` | 2026-09-17 |
+| [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `aa4df24901` | 2026-09-17 |
+| [repolex-ai/forx](https://github.com/repolex-forx/repolex-ai--forx) | `6801b18f9a` | 2026-09-17 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
-| [PythonCharmers/python-future](https://github.com/repolex-forx/PythonCharmers--python-future) | v1.0.0 | 2026-09-17 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.8.0 | 2026-09-17 |
-| [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.2.3 | 2026-09-17 |
-| [python-hyper/brotlipy](https://github.com/repolex-forx/python-hyper--brotlipy) | v1.2.0.1 | 2026-09-17 |
-| [benjaminp/six](https://github.com/repolex-forx/benjaminp--six) | 1.17.0 | 2026-09-17 |
-| [paulmillr/chokidar](https://github.com/repolex-forx/paulmillr--chokidar) | 5.0.0 | 2026-09-17 |
-| [remy/undefsafe](https://github.com/repolex-forx/remy--undefsafe) | v2.0.5 | 2026-09-17 |
-| [chalk/supports-color](https://github.com/repolex-forx/chalk--supports-color) | v10.2.2 | 2026-09-17 |
+| [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 2.0rc1 | 2026-09-17 |
+| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `4dc376a4d0` | 2026-09-17 |
+| [stretchr/objx](https://github.com/repolex-forx/stretchr--objx) | v0.5.3 | 2026-09-17 |
+| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `d79791e26e` | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
