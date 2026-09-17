@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jsx-eslint/eslint-plugin-react](https://github.com/repolex-forx/jsx-eslint--eslint-plugin-react) | v7.37.5 | 2026-09-17 |
+| [facebook/react](https://github.com/repolex-forx/facebook--react) | v19.2.5 | 2026-09-17 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.6.0 | 2026-09-17 |
 | [ianvs/prettier-plugin-sort-imports](https://github.com/repolex-forx/ianvs--prettier-plugin-sort-imports) | v4.7.1 | 2026-09-17 |
-| [facebook/react](https://github.com/repolex-forx/facebook--react) | v19.2.5 | 2026-09-17 |
 | [eslint/rewrite](https://github.com/repolex-forx/eslint--rewrite) | plugin-kit-v0.7.1 | 2026-09-17 |
 | [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.2.2 | 2026-09-17 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
 | [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `3a993b9535` | 2026-09-17 |
 | [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `77a6a8c614` | 2026-09-17 |
 | [blitz-js/superjson](https://github.com/repolex-forx/blitz-js--superjson) | v2.2.5 | 2026-09-17 |
-| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `5e836b878b` | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
