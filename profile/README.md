@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [testing-library/user-event](https://github.com/repolex-forx/testing-library--user-event) | v14.6.1 | 2026-09-17 |
+| [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.2.1 | 2026-09-17 |
 | [testing-library/react-testing-library](https://github.com/repolex-forx/testing-library--react-testing-library) | v16.3.2 | 2026-09-17 |
 | [facebook/react](https://github.com/repolex-forx/facebook--react) | v19.2.5 | 2026-09-17 |
 | [testing-library/jest-dom](https://github.com/repolex-forx/testing-library--jest-dom) | v6.9.1 | 2026-09-17 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [tanstack/intent](https://github.com/repolex-forx/tanstack--intent) | release-2026-03-16-1953 | 2026-09-17 |
 | [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/repolex-forx/tailwindlabs--prettier-plugin-tailwindcss) | v0.7.2 | 2026-09-17 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.4.0 | 2026-09-17 |
-| [sindresorhus/eslint-plugin-unicorn](https://github.com/repolex-forx/sindresorhus--eslint-plugin-unicorn) | v64.0.0 | 2026-09-17 |
-| [open-cli-tools/concurrently](https://github.com/repolex-forx/open-cli-tools--concurrently) | v9.2.1 | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
