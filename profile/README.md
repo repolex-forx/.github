@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rbarrois/confutils](https://github.com/repolex-forx/rbarrois--confutils) | confutils-0.3.7 | 2026-09-17 |
 | [jaraco/zipp](https://github.com/repolex-forx/jaraco--zipp) | v3.23.1 | 2026-09-17 |
 | [pytest-dev/iniconfig](https://github.com/repolex-forx/pytest-dev--iniconfig) | v2.3.0 | 2026-09-17 |
 | [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-17 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.1.0 | 2026-09-17 |
 | [PrefectHQ/prefect](https://github.com/repolex-forx/PrefectHQ--prefect) | prefect-sqlalchemy-0.5.0rc1 | 2026-09-17 |
 | [NVIDIA/NeMo-Relay](https://github.com/repolex-forx/NVIDIA--NeMo-Relay) | 0.9.0-rc.1 | 2026-09-17 |
-| [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.2.4 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
