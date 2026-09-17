@@ -34,10 +34,10 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [facebook/react](https://github.com/repolex-forx/facebook--react) | v19.2.5 | 2026-09-17 |
 | [testing-library/user-event](https://github.com/repolex-forx/testing-library--user-event) | v14.6.1 | 2026-09-17 |
 | [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.2.1 | 2026-09-17 |
 | [testing-library/react-testing-library](https://github.com/repolex-forx/testing-library--react-testing-library) | v16.3.2 | 2026-09-17 |
-| [facebook/react](https://github.com/repolex-forx/facebook--react) | v19.2.5 | 2026-09-17 |
 | [testing-library/jest-dom](https://github.com/repolex-forx/testing-library--jest-dom) | v6.9.1 | 2026-09-17 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.3.0 | 2026-09-17 |
 | [testing-library/dom-testing-library](https://github.com/repolex-forx/testing-library--dom-testing-library) | v10.4.1 | 2026-09-17 |
