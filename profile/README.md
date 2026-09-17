@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `afff582ca0` | 2026-09-17 |
+| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
+| [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `fa85e72880` | 2026-09-17 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.7.0 | 2026-09-17 |
 | [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.24.post1 | 2026-09-17 |
 | [Thinkmill/manypkg](https://github.com/repolex-forx/Thinkmill--manypkg) | @manypkg/tools@2.1.1 | 2026-09-17 |
 | [carllerche/iovec](https://github.com/repolex-forx/carllerche--iovec) | v0.1.3 | 2026-09-17 |
-| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
 | [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `5fe090ca16` | 2026-09-17 |
 | [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `a193006e01` | 2026-09-17 |
 | [pre-commit/pre-commit](https://github.com/repolex-forx/pre-commit--pre-commit) | v4.5.1 | 2026-09-17 |
-| [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-17 |
-| [repolex-ai/forx](https://github.com/repolex-forx/repolex-ai--forx) | `27ddfcbf1d` | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
