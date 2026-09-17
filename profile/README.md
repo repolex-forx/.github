@@ -34,7 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `d79791e26e` | 2026-09-17 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
+| [PythonCharmers/python-future](https://github.com/repolex-forx/PythonCharmers--python-future) | v1.0.0 | 2026-09-17 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.8.0 | 2026-09-17 |
 | [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.2.3 | 2026-09-17 |
 | [python-hyper/brotlipy](https://github.com/repolex-forx/python-hyper--brotlipy) | v1.2.0.1 | 2026-09-17 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [paulmillr/chokidar](https://github.com/repolex-forx/paulmillr--chokidar) | 5.0.0 | 2026-09-17 |
 | [remy/undefsafe](https://github.com/repolex-forx/remy--undefsafe) | v2.0.5 | 2026-09-17 |
 | [chalk/supports-color](https://github.com/repolex-forx/chalk--supports-color) | v10.2.2 | 2026-09-17 |
-| [novemberborn/ignore-by-default](https://github.com/repolex-forx/novemberborn--ignore-by-default) | v2.1.0 | 2026-09-17 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.0.0 | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
