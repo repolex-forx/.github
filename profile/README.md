@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `5fe090ca16` | 2026-09-17 |
+| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `a193006e01` | 2026-09-17 |
+| [pre-commit/pre-commit](https://github.com/repolex-forx/pre-commit--pre-commit) | v4.5.1 | 2026-09-17 |
+| [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-17 |
+| [repolex-ai/forx](https://github.com/repolex-forx/repolex-ai--forx) | `27ddfcbf1d` | 2026-09-17 |
 | [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `26609d06d4` | 2026-09-17 |
 | [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `d6226dc2f9` | 2026-09-17 |
 | [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `4cab89d8e2` | 2026-09-17 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
 | [peritus/bumpversion](https://github.com/repolex-forx/peritus--bumpversion) | v0.5.3 | 2026-09-17 |
-| [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `22c79b34c8` | 2026-09-17 |
-| [repolex-ai/forx](https://github.com/repolex-forx/repolex-ai--forx) | `8f9ab6f3bb` | 2026-09-17 |
-| [repolex-ai/multilspy](https://github.com/repolex-forx/repolex-ai--multilspy) | `63e88426dc` | 2026-09-17 |
-| [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `bc7e632fa6` | 2026-09-17 |
-| [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `aa4df24901` | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
