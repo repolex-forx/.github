@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [eslint/rewrite](https://github.com/repolex-forx/eslint--rewrite) | plugin-kit-v0.7.1 | 2026-09-17 |
+| [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.2.2 | 2026-09-17 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
 | [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `3a993b9535` | 2026-09-17 |
 | [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `77a6a8c614` | 2026-09-17 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [bcomnes/npm-run-all2](https://github.com/repolex-forx/bcomnes--npm-run-all2) | v8.1.0-beta.0 | 2026-09-17 |
 | [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `d05b12a33f` | 2026-09-17 |
 | [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `79d0c16a26` | 2026-09-17 |
-| [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `afff582ca0` | 2026-09-17 |
-| [actions/toolkit](https://github.com/repolex-forx/actions--toolkit) | @actions/tool-cache@1.1.1 | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
