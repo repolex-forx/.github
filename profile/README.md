@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `26609d06d4` | 2026-09-17 |
+| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `d6226dc2f9` | 2026-09-17 |
+| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `4cab89d8e2` | 2026-09-17 |
+| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
+| [peritus/bumpversion](https://github.com/repolex-forx/peritus--bumpversion) | v0.5.3 | 2026-09-17 |
+| [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `22c79b34c8` | 2026-09-17 |
 | [repolex-ai/forx](https://github.com/repolex-forx/repolex-ai--forx) | `8f9ab6f3bb` | 2026-09-17 |
 | [repolex-ai/multilspy](https://github.com/repolex-forx/repolex-ai--multilspy) | `63e88426dc` | 2026-09-17 |
 | [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `bc7e632fa6` | 2026-09-17 |
 | [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `aa4df24901` | 2026-09-17 |
-| [repolex-ai/forx](https://github.com/repolex-forx/repolex-ai--forx) | `6801b18f9a` | 2026-09-17 |
-| [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
-| [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 2.0rc1 | 2026-09-17 |
-| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `4dc376a4d0` | 2026-09-17 |
-| [stretchr/objx](https://github.com/repolex-forx/stretchr--objx) | v0.5.3 | 2026-09-17 |
-| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `d79791e26e` | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
