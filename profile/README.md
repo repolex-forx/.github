@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 2.0 | 2026-09-17 |
+| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v7.1.0 | 2026-09-17 |
+| [PrefectHQ/prefect](https://github.com/repolex-forx/PrefectHQ--prefect) | prefect-sqlalchemy-0.5.0rc1 | 2026-09-17 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
 | [NVIDIA/NeMo-Relay](https://github.com/repolex-forx/NVIDIA--NeMo-Relay) | 0.9.0-rc.1 | 2026-09-17 |
 | [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.2.4 | 2026-09-16 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [Preston-Landers/concurrent-log-handler](https://github.com/repolex-forx/Preston-Landers--concurrent-log-handler) | 0.9.29 | 2026-09-16 |
 | [pallets-eco/croniter](https://github.com/repolex-forx/pallets-eco--croniter) | 6.2.2 | 2026-09-16 |
 | [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | v0.1.16 | 2026-09-16 |
-| [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 16.0 | 2026-09-16 |
-| [pexpect/ptyprocess](https://github.com/repolex-forx/pexpect--ptyprocess) | 0.7.0 | 2026-09-16 |
-| [evanw/esbuild](https://github.com/repolex-forx/evanw--esbuild) | v0.28.0 | 2026-09-16 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
