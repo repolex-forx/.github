@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [codecov/codecov-python](https://github.com/repolex-forx/codecov--codecov-python) | v2.1.13 | 2026-09-17 |
+| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.2.1 | 2026-09-17 |
 | [facebook/react](https://github.com/repolex-forx/facebook--react) | v19.2.5 | 2026-09-17 |
 | [testing-library/user-event](https://github.com/repolex-forx/testing-library--user-event) | v14.6.1 | 2026-09-17 |
 | [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.2.1 | 2026-09-17 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.3.0 | 2026-09-17 |
 | [testing-library/dom-testing-library](https://github.com/repolex-forx/testing-library--dom-testing-library) | v10.4.1 | 2026-09-17 |
 | [tanstack/intent](https://github.com/repolex-forx/tanstack--intent) | release-2026-03-16-1953 | 2026-09-17 |
-| [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/repolex-forx/tailwindlabs--prettier-plugin-tailwindcss) | v0.7.2 | 2026-09-17 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.4.0 | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
