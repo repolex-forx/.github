@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [facebook/react](https://github.com/repolex-forx/facebook--react) | v19.2.5 | 2026-09-17 |
+| [tanstack/intent](https://github.com/repolex-forx/tanstack--intent) | release-2026-03-16-1953 | 2026-09-17 |
 | [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/repolex-forx/tailwindlabs--prettier-plugin-tailwindcss) | v0.7.2 | 2026-09-17 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.4.0 | 2026-09-17 |
-| [facebook/react](https://github.com/repolex-forx/facebook--react) | v19.2.5 | 2026-09-17 |
 | [sindresorhus/eslint-plugin-unicorn](https://github.com/repolex-forx/sindresorhus--eslint-plugin-unicorn) | v64.0.0 | 2026-09-17 |
 | [open-cli-tools/concurrently](https://github.com/repolex-forx/open-cli-tools--concurrently) | v9.2.1 | 2026-09-17 |
 | [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 1.6 | 2026-09-17 |
 | [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.5.0 | 2026-09-17 |
 | [mrmlnc/fast-glob](https://github.com/repolex-forx/mrmlnc--fast-glob) | v3.1.0 | 2026-09-17 |
 | [jsx-eslint/eslint-plugin-react](https://github.com/repolex-forx/jsx-eslint--eslint-plugin-react) | v7.37.5 | 2026-09-17 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.6.0 | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
