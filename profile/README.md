@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `afff582ca0` | 2026-09-17 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
-| [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `fa85e72880` | 2026-09-17 |
-| [cypress-io/cypress](https://github.com/repolex-forx/cypress-io--cypress) | v6.7.0 | 2026-09-17 |
-| [run-llama/llama_index](https://github.com/repolex-forx/run-llama--llama_index) | v0.12.24.post1 | 2026-09-17 |
-| [Thinkmill/manypkg](https://github.com/repolex-forx/Thinkmill--manypkg) | @manypkg/tools@2.1.1 | 2026-09-17 |
-| [carllerche/iovec](https://github.com/repolex-forx/carllerche--iovec) | v0.1.3 | 2026-09-17 |
-| [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `5fe090ca16` | 2026-09-17 |
-| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `a193006e01` | 2026-09-17 |
-| [pre-commit/pre-commit](https://github.com/repolex-forx/pre-commit--pre-commit) | v4.5.1 | 2026-09-17 |
+| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `3a993b9535` | 2026-09-17 |
+| [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `77a6a8c614` | 2026-09-17 |
+| [blitz-js/superjson](https://github.com/repolex-forx/blitz-js--superjson) | v2.2.5 | 2026-09-17 |
+| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `5e836b878b` | 2026-09-17 |
+| [bcomnes/npm-run-all2](https://github.com/repolex-forx/bcomnes--npm-run-all2) | v8.1.0-beta.0 | 2026-09-17 |
+| [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `d05b12a33f` | 2026-09-17 |
+| [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `79d0c16a26` | 2026-09-17 |
+| [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `afff582ca0` | 2026-09-17 |
+| [actions/toolkit](https://github.com/repolex-forx/actions--toolkit) | @actions/tool-cache@1.1.1 | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
