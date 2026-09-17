@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [benjaminp/six](https://github.com/repolex-forx/benjaminp--six) | 1.17.0 | 2026-09-17 |
 | [openjdk/jdk](https://github.com/repolex-forx/openjdk--jdk) | jdk-26+15 | 2026-09-17 |
 | [paulmillr/chokidar](https://github.com/repolex-forx/paulmillr--chokidar) | 5.0.0 | 2026-09-17 |
 | [remy/undefsafe](https://github.com/repolex-forx/remy--undefsafe) | v2.0.5 | 2026-09-17 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [rbarrois/tdparser](https://github.com/repolex-forx/rbarrois--tdparser) | tdparser-1.1.6 | 2026-09-17 |
 | [alexbrazier/simple-update-notifier](https://github.com/repolex-forx/alexbrazier--simple-update-notifier) | v2.0.0 | 2026-09-17 |
 | [rbarrois/fslib](https://github.com/repolex-forx/rbarrois--fslib) | v0.3.4 | 2026-09-17 |
-| [rbarrois/confutils](https://github.com/repolex-forx/rbarrois--confutils) | confutils-0.3.7 | 2026-09-17 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
