@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [python/tzdata](https://github.com/repolex-forx/python--tzdata) | 2025.3rc0 | 2026-09-18 |
 | [mhammond/pywin32](https://github.com/repolex-forx/mhammond--pywin32) | publish-docs-initial | 2026-09-18 |
 | [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v14.1.0 | 2026-09-18 |
 | [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v7.2.0 | 2026-09-18 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | v1.2.3 | 2026-09-18 |
 | [theskumar/python-dotenv](https://github.com/repolex-forx/theskumar--python-dotenv) | v1.1.1 | 2026-09-18 |
 | [certifi/python-certifi](https://github.com/repolex-forx/certifi--python-certifi) | 2015.09.06.2 | 2026-09-18 |
-| [snowballstem/snowball](https://github.com/repolex-forx/snowballstem--snowball) | v2.2.0 | 2026-09-18 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
