@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 3.0.1 | 2026-09-19 |
+| [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.3.2 | 2026-09-19 |
+| [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 4.2b1 | 2026-09-19 |
 | [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 11.1.0 | 2026-09-19 |
 | [python/tzdata](https://github.com/repolex-forx/python--tzdata) | 2020.5 | 2026-09-19 |
 | [pypa/packaging](https://github.com/repolex-forx/pypa--packaging) | 16.4 | 2026-09-19 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.29.0 | 2026-09-19 |
 | [Kludex/python-multipart](https://github.com/repolex-forx/Kludex--python-multipart) | 0.0.4 | 2026-09-19 |
 | [theskumar/python-dotenv](https://github.com/repolex-forx/theskumar--python-dotenv) | v0.6.5 | 2026-09-19 |
-| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.26.19 | 2026-09-19 |
-| [mhammond/pywin32](https://github.com/repolex-forx/mhammond--pywin32) | cvs2hg | 2026-09-19 |
-| [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.4.0 | 2026-09-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
