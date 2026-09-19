@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 2.9.2 | 2026-09-19 |
+| [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.6.0 | 2026-09-19 |
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 3.2.1 | 2026-09-19 |
+| [pypa/packaging](https://github.com/repolex-forx/pypa--packaging) | 16.8 | 2026-09-19 |
+| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 6.2.0 | 2026-09-19 |
+| [python/tzdata](https://github.com/repolex-forx/python--tzdata) | 2021.2 | 2026-09-19 |
 | [Kludex/python-multipart](https://github.com/repolex-forx/Kludex--python-multipart) | 0.0.8 | 2026-09-19 |
 | [theskumar/python-dotenv](https://github.com/repolex-forx/theskumar--python-dotenv) | v0.8.1 | 2026-09-19 |
 | [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 2.0.0a2 | 2026-09-19 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.30.3 | 2026-09-19 |
-| [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.6.1 | 2026-09-19 |
-| [pypa/packaging](https://github.com/repolex-forx/pypa--packaging) | 17.1 | 2026-09-19 |
-| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 6.3.0 | 2026-09-19 |
-| [python/tzdata](https://github.com/repolex-forx/python--tzdata) | 2021.3 | 2026-09-19 |
-| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 3.2.2 | 2026-09-19 |
-| [Kludex/python-multipart](https://github.com/repolex-forx/Kludex--python-multipart) | 0.0.9 | 2026-09-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
