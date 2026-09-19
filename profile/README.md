@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [python/tzdata](https://github.com/repolex-forx/python--tzdata) | 2025.2rc0 | 2026-09-18 |
 | [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-18 |
 | [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v1.0.0 | 2026-09-18 |
 | [pypa/packaging](https://github.com/repolex-forx/pypa--packaging) | 24.2 | 2026-09-18 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [certifi/python-certifi](https://github.com/repolex-forx/certifi--python-certifi) | 2016.08.02 | 2026-09-18 |
 | [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 2.5.0 | 2026-09-18 |
 | [psf/requests](https://github.com/repolex-forx/psf--requests) | v2.28.2 | 2026-09-18 |
-| [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 3.1.3 | 2026-09-18 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
