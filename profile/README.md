@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 3.1.0 | 2026-09-19 |
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 3.6 | 2026-09-19 |
 | [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.20.0 | 2026-09-19 |
 | [python/tzdata](https://github.com/repolex-forx/python--tzdata) | 2025.2.post0rc3 | 2026-09-19 |
 | [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | v1.0.0 | 2026-09-19 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [theskumar/python-dotenv](https://github.com/repolex-forx/theskumar--python-dotenv) | v0.21.0 | 2026-09-19 |
 | [certifi/python-certifi](https://github.com/repolex-forx/certifi--python-certifi) | 2020.04.05.1 | 2026-09-19 |
 | [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 5.4.1 | 2026-09-19 |
-| [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 12.0.0 | 2026-09-19 |
-| [python/tzdata](https://github.com/repolex-forx/python--tzdata) | 2025.2.post0rc4 | 2026-09-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
