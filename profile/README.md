@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [python/tzdata](https://github.com/repolex-forx/python--tzdata) | 2021.2.post0 | 2026-09-19 |
+| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 6.0.0 | 2026-09-19 |
+| [pypa/packaging](https://github.com/repolex-forx/pypa--packaging) | 16.6 | 2026-09-19 |
+| [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-19 |
 | [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 2.9.1 | 2026-09-19 |
 | [Kludex/python-multipart](https://github.com/repolex-forx/Kludex--python-multipart) | 0.0.6 | 2026-09-19 |
 | [theskumar/python-dotenv](https://github.com/repolex-forx/theskumar--python-dotenv) | v0.7.1 | 2026-09-19 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.30.1 | 2026-09-19 |
 | [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 5.1b1 | 2026-09-19 |
 | [openai/openai-python](https://github.com/repolex-forx/openai--openai-python) | v2.25.0 | 2026-09-19 |
-| [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.5.1 | 2026-09-19 |
-| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 3.2 | 2026-09-19 |
-| [python/tzdata](https://github.com/repolex-forx/python--tzdata) | 2021.2rc0 | 2026-09-19 |
-| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 6.1.0 | 2026-09-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
