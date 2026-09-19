@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.24.0 | 2026-09-19 |
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.6.5-final | 2026-09-19 |
 | [cpburnz/python-pathspec](https://github.com/repolex-forx/cpburnz--python-pathspec) | v1.0.2 | 2026-09-19 |
 | [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.2.0 | 2026-09-19 |
 | [pypa/packaging](https://github.com/repolex-forx/pypa--packaging) | 15.0 | 2026-09-19 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 2.7.0 | 2026-09-19 |
 | [theskumar/python-dotenv](https://github.com/repolex-forx/theskumar--python-dotenv) | v0.4.0 | 2026-09-19 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.38 | 2026-09-19 |
-| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.25.0 | 2026-09-19 |
-| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.6.6-final | 2026-09-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
