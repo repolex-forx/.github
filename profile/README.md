@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v13.1.0 | 2026-09-19 |
 | [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.26.20 | 2026-09-19 |
 | [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 3.1.1 | 2026-09-19 |
 | [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.5.0 | 2026-09-19 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-19 |
 | [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 2.9.1 | 2026-09-19 |
 | [Kludex/python-multipart](https://github.com/repolex-forx/Kludex--python-multipart) | 0.0.6 | 2026-09-19 |
-| [theskumar/python-dotenv](https://github.com/repolex-forx/theskumar--python-dotenv) | v0.7.1 | 2026-09-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
