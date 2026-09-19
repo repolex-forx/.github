@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.42.0 | 2026-09-19 |
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 3.7 | 2026-09-19 |
+| [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 3.1.1 | 2026-09-19 |
 | [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-19 |
 | [python/tzdata](https://github.com/repolex-forx/python--tzdata) | 2025.2.post0 | 2026-09-19 |
 | [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 5.4.1.1 | 2026-09-19 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [pypa/packaging](https://github.com/repolex-forx/pypa--packaging) | 24.1 | 2026-09-19 |
 | [theskumar/python-dotenv](https://github.com/repolex-forx/theskumar--python-dotenv) | v1.0.0 | 2026-09-19 |
 | [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | v1.1.0 | 2026-09-19 |
-| [certifi/python-certifi](https://github.com/repolex-forx/certifi--python-certifi) | 2017.07.27.1 | 2026-09-19 |
-| [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v13.9.4 | 2026-09-19 |
-| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 2.4.0 | 2026-09-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
