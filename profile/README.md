@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.1.1 | 2026-09-20 |
 | [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.5.0 | 2026-09-20 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.33 | 2026-09-20 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.18.3 | 2026-09-20 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 3.05 | 2026-09-20 |
 | [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.1.2 | 2026-09-20 |
 | [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.8.0 | 2026-09-20 |
-| [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 15.0 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
