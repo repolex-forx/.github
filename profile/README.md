@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 2.5.3 | 2026-09-20 |
+| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.7.0 | 2026-09-20 |
+| [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.135.3 | 2026-09-20 |
 | [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 15.0.1 | 2026-09-20 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.34 | 2026-09-20 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 2.0.0 | 2026-09-20 |
-| [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.135.3 | 2026-09-20 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.21.0 | 2026-09-20 |
 | [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.5.1-final | 2026-09-20 |
 | [cpburnz/python-pathspec](https://github.com/repolex-forx/cpburnz--python-pathspec) | v0.11.0 | 2026-09-20 |
 | [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.9.0 | 2026-09-20 |
-| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.26.9 | 2026-09-20 |
-| [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 3.08 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
