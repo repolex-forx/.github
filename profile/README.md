@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.31 | 2026-09-20 |
+| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.0.0 | 2026-09-20 |
 | [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.135.2 | 2026-09-20 |
 | [pallets-eco/croniter](https://github.com/repolex-forx/pallets-eco--croniter) | 6.2.0 | 2026-09-20 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.17.5 | 2026-09-20 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v12.1.0 | 2026-09-20 |
 | [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 14.0 | 2026-09-20 |
 | [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.4.0 | 2026-09-20 |
-| [pexpect/ptyprocess](https://github.com/repolex-forx/pexpect--ptyprocess) | 0.5.1 | 2026-09-20 |
-| [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.7.2 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
