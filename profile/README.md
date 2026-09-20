@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.3.0 | 2026-09-20 |
+| [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v2.0.14 | 2026-09-20 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.31 | 2026-09-20 |
 | [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.0.0 | 2026-09-20 |
 | [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.135.2 | 2026-09-20 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.5.3 | 2026-09-20 |
 | [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.1.1.final | 2026-09-20 |
 | [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v12.1.0 | 2026-09-20 |
-| [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 14.0 | 2026-09-20 |
-| [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.4.0 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
