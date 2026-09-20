@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 13.0.1 | 2026-09-20 |
+| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.17.2 | 2026-09-20 |
+| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 3.6.0 | 2026-09-20 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.30 | 2026-09-20 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.5.0 | 2026-09-20 |
 | [pallets-eco/croniter](https://github.com/repolex-forx/pallets-eco--croniter) | 6.1.0rc3 | 2026-09-20 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [pexpect/ptyprocess](https://github.com/repolex-forx/pexpect--ptyprocess) | 0.3.1 | 2026-09-20 |
 | [openai/openai-python](https://github.com/repolex-forx/openai--openai-python) | v2.22.0 | 2026-09-20 |
 | [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v2.0.12 | 2026-09-20 |
-| [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.2.0 | 2026-09-20 |
-| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.26.1 | 2026-09-20 |
-| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.17.3 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
