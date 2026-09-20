@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-20 |
+| [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 12.0 | 2026-09-20 |
 | [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.135.1 | 2026-09-20 |
 | [openai/openai-python](https://github.com/repolex-forx/openai--openai-python) | v2.21.0 | 2026-09-20 |
 | [pexpect/ptyprocess](https://github.com/repolex-forx/pexpect--ptyprocess) | 0.1 | 2026-09-20 |
-| [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-20 |
 | [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.3.0 | 2026-09-20 |
 | [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v11.2.0 | 2026-09-20 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.29 | 2026-09-20 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.17.0 | 2026-09-20 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.4.0 | 2026-09-20 |
-| [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.1.1 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
