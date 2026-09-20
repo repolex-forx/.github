@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.3.0 | 2026-09-20 |
 | [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.26.5 | 2026-09-20 |
 | [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.6.0 | 2026-09-20 |
 | [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.7.3 | 2026-09-20 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [cpburnz/python-pathspec](https://github.com/repolex-forx/cpburnz--python-pathspec) | v0.9.0 | 2026-09-20 |
 | [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v12.2.0 | 2026-09-20 |
 | [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v3.0.3-pre0 | 2026-09-20 |
-| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.18.2 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
