@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.4-final | 2026-09-20 |
+| [cpburnz/python-pathspec](https://github.com/repolex-forx/cpburnz--python-pathspec) | v0.10.1 | 2026-09-20 |
+| [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 3.05 | 2026-09-20 |
 | [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.1.2 | 2026-09-20 |
 | [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.8.0 | 2026-09-20 |
 | [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 15.0 | 2026-09-20 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.26.7 | 2026-09-20 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.19.0 | 2026-09-20 |
 | [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 2.5.1 | 2026-09-20 |
-| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 2.0.0a1 | 2026-09-20 |
-| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.4.1-final | 2026-09-20 |
-| [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 3.06 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
