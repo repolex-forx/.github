@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.26.10 | 2026-09-20 |
+| [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 3.09 | 2026-09-20 |
+| [pypa/packaging](https://github.com/repolex-forx/pypa--packaging) | 14.0 | 2026-09-20 |
+| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.8.0 | 2026-09-20 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 2.1.0 | 2026-09-20 |
 | [theskumar/python-dotenv](https://github.com/repolex-forx/theskumar--python-dotenv) | v0.1.2 | 2026-09-20 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.22.0 | 2026-09-20 |
 | [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.6-final | 2026-09-20 |
 | [cpburnz/python-pathspec](https://github.com/repolex-forx/cpburnz--python-pathspec) | v0.11.2 | 2026-09-20 |
 | [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.1.7 | 2026-09-19 |
-| [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 2.5.5 | 2026-09-19 |
-| [pypa/packaging](https://github.com/repolex-forx/pypa--packaging) | 14.1 | 2026-09-19 |
-| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.9.0 | 2026-09-19 |
-| [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.36 | 2026-09-19 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
