@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.7.2 | 2026-09-20 |
+| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.26.3 | 2026-09-20 |
+| [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.3.1 | 2026-09-20 |
+| [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v2.0.15 | 2026-09-20 |
 | [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.0.1 | 2026-09-20 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.17.6 | 2026-09-20 |
 | [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.2.0.alpha | 2026-09-20 |
 | [pallets-eco/croniter](https://github.com/repolex-forx/pallets-eco--croniter) | 6.2.1 | 2026-09-20 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.6.0 | 2026-09-20 |
 | [pexpect/ptyprocess](https://github.com/repolex-forx/pexpect--ptyprocess) | 0.5.2 | 2026-09-20 |
-| [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v3.0.0 | 2026-09-20 |
-| [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.4.0 | 2026-09-20 |
-| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.1.0 | 2026-09-20 |
-| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.6.1 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
