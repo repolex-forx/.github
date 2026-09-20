@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.2.0.final | 2026-09-20 |
+| [pexpect/ptyprocess](https://github.com/repolex-forx/pexpect--ptyprocess) | 0.6.0 | 2026-09-20 |
+| [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-20 |
+| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.26.4 | 2026-09-20 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.18.0 | 2026-09-20 |
 | [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v3.0.1 | 2026-09-20 |
 | [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 14.1 | 2026-09-20 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.32 | 2026-09-20 |
 | [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.5.0 | 2026-09-20 |
 | [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.2.0 | 2026-09-20 |
-| [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 3.02 | 2026-09-20 |
-| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.6.3 | 2026-09-20 |
-| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.2.1.final | 2026-09-20 |
-| [cpburnz/python-pathspec](https://github.com/repolex-forx/cpburnz--python-pathspec) | v0.8.1 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
