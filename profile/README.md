@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.18.2 | 2026-09-20 |
+| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.4.0 | 2026-09-20 |
 | [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 14.2 | 2026-09-20 |
 | [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.7.0 | 2026-09-20 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.7.0 | 2026-09-20 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 3.04 | 2026-09-20 |
 | [cpburnz/python-pathspec](https://github.com/repolex-forx/cpburnz--python-pathspec) | v0.10.0 | 2026-09-20 |
 | [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.1.1 | 2026-09-20 |
-| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.5.0 | 2026-09-20 |
-| [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.33 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
