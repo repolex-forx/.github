@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pexpect/ptyprocess](https://github.com/repolex-forx/pexpect--ptyprocess) | 0.5 | 2026-09-20 |
 | [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.3.0 | 2026-09-20 |
 | [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v2.0.14 | 2026-09-20 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.31 | 2026-09-20 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.17.5 | 2026-09-20 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.5.3 | 2026-09-20 |
 | [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.1.1.final | 2026-09-20 |
-| [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v12.1.0 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
