@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.26.8 | 2026-09-20 |
+| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.20.0 | 2026-09-20 |
+| [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 3.07 | 2026-09-20 |
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.5-final | 2026-09-20 |
+| [cpburnz/python-pathspec](https://github.com/repolex-forx/cpburnz--python-pathspec) | v0.10.3 | 2026-09-20 |
 | [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.135.3 | 2026-09-20 |
+| [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v12.3.0 | 2026-09-20 |
 | [bigcat88/pillow_heif](https://github.com/repolex-forx/bigcat88--pillow_heif) | v0.1.4 | 2026-09-20 |
 | [openai/openai-python](https://github.com/repolex-forx/openai--openai-python) | v2.23.0 | 2026-09-20 |
 | [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 2.5.3 | 2026-09-20 |
-| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.7.0 | 2026-09-20 |
-| [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 15.0.1 | 2026-09-20 |
-| [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.34 | 2026-09-20 |
-| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 2.0.0 | 2026-09-20 |
-| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.21.0 | 2026-09-20 |
-| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.5.1-final | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
