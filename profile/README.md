@@ -34,6 +34,8 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 2.0.1 | 2026-09-20 |
+| [theskumar/python-dotenv](https://github.com/repolex-forx/theskumar--python-dotenv) | v0.1.1 | 2026-09-20 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.21.1 | 2026-09-20 |
 | [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 2.5.4 | 2026-09-20 |
 | [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.5.2-final | 2026-09-20 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-20 |
 | [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.26.10 | 2026-09-20 |
 | [yaml/pyyaml](https://github.com/repolex-forx/yaml--pyyaml) | 3.09 | 2026-09-20 |
-| [pypa/packaging](https://github.com/repolex-forx/pypa--packaging) | 14.0 | 2026-09-20 |
-| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 4.8.0 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
