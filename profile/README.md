@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 11.0.3 | 2026-09-21 |
+| [pallets-eco/croniter](https://github.com/repolex-forx/pallets-eco--croniter) | 5.0.1 | 2026-09-21 |
+| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.9 | 2026-09-21 |
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.0-rc1 | 2026-09-21 |
+| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 3.2.1 | 2026-09-21 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.27 | 2026-09-21 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.16.0 | 2026-09-21 |
 | [Preston-Landers/concurrent-log-handler](https://github.com/repolex-forx/Preston-Landers--concurrent-log-handler) | 0.9.27 | 2026-09-21 |
 | [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.1.9 | 2026-09-21 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.2.0 | 2026-09-21 |
-| [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v2.0.7 | 2026-09-21 |
-| [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.135.0 | 2026-09-21 |
-| [openai/openai-python](https://github.com/repolex-forx/openai--openai-python) | v2.20.0 | 2026-09-21 |
-| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.9 | 2026-09-21 |
-| [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.6.4 | 2026-09-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
