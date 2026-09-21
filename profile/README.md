@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.6.4 | 2026-09-21 |
+| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.2.0 | 2026-09-21 |
+| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.8 | 2026-09-21 |
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.0-beta | 2026-09-21 |
+| [encode/httpx](https://github.com/repolex-forx/encode--httpx) | 0.27.2 | 2026-09-21 |
+| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 3.2.0 | 2026-09-21 |
 | [pydantic/pydantic](https://github.com/repolex-forx/pydantic--pydantic) | v2.13.0b1 | 2026-09-21 |
 | [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.2.0 | 2026-09-21 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.27 | 2026-09-21 |
 | [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v2.0.7 | 2026-09-21 |
-| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.4.2 | 2026-09-21 |
-| [repolex-ai/ravel](https://github.com/repolex-forx/repolex-ai--ravel) | `e897e6be7f` | 2026-09-21 |
-| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.16.0 | 2026-09-21 |
-| [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-21 |
-| [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 11.0.3 | 2026-09-21 |
-| [pallets-eco/croniter](https://github.com/repolex-forx/pallets-eco--croniter) | 5.0.1 | 2026-09-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
