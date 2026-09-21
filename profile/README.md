@@ -34,16 +34,16 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.135.0 | 2026-09-21 |
+| [openai/openai-python](https://github.com/repolex-forx/openai--openai-python) | v2.20.0 | 2026-09-21 |
+| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.9 | 2026-09-21 |
+| [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.6.4 | 2026-09-21 |
+| [pallets-eco/croniter](https://github.com/repolex-forx/pallets-eco--croniter) | 5.0.1 | 2026-09-21 |
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.0-rc1 | 2026-09-21 |
+| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 3.2.1 | 2026-09-21 |
+| [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 11.0.3 | 2026-09-21 |
 | [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-21 |
 | [mhammond/pywin32](https://github.com/repolex-forx/mhammond--pywin32) | b311 | 2026-09-20 |
-| [Preston-Landers/concurrent-log-handler](https://github.com/repolex-forx/Preston-Landers--concurrent-log-handler) | 0.9.28 | 2026-09-20 |
-| [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.2.0 | 2026-09-20 |
-| [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v11.1.0 | 2026-09-20 |
-| [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.28 | 2026-09-20 |
-| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.17.0.post1 | 2026-09-20 |
-| [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.1.0 | 2026-09-20 |
-| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.3.0 | 2026-09-20 |
-| [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v2.0.8 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
