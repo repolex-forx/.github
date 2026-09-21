@@ -34,6 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 11.0.2 | 2026-09-21 |
+| [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 2.3 | 2026-09-21 |
+| [psf/requests](https://github.com/repolex-forx/psf--requests) | v2.26.0 | 2026-09-21 |
 | [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.6.4 | 2026-09-21 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.2.0 | 2026-09-21 |
 | [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.8 | 2026-09-21 |
@@ -41,9 +44,6 @@ lexq download repolex-ai/lexq
 | [encode/httpx](https://github.com/repolex-forx/encode--httpx) | 0.27.2 | 2026-09-21 |
 | [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 3.2.0 | 2026-09-21 |
 | [pydantic/pydantic](https://github.com/repolex-forx/pydantic--pydantic) | v2.13.0b1 | 2026-09-21 |
-| [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.2.0 | 2026-09-21 |
-| [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.27 | 2026-09-21 |
-| [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v2.0.7 | 2026-09-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
