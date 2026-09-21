@@ -34,7 +34,9 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [NousResearch/hermes-agent](https://github.com/repolex-forx/NousResearch--hermes-agent) | v2026.9.14 | 2026-09-21 |
 | [mhammond/pywin32](https://github.com/repolex-forx/mhammond--pywin32) | b311 | 2026-09-20 |
+| [Preston-Landers/concurrent-log-handler](https://github.com/repolex-forx/Preston-Landers--concurrent-log-handler) | 0.9.28 | 2026-09-20 |
 | [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.2.0 | 2026-09-20 |
 | [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v11.1.0 | 2026-09-20 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.28 | 2026-09-20 |
@@ -42,8 +44,6 @@ lexq download repolex-ai/lexq
 | [google/python-fire](https://github.com/repolex-forx/google--python-fire) | v0.1.0 | 2026-09-20 |
 | [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.3.0 | 2026-09-20 |
 | [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v2.0.8 | 2026-09-20 |
-| [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.6.5 | 2026-09-20 |
-| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.10 | 2026-09-20 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
