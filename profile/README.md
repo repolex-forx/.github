@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [encode/httpx](https://github.com/repolex-forx/encode--httpx) | 0.18.2 | 2026-09-24 |
+| [repolex-ai/pan](https://github.com/repolex-forx/repolex-ai--pan) | `c8b37eb2eb` | 2026-09-24 |
+| [repolex-ai/multilspy](https://github.com/repolex-forx/repolex-ai--multilspy) | `18a781ec9e` | 2026-09-24 |
+| [repolex-ai/rlex](https://github.com/repolex-forx/repolex-ai--rlex) | `335ff67fcc` | 2026-09-24 |
+| [repolex-ai/forx](https://github.com/repolex-forx/repolex-ai--forx) | `3fc54e02b9` | 2026-09-24 |
+| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `0e1ae4b951` | 2026-09-24 |
+| [repolex-ai/ravel](https://github.com/repolex-forx/repolex-ai--ravel) | `29ff722b91` | 2026-09-24 |
 | [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.7 | 2026-09-24 |
 | [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 2.10.x | 2026-09-24 |
 | [psf/requests](https://github.com/repolex-forx/psf--requests) | v2.22.0 | 2026-09-24 |
-| [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v11.0.0 | 2026-09-22 |
-| [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.26 | 2026-09-22 |
-| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.1.0 | 2026-09-22 |
-| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.0-alpha | 2026-09-22 |
-| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 3.1.1 | 2026-09-22 |
-| [encode/httpx](https://github.com/repolex-forx/encode--httpx) | 0.24.1 | 2026-09-22 |
-| [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v2.0.6 | 2026-09-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
