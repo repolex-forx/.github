@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [encode/httpx](https://github.com/repolex-forx/encode--httpx) | 0.12.1 | 2026-09-24 |
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 2.0-Final | 2026-09-24 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.14.0 | 2026-09-24 |
+| [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.6.3 | 2026-09-24 |
 | [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.1.0 | 2026-09-24 |
 | [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.6 | 2026-09-24 |
 | [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 3.1.0 | 2026-09-24 |
 | [samuelcolvin/watchfiles](https://github.com/repolex-forx/samuelcolvin--watchfiles) | v1.1.1 | 2026-09-24 |
 | [MagicStack/httptools](https://github.com/repolex-forx/MagicStack--httptools) | v0.7.1 | 2026-09-24 |
 | [repolex-ai/forx](https://github.com/repolex-forx/repolex-ai--forx) | `3fc54e02b9` | 2026-09-24 |
-| [psf/requests](https://github.com/repolex-forx/psf--requests) | v2.20.1 | 2026-09-24 |
-| [repolex-ai/subtext-mcp](https://github.com/repolex-forx/repolex-ai--subtext-mcp) | main | 2026-09-24 |
-| [repolex-ai/git-lex-kit-pan](https://github.com/repolex-forx/repolex-ai--git-lex-kit-pan) | main | 2026-09-24 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
