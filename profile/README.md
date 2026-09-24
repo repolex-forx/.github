@@ -8,23 +8,23 @@ The **[forx-index](https://github.com/repolex-forx/forx-index)** repo is the cen
 
 ## Getting Started
 
-Install [lexq](https://github.com/repolex-ai/lexq), the query tool for repolex knowledge graphs:
+Install [rlex](https://github.com/repolex-ai/rlex), the query tool for repolex knowledge graphs:
 
 ```bash
-uv tool install git+https://github.com/repolex-ai/lexq
+cargo install --git https://github.com/repolex-ai/rlex
 ```
 
 Download a parsed repo:
 
 ```bash
-lexq download repolex-ai/lexq
+rlex download repolex-ai/rlex
 ```
 
-**lexq is designed to be used by LLMs in a terminal.** Start your favorite AI assistant and ask it to use lexq. It handles the SPARQL — you just ask questions in plain English.
+**rlex is designed to be used by LLMs in a terminal.** Start your favorite AI assistant and ask it to use rlex. It handles the SPARQL — you just ask questions in plain English.
 
 ```
-"Claude, can you check the --help menu of lexq"
-"Hermes, can you use the lexq tool to download someorg/somerepo"
+"Claude, can you check the --help menu of rlex"
+"Hermes, can you use the rlex tool to download someorg/somerepo"
 "What classes are defined in this codebase?"
 "Show me the dependency graph"
 ```
@@ -65,4 +65,4 @@ All data is gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) (`.nq.gz`)
 
 ---
 
-*Powered by [repolex](https://repolex.ai) · Orchestrated by [forx](https://github.com/repolex-ai/forx) · Queried with [lexq](https://github.com/repolex-ai/lexq)*
+*Powered by [repolex](https://repolex.ai) · Orchestrated by [forx](https://github.com/repolex-ai/forx) · Queried with [rlex](https://github.com/repolex-ai/rlex)*
