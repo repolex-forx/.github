@@ -34,6 +34,7 @@ lexq download repolex-ai/lexq
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.7 | 2026-09-24 |
 | [pallets/jinja](https://github.com/repolex-forx/pallets--jinja) | 2.10.x | 2026-09-24 |
 | [psf/requests](https://github.com/repolex-forx/psf--requests) | v2.22.0 | 2026-09-24 |
 | [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v11.0.0 | 2026-09-22 |
@@ -43,7 +44,6 @@ lexq download repolex-ai/lexq
 | [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 3.1.1 | 2026-09-22 |
 | [encode/httpx](https://github.com/repolex-forx/encode--httpx) | 0.24.1 | 2026-09-22 |
 | [andfoy/pywinpty](https://github.com/repolex-forx/andfoy--pywinpty) | v2.0.6 | 2026-09-21 |
-| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.15.0 | 2026-09-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
