@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.6.2 | 2026-09-26 |
+| [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 1.7_Final | 2026-09-26 |
+| [encode/httpx](https://github.com/repolex-forx/encode--httpx) | 0.2.1 | 2026-09-26 |
+| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `0e1ae4b951` | 2026-09-26 |
 | [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.0.1 | 2026-09-25 |
 | [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.13.4 | 2026-09-25 |
 | [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.5 | 2026-09-25 |
 | [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 3.0.0 | 2026-09-25 |
 | [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.135.0 | 2026-09-25 |
 | [openai/openai-python](https://github.com/repolex-forx/openai--openai-python) | v2.19.0 | 2026-09-25 |
-| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.0.1 | 2026-09-25 |
-| [psf/requests](https://github.com/repolex-forx/psf--requests) | v2.16.5 | 2026-09-25 |
-| [pydantic/pydantic](https://github.com/repolex-forx/pydantic--pydantic) | v2.12.5 | 2026-09-24 |
-| [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.25 | 2026-09-24 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
