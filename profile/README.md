@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [serde-rs/serde](https://github.com/repolex-forx/serde-rs--serde) | v1.0.229 | 2026-09-26 |
+| [Preston-Landers/concurrent-log-handler](https://github.com/repolex-forx/Preston-Landers--concurrent-log-handler) | 0.9.27 | 2026-09-26 |
+| [psf/requests](https://github.com/repolex-forx/psf--requests) | v2.13.0 | 2026-09-26 |
+| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.0.0 | 2026-09-26 |
 | [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v10.11.0 | 2026-09-26 |
 | [firecrawl/anydoc](https://github.com/repolex-forx/firecrawl--anydoc) | v0.1.9 | 2026-09-26 |
 | [prompt-toolkit/python-prompt-toolkit](https://github.com/repolex-forx/prompt-toolkit--python-prompt-toolkit) | 3.0.24 | 2026-09-26 |
 | [python-websockets/websockets](https://github.com/repolex-forx/python-websockets--websockets) | 11.0.1 | 2026-09-26 |
 | [giampaolo/psutil](https://github.com/repolex-forx/giampaolo--psutil) | v5.6.2 | 2026-09-26 |
 | [Python-Markdown/markdown](https://github.com/repolex-forx/Python-Markdown--markdown) | 1.7_Final | 2026-09-26 |
-| [encode/httpx](https://github.com/repolex-forx/encode--httpx) | 0.2.1 | 2026-09-26 |
-| [repolex-ai/git-lex](https://github.com/repolex-forx/repolex-ai--git-lex) | `0e1ae4b951` | 2026-09-26 |
-| [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.0.1 | 2026-09-25 |
-| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.13.4 | 2026-09-25 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
