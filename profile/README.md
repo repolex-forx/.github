@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-platform/archived-asimov.rb](https://github.com/repolex-forx/asimov-platform--archived-asimov.rb) | 25.0.0.dev.6 | 2026-09-27 |
+| [asimov-modules/asimov-mlx-module](https://github.com/repolex-forx/asimov-modules--asimov-mlx-module) | 0.0.3 | 2026-09-27 |
+| [asimov-platform/archived-asimov.py](https://github.com/repolex-forx/asimov-platform--archived-asimov.py) | 26.0.0.dev1 | 2026-09-27 |
 | [asimov-platform/asimov-chrome-extesion](https://github.com/repolex-forx/asimov-platform--asimov-chrome-extesion) | master | 2026-09-27 |
 | [asimov-platform/asimov.sh](https://github.com/repolex-forx/asimov-platform--asimov.sh) | master | 2026-09-27 |
 | [asimov-platform/package-metrics](https://github.com/repolex-forx/asimov-platform--package-metrics) | master | 2026-09-27 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-protocol/asimov-graph-widget](https://github.com/repolex-forx/asimov-protocol--asimov-graph-widget) | main | 2026-09-27 |
 | [asimov-platform/actions](https://github.com/repolex-forx/asimov-platform--actions) | master | 2026-09-27 |
 | [asimov-platform/scoop-bucket](https://github.com/repolex-forx/asimov-platform--scoop-bucket) | master | 2026-09-27 |
-| [materialsproject/fireworks](https://github.com/repolex-forx/materialsproject--fireworks) | v2.1.2 | 2026-09-27 |
-| [hhatto/autopep8](https://github.com/repolex-forx/hhatto--autopep8) | ver1.2.2 | 2026-09-27 |
-| [sysid/sse-starlette](https://github.com/repolex-forx/sysid--sse-starlette) | 0.2.1 | 2026-09-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
