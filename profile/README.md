@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [materialsproject/fireworks](https://github.com/repolex-forx/materialsproject--fireworks) | v2.1.2 | 2026-09-27 |
+| [openai/openai-python](https://github.com/repolex-forx/openai--openai-python) | v2.18.0 | 2026-09-27 |
+| [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.134.0 | 2026-09-27 |
+| [mochajs/mocha](https://github.com/repolex-forx/mochajs--mocha) | v12.0.0-beta-9.1 | 2026-09-27 |
+| [qos-ch/slf4j](https://github.com/repolex-forx/qos-ch--slf4j) | v_1.7.14 | 2026-09-27 |
+| [tower-rs/tower-http](https://github.com/repolex-forx/tower-rs--tower-http) | tower-http-0.6.11 | 2026-09-27 |
+| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.4 | 2026-09-27 |
+| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.13.3 | 2026-09-27 |
 | [tower-rs/tower](https://github.com/repolex-forx/tower-rs--tower) | tower-0.5.3 | 2026-09-26 |
 | [rust-lang/flate2-rs](https://github.com/repolex-forx/rust-lang--flate2-rs) | 1.1.9 | 2026-09-26 |
-| [mhammond/pywin32](https://github.com/repolex-forx/mhammond--pywin32) | b311 | 2026-09-26 |
-| [jd/tenacity](https://github.com/repolex-forx/jd--tenacity) | 2.0.0 | 2026-09-26 |
-| [tim-osterhus/millrace](https://github.com/repolex-forx/tim-osterhus--millrace) | v0.22.3 | 2026-09-26 |
-| [serde-rs/serde](https://github.com/repolex-forx/serde-rs--serde) | v1.0.229 | 2026-09-26 |
-| [Preston-Landers/concurrent-log-handler](https://github.com/repolex-forx/Preston-Landers--concurrent-log-handler) | 0.9.27 | 2026-09-26 |
-| [psf/requests](https://github.com/repolex-forx/psf--requests) | v2.13.0 | 2026-09-26 |
-| [jpadilla/pyjwt](https://github.com/repolex-forx/jpadilla--pyjwt) | 1.0.0 | 2026-09-26 |
-| [Textualize/rich](https://github.com/repolex-forx/Textualize--rich) | v10.11.0 | 2026-09-26 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
