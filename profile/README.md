@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-platform/skills](https://github.com/repolex-forx/asimov-platform--skills) | master | 2026-09-27 |
 | [asimov-platform/archived-asimov.rb](https://github.com/repolex-forx/asimov-platform--archived-asimov.rb) | 25.0.0.dev.6 | 2026-09-27 |
 | [asimov-modules/asimov-mlx-module](https://github.com/repolex-forx/asimov-modules--asimov-mlx-module) | 0.0.3 | 2026-09-27 |
 | [asimov-platform/archived-asimov.py](https://github.com/repolex-forx/asimov-platform--archived-asimov.py) | 26.0.0.dev1 | 2026-09-27 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-platform/kestra-asimov-plugin](https://github.com/repolex-forx/asimov-platform--kestra-asimov-plugin) | master | 2026-09-27 |
 | [asimov-protocol/asimov-graph-widget](https://github.com/repolex-forx/asimov-protocol--asimov-graph-widget) | main | 2026-09-27 |
 | [asimov-platform/actions](https://github.com/repolex-forx/asimov-platform--actions) | master | 2026-09-27 |
-| [asimov-platform/scoop-bucket](https://github.com/repolex-forx/asimov-platform--scoop-bucket) | master | 2026-09-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
