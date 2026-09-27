@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-modules/.github](https://github.com/repolex-forx/asimov-modules--.github) | master | 2026-09-27 |
+| [asimov-modules/asimov-gemini-module](https://github.com/repolex-forx/asimov-modules--asimov-gemini-module) | 0.0.2 | 2026-09-27 |
+| [asimov-modules/asimov-nats-module](https://github.com/repolex-forx/asimov-modules--asimov-nats-module) | master | 2026-09-27 |
 | [asimov-modules/homebrew-tap](https://github.com/repolex-forx/asimov-modules--homebrew-tap) | main | 2026-09-27 |
 | [asimov-platform/asimov-sdk](https://github.com/repolex-forx/asimov-platform--asimov-sdk) | 25.4.0 | 2026-09-27 |
 | [asimov-systems/asimov.systems](https://github.com/repolex-forx/asimov-systems--asimov.systems) | master | 2026-09-27 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-systems/asimov-platform-workshop](https://github.com/repolex-forx/asimov-systems--asimov-platform-workshop) | master | 2026-09-27 |
 | [asimov-protocol/asimov-network-widget](https://github.com/repolex-forx/asimov-protocol--asimov-network-widget) | main | 2026-09-27 |
 | [asimov-protocol/asimov-map-widget](https://github.com/repolex-forx/asimov-protocol--asimov-map-widget) | main | 2026-09-27 |
-| [asimov-protocol/asimov-timeline-widget](https://github.com/repolex-forx/asimov-protocol--asimov-timeline-widget) | 1.0.0 | 2026-09-27 |
-| [asimov-protocol/asimov.directory](https://github.com/repolex-forx/asimov-protocol--asimov.directory) | master | 2026-09-27 |
-| [asimov-protocol/.github](https://github.com/repolex-forx/asimov-protocol--.github) | v1.0 | 2026-09-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
