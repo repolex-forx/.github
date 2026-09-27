@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-modules/homebrew-tap](https://github.com/repolex-forx/asimov-modules--homebrew-tap) | main | 2026-09-27 |
 | [asimov-platform/asimov-sdk](https://github.com/repolex-forx/asimov-platform--asimov-sdk) | 25.4.0 | 2026-09-27 |
 | [asimov-systems/asimov.systems](https://github.com/repolex-forx/asimov-systems--asimov.systems) | master | 2026-09-27 |
 | [asimov-modules/asimov-template-module](https://github.com/repolex-forx/asimov-modules--asimov-template-module) | master | 2026-09-27 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-protocol/asimov-timeline-widget](https://github.com/repolex-forx/asimov-protocol--asimov-timeline-widget) | 1.0.0 | 2026-09-27 |
 | [asimov-protocol/asimov.directory](https://github.com/repolex-forx/asimov-protocol--asimov.directory) | master | 2026-09-27 |
 | [asimov-protocol/.github](https://github.com/repolex-forx/asimov-protocol--.github) | v1.0 | 2026-09-27 |
-| [asimov-platform/skills](https://github.com/repolex-forx/asimov-platform--skills) | master | 2026-09-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
