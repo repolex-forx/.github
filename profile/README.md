@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [apache/iceberg-python](https://github.com/repolex-forx/apache--iceberg-python) | pyiceberg-0.11.1rc3 | 2026-09-27 |
 | [materialsproject/fireworks](https://github.com/repolex-forx/materialsproject--fireworks) | v2.1.2 | 2026-09-27 |
+| [pydantic/pydantic](https://github.com/repolex-forx/pydantic--pydantic) | v2.12.4 | 2026-09-27 |
+| [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.0.0 | 2026-09-27 |
 | [openai/openai-python](https://github.com/repolex-forx/openai--openai-python) | v2.18.0 | 2026-09-27 |
 | [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.134.0 | 2026-09-27 |
 | [mochajs/mocha](https://github.com/repolex-forx/mochajs--mocha) | v12.0.0-beta-9.1 | 2026-09-27 |
 | [qos-ch/slf4j](https://github.com/repolex-forx/qos-ch--slf4j) | v_1.7.14 | 2026-09-27 |
 | [tower-rs/tower-http](https://github.com/repolex-forx/tower-rs--tower-http) | tower-http-0.6.11 | 2026-09-27 |
 | [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.4 | 2026-09-27 |
-| [Kludex/uvicorn](https://github.com/repolex-forx/Kludex--uvicorn) | 0.13.3 | 2026-09-27 |
-| [tower-rs/tower](https://github.com/repolex-forx/tower-rs--tower) | tower-0.5.3 | 2026-09-26 |
-| [rust-lang/flate2-rs](https://github.com/repolex-forx/rust-lang--flate2-rs) | 1.1.9 | 2026-09-26 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
