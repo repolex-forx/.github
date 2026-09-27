@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-modules/asimov-modules.rb](https://github.com/repolex-forx/asimov-modules--asimov-modules.rb) | 25.0.0.dev.0 | 2026-09-27 |
+| [asimov-modules/asimov-anthropic-module](https://github.com/repolex-forx/asimov-modules--asimov-anthropic-module) | 0.1.0 | 2026-09-27 |
 | [asimov-modules/.github](https://github.com/repolex-forx/asimov-modules--.github) | master | 2026-09-27 |
 | [asimov-modules/asimov-gemini-module](https://github.com/repolex-forx/asimov-modules--asimov-gemini-module) | 0.0.2 | 2026-09-27 |
 | [asimov-modules/asimov-nats-module](https://github.com/repolex-forx/asimov-modules--asimov-nats-module) | master | 2026-09-27 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-systems/asimov.systems](https://github.com/repolex-forx/asimov-systems--asimov.systems) | master | 2026-09-27 |
 | [asimov-modules/asimov-template-module](https://github.com/repolex-forx/asimov-modules--asimov-template-module) | master | 2026-09-27 |
 | [asimov-systems/asimov-platform-workshop](https://github.com/repolex-forx/asimov-systems--asimov-platform-workshop) | master | 2026-09-27 |
-| [asimov-protocol/asimov-network-widget](https://github.com/repolex-forx/asimov-protocol--asimov-network-widget) | main | 2026-09-27 |
-| [asimov-protocol/asimov-map-widget](https://github.com/repolex-forx/asimov-protocol--asimov-map-widget) | main | 2026-09-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
