@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [apache/iceberg-python](https://github.com/repolex-forx/apache--iceberg-python) | pyiceberg-0.11.1rc3 | 2026-09-27 |
 | [materialsproject/fireworks](https://github.com/repolex-forx/materialsproject--fireworks) | v2.1.2 | 2026-09-27 |
+| [hhatto/autopep8](https://github.com/repolex-forx/hhatto--autopep8) | ver1.2.2 | 2026-09-27 |
+| [sysid/sse-starlette](https://github.com/repolex-forx/sysid--sse-starlette) | 0.2.1 | 2026-09-27 |
+| [psycopg/psycopg2](https://github.com/repolex-forx/psycopg--psycopg2) | 2_9_5 | 2026-09-27 |
+| [PyAV-Org/PyAV](https://github.com/repolex-forx/PyAV-Org--PyAV) | v9.2.0 | 2026-09-27 |
+| [apache/iceberg-python](https://github.com/repolex-forx/apache--iceberg-python) | pyiceberg-0.11.1rc3 | 2026-09-27 |
 | [pydantic/pydantic](https://github.com/repolex-forx/pydantic--pydantic) | v2.12.4 | 2026-09-27 |
 | [python-pillow/Pillow](https://github.com/repolex-forx/python-pillow--Pillow) | 10.0.0 | 2026-09-27 |
 | [openai/openai-python](https://github.com/repolex-forx/openai--openai-python) | v2.18.0 | 2026-09-27 |
 | [fastapi/fastapi](https://github.com/repolex-forx/fastapi--fastapi) | 0.134.0 | 2026-09-27 |
-| [mochajs/mocha](https://github.com/repolex-forx/mochajs--mocha) | v12.0.0-beta-9.1 | 2026-09-27 |
-| [qos-ch/slf4j](https://github.com/repolex-forx/qos-ch--slf4j) | v_1.7.14 | 2026-09-27 |
-| [tower-rs/tower-http](https://github.com/repolex-forx/tower-rs--tower-http) | tower-http-0.6.11 | 2026-09-27 |
-| [urllib3/urllib3](https://github.com/repolex-forx/urllib3--urllib3) | 1.25.4 | 2026-09-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
