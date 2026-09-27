@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-platform/asimov-chrome-extesion](https://github.com/repolex-forx/asimov-platform--asimov-chrome-extesion) | master | 2026-09-27 |
 | [asimov-platform/asimov.sh](https://github.com/repolex-forx/asimov-platform--asimov.sh) | master | 2026-09-27 |
 | [asimov-platform/package-metrics](https://github.com/repolex-forx/asimov-platform--package-metrics) | master | 2026-09-27 |
 | [asimov-platform/kestra-asimov-plugin](https://github.com/repolex-forx/asimov-platform--kestra-asimov-plugin) | master | 2026-09-27 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [materialsproject/fireworks](https://github.com/repolex-forx/materialsproject--fireworks) | v2.1.2 | 2026-09-27 |
 | [hhatto/autopep8](https://github.com/repolex-forx/hhatto--autopep8) | ver1.2.2 | 2026-09-27 |
 | [sysid/sse-starlette](https://github.com/repolex-forx/sysid--sse-starlette) | 0.2.1 | 2026-09-27 |
-| [psycopg/psycopg2](https://github.com/repolex-forx/psycopg--psycopg2) | 2_9_5 | 2026-09-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
