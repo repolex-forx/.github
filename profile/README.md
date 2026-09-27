@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-protocol/asimov-network-widget](https://github.com/repolex-forx/asimov-protocol--asimov-network-widget) | main | 2026-09-27 |
 | [asimov-protocol/asimov-map-widget](https://github.com/repolex-forx/asimov-protocol--asimov-map-widget) | main | 2026-09-27 |
 | [asimov-protocol/asimov-timeline-widget](https://github.com/repolex-forx/asimov-protocol--asimov-timeline-widget) | 1.0.0 | 2026-09-27 |
 | [asimov-protocol/asimov.directory](https://github.com/repolex-forx/asimov-protocol--asimov.directory) | master | 2026-09-27 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-modules/asimov-mlx-module](https://github.com/repolex-forx/asimov-modules--asimov-mlx-module) | 0.0.3 | 2026-09-27 |
 | [asimov-platform/archived-asimov.py](https://github.com/repolex-forx/asimov-platform--archived-asimov.py) | 26.0.0.dev1 | 2026-09-27 |
 | [asimov-platform/asimov-chrome-extesion](https://github.com/repolex-forx/asimov-platform--asimov-chrome-extesion) | master | 2026-09-27 |
-| [asimov-platform/asimov.sh](https://github.com/repolex-forx/asimov-platform--asimov.sh) | master | 2026-09-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
