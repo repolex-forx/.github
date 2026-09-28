@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [annotated-types/annotated-types](https://github.com/repolex-forx/annotated-types--annotated-types) | v0.7.0 | 2026-09-28 |
 | [asimov-modules/asimov-arweave-module](https://github.com/repolex-forx/asimov-modules--asimov-arweave-module) | master | 2026-09-28 |
 | [asimov-modules/asimov-git-module](https://github.com/repolex-forx/asimov-modules--asimov-git-module) | main | 2026-09-28 |
 | [asimov-modules/asimov-ethereum-module](https://github.com/repolex-forx/asimov-modules--asimov-ethereum-module) | 0.0.1 | 2026-09-28 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-modules/asimov-image-module](https://github.com/repolex-forx/asimov-modules--asimov-image-module) | 0.1.0 | 2026-09-28 |
 | [asimov-modules/asimov-mic-module](https://github.com/repolex-forx/asimov-modules--asimov-mic-module) | 0.0.1 | 2026-09-28 |
 | [asimov-modules/asimov-llamacpp-module](https://github.com/repolex-forx/asimov-modules--asimov-llamacpp-module) | 0.0.2 | 2026-09-28 |
-| [asimov-modules/asimov-valkey-module](https://github.com/repolex-forx/asimov-modules--asimov-valkey-module) | 0.1.0 | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
