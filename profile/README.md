@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-modules/asimov-telegram-module](https://github.com/repolex-forx/asimov-modules--asimov-telegram-module) | 0.0.3 | 2026-09-28 |
+| [asimov-modules/asimov-apple-module](https://github.com/repolex-forx/asimov-modules--asimov-apple-module) | 0.0.1 | 2026-09-28 |
 | [asimov-modules/asimov-openai-module](https://github.com/repolex-forx/asimov-modules--asimov-openai-module) | 0.0.4 | 2026-09-28 |
 | [PrefectHQ/prefect](https://github.com/repolex-forx/PrefectHQ--prefect) | prefect-sqlalchemy-0.5.0rc1 | 2026-09-28 |
 | [asimov-modules/asimov-huggingface-module](https://github.com/repolex-forx/asimov-modules--asimov-huggingface-module) | 0.0.0 | 2026-09-28 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [boto/botocore](https://github.com/repolex-forx/boto--botocore) | 1.9.9 | 2026-09-28 |
 | [asimov-modules/asimov-xai-module](https://github.com/repolex-forx/asimov-modules--asimov-xai-module) | 0.0.3 | 2026-09-28 |
 | [asimov-modules/asimov-x-module](https://github.com/repolex-forx/asimov-modules--asimov-x-module) | v0.2.3 | 2026-09-28 |
-| [asimov-modules/asimov-modules.rb](https://github.com/repolex-forx/asimov-modules--asimov-modules.rb) | 25.0.0.dev.0 | 2026-09-27 |
-| [asimov-modules/asimov-anthropic-module](https://github.com/repolex-forx/asimov-modules--asimov-anthropic-module) | 0.1.0 | 2026-09-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
