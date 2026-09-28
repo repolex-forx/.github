@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-modules/asimov-mbox-module](https://github.com/repolex-forx/asimov-modules--asimov-mbox-module) | 0.1.0 | 2026-09-28 |
 | [asimov-modules/asimov-vcard-module](https://github.com/repolex-forx/asimov-modules--asimov-vcard-module) | 0.0.0 | 2026-09-28 |
 | [asimov-modules/asimov-ftp-module](https://github.com/repolex-forx/asimov-modules--asimov-ftp-module) | 0.1.1 | 2026-09-28 |
 | [asimov-modules/asimov-chromium-module](https://github.com/repolex-forx/asimov-modules--asimov-chromium-module) | 0.1.3 | 2026-09-28 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-modules/asimov-near-module](https://github.com/repolex-forx/asimov-modules--asimov-near-module) | 0.0.4 | 2026-09-28 |
 | [asimov-modules/asimov-apify-module](https://github.com/repolex-forx/asimov-modules--asimov-apify-module) | 0.1.4 | 2026-09-28 |
 | [asimov-modules/asimov-jq-module](https://github.com/repolex-forx/asimov-modules--asimov-jq-module) | 0.1.5 | 2026-09-28 |
-| [asimov-modules/asimov-jinja-module](https://github.com/repolex-forx/asimov-modules--asimov-jinja-module) | 0.1.5 | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
