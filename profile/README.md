@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-modules/asimov-ipfs-module](https://github.com/repolex-forx/asimov-modules--asimov-ipfs-module) | 0.1.1 | 2026-09-28 |
 | [asimov-modules/asimov-nearai-module](https://github.com/repolex-forx/asimov-modules--asimov-nearai-module) | 0.0.1 | 2026-09-28 |
 | [asimov-modules/asimov-near-module](https://github.com/repolex-forx/asimov-modules--asimov-near-module) | 0.0.4 | 2026-09-28 |
 | [asimov-modules/asimov-apify-module](https://github.com/repolex-forx/asimov-modules--asimov-apify-module) | 0.1.4 | 2026-09-28 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-modules/asimov-brightdata-module](https://github.com/repolex-forx/asimov-modules--asimov-brightdata-module) | 0.0.7 | 2026-09-28 |
 | [asimov-modules/asimov-telegram-module](https://github.com/repolex-forx/asimov-modules--asimov-telegram-module) | 0.0.3 | 2026-09-28 |
 | [asimov-modules/asimov-apple-module](https://github.com/repolex-forx/asimov-modules--asimov-apple-module) | 0.0.1 | 2026-09-28 |
-| [asimov-modules/asimov-openai-module](https://github.com/repolex-forx/asimov-modules--asimov-openai-module) | 0.0.4 | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
