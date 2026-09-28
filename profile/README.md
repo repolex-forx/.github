@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pytest-dev/apipkg](https://github.com/repolex-forx/pytest-dev--apipkg) | v3.0.2 | 2026-09-28 |
 | [dateutil/dateutil](https://github.com/repolex-forx/dateutil--dateutil) | 2.9.0 | 2026-09-28 |
 | [pydantic/jiter](https://github.com/repolex-forx/pydantic--jiter) | v0.14.0 | 2026-09-28 |
 | [annotated-types/annotated-types](https://github.com/repolex-forx/annotated-types--annotated-types) | v0.7.0 | 2026-09-28 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-modules/asimov-solana-module](https://github.com/repolex-forx/asimov-modules--asimov-solana-module) | v0.0.2 | 2026-09-28 |
 | [asimov-modules/asimov-whatsapp-module](https://github.com/repolex-forx/asimov-modules--asimov-whatsapp-module) | 0.0.1 | 2026-09-28 |
 | [asimov-modules/asimov-camera-module](https://github.com/repolex-forx/asimov-modules--asimov-camera-module) | 0.0.3 | 2026-09-28 |
-| [asimov-modules/asimov-image-module](https://github.com/repolex-forx/asimov-modules--asimov-image-module) | 0.1.0 | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
