@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-modules/asimov-mic-module](https://github.com/repolex-forx/asimov-modules--asimov-mic-module) | 0.0.1 | 2026-09-28 |
+| [asimov-modules/asimov-llamacpp-module](https://github.com/repolex-forx/asimov-modules--asimov-llamacpp-module) | 0.0.2 | 2026-09-28 |
 | [asimov-modules/asimov-valkey-module](https://github.com/repolex-forx/asimov-modules--asimov-valkey-module) | 0.1.0 | 2026-09-28 |
 | [asimov-modules/asimov-modules](https://github.com/repolex-forx/asimov-modules--asimov-modules) | master | 2026-09-28 |
 | [asimov-modules/asimov-luma-module](https://github.com/repolex-forx/asimov-modules--asimov-luma-module) | 0.1.4 | 2026-09-28 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-modules/asimov-signal-module](https://github.com/repolex-forx/asimov-modules--asimov-signal-module) | 0.0.3 | 2026-09-28 |
 | [asimov-modules/asimov-imap-module](https://github.com/repolex-forx/asimov-modules--asimov-imap-module) | 0.1.7 | 2026-09-28 |
 | [asimov-modules/asimov-maildir-module](https://github.com/repolex-forx/asimov-modules--asimov-maildir-module) | 0.1.0 | 2026-09-28 |
-| [asimov-modules/asimov-mbox-module](https://github.com/repolex-forx/asimov-modules--asimov-mbox-module) | 0.1.0 | 2026-09-28 |
-| [asimov-modules/asimov-vcard-module](https://github.com/repolex-forx/asimov-modules--asimov-vcard-module) | 0.0.0 | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
