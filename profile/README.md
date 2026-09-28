@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [chalk/strip-ansi](https://github.com/repolex-forx/chalk--strip-ansi) | v7.2.0 | 2026-09-28 |
 | [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 1.5 | 2026-09-28 |
 | [alexeyraspopov/picocolors](https://github.com/repolex-forx/alexeyraspopov--picocolors) | v1.1.1 | 2026-09-28 |
 | [acornjs/acorn-jsx](https://github.com/repolex-forx/acornjs--acorn-jsx) | 5.3.1 | 2026-09-28 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [annotated-types/annotated-types](https://github.com/repolex-forx/annotated-types--annotated-types) | v0.7.0 | 2026-09-28 |
 | [asimov-modules/asimov-arweave-module](https://github.com/repolex-forx/asimov-modules--asimov-arweave-module) | master | 2026-09-28 |
 | [asimov-modules/asimov-git-module](https://github.com/repolex-forx/asimov-modules--asimov-git-module) | main | 2026-09-28 |
-| [asimov-modules/asimov-ethereum-module](https://github.com/repolex-forx/asimov-modules--asimov-ethereum-module) | 0.0.1 | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
