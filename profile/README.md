@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-modules/asimov-xai-module](https://github.com/repolex-forx/asimov-modules--asimov-xai-module) | 0.0.3 | 2026-09-28 |
+| [asimov-modules/asimov-x-module](https://github.com/repolex-forx/asimov-modules--asimov-x-module) | v0.2.3 | 2026-09-28 |
 | [asimov-modules/asimov-modules.rb](https://github.com/repolex-forx/asimov-modules--asimov-modules.rb) | 25.0.0.dev.0 | 2026-09-27 |
 | [asimov-modules/asimov-anthropic-module](https://github.com/repolex-forx/asimov-modules--asimov-anthropic-module) | 0.1.0 | 2026-09-27 |
 | [asimov-modules/.github](https://github.com/repolex-forx/asimov-modules--.github) | master | 2026-09-27 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-modules/homebrew-tap](https://github.com/repolex-forx/asimov-modules--homebrew-tap) | main | 2026-09-27 |
 | [asimov-platform/asimov-sdk](https://github.com/repolex-forx/asimov-platform--asimov-sdk) | 25.4.0 | 2026-09-27 |
 | [asimov-systems/asimov.systems](https://github.com/repolex-forx/asimov-systems--asimov.systems) | master | 2026-09-27 |
-| [asimov-modules/asimov-template-module](https://github.com/repolex-forx/asimov-modules--asimov-template-module) | master | 2026-09-27 |
-| [asimov-systems/asimov-platform-workshop](https://github.com/repolex-forx/asimov-systems--asimov-platform-workshop) | master | 2026-09-27 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
