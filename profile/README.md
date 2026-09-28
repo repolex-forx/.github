@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [eemeli/yaml](https://github.com/repolex-forx/eemeli--yaml) | v3.0.0-0 | 2026-09-28 |
 | [dryoma/postcss-media-query-parser](https://github.com/repolex-forx/dryoma--postcss-media-query-parser) | v0.2.0 | 2026-09-28 |
 | [chalk/strip-ansi](https://github.com/repolex-forx/chalk--strip-ansi) | v7.2.0 | 2026-09-28 |
 | [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 1.5 | 2026-09-28 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [dateutil/dateutil](https://github.com/repolex-forx/dateutil--dateutil) | 2.9.0 | 2026-09-28 |
 | [pydantic/jiter](https://github.com/repolex-forx/pydantic--jiter) | v0.14.0 | 2026-09-28 |
 | [annotated-types/annotated-types](https://github.com/repolex-forx/annotated-types--annotated-types) | v0.7.0 | 2026-09-28 |
-| [asimov-modules/asimov-arweave-module](https://github.com/repolex-forx/asimov-modules--asimov-arweave-module) | master | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
