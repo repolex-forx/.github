@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-modules/asimov-valkey-module](https://github.com/repolex-forx/asimov-modules--asimov-valkey-module) | 0.1.0 | 2026-09-28 |
+| [asimov-modules/asimov-modules](https://github.com/repolex-forx/asimov-modules--asimov-modules) | master | 2026-09-28 |
+| [asimov-modules/asimov-luma-module](https://github.com/repolex-forx/asimov-modules--asimov-luma-module) | 0.1.4 | 2026-09-28 |
+| [asimov-modules/asimov-readwise-module](https://github.com/repolex-forx/asimov-modules--asimov-readwise-module) | v0.1.0 | 2026-09-28 |
 | [asimov-modules/asimov-qdrant-module](https://github.com/repolex-forx/asimov-modules--asimov-qdrant-module) | 0.0.1 | 2026-09-28 |
 | [asimov-modules/asimov-signal-module](https://github.com/repolex-forx/asimov-modules--asimov-signal-module) | 0.0.3 | 2026-09-28 |
 | [asimov-modules/asimov-imap-module](https://github.com/repolex-forx/asimov-modules--asimov-imap-module) | 0.1.7 | 2026-09-28 |
 | [asimov-modules/asimov-maildir-module](https://github.com/repolex-forx/asimov-modules--asimov-maildir-module) | 0.1.0 | 2026-09-28 |
 | [asimov-modules/asimov-mbox-module](https://github.com/repolex-forx/asimov-modules--asimov-mbox-module) | 0.1.0 | 2026-09-28 |
 | [asimov-modules/asimov-vcard-module](https://github.com/repolex-forx/asimov-modules--asimov-vcard-module) | 0.0.0 | 2026-09-28 |
-| [asimov-modules/asimov-ftp-module](https://github.com/repolex-forx/asimov-modules--asimov-ftp-module) | 0.1.1 | 2026-09-28 |
-| [asimov-modules/asimov-chromium-module](https://github.com/repolex-forx/asimov-modules--asimov-chromium-module) | 0.1.3 | 2026-09-28 |
-| [asimov-modules/asimov-linkup-module](https://github.com/repolex-forx/asimov-modules--asimov-linkup-module) | 0.0.1 | 2026-09-28 |
-| [asimov-modules/asimov-ipfs-module](https://github.com/repolex-forx/asimov-modules--asimov-ipfs-module) | 0.1.1 | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
