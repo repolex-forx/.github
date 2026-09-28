@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asimov-modules/asimov-nearai-module](https://github.com/repolex-forx/asimov-modules--asimov-nearai-module) | 0.0.1 | 2026-09-28 |
+| [asimov-modules/asimov-near-module](https://github.com/repolex-forx/asimov-modules--asimov-near-module) | 0.0.4 | 2026-09-28 |
+| [asimov-modules/asimov-apify-module](https://github.com/repolex-forx/asimov-modules--asimov-apify-module) | 0.1.4 | 2026-09-28 |
 | [asimov-modules/asimov-jq-module](https://github.com/repolex-forx/asimov-modules--asimov-jq-module) | 0.1.5 | 2026-09-28 |
 | [asimov-modules/asimov-jinja-module](https://github.com/repolex-forx/asimov-modules--asimov-jinja-module) | 0.1.5 | 2026-09-28 |
 | [asimov-modules/asimov-serpapi-module](https://github.com/repolex-forx/asimov-modules--asimov-serpapi-module) | 0.1.4 | 2026-09-28 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [asimov-modules/asimov-telegram-module](https://github.com/repolex-forx/asimov-modules--asimov-telegram-module) | 0.0.3 | 2026-09-28 |
 | [asimov-modules/asimov-apple-module](https://github.com/repolex-forx/asimov-modules--asimov-apple-module) | 0.0.1 | 2026-09-28 |
 | [asimov-modules/asimov-openai-module](https://github.com/repolex-forx/asimov-modules--asimov-openai-module) | 0.0.4 | 2026-09-28 |
-| [PrefectHQ/prefect](https://github.com/repolex-forx/PrefectHQ--prefect) | prefect-sqlalchemy-0.5.0rc1 | 2026-09-28 |
-| [asimov-modules/asimov-huggingface-module](https://github.com/repolex-forx/asimov-modules--asimov-huggingface-module) | 0.0.0 | 2026-09-28 |
-| [asimov-modules/asimov-ollama-module](https://github.com/repolex-forx/asimov-modules--asimov-ollama-module) | 0.0.3 | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
