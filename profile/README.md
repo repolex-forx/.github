@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [NousResearch/hermes-plugin-supermemory](https://github.com/repolex-forx/NousResearch--hermes-plugin-supermemory) | main | 2026-09-29 |
 | [NousResearch/hermes-plugin-blender](https://github.com/repolex-forx/NousResearch--hermes-plugin-blender) | main | 2026-09-29 |
 | [NousResearch/hermes-plugin-claude-subscription-directsdk](https://github.com/repolex-forx/NousResearch--hermes-plugin-claude-subscription-directsdk) | main | 2026-09-29 |
 | [cspotcode/outdent](https://github.com/repolex-forx/cspotcode--outdent) | v0.8.0 | 2026-09-29 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 1.5 | 2026-09-28 |
 | [alexeyraspopov/picocolors](https://github.com/repolex-forx/alexeyraspopov--picocolors) | v1.1.1 | 2026-09-28 |
 | [acornjs/acorn-jsx](https://github.com/repolex-forx/acornjs--acorn-jsx) | 5.3.1 | 2026-09-28 |
-| [pytest-dev/apipkg](https://github.com/repolex-forx/pytest-dev--apipkg) | v3.0.2 | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
