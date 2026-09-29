@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [NousResearch/hermes-plugin-honcho](https://github.com/repolex-forx/NousResearch--hermes-plugin-honcho) | main | 2026-09-29 |
 | [NousResearch/hermes-plugin-supermemory](https://github.com/repolex-forx/NousResearch--hermes-plugin-supermemory) | main | 2026-09-29 |
 | [NousResearch/hermes-plugin-blender](https://github.com/repolex-forx/NousResearch--hermes-plugin-blender) | main | 2026-09-29 |
 | [NousResearch/hermes-plugin-claude-subscription-directsdk](https://github.com/repolex-forx/NousResearch--hermes-plugin-claude-subscription-directsdk) | main | 2026-09-29 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [chalk/strip-ansi](https://github.com/repolex-forx/chalk--strip-ansi) | v7.2.0 | 2026-09-28 |
 | [pygments/pygments](https://github.com/repolex-forx/pygments--pygments) | 1.5 | 2026-09-28 |
 | [alexeyraspopov/picocolors](https://github.com/repolex-forx/alexeyraspopov--picocolors) | v1.1.1 | 2026-09-28 |
-| [acornjs/acorn-jsx](https://github.com/repolex-forx/acornjs--acorn-jsx) | 5.3.1 | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
