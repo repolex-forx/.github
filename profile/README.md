@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/getit](https://github.com/repolex-forx/block--getit) | main | 2026-10-01 |
 | [block/coplan](https://github.com/repolex-forx/block--coplan) | main | 2026-10-01 |
 | [block/elasticgraph](https://github.com/repolex-forx/block--elasticgraph) | main | 2026-10-01 |
 | [block/artifact-swap](https://github.com/repolex-forx/block--artifact-swap) | v0.1.15 | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/scaffolder](https://github.com/repolex-forx/block--scaffolder) | v1.11.0 | 2026-10-01 |
 | [block/microfilm](https://github.com/repolex-forx/block--microfilm) | main | 2026-10-01 |
 | [NousResearch/hermes-plugin-sprites](https://github.com/repolex-forx/NousResearch--hermes-plugin-sprites) | main | 2026-10-01 |
-| [NousResearch/hermes-desktop-accent-picker](https://github.com/repolex-forx/NousResearch--hermes-desktop-accent-picker) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
