@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/scaffolder](https://github.com/repolex-forx/block--scaffolder) | v1.11.0 | 2026-10-01 |
 | [NousResearch/hermes-plugin-sprites](https://github.com/repolex-forx/NousResearch--hermes-plugin-sprites) | main | 2026-10-01 |
 | [NousResearch/hermes-desktop-accent-picker](https://github.com/repolex-forx/NousResearch--hermes-desktop-accent-picker) | main | 2026-10-01 |
 | [NousResearch/hermes-plugin-byterover](https://github.com/repolex-forx/NousResearch--hermes-plugin-byterover) | main | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/away](https://github.com/repolex-forx/block--away) | main | 2026-10-01 |
 | [block/rust-por-verifier](https://github.com/repolex-forx/block--rust-por-verifier) | main | 2026-10-01 |
 | [block/version-guard](https://github.com/repolex-forx/block--version-guard) | main | 2026-10-01 |
-| [block/drift](https://github.com/repolex-forx/block--drift) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
