@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [NousResearch/Hermes-Function-Calling](https://github.com/repolex-forx/NousResearch--Hermes-Function-Calling) | main | 2026-10-01 |
 | [block/advanced-context-infrastructure](https://github.com/repolex-forx/block--advanced-context-infrastructure) | main | 2026-10-01 |
 | [block/chalkline](https://github.com/repolex-forx/block--chalkline) | main | 2026-10-01 |
 | [block/ai-rules](https://github.com/repolex-forx/block--ai-rules) | v1.7.0 | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [NousResearch/hermes-nvidia](https://github.com/repolex-forx/NousResearch--hermes-nvidia) | main | 2026-10-01 |
 | [block/aittributor](https://github.com/repolex-forx/block--aittributor) | v0.8.0 | 2026-10-01 |
 | [NousResearch/hermes-e2e-evidence](https://github.com/repolex-forx/NousResearch--hermes-e2e-evidence) | main | 2026-10-01 |
-| [NousResearch/DisTrO](https://github.com/repolex-forx/NousResearch--DisTrO) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
