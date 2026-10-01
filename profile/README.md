@@ -38,12 +38,12 @@ rlex download repolex-ai/rlex
 | [block/polt](https://github.com/repolex-forx/block--polt) | main | 2026-10-01 |
 | [NousResearch/hermes-plugin-touchdesigner](https://github.com/repolex-forx/NousResearch--hermes-plugin-touchdesigner) | main | 2026-10-01 |
 | [block/scaffolder](https://github.com/repolex-forx/block--scaffolder) | v1.11.0 | 2026-10-01 |
+| [block/microfilm](https://github.com/repolex-forx/block--microfilm) | main | 2026-10-01 |
 | [NousResearch/hermes-plugin-sprites](https://github.com/repolex-forx/NousResearch--hermes-plugin-sprites) | main | 2026-10-01 |
 | [NousResearch/hermes-desktop-accent-picker](https://github.com/repolex-forx/NousResearch--hermes-desktop-accent-picker) | main | 2026-10-01 |
 | [NousResearch/hermes-plugin-byterover](https://github.com/repolex-forx/NousResearch--hermes-plugin-byterover) | main | 2026-10-01 |
 | [NousResearch/pokemon-agent](https://github.com/repolex-forx/NousResearch--pokemon-agent) | main | 2026-10-01 |
 | [NousResearch/nomos](https://github.com/repolex-forx/NousResearch--nomos) | main | 2026-10-01 |
-| [NousResearch/hermes-agent-self-evolution](https://github.com/repolex-forx/NousResearch--hermes-agent-self-evolution) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
