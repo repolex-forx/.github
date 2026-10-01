@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/quiver](https://github.com/repolex-forx/block--quiver) | main | 2026-10-01 |
 | [block/schemabot](https://github.com/repolex-forx/block--schemabot) | main | 2026-10-01 |
 | [block/wt](https://github.com/repolex-forx/block--wt) | main | 2026-10-01 |
 | [block/madrigal](https://github.com/repolex-forx/block--madrigal) | main | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/bergr](https://github.com/repolex-forx/block--bergr) | main | 2026-10-01 |
 | [block/picocert](https://github.com/repolex-forx/block--picocert) | main | 2026-10-01 |
 | [block/getit](https://github.com/repolex-forx/block--getit) | main | 2026-10-01 |
-| [block/coplan](https://github.com/repolex-forx/block--coplan) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
