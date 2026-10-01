@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/fowlcon](https://github.com/repolex-forx/block--fowlcon) | main | 2026-10-01 |
 | [block/bergr](https://github.com/repolex-forx/block--bergr) | main | 2026-10-01 |
 | [block/picocert](https://github.com/repolex-forx/block--picocert) | main | 2026-10-01 |
 | [block/getit](https://github.com/repolex-forx/block--getit) | main | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [anysphere/relay](https://github.com/repolex-forx/anysphere--relay) | master | 2026-10-01 |
 | [block/polt](https://github.com/repolex-forx/block--polt) | main | 2026-10-01 |
 | [NousResearch/hermes-plugin-touchdesigner](https://github.com/repolex-forx/NousResearch--hermes-plugin-touchdesigner) | main | 2026-10-01 |
-| [block/scaffolder](https://github.com/repolex-forx/block--scaffolder) | v1.11.0 | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
