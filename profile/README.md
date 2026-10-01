@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/cachew](https://github.com/repolex-forx/block--cachew) | v0.5.3 | 2026-10-01 |
+| [block/ai-migrate](https://github.com/repolex-forx/block--ai-migrate) | main | 2026-10-01 |
 | [block/mcp-jupyter](https://github.com/repolex-forx/block--mcp-jupyter) | main | 2026-10-01 |
 | [block/spectre](https://github.com/repolex-forx/block--spectre) | main | 2026-10-01 |
 | [anysphere/cloudflare-workers](https://github.com/repolex-forx/anysphere--cloudflare-workers) | main | 2026-10-01 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [augmentcode/augment.vim](https://github.com/repolex-forx/augmentcode--augment.vim) | main | 2026-10-01 |
 | [poolsideai/n8n-poolside-node](https://github.com/repolex-forx/poolsideai--n8n-poolside-node) | v0.1.3 | 2026-10-01 |
 | [Cognition-Labs/BioConceptXplorer](https://github.com/repolex-forx/Cognition-Labs--BioConceptXplorer) | main | 2026-10-01 |
-| [augmentcode/auggie-zed-extension](https://github.com/repolex-forx/augmentcode--auggie-zed-extension) | main | 2026-10-01 |
-| [poolsideai/sturdyc](https://github.com/repolex-forx/poolsideai--sturdyc) | v1.1.5 | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
