@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/advanced-context-infrastructure](https://github.com/repolex-forx/block--advanced-context-infrastructure) | main | 2026-10-01 |
+| [block/chalkline](https://github.com/repolex-forx/block--chalkline) | main | 2026-10-01 |
 | [block/ai-rules](https://github.com/repolex-forx/block--ai-rules) | v1.7.0 | 2026-10-01 |
 | [block/xcode-index-mcp](https://github.com/repolex-forx/block--xcode-index-mcp) | main | 2026-10-01 |
 | [block/buzz](https://github.com/repolex-forx/block--buzz) | main | 2026-10-01 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [block/aittributor](https://github.com/repolex-forx/block--aittributor) | v0.8.0 | 2026-10-01 |
 | [NousResearch/hermes-e2e-evidence](https://github.com/repolex-forx/NousResearch--hermes-e2e-evidence) | main | 2026-10-01 |
 | [NousResearch/DisTrO](https://github.com/repolex-forx/NousResearch--DisTrO) | main | 2026-10-01 |
-| [NousResearch/hermes-plugin-retaindb](https://github.com/repolex-forx/NousResearch--hermes-plugin-retaindb) | main | 2026-09-29 |
-| [NousResearch/hermes-plugin-openviking](https://github.com/repolex-forx/NousResearch--hermes-plugin-openviking) | main | 2026-09-29 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
