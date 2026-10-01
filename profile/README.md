@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/version-guard](https://github.com/repolex-forx/block--version-guard) | main | 2026-10-01 |
 | [block/drift](https://github.com/repolex-forx/block--drift) | main | 2026-10-01 |
 | [block/opencli-go](https://github.com/repolex-forx/block--opencli-go) | main | 2026-10-01 |
 | [block/sessh](https://github.com/repolex-forx/block--sessh) | main | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/qrgo](https://github.com/repolex-forx/block--qrgo) | 1.4.2 | 2026-10-01 |
 | [block/canopy](https://github.com/repolex-forx/block--canopy) | main | 2026-10-01 |
 | [block/model-ledger](https://github.com/repolex-forx/block--model-ledger) | v0.7.13 | 2026-10-01 |
-| [block/eudoxa](https://github.com/repolex-forx/block--eudoxa) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
