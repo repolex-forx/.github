@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [augmentcode/augment-swebench-agent](https://github.com/repolex-forx/augmentcode--augment-swebench-agent) | main | 2026-10-01 |
 | [anysphere/vscode-proxy-agent](https://github.com/repolex-forx/anysphere--vscode-proxy-agent) | main | 2026-10-01 |
 | [block/builderlab-cli](https://github.com/repolex-forx/block--builderlab-cli) | main | 2026-10-01 |
 | [poolsideai/acp-go-sdk](https://github.com/repolex-forx/poolsideai--acp-go-sdk) | main | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/advanced-context-infrastructure](https://github.com/repolex-forx/block--advanced-context-infrastructure) | main | 2026-10-01 |
 | [block/chalkline](https://github.com/repolex-forx/block--chalkline) | main | 2026-10-01 |
 | [block/ai-rules](https://github.com/repolex-forx/block--ai-rules) | v1.7.0 | 2026-10-01 |
-| [block/xcode-index-mcp](https://github.com/repolex-forx/block--xcode-index-mcp) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
