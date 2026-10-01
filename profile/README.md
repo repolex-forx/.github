@@ -36,6 +36,7 @@ rlex download repolex-ai/rlex
 |-------------|-----|--------|
 | [block/spectre](https://github.com/repolex-forx/block--spectre) | main | 2026-10-01 |
 | [anysphere/cloudflare-workers](https://github.com/repolex-forx/anysphere--cloudflare-workers) | main | 2026-10-01 |
+| [block/client-for-vantage](https://github.com/repolex-forx/block--client-for-vantage) | main | 2026-10-01 |
 | [block/mcp-council-of-mine](https://github.com/repolex-forx/block--mcp-council-of-mine) | main | 2026-10-01 |
 | [augmentcode/augment.vim](https://github.com/repolex-forx/augmentcode--augment.vim) | main | 2026-10-01 |
 | [poolsideai/n8n-poolside-node](https://github.com/repolex-forx/poolsideai--n8n-poolside-node) | v0.1.3 | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [augmentcode/auggie-zed-extension](https://github.com/repolex-forx/augmentcode--auggie-zed-extension) | main | 2026-10-01 |
 | [poolsideai/sturdyc](https://github.com/repolex-forx/poolsideai--sturdyc) | v1.1.5 | 2026-10-01 |
 | [NousResearch/misaki](https://github.com/repolex-forx/NousResearch--misaki) | main | 2026-10-01 |
-| [Cognition-Labs/synapse-bridge](https://github.com/repolex-forx/Cognition-Labs--synapse-bridge) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
