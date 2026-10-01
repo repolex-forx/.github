@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [augmentcode/augment.vim](https://github.com/repolex-forx/augmentcode--augment.vim) | main | 2026-10-01 |
 | [poolsideai/n8n-poolside-node](https://github.com/repolex-forx/poolsideai--n8n-poolside-node) | v0.1.3 | 2026-10-01 |
 | [Cognition-Labs/BioConceptXplorer](https://github.com/repolex-forx/Cognition-Labs--BioConceptXplorer) | main | 2026-10-01 |
 | [augmentcode/auggie-zed-extension](https://github.com/repolex-forx/augmentcode--auggie-zed-extension) | main | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [poolsideai/pool](https://github.com/repolex-forx/poolsideai--pool) | main | 2026-10-01 |
 | [anysphere/watcher](https://github.com/repolex-forx/anysphere--watcher) | v2.5.0 | 2026-10-01 |
 | [Cognition-Labs/Synapse](https://github.com/repolex-forx/Cognition-Labs--Synapse) | main | 2026-10-01 |
-| [anysphere/vscode-ripgrep](https://github.com/repolex-forx/anysphere--vscode-ripgrep) | v1.15.14 | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
