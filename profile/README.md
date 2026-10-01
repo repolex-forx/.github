@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/eudoxa](https://github.com/repolex-forx/block--eudoxa) | main | 2026-10-01 |
+| [block/uuidv7](https://github.com/repolex-forx/block--uuidv7) | main | 2026-10-01 |
+| [block/rce-agent](https://github.com/repolex-forx/block--rce-agent) | master | 2026-10-01 |
 | [block/cachew](https://github.com/repolex-forx/block--cachew) | v0.5.3 | 2026-10-01 |
 | [block/ai-migrate](https://github.com/repolex-forx/block--ai-migrate) | main | 2026-10-01 |
 | [block/mcp-jupyter](https://github.com/repolex-forx/block--mcp-jupyter) | main | 2026-10-01 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [anysphere/cloudflare-workers](https://github.com/repolex-forx/anysphere--cloudflare-workers) | main | 2026-10-01 |
 | [block/client-for-vantage](https://github.com/repolex-forx/block--client-for-vantage) | main | 2026-10-01 |
 | [block/mcp-council-of-mine](https://github.com/repolex-forx/block--mcp-council-of-mine) | main | 2026-10-01 |
-| [augmentcode/augment.vim](https://github.com/repolex-forx/augmentcode--augment.vim) | main | 2026-10-01 |
-| [poolsideai/n8n-poolside-node](https://github.com/repolex-forx/poolsideai--n8n-poolside-node) | v0.1.3 | 2026-10-01 |
-| [Cognition-Labs/BioConceptXplorer](https://github.com/repolex-forx/Cognition-Labs--BioConceptXplorer) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
