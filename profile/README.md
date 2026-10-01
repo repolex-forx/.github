@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/qrgo](https://github.com/repolex-forx/block--qrgo) | 1.4.2 | 2026-10-01 |
+| [block/canopy](https://github.com/repolex-forx/block--canopy) | main | 2026-10-01 |
 | [block/model-ledger](https://github.com/repolex-forx/block--model-ledger) | v0.7.13 | 2026-10-01 |
 | [block/eudoxa](https://github.com/repolex-forx/block--eudoxa) | main | 2026-10-01 |
 | [block/uuidv7](https://github.com/repolex-forx/block--uuidv7) | main | 2026-10-01 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [block/ai-migrate](https://github.com/repolex-forx/block--ai-migrate) | main | 2026-10-01 |
 | [block/mcp-jupyter](https://github.com/repolex-forx/block--mcp-jupyter) | main | 2026-10-01 |
 | [block/spectre](https://github.com/repolex-forx/block--spectre) | main | 2026-10-01 |
-| [anysphere/cloudflare-workers](https://github.com/repolex-forx/anysphere--cloudflare-workers) | main | 2026-10-01 |
-| [block/client-for-vantage](https://github.com/repolex-forx/block--client-for-vantage) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
