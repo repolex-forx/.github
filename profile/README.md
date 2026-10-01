@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [poolsideai/sturdyc](https://github.com/repolex-forx/poolsideai--sturdyc) | v1.1.5 | 2026-10-01 |
 | [NousResearch/misaki](https://github.com/repolex-forx/NousResearch--misaki) | main | 2026-10-01 |
 | [Cognition-Labs/synapse-bridge](https://github.com/repolex-forx/Cognition-Labs--synapse-bridge) | main | 2026-10-01 |
 | [poolsideai/pool](https://github.com/repolex-forx/poolsideai--pool) | main | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [augmentcode/augment-swebench-agent](https://github.com/repolex-forx/augmentcode--augment-swebench-agent) | main | 2026-10-01 |
 | [anysphere/vscode-proxy-agent](https://github.com/repolex-forx/anysphere--vscode-proxy-agent) | main | 2026-10-01 |
 | [block/builderlab-cli](https://github.com/repolex-forx/block--builderlab-cli) | main | 2026-10-01 |
-| [poolsideai/acp-go-sdk](https://github.com/repolex-forx/poolsideai--acp-go-sdk) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
