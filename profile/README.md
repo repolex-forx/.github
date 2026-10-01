@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [NousResearch/nomos](https://github.com/repolex-forx/NousResearch--nomos) | main | 2026-10-01 |
 | [NousResearch/hermes-agent-self-evolution](https://github.com/repolex-forx/NousResearch--hermes-agent-self-evolution) | main | 2026-10-01 |
 | [block/away](https://github.com/repolex-forx/block--away) | main | 2026-10-01 |
 | [block/rust-por-verifier](https://github.com/repolex-forx/block--rust-por-verifier) | main | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/sessh](https://github.com/repolex-forx/block--sessh) | main | 2026-10-01 |
 | [block/ghost](https://github.com/repolex-forx/block--ghost) | design-intelligence-ghost@0.35.0 | 2026-10-01 |
 | [block/spincycle](https://github.com/repolex-forx/block--spincycle) | v2.1.1 | 2026-10-01 |
-| [block/pg-sprite](https://github.com/repolex-forx/block--pg-sprite) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
