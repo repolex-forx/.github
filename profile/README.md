@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [anysphere/vscode-proxy-agent](https://github.com/repolex-forx/anysphere--vscode-proxy-agent) | main | 2026-10-01 |
+| [block/builderlab-cli](https://github.com/repolex-forx/block--builderlab-cli) | main | 2026-10-01 |
 | [poolsideai/acp-go-sdk](https://github.com/repolex-forx/poolsideai--acp-go-sdk) | main | 2026-10-01 |
 | [poolsideai/reference_architectures](https://github.com/repolex-forx/poolsideai--reference_architectures) | v2.0.0 | 2026-10-01 |
 | [block/benchmrk](https://github.com/repolex-forx/block--benchmrk) | main | 2026-10-01 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [block/chalkline](https://github.com/repolex-forx/block--chalkline) | main | 2026-10-01 |
 | [block/ai-rules](https://github.com/repolex-forx/block--ai-rules) | v1.7.0 | 2026-10-01 |
 | [block/xcode-index-mcp](https://github.com/repolex-forx/block--xcode-index-mcp) | main | 2026-10-01 |
-| [block/buzz](https://github.com/repolex-forx/block--buzz) | main | 2026-10-01 |
-| [block/melipona](https://github.com/repolex-forx/block--melipona) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
