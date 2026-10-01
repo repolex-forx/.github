@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [NousResearch/hermes-e2e-evidence](https://github.com/repolex-forx/NousResearch--hermes-e2e-evidence) | main | 2026-10-01 |
+| [NousResearch/DisTrO](https://github.com/repolex-forx/NousResearch--DisTrO) | main | 2026-10-01 |
 | [NousResearch/hermes-plugin-retaindb](https://github.com/repolex-forx/NousResearch--hermes-plugin-retaindb) | main | 2026-09-29 |
 | [NousResearch/hermes-plugin-openviking](https://github.com/repolex-forx/NousResearch--hermes-plugin-openviking) | main | 2026-09-29 |
 | [NousResearch/hermes-plugin-honcho](https://github.com/repolex-forx/NousResearch--hermes-plugin-honcho) | main | 2026-09-29 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [NousResearch/hermes-plugin-claude-subscription-directsdk](https://github.com/repolex-forx/NousResearch--hermes-plugin-claude-subscription-directsdk) | main | 2026-09-29 |
 | [cspotcode/outdent](https://github.com/repolex-forx/cspotcode--outdent) | v0.8.0 | 2026-09-29 |
 | [eemeli/yaml](https://github.com/repolex-forx/eemeli--yaml) | v3.0.0-0 | 2026-09-28 |
-| [dryoma/postcss-media-query-parser](https://github.com/repolex-forx/dryoma--postcss-media-query-parser) | v0.2.0 | 2026-09-28 |
-| [chalk/strip-ansi](https://github.com/repolex-forx/chalk--strip-ansi) | v7.2.0 | 2026-09-28 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
