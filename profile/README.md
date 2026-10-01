@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [anysphere/cloudflare-workers](https://github.com/repolex-forx/anysphere--cloudflare-workers) | main | 2026-10-01 |
 | [block/mcp-council-of-mine](https://github.com/repolex-forx/block--mcp-council-of-mine) | main | 2026-10-01 |
 | [augmentcode/augment.vim](https://github.com/repolex-forx/augmentcode--augment.vim) | main | 2026-10-01 |
 | [poolsideai/n8n-poolside-node](https://github.com/repolex-forx/poolsideai--n8n-poolside-node) | v0.1.3 | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [NousResearch/misaki](https://github.com/repolex-forx/NousResearch--misaki) | main | 2026-10-01 |
 | [Cognition-Labs/synapse-bridge](https://github.com/repolex-forx/Cognition-Labs--synapse-bridge) | main | 2026-10-01 |
 | [poolsideai/pool](https://github.com/repolex-forx/poolsideai--pool) | main | 2026-10-01 |
-| [anysphere/watcher](https://github.com/repolex-forx/anysphere--watcher) | v2.5.0 | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
