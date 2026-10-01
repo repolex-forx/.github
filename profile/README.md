@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Cognition-Labs/synapse-bridge](https://github.com/repolex-forx/Cognition-Labs--synapse-bridge) | main | 2026-10-01 |
 | [anysphere/watcher](https://github.com/repolex-forx/anysphere--watcher) | v2.5.0 | 2026-10-01 |
 | [Cognition-Labs/Synapse](https://github.com/repolex-forx/Cognition-Labs--Synapse) | main | 2026-10-01 |
 | [anysphere/vscode-ripgrep](https://github.com/repolex-forx/anysphere--vscode-ripgrep) | v1.15.14 | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [poolsideai/acp-go-sdk](https://github.com/repolex-forx/poolsideai--acp-go-sdk) | main | 2026-10-01 |
 | [poolsideai/reference_architectures](https://github.com/repolex-forx/poolsideai--reference_architectures) | v2.0.0 | 2026-10-01 |
 | [block/benchmrk](https://github.com/repolex-forx/block--benchmrk) | main | 2026-10-01 |
-| [NousResearch/Hermes-Function-Calling](https://github.com/repolex-forx/NousResearch--Hermes-Function-Calling) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
