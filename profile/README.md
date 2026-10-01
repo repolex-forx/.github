@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/model-ledger](https://github.com/repolex-forx/block--model-ledger) | v0.7.13 | 2026-10-01 |
 | [block/eudoxa](https://github.com/repolex-forx/block--eudoxa) | main | 2026-10-01 |
 | [block/uuidv7](https://github.com/repolex-forx/block--uuidv7) | main | 2026-10-01 |
 | [block/rce-agent](https://github.com/repolex-forx/block--rce-agent) | master | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/spectre](https://github.com/repolex-forx/block--spectre) | main | 2026-10-01 |
 | [anysphere/cloudflare-workers](https://github.com/repolex-forx/anysphere--cloudflare-workers) | main | 2026-10-01 |
 | [block/client-for-vantage](https://github.com/repolex-forx/block--client-for-vantage) | main | 2026-10-01 |
-| [block/mcp-council-of-mine](https://github.com/repolex-forx/block--mcp-council-of-mine) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
