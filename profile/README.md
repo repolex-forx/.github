@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/spincycle](https://github.com/repolex-forx/block--spincycle) | v2.1.1 | 2026-10-01 |
 | [block/pg-sprite](https://github.com/repolex-forx/block--pg-sprite) | main | 2026-10-01 |
 | [block/qrgo](https://github.com/repolex-forx/block--qrgo) | 1.4.2 | 2026-10-01 |
 | [block/canopy](https://github.com/repolex-forx/block--canopy) | main | 2026-10-01 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/rce-agent](https://github.com/repolex-forx/block--rce-agent) | master | 2026-10-01 |
 | [block/cachew](https://github.com/repolex-forx/block--cachew) | v0.5.3 | 2026-10-01 |
 | [block/ai-migrate](https://github.com/repolex-forx/block--ai-migrate) | main | 2026-10-01 |
-| [block/mcp-jupyter](https://github.com/repolex-forx/block--mcp-jupyter) | main | 2026-10-01 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
