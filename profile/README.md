@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [block/echoapp](https://github.com/repolex-forx/block--echoapp) | main | 2026-10-02 |
-| [block/cachew](https://github.com/repolex-forx/block--cachew) | v0.5.3 | 2026-10-02 |
-| [NousResearch/hermes-plugin-honcho](https://github.com/repolex-forx/NousResearch--hermes-plugin-honcho) | main | 2026-10-02 |
-| [NousResearch/hermes-plugin-openviking](https://github.com/repolex-forx/NousResearch--hermes-plugin-openviking) | main | 2026-10-02 |
-| [NousResearch/hermes-plugin-hindsight](https://github.com/repolex-forx/NousResearch--hermes-plugin-hindsight) | main | 2026-10-02 |
-| [NousResearch/hermes-plugin-backsearch](https://github.com/repolex-forx/NousResearch--hermes-plugin-backsearch) | main | 2026-10-02 |
-| [NousResearch/hermes-plugin-supermemory](https://github.com/repolex-forx/NousResearch--hermes-plugin-supermemory) | main | 2026-10-02 |
-| [NousResearch/hermes-plugin-snyk](https://github.com/repolex-forx/NousResearch--hermes-plugin-snyk) | main | 2026-10-02 |
-| [NousResearch/hermes-plugin-mem0](https://github.com/repolex-forx/NousResearch--hermes-plugin-mem0) | main | 2026-10-02 |
-| [block/blip](https://github.com/repolex-forx/block--blip) | main | 2026-10-02 |
+| [NousResearch/wandb-rs](https://github.com/repolex-forx/NousResearch--wandb-rs) | main | 2026-10-02 |
+| [block/gradle-catalog-editor](https://github.com/repolex-forx/block--gradle-catalog-editor) | 0.1.1 | 2026-10-02 |
+| [block/ai-rules](https://github.com/repolex-forx/block--ai-rules) | v1.7.0 | 2026-10-02 |
+| [block/qrgo](https://github.com/repolex-forx/block--qrgo) | 1.4.2 | 2026-10-02 |
+| [NousResearch/hermes-example-plugins](https://github.com/repolex-forx/NousResearch--hermes-example-plugins) | main | 2026-10-02 |
+| [NousResearch/hermes-telegram-business](https://github.com/repolex-forx/NousResearch--hermes-telegram-business) | main | 2026-10-02 |
+| [block/melipona](https://github.com/repolex-forx/block--melipona) | main | 2026-10-02 |
+| [NousResearch/hermes-plugin-claude-subscription-directsdk](https://github.com/repolex-forx/NousResearch--hermes-plugin-claude-subscription-directsdk) | main | 2026-10-02 |
+| [NousResearch/hermes-memory-wiki](https://github.com/repolex-forx/NousResearch--hermes-memory-wiki) | main | 2026-10-02 |
+| [block/diffweave-ai](https://github.com/repolex-forx/block--diffweave-ai) | v2.0.3 | 2026-10-02 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
