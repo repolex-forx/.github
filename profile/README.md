@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [NousResearch/wandb-rs](https://github.com/repolex-forx/NousResearch--wandb-rs) | main | 2026-10-02 |
-| [block/gradle-catalog-editor](https://github.com/repolex-forx/block--gradle-catalog-editor) | 0.1.1 | 2026-10-02 |
-| [block/ai-rules](https://github.com/repolex-forx/block--ai-rules) | v1.7.0 | 2026-10-02 |
-| [block/qrgo](https://github.com/repolex-forx/block--qrgo) | 1.4.2 | 2026-10-02 |
-| [NousResearch/hermes-example-plugins](https://github.com/repolex-forx/NousResearch--hermes-example-plugins) | main | 2026-10-02 |
-| [NousResearch/hermes-telegram-business](https://github.com/repolex-forx/NousResearch--hermes-telegram-business) | main | 2026-10-02 |
-| [block/melipona](https://github.com/repolex-forx/block--melipona) | main | 2026-10-02 |
-| [NousResearch/hermes-plugin-claude-subscription-directsdk](https://github.com/repolex-forx/NousResearch--hermes-plugin-claude-subscription-directsdk) | main | 2026-10-02 |
-| [NousResearch/hermes-memory-wiki](https://github.com/repolex-forx/NousResearch--hermes-memory-wiki) | main | 2026-10-02 |
-| [block/diffweave-ai](https://github.com/repolex-forx/block--diffweave-ai) | v2.0.3 | 2026-10-02 |
+| [block/canopy](https://github.com/repolex-forx/block--canopy) | main | 2026-10-02 |
+| [block/ide-metrics-plugin](https://github.com/repolex-forx/block--ide-metrics-plugin) | v0.2.14 | 2026-10-02 |
+| [block/plug-and-play-template](https://github.com/repolex-forx/block--plug-and-play-template) | main | 2026-10-02 |
+| [block/apple-codesign-action-example](https://github.com/repolex-forx/block--apple-codesign-action-example) | main | 2026-10-02 |
+| [block/gradle-monorepo-ij-plugin](https://github.com/repolex-forx/block--gradle-monorepo-ij-plugin) | v0.1.28 | 2026-10-02 |
+| [block/bazel-gradle-plugin](https://github.com/repolex-forx/block--bazel-gradle-plugin) | main | 2026-10-02 |
+| [block/bitcoin-augur-reference](https://github.com/repolex-forx/block--bitcoin-augur-reference) | main | 2026-10-02 |
+| [block/example-jvm-maven](https://github.com/repolex-forx/block--example-jvm-maven) | main | 2026-10-02 |
+| [block/apple-codesign-action](https://github.com/repolex-forx/block--apple-codesign-action) | v1.1.0 | 2026-10-02 |
+| [NousResearch/kanban-video-pipeline](https://github.com/repolex-forx/NousResearch--kanban-video-pipeline) | main | 2026-10-02 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
