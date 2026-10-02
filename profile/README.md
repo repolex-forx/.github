@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/echoapp](https://github.com/repolex-forx/block--echoapp) | main | 2026-10-02 |
 | [block/cachew](https://github.com/repolex-forx/block--cachew) | v0.5.3 | 2026-10-02 |
 | [NousResearch/hermes-plugin-honcho](https://github.com/repolex-forx/NousResearch--hermes-plugin-honcho) | main | 2026-10-02 |
 | [NousResearch/hermes-plugin-openviking](https://github.com/repolex-forx/NousResearch--hermes-plugin-openviking) | main | 2026-10-02 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [NousResearch/hermes-plugin-snyk](https://github.com/repolex-forx/NousResearch--hermes-plugin-snyk) | main | 2026-10-02 |
 | [NousResearch/hermes-plugin-mem0](https://github.com/repolex-forx/NousResearch--hermes-plugin-mem0) | main | 2026-10-02 |
 | [block/blip](https://github.com/repolex-forx/block--blip) | main | 2026-10-02 |
-| [block/frfr](https://github.com/repolex-forx/block--frfr) | main | 2026-10-02 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
