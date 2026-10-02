@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [block/quiver](https://github.com/repolex-forx/block--quiver) | main | 2026-10-01 |
-| [block/schemabot](https://github.com/repolex-forx/block--schemabot) | main | 2026-10-01 |
-| [block/wt](https://github.com/repolex-forx/block--wt) | main | 2026-10-01 |
-| [block/madrigal](https://github.com/repolex-forx/block--madrigal) | main | 2026-10-01 |
-| [block/francis](https://github.com/repolex-forx/block--francis) | main | 2026-10-01 |
-| [block/kfsm](https://github.com/repolex-forx/block--kfsm) | main | 2026-10-01 |
-| [block/fowlcon](https://github.com/repolex-forx/block--fowlcon) | main | 2026-10-01 |
-| [block/bergr](https://github.com/repolex-forx/block--bergr) | main | 2026-10-01 |
-| [block/picocert](https://github.com/repolex-forx/block--picocert) | main | 2026-10-01 |
-| [block/getit](https://github.com/repolex-forx/block--getit) | main | 2026-10-01 |
+| [block/cachew](https://github.com/repolex-forx/block--cachew) | v0.5.3 | 2026-10-02 |
+| [NousResearch/hermes-plugin-honcho](https://github.com/repolex-forx/NousResearch--hermes-plugin-honcho) | main | 2026-10-02 |
+| [NousResearch/hermes-plugin-openviking](https://github.com/repolex-forx/NousResearch--hermes-plugin-openviking) | main | 2026-10-02 |
+| [NousResearch/hermes-plugin-hindsight](https://github.com/repolex-forx/NousResearch--hermes-plugin-hindsight) | main | 2026-10-02 |
+| [NousResearch/hermes-plugin-backsearch](https://github.com/repolex-forx/NousResearch--hermes-plugin-backsearch) | main | 2026-10-02 |
+| [NousResearch/hermes-plugin-supermemory](https://github.com/repolex-forx/NousResearch--hermes-plugin-supermemory) | main | 2026-10-02 |
+| [NousResearch/hermes-plugin-snyk](https://github.com/repolex-forx/NousResearch--hermes-plugin-snyk) | main | 2026-10-02 |
+| [NousResearch/hermes-plugin-mem0](https://github.com/repolex-forx/NousResearch--hermes-plugin-mem0) | main | 2026-10-02 |
+| [block/blip](https://github.com/repolex-forx/block--blip) | main | 2026-10-02 |
+| [block/frfr](https://github.com/repolex-forx/block--frfr) | main | 2026-10-02 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
