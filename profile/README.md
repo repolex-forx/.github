@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/thread-manager-for-amp](https://github.com/repolex-forx/block--thread-manager-for-amp) | main | 2026-10-03 |
 | [anysphere/priompt](https://github.com/repolex-forx/anysphere--priompt) | main | 2026-10-03 |
 | [block/canopy](https://github.com/repolex-forx/block--canopy) | main | 2026-10-02 |
 | [block/ide-metrics-plugin](https://github.com/repolex-forx/block--ide-metrics-plugin) | v0.2.14 | 2026-10-02 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/bazel-gradle-plugin](https://github.com/repolex-forx/block--bazel-gradle-plugin) | main | 2026-10-02 |
 | [block/bitcoin-augur-reference](https://github.com/repolex-forx/block--bitcoin-augur-reference) | main | 2026-10-02 |
 | [block/example-jvm-maven](https://github.com/repolex-forx/block--example-jvm-maven) | main | 2026-10-02 |
-| [block/apple-codesign-action](https://github.com/repolex-forx/block--apple-codesign-action) | v1.1.0 | 2026-10-02 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
