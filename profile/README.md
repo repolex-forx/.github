@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [NousResearch/autonovel](https://github.com/repolex-forx/NousResearch--autonovel) | master | 2026-10-04 |
+| [NousResearch/hermes-compression-eval](https://github.com/repolex-forx/NousResearch--hermes-compression-eval) | main | 2026-10-04 |
+| [anysphere/bugbot-context](https://github.com/repolex-forx/anysphere--bugbot-context) | v0.0.5 | 2026-10-04 |
+| [modelcontextprotocol/rust-sdk](https://github.com/repolex-forx/modelcontextprotocol--rust-sdk) | main | 2026-10-04 |
+| [modelcontextprotocol/go-sdk](https://github.com/repolex-forx/modelcontextprotocol--go-sdk) | main | 2026-10-04 |
+| [modelcontextprotocol/kotlin-sdk](https://github.com/repolex-forx/modelcontextprotocol--kotlin-sdk) | main | 2026-10-04 |
 | [block/bundle-cache](https://github.com/repolex-forx/block--bundle-cache) | main | 2026-10-03 |
 | [block/thread-manager-for-amp](https://github.com/repolex-forx/block--thread-manager-for-amp) | main | 2026-10-03 |
 | [anysphere/priompt](https://github.com/repolex-forx/anysphere--priompt) | main | 2026-10-03 |
 | [block/canopy](https://github.com/repolex-forx/block--canopy) | main | 2026-10-02 |
-| [block/ide-metrics-plugin](https://github.com/repolex-forx/block--ide-metrics-plugin) | v0.2.14 | 2026-10-02 |
-| [block/plug-and-play-template](https://github.com/repolex-forx/block--plug-and-play-template) | main | 2026-10-02 |
-| [block/apple-codesign-action-example](https://github.com/repolex-forx/block--apple-codesign-action-example) | main | 2026-10-02 |
-| [block/gradle-monorepo-ij-plugin](https://github.com/repolex-forx/block--gradle-monorepo-ij-plugin) | v0.1.28 | 2026-10-02 |
-| [block/bazel-gradle-plugin](https://github.com/repolex-forx/block--bazel-gradle-plugin) | main | 2026-10-02 |
-| [block/bitcoin-augur-reference](https://github.com/repolex-forx/block--bitcoin-augur-reference) | main | 2026-10-02 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
