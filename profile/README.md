@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [modelcontextprotocol/ruby-sdk](https://github.com/repolex-forx/modelcontextprotocol--ruby-sdk) | main | 2026-10-04 |
 | [NousResearch/autonovel](https://github.com/repolex-forx/NousResearch--autonovel) | master | 2026-10-04 |
 | [NousResearch/hermes-compression-eval](https://github.com/repolex-forx/NousResearch--hermes-compression-eval) | main | 2026-10-04 |
 | [anysphere/bugbot-context](https://github.com/repolex-forx/anysphere--bugbot-context) | v0.0.5 | 2026-10-04 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/bundle-cache](https://github.com/repolex-forx/block--bundle-cache) | main | 2026-10-03 |
 | [block/thread-manager-for-amp](https://github.com/repolex-forx/block--thread-manager-for-amp) | main | 2026-10-03 |
 | [anysphere/priompt](https://github.com/repolex-forx/anysphere--priompt) | main | 2026-10-03 |
-| [block/canopy](https://github.com/repolex-forx/block--canopy) | main | 2026-10-02 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
