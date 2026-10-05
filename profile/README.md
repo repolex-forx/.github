@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [NousResearch/kaida](https://github.com/repolex-forx/NousResearch--kaida) | main | 2026-10-05 |
+| [anysphere/gpt-4-for-code](https://github.com/repolex-forx/anysphere--gpt-4-for-code) | main | 2026-10-05 |
+| [NousResearch/iroh-fake-store](https://github.com/repolex-forx/NousResearch--iroh-fake-store) | main | 2026-10-05 |
+| [NousResearch/smc-inference-server](https://github.com/repolex-forx/NousResearch--smc-inference-server) | main | 2026-10-05 |
 | [modelcontextprotocol/ruby-sdk](https://github.com/repolex-forx/modelcontextprotocol--ruby-sdk) | main | 2026-10-04 |
 | [NousResearch/autonovel](https://github.com/repolex-forx/NousResearch--autonovel) | master | 2026-10-04 |
 | [NousResearch/hermes-compression-eval](https://github.com/repolex-forx/NousResearch--hermes-compression-eval) | main | 2026-10-04 |
 | [anysphere/bugbot-context](https://github.com/repolex-forx/anysphere--bugbot-context) | v0.0.5 | 2026-10-04 |
 | [modelcontextprotocol/rust-sdk](https://github.com/repolex-forx/modelcontextprotocol--rust-sdk) | main | 2026-10-04 |
 | [modelcontextprotocol/go-sdk](https://github.com/repolex-forx/modelcontextprotocol--go-sdk) | main | 2026-10-04 |
-| [modelcontextprotocol/kotlin-sdk](https://github.com/repolex-forx/modelcontextprotocol--kotlin-sdk) | main | 2026-10-04 |
-| [block/bundle-cache](https://github.com/repolex-forx/block--bundle-cache) | main | 2026-10-03 |
-| [block/thread-manager-for-amp](https://github.com/repolex-forx/block--thread-manager-for-amp) | main | 2026-10-03 |
-| [anysphere/priompt](https://github.com/repolex-forx/anysphere--priompt) | main | 2026-10-03 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
