@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/ospo](https://github.com/repolex-forx/block--ospo) | main | 2026-10-08 |
+| [block/bitcoin-augur-benchmarking](https://github.com/repolex-forx/block--bitcoin-augur-benchmarking) | main | 2026-10-08 |
+| [block/block.github.io](https://github.com/repolex-forx/block--block.github.io) | main | 2026-10-08 |
+| [block/renovate-config](https://github.com/repolex-forx/block--renovate-config) | main | 2026-10-08 |
 | [block/test](https://github.com/repolex-forx/block--test) | main | 2026-10-08 |
 | [NousResearch/tinker-atropos](https://github.com/repolex-forx/NousResearch--tinker-atropos) | main | 2026-10-08 |
 | [NousResearch/tinker-nemogym](https://github.com/repolex-forx/NousResearch--tinker-nemogym) | main | 2026-10-08 |
 | [NousResearch/scaling-transformer](https://github.com/repolex-forx/NousResearch--scaling-transformer) | main | 2026-10-08 |
 | [NousResearch/solana-flake](https://github.com/repolex-forx/NousResearch--solana-flake) | main | 2026-10-08 |
 | [NousResearch/yhack](https://github.com/repolex-forx/NousResearch--yhack) | main | 2026-10-08 |
-| [modelcontextprotocol/conformance](https://github.com/repolex-forx/modelcontextprotocol--conformance) | main | 2026-10-08 |
-| [modelcontextprotocol/ext-tasks](https://github.com/repolex-forx/modelcontextprotocol--ext-tasks) | v0.2.2 | 2026-10-08 |
-| [NousResearch/kaida](https://github.com/repolex-forx/NousResearch--kaida) | main | 2026-10-05 |
-| [anysphere/gpt-4-for-code](https://github.com/repolex-forx/anysphere--gpt-4-for-code) | main | 2026-10-05 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
