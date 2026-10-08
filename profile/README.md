@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/test](https://github.com/repolex-forx/block--test) | main | 2026-10-08 |
+| [NousResearch/tinker-atropos](https://github.com/repolex-forx/NousResearch--tinker-atropos) | main | 2026-10-08 |
+| [NousResearch/tinker-nemogym](https://github.com/repolex-forx/NousResearch--tinker-nemogym) | main | 2026-10-08 |
 | [NousResearch/scaling-transformer](https://github.com/repolex-forx/NousResearch--scaling-transformer) | main | 2026-10-08 |
 | [NousResearch/solana-flake](https://github.com/repolex-forx/NousResearch--solana-flake) | main | 2026-10-08 |
 | [NousResearch/yhack](https://github.com/repolex-forx/NousResearch--yhack) | main | 2026-10-08 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [modelcontextprotocol/ext-tasks](https://github.com/repolex-forx/modelcontextprotocol--ext-tasks) | v0.2.2 | 2026-10-08 |
 | [NousResearch/kaida](https://github.com/repolex-forx/NousResearch--kaida) | main | 2026-10-05 |
 | [anysphere/gpt-4-for-code](https://github.com/repolex-forx/anysphere--gpt-4-for-code) | main | 2026-10-05 |
-| [NousResearch/iroh-fake-store](https://github.com/repolex-forx/NousResearch--iroh-fake-store) | main | 2026-10-05 |
-| [NousResearch/smc-inference-server](https://github.com/repolex-forx/NousResearch--smc-inference-server) | main | 2026-10-05 |
-| [modelcontextprotocol/ruby-sdk](https://github.com/repolex-forx/modelcontextprotocol--ruby-sdk) | main | 2026-10-04 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
