@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/overstory](https://github.com/repolex-forx/block--overstory) | v0.2.0 | 2026-10-08 |
+| [block/homebrew-tap](https://github.com/repolex-forx/block--homebrew-tap) | main | 2026-10-08 |
 | [block/ospo](https://github.com/repolex-forx/block--ospo) | main | 2026-10-08 |
 | [block/bitcoin-augur-benchmarking](https://github.com/repolex-forx/block--bitcoin-augur-benchmarking) | main | 2026-10-08 |
 | [block/block.github.io](https://github.com/repolex-forx/block--block.github.io) | main | 2026-10-08 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [NousResearch/tinker-atropos](https://github.com/repolex-forx/NousResearch--tinker-atropos) | main | 2026-10-08 |
 | [NousResearch/tinker-nemogym](https://github.com/repolex-forx/NousResearch--tinker-nemogym) | main | 2026-10-08 |
 | [NousResearch/scaling-transformer](https://github.com/repolex-forx/NousResearch--scaling-transformer) | main | 2026-10-08 |
-| [NousResearch/solana-flake](https://github.com/repolex-forx/NousResearch--solana-flake) | main | 2026-10-08 |
-| [NousResearch/yhack](https://github.com/repolex-forx/NousResearch--yhack) | main | 2026-10-08 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
