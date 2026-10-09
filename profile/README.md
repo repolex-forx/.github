@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [NousResearch/Automodel](https://github.com/repolex-forx/NousResearch--Automodel) | main | 2026-10-09 |
-| [NousResearch/NemoClaw](https://github.com/repolex-forx/NousResearch--NemoClaw) | main | 2026-10-09 |
-| [NousResearch/OpenShell](https://github.com/repolex-forx/NousResearch--OpenShell) | main | 2026-10-09 |
-| [NousResearch/agent-governance-toolkit](https://github.com/repolex-forx/NousResearch--agent-governance-toolkit) | main | 2026-10-09 |
-| [NousResearch/RL](https://github.com/repolex-forx/NousResearch--RL) | main | 2026-10-09 |
-| [NousResearch/Nemotron](https://github.com/repolex-forx/NousResearch--Nemotron) | main | 2026-10-09 |
-| [NousResearch/Gym](https://github.com/repolex-forx/NousResearch--Gym) | main | 2026-10-09 |
-| [NousResearch/Hermes-Bot-Mode](https://github.com/repolex-forx/NousResearch--Hermes-Bot-Mode) | main | 2026-10-09 |
-| [NousResearch/wterm](https://github.com/repolex-forx/NousResearch--wterm) | main | 2026-10-09 |
-| [NousResearch/autoreason](https://github.com/repolex-forx/NousResearch--autoreason) | main | 2026-10-09 |
+| [NousResearch/datatrove](https://github.com/repolex-forx/NousResearch--datatrove) | `22606036e9` | 2026-10-09 |
+| [NousResearch/axolotl-func-calling](https://github.com/repolex-forx/NousResearch--axolotl-func-calling) | `a359579371` | 2026-10-09 |
+| [NousResearch/funcchain](https://github.com/repolex-forx/NousResearch--funcchain) | `4ba7c6b9cd` | 2026-10-09 |
+| [NousResearch/Open-Reasoning-Tasks](https://github.com/repolex-forx/NousResearch--Open-Reasoning-Tasks) | `35df7000b8` | 2026-10-09 |
+| [NousResearch/nousflash-agents](https://github.com/repolex-forx/NousResearch--nousflash-agents) | `3ea552f8ed` | 2026-10-09 |
+| [NousResearch/hf-hub](https://github.com/repolex-forx/NousResearch--hf-hub) | `a66bdcf2f2` | 2026-10-09 |
+| [NousResearch/forge-feedback](https://github.com/repolex-forx/NousResearch--forge-feedback) | `a40ace8320` | 2026-10-09 |
+| [NousResearch/Liger-Kernel](https://github.com/repolex-forx/NousResearch--Liger-Kernel) | `99a90f7cc4` | 2026-10-09 |
+| [NousResearch/iroh-blobs](https://github.com/repolex-forx/NousResearch--iroh-blobs) | `4645452380` | 2026-10-09 |
+| [NousResearch/OpenShell-Community](https://github.com/repolex-forx/NousResearch--OpenShell-Community) | `36c558e929` | 2026-10-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
