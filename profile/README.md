@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [modelcontextprotocol/csharp-sdk](https://github.com/repolex-forx/modelcontextprotocol--csharp-sdk) | main | 2026-10-09 |
 | [NousResearch/speculators](https://github.com/repolex-forx/NousResearch--speculators) | main | 2026-10-09 |
 | [modelcontextprotocol/php-sdk](https://github.com/repolex-forx/modelcontextprotocol--php-sdk) | main | 2026-10-09 |
 | [modelcontextprotocol/swift-sdk](https://github.com/repolex-forx/modelcontextprotocol--swift-sdk) | 0.12.1 | 2026-10-09 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [modelcontextprotocol/servers-archived](https://github.com/repolex-forx/modelcontextprotocol--servers-archived) | main | 2026-10-09 |
 | [modelcontextprotocol/docs](https://github.com/repolex-forx/modelcontextprotocol--docs) | main | 2026-10-09 |
 | [modelcontextprotocol/inspector](https://github.com/repolex-forx/modelcontextprotocol--inspector) | 2.10.1 | 2026-10-09 |
-| [modelcontextprotocol/ext-server-card](https://github.com/repolex-forx/modelcontextprotocol--ext-server-card) | main | 2026-10-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
