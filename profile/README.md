@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [block/overstory](https://github.com/repolex-forx/block--overstory) | v0.2.0 | 2026-10-08 |
-| [block/homebrew-tap](https://github.com/repolex-forx/block--homebrew-tap) | main | 2026-10-08 |
-| [block/ospo](https://github.com/repolex-forx/block--ospo) | main | 2026-10-08 |
-| [block/bitcoin-augur-benchmarking](https://github.com/repolex-forx/block--bitcoin-augur-benchmarking) | main | 2026-10-08 |
-| [block/block.github.io](https://github.com/repolex-forx/block--block.github.io) | main | 2026-10-08 |
-| [block/renovate-config](https://github.com/repolex-forx/block--renovate-config) | main | 2026-10-08 |
-| [block/test](https://github.com/repolex-forx/block--test) | main | 2026-10-08 |
-| [NousResearch/tinker-atropos](https://github.com/repolex-forx/NousResearch--tinker-atropos) | main | 2026-10-08 |
-| [NousResearch/tinker-nemogym](https://github.com/repolex-forx/NousResearch--tinker-nemogym) | main | 2026-10-08 |
-| [NousResearch/scaling-transformer](https://github.com/repolex-forx/NousResearch--scaling-transformer) | main | 2026-10-08 |
+| [modelcontextprotocol/static](https://github.com/repolex-forx/modelcontextprotocol--static) | main | 2026-10-09 |
+| [NousResearch/forge-api-demo](https://github.com/repolex-forx/NousResearch--forge-api-demo) | main | 2026-10-09 |
+| [NousResearch/kaida-gencritique](https://github.com/repolex-forx/NousResearch--kaida-gencritique) | main | 2026-10-09 |
+| [NousResearch/hermes-spotify](https://github.com/repolex-forx/NousResearch--hermes-spotify) | main | 2026-10-09 |
+| [NousResearch/storywriter-frontend](https://github.com/repolex-forx/NousResearch--storywriter-frontend) | main | 2026-10-09 |
+| [NousResearch/hermes-homeassistant](https://github.com/repolex-forx/NousResearch--hermes-homeassistant) | main | 2026-10-09 |
+| [modelcontextprotocol/progressive-disclosure-wg](https://github.com/repolex-forx/modelcontextprotocol--progressive-disclosure-wg) | main | 2026-10-09 |
+| [modelcontextprotocol/experimental-ext-variants](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-variants) | main | 2026-10-09 |
+| [modelcontextprotocol/financial-services-interest-group](https://github.com/repolex-forx/modelcontextprotocol--financial-services-interest-group) | main | 2026-10-09 |
+| [modelcontextprotocol/experimental-ext-filesystems](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-filesystems) | main | 2026-10-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
