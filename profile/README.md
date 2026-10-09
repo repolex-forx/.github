@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [modelcontextprotocol/ext-apps](https://github.com/repolex-forx/modelcontextprotocol--ext-apps) | v2.0.3 | 2026-10-09 |
 | [modelcontextprotocol/experimental-ext-interceptors](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-interceptors) | main | 2026-10-09 |
 | [modelcontextprotocol/example-remote-client](https://github.com/repolex-forx/modelcontextprotocol--example-remote-client) | main | 2026-10-09 |
 | [modelcontextprotocol/dns](https://github.com/repolex-forx/modelcontextprotocol--dns) | main | 2026-10-09 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [modelcontextprotocol/agents-wg](https://github.com/repolex-forx/modelcontextprotocol--agents-wg) | main | 2026-10-09 |
 | [modelcontextprotocol/quickstart-resources](https://github.com/repolex-forx/modelcontextprotocol--quickstart-resources) | main | 2026-10-09 |
 | [modelcontextprotocol/transports-wg](https://github.com/repolex-forx/modelcontextprotocol--transports-wg) | main | 2026-10-09 |
-| [modelcontextprotocol/static](https://github.com/repolex-forx/modelcontextprotocol--static) | main | 2026-10-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
