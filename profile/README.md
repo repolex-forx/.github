@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [NousResearch/datatrove](https://github.com/repolex-forx/NousResearch--datatrove) | `22606036e9` | 2026-10-09 |
-| [NousResearch/axolotl-func-calling](https://github.com/repolex-forx/NousResearch--axolotl-func-calling) | `a359579371` | 2026-10-09 |
-| [NousResearch/funcchain](https://github.com/repolex-forx/NousResearch--funcchain) | `4ba7c6b9cd` | 2026-10-09 |
-| [NousResearch/Open-Reasoning-Tasks](https://github.com/repolex-forx/NousResearch--Open-Reasoning-Tasks) | `35df7000b8` | 2026-10-09 |
-| [NousResearch/nousflash-agents](https://github.com/repolex-forx/NousResearch--nousflash-agents) | `3ea552f8ed` | 2026-10-09 |
-| [NousResearch/hf-hub](https://github.com/repolex-forx/NousResearch--hf-hub) | `a66bdcf2f2` | 2026-10-09 |
-| [NousResearch/forge-feedback](https://github.com/repolex-forx/NousResearch--forge-feedback) | `a40ace8320` | 2026-10-09 |
-| [NousResearch/Liger-Kernel](https://github.com/repolex-forx/NousResearch--Liger-Kernel) | `99a90f7cc4` | 2026-10-09 |
-| [NousResearch/iroh-blobs](https://github.com/repolex-forx/NousResearch--iroh-blobs) | `4645452380` | 2026-10-09 |
-| [NousResearch/OpenShell-Community](https://github.com/repolex-forx/NousResearch--OpenShell-Community) | `36c558e929` | 2026-10-09 |
+| [NousResearch/TextArena](https://github.com/repolex-forx/NousResearch--TextArena) | `2f20590f09` | 2026-10-09 |
+| [NousResearch/huskyholdem-bench](https://github.com/repolex-forx/NousResearch--huskyholdem-bench) | `eb149674a4` | 2026-10-09 |
+| [NousResearch/local_generative_agents](https://github.com/repolex-forx/NousResearch--local_generative_agents) | `d66508143a` | 2026-10-09 |
+| [NousResearch/longform-writing-bench](https://github.com/repolex-forx/NousResearch--longform-writing-bench) | `d1c625505b` | 2026-10-09 |
+| [NousResearch/eqbench3](https://github.com/repolex-forx/NousResearch--eqbench3) | `3c21bcc514` | 2026-10-09 |
+| [NousResearch/llm-chain](https://github.com/repolex-forx/NousResearch--llm-chain) | `d1c2abfece` | 2026-10-09 |
+| [NousResearch/Obsidian](https://github.com/repolex-forx/NousResearch--Obsidian) | `06124f2a8f` | 2026-10-09 |
+| [NousResearch/StripedHyenaTrainer](https://github.com/repolex-forx/NousResearch--StripedHyenaTrainer) | `288a526b8e` | 2026-10-09 |
+| [NousResearch/nanotron](https://github.com/repolex-forx/NousResearch--nanotron) | `2cde8f6351` | 2026-10-09 |
+| [NousResearch/curve25519-dalek](https://github.com/repolex-forx/NousResearch--curve25519-dalek) | `0964f800ab` | 2026-10-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
