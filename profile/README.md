@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [modelcontextprotocol/ext-server-card](https://github.com/repolex-forx/modelcontextprotocol--ext-server-card) | main | 2026-10-09 |
+| [modelcontextprotocol/use-mcp](https://github.com/repolex-forx/modelcontextprotocol--use-mcp) | v0.0.21 | 2026-10-09 |
+| [modelcontextprotocol/create-python-server](https://github.com/repolex-forx/modelcontextprotocol--create-python-server) | main | 2026-10-09 |
+| [modelcontextprotocol/actions](https://github.com/repolex-forx/modelcontextprotocol--actions) | main | 2026-10-09 |
+| [modelcontextprotocol/ext-auth](https://github.com/repolex-forx/modelcontextprotocol--ext-auth) | main | 2026-10-09 |
+| [modelcontextprotocol/access](https://github.com/repolex-forx/modelcontextprotocol--access) | main | 2026-10-09 |
+| [modelcontextprotocol/experimental-ext-tool-annotations](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-tool-annotations) | main | 2026-10-09 |
 | [modelcontextprotocol/ext-apps](https://github.com/repolex-forx/modelcontextprotocol--ext-apps) | v2.0.3 | 2026-10-09 |
 | [modelcontextprotocol/experimental-ext-interceptors](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-interceptors) | main | 2026-10-09 |
 | [modelcontextprotocol/example-remote-client](https://github.com/repolex-forx/modelcontextprotocol--example-remote-client) | main | 2026-10-09 |
-| [modelcontextprotocol/dns](https://github.com/repolex-forx/modelcontextprotocol--dns) | main | 2026-10-09 |
-| [modelcontextprotocol/experimental-ext-triggers-events](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-triggers-events) | main | 2026-10-09 |
-| [modelcontextprotocol/example-remote-server](https://github.com/repolex-forx/modelcontextprotocol--example-remote-server) | main | 2026-10-09 |
-| [modelcontextprotocol/ext-skills](https://github.com/repolex-forx/modelcontextprotocol--ext-skills) | main | 2026-10-09 |
-| [modelcontextprotocol/agents-wg](https://github.com/repolex-forx/modelcontextprotocol--agents-wg) | main | 2026-10-09 |
-| [modelcontextprotocol/quickstart-resources](https://github.com/repolex-forx/modelcontextprotocol--quickstart-resources) | main | 2026-10-09 |
-| [modelcontextprotocol/transports-wg](https://github.com/repolex-forx/modelcontextprotocol--transports-wg) | main | 2026-10-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
