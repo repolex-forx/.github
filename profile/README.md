@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [NousResearch/speculators](https://github.com/repolex-forx/NousResearch--speculators) | main | 2026-10-09 |
+| [modelcontextprotocol/php-sdk](https://github.com/repolex-forx/modelcontextprotocol--php-sdk) | main | 2026-10-09 |
+| [modelcontextprotocol/swift-sdk](https://github.com/repolex-forx/modelcontextprotocol--swift-sdk) | 0.12.1 | 2026-10-09 |
+| [NousResearch/hermes-plugin-tirith](https://github.com/repolex-forx/NousResearch--hermes-plugin-tirith) | main | 2026-10-09 |
+| [modelcontextprotocol/create-typescript-server](https://github.com/repolex-forx/modelcontextprotocol--create-typescript-server) | 0.3.1 | 2026-10-09 |
+| [NousResearch/image-size](https://github.com/repolex-forx/NousResearch--image-size) | v2.0.3 | 2026-10-09 |
+| [modelcontextprotocol/servers-archived](https://github.com/repolex-forx/modelcontextprotocol--servers-archived) | main | 2026-10-09 |
+| [modelcontextprotocol/docs](https://github.com/repolex-forx/modelcontextprotocol--docs) | main | 2026-10-09 |
 | [modelcontextprotocol/inspector](https://github.com/repolex-forx/modelcontextprotocol--inspector) | 2.10.1 | 2026-10-09 |
 | [modelcontextprotocol/ext-server-card](https://github.com/repolex-forx/modelcontextprotocol--ext-server-card) | main | 2026-10-09 |
-| [modelcontextprotocol/use-mcp](https://github.com/repolex-forx/modelcontextprotocol--use-mcp) | v0.0.21 | 2026-10-09 |
-| [modelcontextprotocol/create-python-server](https://github.com/repolex-forx/modelcontextprotocol--create-python-server) | main | 2026-10-09 |
-| [modelcontextprotocol/actions](https://github.com/repolex-forx/modelcontextprotocol--actions) | main | 2026-10-09 |
-| [modelcontextprotocol/ext-auth](https://github.com/repolex-forx/modelcontextprotocol--ext-auth) | main | 2026-10-09 |
-| [modelcontextprotocol/access](https://github.com/repolex-forx/modelcontextprotocol--access) | main | 2026-10-09 |
-| [modelcontextprotocol/experimental-ext-tool-annotations](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-tool-annotations) | main | 2026-10-09 |
-| [modelcontextprotocol/ext-apps](https://github.com/repolex-forx/modelcontextprotocol--ext-apps) | v2.0.3 | 2026-10-09 |
-| [modelcontextprotocol/experimental-ext-interceptors](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-interceptors) | main | 2026-10-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
