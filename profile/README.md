@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [modelcontextprotocol/csharp-sdk](https://github.com/repolex-forx/modelcontextprotocol--csharp-sdk) | main | 2026-10-09 |
-| [NousResearch/speculators](https://github.com/repolex-forx/NousResearch--speculators) | main | 2026-10-09 |
-| [modelcontextprotocol/php-sdk](https://github.com/repolex-forx/modelcontextprotocol--php-sdk) | main | 2026-10-09 |
-| [modelcontextprotocol/swift-sdk](https://github.com/repolex-forx/modelcontextprotocol--swift-sdk) | 0.12.1 | 2026-10-09 |
-| [NousResearch/hermes-plugin-tirith](https://github.com/repolex-forx/NousResearch--hermes-plugin-tirith) | main | 2026-10-09 |
-| [modelcontextprotocol/create-typescript-server](https://github.com/repolex-forx/modelcontextprotocol--create-typescript-server) | 0.3.1 | 2026-10-09 |
-| [NousResearch/image-size](https://github.com/repolex-forx/NousResearch--image-size) | v2.0.3 | 2026-10-09 |
-| [modelcontextprotocol/servers-archived](https://github.com/repolex-forx/modelcontextprotocol--servers-archived) | main | 2026-10-09 |
-| [modelcontextprotocol/docs](https://github.com/repolex-forx/modelcontextprotocol--docs) | main | 2026-10-09 |
-| [modelcontextprotocol/inspector](https://github.com/repolex-forx/modelcontextprotocol--inspector) | 2.10.1 | 2026-10-09 |
+| [NousResearch/Automodel](https://github.com/repolex-forx/NousResearch--Automodel) | main | 2026-10-09 |
+| [NousResearch/NemoClaw](https://github.com/repolex-forx/NousResearch--NemoClaw) | main | 2026-10-09 |
+| [NousResearch/OpenShell](https://github.com/repolex-forx/NousResearch--OpenShell) | main | 2026-10-09 |
+| [NousResearch/agent-governance-toolkit](https://github.com/repolex-forx/NousResearch--agent-governance-toolkit) | main | 2026-10-09 |
+| [NousResearch/RL](https://github.com/repolex-forx/NousResearch--RL) | main | 2026-10-09 |
+| [NousResearch/Nemotron](https://github.com/repolex-forx/NousResearch--Nemotron) | main | 2026-10-09 |
+| [NousResearch/Gym](https://github.com/repolex-forx/NousResearch--Gym) | main | 2026-10-09 |
+| [NousResearch/Hermes-Bot-Mode](https://github.com/repolex-forx/NousResearch--Hermes-Bot-Mode) | main | 2026-10-09 |
+| [NousResearch/wterm](https://github.com/repolex-forx/NousResearch--wterm) | main | 2026-10-09 |
+| [NousResearch/autoreason](https://github.com/repolex-forx/NousResearch--autoreason) | main | 2026-10-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
