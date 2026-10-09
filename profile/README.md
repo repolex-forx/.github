@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [modelcontextprotocol/experimental-ext-interceptors](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-interceptors) | main | 2026-10-09 |
+| [modelcontextprotocol/example-remote-client](https://github.com/repolex-forx/modelcontextprotocol--example-remote-client) | main | 2026-10-09 |
+| [modelcontextprotocol/dns](https://github.com/repolex-forx/modelcontextprotocol--dns) | main | 2026-10-09 |
+| [modelcontextprotocol/experimental-ext-triggers-events](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-triggers-events) | main | 2026-10-09 |
+| [modelcontextprotocol/example-remote-server](https://github.com/repolex-forx/modelcontextprotocol--example-remote-server) | main | 2026-10-09 |
+| [modelcontextprotocol/ext-skills](https://github.com/repolex-forx/modelcontextprotocol--ext-skills) | main | 2026-10-09 |
+| [modelcontextprotocol/agents-wg](https://github.com/repolex-forx/modelcontextprotocol--agents-wg) | main | 2026-10-09 |
+| [modelcontextprotocol/quickstart-resources](https://github.com/repolex-forx/modelcontextprotocol--quickstart-resources) | main | 2026-10-09 |
+| [modelcontextprotocol/transports-wg](https://github.com/repolex-forx/modelcontextprotocol--transports-wg) | main | 2026-10-09 |
 | [modelcontextprotocol/static](https://github.com/repolex-forx/modelcontextprotocol--static) | main | 2026-10-09 |
-| [NousResearch/forge-api-demo](https://github.com/repolex-forx/NousResearch--forge-api-demo) | main | 2026-10-09 |
-| [NousResearch/kaida-gencritique](https://github.com/repolex-forx/NousResearch--kaida-gencritique) | main | 2026-10-09 |
-| [NousResearch/hermes-spotify](https://github.com/repolex-forx/NousResearch--hermes-spotify) | main | 2026-10-09 |
-| [NousResearch/storywriter-frontend](https://github.com/repolex-forx/NousResearch--storywriter-frontend) | main | 2026-10-09 |
-| [NousResearch/hermes-homeassistant](https://github.com/repolex-forx/NousResearch--hermes-homeassistant) | main | 2026-10-09 |
-| [modelcontextprotocol/progressive-disclosure-wg](https://github.com/repolex-forx/modelcontextprotocol--progressive-disclosure-wg) | main | 2026-10-09 |
-| [modelcontextprotocol/experimental-ext-variants](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-variants) | main | 2026-10-09 |
-| [modelcontextprotocol/financial-services-interest-group](https://github.com/repolex-forx/modelcontextprotocol--financial-services-interest-group) | main | 2026-10-09 |
-| [modelcontextprotocol/experimental-ext-filesystems](https://github.com/repolex-forx/modelcontextprotocol--experimental-ext-filesystems) | main | 2026-10-09 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
