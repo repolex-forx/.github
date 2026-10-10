@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [python-poetry/tomlkit](https://github.com/repolex-forx/python-poetry--tomlkit) | `858186a3ed` | 2026-10-10 |
-| [python-poetry/cleo](https://github.com/repolex-forx/python-poetry--cleo) | `8c3f1bbf82` | 2026-10-10 |
-| [python-poetry/poetry-plugin-export](https://github.com/repolex-forx/python-poetry--poetry-plugin-export) | `a69c5bce9b` | 2026-10-10 |
-| [mkdocstrings/autorefs](https://github.com/repolex-forx/mkdocstrings--autorefs) | `fd28aa305e` | 2026-10-10 |
-| [mkdocstrings/griffe2md](https://github.com/repolex-forx/mkdocstrings--griffe2md) | 1.5.1 | 2026-10-10 |
-| [python-poetry/poetry-plugin-bundle](https://github.com/repolex-forx/python-poetry--poetry-plugin-bundle) | 1.8.0 | 2026-10-10 |
-| [mkdocstrings/griffe-warnings-deprecated](https://github.com/repolex-forx/mkdocstrings--griffe-warnings-deprecated) | 1.1.2 | 2026-10-10 |
-| [python-poetry/crashtest](https://github.com/repolex-forx/python-poetry--crashtest) | 0.4.1 | 2026-10-10 |
-| [python-poetry/poetry-plugin-shell](https://github.com/repolex-forx/python-poetry--poetry-plugin-shell) | `2d4261b00b` | 2026-10-10 |
-| [agronholm/sqlacodegen](https://github.com/repolex-forx/agronholm--sqlacodegen) | `c7eef1f533` | 2026-10-10 |
+| [samuelcolvin/json-cases](https://github.com/repolex-forx/samuelcolvin--json-cases) | `12caaa624f` | 2026-10-10 |
+| [agronholm/mqttproto](https://github.com/repolex-forx/agronholm--mqttproto) | `2c416ad1d1` | 2026-10-10 |
+| [mkdocstrings/griffe-tui](https://github.com/repolex-forx/mkdocstrings--griffe-tui) | 1.0.1 | 2026-10-10 |
+| [samuelcolvin/pydantic-ai-pii](https://github.com/repolex-forx/samuelcolvin--pydantic-ai-pii) | `2ff638b7cd` | 2026-10-10 |
+| [agronholm/smtpproto](https://github.com/repolex-forx/agronholm--smtpproto) | `75dcb6c6ac` | 2026-10-10 |
+| [mkdocstrings/griffe-sphinx](https://github.com/repolex-forx/mkdocstrings--griffe-sphinx) | 0.3.1 | 2026-10-10 |
+| [mkdocstrings/griffe-autodocstringstyle](https://github.com/repolex-forx/mkdocstrings--griffe-autodocstringstyle) | 0.2.2 | 2026-10-10 |
+| [samuelcolvin/py-ai-mcp](https://github.com/repolex-forx/samuelcolvin--py-ai-mcp) | `d878d6478c` | 2026-10-10 |
+| [mkdocstrings/griffe-public-wildcard-imports](https://github.com/repolex-forx/mkdocstrings--griffe-public-wildcard-imports) | 0.3.2 | 2026-10-10 |
+| [mkdocstrings/griffe-runtime-objects](https://github.com/repolex-forx/mkdocstrings--griffe-runtime-objects) | 0.3.2 | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
