@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [tox-dev/pipdeptree](https://github.com/repolex-forx/tox-dev--pipdeptree) | 4.2.6 | 2026-10-10 |
+| [agronholm/cbor2](https://github.com/repolex-forx/agronholm--cbor2) | `6dc0c6b426` | 2026-10-10 |
+| [tox-dev/platformdirs](https://github.com/repolex-forx/tox-dev--platformdirs) | `b3174fdd4e` | 2026-10-10 |
+| [agronholm/typeguard](https://github.com/repolex-forx/agronholm--typeguard) | `cb8cee7a17` | 2026-10-10 |
+| [tox-dev/tox-uv](https://github.com/repolex-forx/tox-dev--tox-uv) | `808fc710f7` | 2026-10-10 |
+| [samuelcolvin/pytest-pretty](https://github.com/repolex-forx/samuelcolvin--pytest-pretty) | v1.3.0 | 2026-10-10 |
+| [tox-dev/pyproject-api](https://github.com/repolex-forx/tox-dev--pyproject-api) | 1.11.5 | 2026-10-10 |
+| [tox-dev/tox-gh](https://github.com/repolex-forx/tox-dev--tox-gh) | `8f3f27176e` | 2026-10-10 |
+| [tox-dev/pyproject-fmt](https://github.com/repolex-forx/tox-dev--pyproject-fmt) | v2.30.3 | 2026-10-10 |
 | [encode/starlette](https://github.com/repolex-forx/encode--starlette) | `96d5023c55` | 2026-10-10 |
-| [pallets-eco/flask-alembic](https://github.com/repolex-forx/pallets-eco--flask-alembic) | `9425c61473` | 2026-10-10 |
-| [pallets-eco/secure-cookie](https://github.com/repolex-forx/pallets-eco--secure-cookie) | `e06d58d068` | 2026-10-10 |
-| [pallets-eco/flask-caching](https://github.com/repolex-forx/pallets-eco--flask-caching) | `0d131e699e` | 2026-10-10 |
-| [pallets-eco/flask-mail](https://github.com/repolex-forx/pallets-eco--flask-mail) | `98203358d8` | 2026-10-10 |
-| [pallets-eco/wtforms](https://github.com/repolex-forx/pallets-eco--wtforms) | `ae8f4b4133` | 2026-10-10 |
-| [pallets-eco/flask-wtf](https://github.com/repolex-forx/pallets-eco--flask-wtf) | `63e2d71269` | 2026-10-10 |
-| [pallets-eco/cachelib](https://github.com/repolex-forx/pallets-eco--cachelib) | `34140b8e54` | 2026-10-10 |
-| [pydantic/pydantic-extra-types](https://github.com/repolex-forx/pydantic--pydantic-extra-types) | `27cca0ebf5` | 2026-10-10 |
-| [litestar-org/litestar-saq](https://github.com/repolex-forx/litestar-org--litestar-saq) | `95619b5f74` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
