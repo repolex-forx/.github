@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [aio-libs/aiomonitor](https://github.com/repolex-forx/aio-libs--aiomonitor) | `73de9b00b2` | 2026-10-10 |
-| [aio-libs/aiohttp-remotes](https://github.com/repolex-forx/aio-libs--aiohttp-remotes) | `7aa3efd7ae` | 2026-10-10 |
-| [aio-libs/aiozipkin](https://github.com/repolex-forx/aio-libs--aiozipkin) | `978e7cde37` | 2026-10-10 |
-| [aio-libs/aiohttp-security](https://github.com/repolex-forx/aio-libs--aiohttp-security) | `b9378635fd` | 2026-10-10 |
-| [aio-libs/aiodocker](https://github.com/repolex-forx/aio-libs--aiodocker) | `178d8a0fc9` | 2026-10-10 |
-| [aio-libs/aiohttp-client-middlewares](https://github.com/repolex-forx/aio-libs--aiohttp-client-middlewares) | `33cb914393` | 2026-10-10 |
-| [aio-libs/aiohttp-sse](https://github.com/repolex-forx/aio-libs--aiohttp-sse) | `a674b62f76` | 2026-10-10 |
-| [aio-libs/pytest-aiohttp](https://github.com/repolex-forx/aio-libs--pytest-aiohttp) | `5f01c5f3c5` | 2026-10-10 |
-| [aio-libs/aiohttp-jinja2](https://github.com/repolex-forx/aio-libs--aiohttp-jinja2) | `e45cd67400` | 2026-10-10 |
-| [aio-libs/aiohttp-cors](https://github.com/repolex-forx/aio-libs--aiohttp-cors) | `041b99b3ea` | 2026-10-10 |
+| [marshmallow-code/marshmallow](https://github.com/repolex-forx/marshmallow-code--marshmallow) | `d08471b178` | 2026-10-10 |
+| [jazzband/pip-tools](https://github.com/repolex-forx/jazzband--pip-tools) | v7.6.2 | 2026-10-10 |
+| [marshmallow-code/flask-smorest](https://github.com/repolex-forx/marshmallow-code--flask-smorest) | `3440f0d851` | 2026-10-10 |
+| [marshmallow-code/apispec](https://github.com/repolex-forx/marshmallow-code--apispec) | `0b66a26b86` | 2026-10-10 |
+| [marshmallow-code/webargs](https://github.com/repolex-forx/marshmallow-code--webargs) | `dd2bc37718` | 2026-10-10 |
+| [marshmallow-code/marshmallow-sqlalchemy](https://github.com/repolex-forx/marshmallow-code--marshmallow-sqlalchemy) | `a04b4a8bf4` | 2026-10-10 |
+| [jazzband/tablib](https://github.com/repolex-forx/jazzband--tablib) | `966876c76a` | 2026-10-10 |
+| [marshmallow-code/flask-marshmallow](https://github.com/repolex-forx/marshmallow-code--flask-marshmallow) | `9a83bbc137` | 2026-10-10 |
+| [marshmallow-code/marshmallow-oneofschema](https://github.com/repolex-forx/marshmallow-code--marshmallow-oneofschema) | `6b25e361b7` | 2026-10-10 |
+| [marshmallow-code/apispec-webframeworks](https://github.com/repolex-forx/marshmallow-code--apispec-webframeworks) | `b03f02fe2f` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
