@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sgl-project/SpecForge](https://github.com/repolex-forx/sgl-project--SpecForge) | `fdcc2eddf1` | 2026-10-10 |
+| [BerriAI/litellm-memory](https://github.com/repolex-forx/BerriAI--litellm-memory) | `283454d073` | 2026-10-10 |
+| [psf/pyperf](https://github.com/repolex-forx/psf--pyperf) | `00556e1877` | 2026-10-10 |
+| [BerriAI/ai-gateway-bench](https://github.com/repolex-forx/BerriAI--ai-gateway-bench) | `35ba690a53` | 2026-10-10 |
+| [psf/pypistats.org](https://github.com/repolex-forx/psf--pypistats.org) | `2a433267de` | 2026-10-10 |
+| [psf/cachecontrol](https://github.com/repolex-forx/psf--cachecontrol) | `2627d9b267` | 2026-10-10 |
+| [psf/advisory-database](https://github.com/repolex-forx/psf--advisory-database) | `cf08884a2c` | 2026-10-10 |
+| [psf/clabot](https://github.com/repolex-forx/psf--clabot) | `6b1b3a33a3` | 2026-10-10 |
 | [pola-rs/polars-benchmark](https://github.com/repolex-forx/pola-rs--polars-benchmark) | `401908a307` | 2026-10-10 |
 | [pola-rs/polars-bigquery-client](https://github.com/repolex-forx/pola-rs--polars-bigquery-client) | `89c737ea68` | 2026-10-10 |
-| [pola-rs/polars-2.0-benchmark](https://github.com/repolex-forx/pola-rs--polars-2.0-benchmark) | `2d368574ae` | 2026-10-10 |
-| [pola-rs/polars-iceberg](https://github.com/repolex-forx/pola-rs--polars-iceberg) | py-0.1.0 | 2026-10-10 |
-| [tiangolo/uvicorn-gunicorn-docker](https://github.com/repolex-forx/tiangolo--uvicorn-gunicorn-docker) | `8858d49c5f` | 2026-10-10 |
-| [astral-sh/uv-pre-commit](https://github.com/repolex-forx/astral-sh--uv-pre-commit) | 0.13.0 | 2026-10-10 |
-| [pola-rs/geopolars](https://github.com/repolex-forx/pola-rs--geopolars) | `eebad68a3c` | 2026-10-10 |
-| [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/repolex-forx/tiangolo--uvicorn-gunicorn-fastapi-docker) | `c93bb25d29` | 2026-10-10 |
-| [astral-sh/ruff-pre-commit](https://github.com/repolex-forx/astral-sh--ruff-pre-commit) | v0.17.0 | 2026-10-10 |
-| [tiangolo/uvicorn-gunicorn-starlette-docker](https://github.com/repolex-forx/tiangolo--uvicorn-gunicorn-starlette-docker) | `3c5484c582` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
