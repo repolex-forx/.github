@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jazzband/django-hosts](https://github.com/repolex-forx/jazzband--django-hosts) | `ef571d4d39` | 2026-10-10 |
+| [jazzband/django-voting](https://github.com/repolex-forx/jazzband--django-voting) | `5721fb6647` | 2026-10-10 |
+| [jazzband/django-fsm-log](https://github.com/repolex-forx/jazzband--django-fsm-log) | `27d6437d08` | 2026-10-10 |
+| [jazzband/django-invitations](https://github.com/repolex-forx/jazzband--django-invitations) | `378b2f59ef` | 2026-10-10 |
+| [jazzband/icalevents](https://github.com/repolex-forx/jazzband--icalevents) | `9794b29e9d` | 2026-10-10 |
+| [jazzband/sorl-thumbnail](https://github.com/repolex-forx/jazzband--sorl-thumbnail) | `2c0b550cd7` | 2026-10-10 |
+| [jazzband/django-categories](https://github.com/repolex-forx/jazzband--django-categories) | `3964ba4b78` | 2026-10-10 |
+| [jazzband/django-user-sessions](https://github.com/repolex-forx/jazzband--django-user-sessions) | `527f91e83e` | 2026-10-10 |
 | [jazzband/geojson](https://github.com/repolex-forx/jazzband--geojson) | `82055e8679` | 2026-10-10 |
 | [jazzband/django-formtools](https://github.com/repolex-forx/jazzband--django-formtools) | `472d9887be` | 2026-10-10 |
-| [jazzband/django-two-factor-auth](https://github.com/repolex-forx/jazzband--django-two-factor-auth) | `a718bc7b82` | 2026-10-10 |
-| [jazzband/django-auditlog](https://github.com/repolex-forx/jazzband--django-auditlog) | `607000d814` | 2026-10-10 |
-| [jazzband/django-widget-tweaks](https://github.com/repolex-forx/jazzband--django-widget-tweaks) | `483b594c87` | 2026-10-10 |
-| [jazzband/django-pipeline](https://github.com/repolex-forx/jazzband--django-pipeline) | 4.1.0 | 2026-10-10 |
-| [jazzband/django-model-utils](https://github.com/repolex-forx/jazzband--django-model-utils) | `9d2edee6d6` | 2026-10-10 |
-| [jazzband/django-taggit](https://github.com/repolex-forx/jazzband--django-taggit) | `e7a53796c9` | 2026-10-10 |
-| [jazzband/django-redis](https://github.com/repolex-forx/jazzband--django-redis) | `d646a755e1` | 2026-10-10 |
-| [jazzband/djangorestframework-simplejwt](https://github.com/repolex-forx/jazzband--djangorestframework-simplejwt) | `a7cb077ea0` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
