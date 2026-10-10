@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [NousResearch/TextArena](https://github.com/repolex-forx/NousResearch--TextArena) | `2f20590f09` | 2026-10-09 |
-| [NousResearch/huskyholdem-bench](https://github.com/repolex-forx/NousResearch--huskyholdem-bench) | `eb149674a4` | 2026-10-09 |
-| [NousResearch/local_generative_agents](https://github.com/repolex-forx/NousResearch--local_generative_agents) | `d66508143a` | 2026-10-09 |
-| [NousResearch/longform-writing-bench](https://github.com/repolex-forx/NousResearch--longform-writing-bench) | `d1c625505b` | 2026-10-09 |
-| [NousResearch/eqbench3](https://github.com/repolex-forx/NousResearch--eqbench3) | `3c21bcc514` | 2026-10-09 |
-| [NousResearch/llm-chain](https://github.com/repolex-forx/NousResearch--llm-chain) | `d1c2abfece` | 2026-10-09 |
-| [NousResearch/Obsidian](https://github.com/repolex-forx/NousResearch--Obsidian) | `06124f2a8f` | 2026-10-09 |
-| [NousResearch/StripedHyenaTrainer](https://github.com/repolex-forx/NousResearch--StripedHyenaTrainer) | `288a526b8e` | 2026-10-09 |
-| [NousResearch/nanotron](https://github.com/repolex-forx/NousResearch--nanotron) | `2cde8f6351` | 2026-10-09 |
-| [NousResearch/curve25519-dalek](https://github.com/repolex-forx/NousResearch--curve25519-dalek) | `0964f800ab` | 2026-10-09 |
+| [astral-sh/ecosystem-analyzer](https://github.com/repolex-forx/astral-sh--ecosystem-analyzer) | `5fa06d2043` | 2026-10-10 |
+| [astral-sh/multiplay](https://github.com/repolex-forx/astral-sh--multiplay) | `ff7ced1bb3` | 2026-10-10 |
+| [tiangolo/latest-changes-app](https://github.com/repolex-forx/tiangolo--latest-changes-app) | 0.0.5 | 2026-10-10 |
+| [tiangolo/pr-submit](https://github.com/repolex-forx/tiangolo--pr-submit) | `e9feee6f75` | 2026-10-10 |
+| [tiangolo/pr-push](https://github.com/repolex-forx/tiangolo--pr-push) | 0.0.4 | 2026-10-10 |
+| [astral-sh/versions](https://github.com/repolex-forx/astral-sh--versions) | `f3d2855b41` | 2026-10-10 |
+| [astral-sh/ty-pre-commit](https://github.com/repolex-forx/astral-sh--ty-pre-commit) | v0.0.86 | 2026-10-10 |
+| [encode/django-rest-framework](https://github.com/repolex-forx/encode--django-rest-framework) | `6f6f44bca2` | 2026-10-10 |
+| [astral-sh/ty](https://github.com/repolex-forx/astral-sh--ty) | 0.0.86 | 2026-10-10 |
+| [encode/typesystem](https://github.com/repolex-forx/encode--typesystem) | `7decd48f40` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
