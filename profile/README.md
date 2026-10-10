@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [encode/starlette](https://github.com/repolex-forx/encode--starlette) | `96d5023c55` | 2026-10-10 |
 | [pallets-eco/flask-alembic](https://github.com/repolex-forx/pallets-eco--flask-alembic) | `9425c61473` | 2026-10-10 |
 | [pallets-eco/secure-cookie](https://github.com/repolex-forx/pallets-eco--secure-cookie) | `e06d58d068` | 2026-10-10 |
 | [pallets-eco/flask-caching](https://github.com/repolex-forx/pallets-eco--flask-caching) | `0d131e699e` | 2026-10-10 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pallets-eco/cachelib](https://github.com/repolex-forx/pallets-eco--cachelib) | `34140b8e54` | 2026-10-10 |
 | [pydantic/pydantic-extra-types](https://github.com/repolex-forx/pydantic--pydantic-extra-types) | `27cca0ebf5` | 2026-10-10 |
 | [litestar-org/litestar-saq](https://github.com/repolex-forx/litestar-org--litestar-saq) | `95619b5f74` | 2026-10-10 |
-| [litestar-org/polyfactory](https://github.com/repolex-forx/litestar-org--polyfactory) | `6234cf0af8` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
