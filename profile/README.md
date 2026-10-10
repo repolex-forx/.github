@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [astral-sh/ecosystem-analyzer](https://github.com/repolex-forx/astral-sh--ecosystem-analyzer) | `5fa06d2043` | 2026-10-10 |
-| [astral-sh/multiplay](https://github.com/repolex-forx/astral-sh--multiplay) | `ff7ced1bb3` | 2026-10-10 |
-| [tiangolo/latest-changes-app](https://github.com/repolex-forx/tiangolo--latest-changes-app) | 0.0.5 | 2026-10-10 |
-| [tiangolo/pr-submit](https://github.com/repolex-forx/tiangolo--pr-submit) | `e9feee6f75` | 2026-10-10 |
-| [tiangolo/pr-push](https://github.com/repolex-forx/tiangolo--pr-push) | 0.0.4 | 2026-10-10 |
-| [astral-sh/versions](https://github.com/repolex-forx/astral-sh--versions) | `f3d2855b41` | 2026-10-10 |
-| [astral-sh/ty-pre-commit](https://github.com/repolex-forx/astral-sh--ty-pre-commit) | v0.0.86 | 2026-10-10 |
-| [encode/django-rest-framework](https://github.com/repolex-forx/encode--django-rest-framework) | `6f6f44bca2` | 2026-10-10 |
-| [astral-sh/ty](https://github.com/repolex-forx/astral-sh--ty) | 0.0.86 | 2026-10-10 |
-| [encode/typesystem](https://github.com/repolex-forx/encode--typesystem) | `7decd48f40` | 2026-10-10 |
+| [pola-rs/polars-benchmark](https://github.com/repolex-forx/pola-rs--polars-benchmark) | `401908a307` | 2026-10-10 |
+| [pola-rs/polars-bigquery-client](https://github.com/repolex-forx/pola-rs--polars-bigquery-client) | `89c737ea68` | 2026-10-10 |
+| [pola-rs/polars-2.0-benchmark](https://github.com/repolex-forx/pola-rs--polars-2.0-benchmark) | `2d368574ae` | 2026-10-10 |
+| [pola-rs/polars-iceberg](https://github.com/repolex-forx/pola-rs--polars-iceberg) | py-0.1.0 | 2026-10-10 |
+| [tiangolo/uvicorn-gunicorn-docker](https://github.com/repolex-forx/tiangolo--uvicorn-gunicorn-docker) | `8858d49c5f` | 2026-10-10 |
+| [astral-sh/uv-pre-commit](https://github.com/repolex-forx/astral-sh--uv-pre-commit) | 0.13.0 | 2026-10-10 |
+| [pola-rs/geopolars](https://github.com/repolex-forx/pola-rs--geopolars) | `eebad68a3c` | 2026-10-10 |
+| [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/repolex-forx/tiangolo--uvicorn-gunicorn-fastapi-docker) | `c93bb25d29` | 2026-10-10 |
+| [astral-sh/ruff-pre-commit](https://github.com/repolex-forx/astral-sh--ruff-pre-commit) | v0.17.0 | 2026-10-10 |
+| [tiangolo/uvicorn-gunicorn-starlette-docker](https://github.com/repolex-forx/tiangolo--uvicorn-gunicorn-starlette-docker) | `3c5484c582` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
