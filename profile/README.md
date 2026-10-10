@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pallets-eco/flask-alembic](https://github.com/repolex-forx/pallets-eco--flask-alembic) | `9425c61473` | 2026-10-10 |
+| [pallets-eco/secure-cookie](https://github.com/repolex-forx/pallets-eco--secure-cookie) | `e06d58d068` | 2026-10-10 |
+| [pallets-eco/flask-caching](https://github.com/repolex-forx/pallets-eco--flask-caching) | `0d131e699e` | 2026-10-10 |
+| [pallets-eco/flask-mail](https://github.com/repolex-forx/pallets-eco--flask-mail) | `98203358d8` | 2026-10-10 |
+| [pallets-eco/wtforms](https://github.com/repolex-forx/pallets-eco--wtforms) | `ae8f4b4133` | 2026-10-10 |
+| [pallets-eco/flask-wtf](https://github.com/repolex-forx/pallets-eco--flask-wtf) | `63e2d71269` | 2026-10-10 |
+| [pallets-eco/cachelib](https://github.com/repolex-forx/pallets-eco--cachelib) | `34140b8e54` | 2026-10-10 |
 | [pydantic/pydantic-extra-types](https://github.com/repolex-forx/pydantic--pydantic-extra-types) | `27cca0ebf5` | 2026-10-10 |
 | [litestar-org/litestar-saq](https://github.com/repolex-forx/litestar-org--litestar-saq) | `95619b5f74` | 2026-10-10 |
 | [litestar-org/polyfactory](https://github.com/repolex-forx/litestar-org--polyfactory) | `6234cf0af8` | 2026-10-10 |
-| [litestar-org/litestar-asyncpg](https://github.com/repolex-forx/litestar-org--litestar-asyncpg) | `23fd93d733` | 2026-10-10 |
-| [pydantic/pytest-examples](https://github.com/repolex-forx/pydantic--pytest-examples) | `df945f7043` | 2026-10-10 |
-| [litestar-org/litestar-email](https://github.com/repolex-forx/litestar-org--litestar-email) | `270f3d370e` | 2026-10-10 |
-| [litestar-org/litestar-htmx](https://github.com/repolex-forx/litestar-org--litestar-htmx) | `e5c4e2fcdb` | 2026-10-10 |
-| [jazzband/django-hosts](https://github.com/repolex-forx/jazzband--django-hosts) | `ef571d4d39` | 2026-10-10 |
-| [jazzband/django-voting](https://github.com/repolex-forx/jazzband--django-voting) | `5721fb6647` | 2026-10-10 |
-| [jazzband/django-fsm-log](https://github.com/repolex-forx/jazzband--django-fsm-log) | `27d6437d08` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
