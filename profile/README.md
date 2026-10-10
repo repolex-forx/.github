@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [oven-sh/bun-development-docker-image](https://github.com/repolex-forx/oven-sh--bun-development-docker-image) | `88381bd1b6` | 2026-10-10 |
-| [tiangolo/repo-redirect](https://github.com/repolex-forx/tiangolo--repo-redirect) | `1e4e8677a6` | 2026-10-10 |
-| [oven-sh/awesome-bun](https://github.com/repolex-forx/oven-sh--awesome-bun) | `9b6277f02b` | 2026-10-10 |
-| [oven-sh/security-scanner-template](https://github.com/repolex-forx/oven-sh--security-scanner-template) | `a18eb0889a` | 2026-10-10 |
-| [oven-sh/style-guide](https://github.com/repolex-forx/oven-sh--style-guide) | `26252c373d` | 2026-10-10 |
-| [oven-sh/bun-releases-for-updater](https://github.com/repolex-forx/oven-sh--bun-releases-for-updater) | bun-v1.4.3 | 2026-10-10 |
-| [tiangolo/uwsgi-nginx-flask-docker](https://github.com/repolex-forx/tiangolo--uwsgi-nginx-flask-docker) | `0547cf8ecb` | 2026-10-10 |
-| [tiangolo/blog-posts](https://github.com/repolex-forx/tiangolo--blog-posts) | `a4dc3df44d` | 2026-10-10 |
-| [tiangolo/nginx-rtmp-docker](https://github.com/repolex-forx/tiangolo--nginx-rtmp-docker) | `ff589ceb62` | 2026-10-10 |
-| [tiangolo/uwsgi-nginx-docker](https://github.com/repolex-forx/tiangolo--uwsgi-nginx-docker) | `2a3330ace1` | 2026-10-10 |
+| [aio-libs/multidict](https://github.com/repolex-forx/aio-libs--multidict) | `c728ce1cf0` | 2026-10-10 |
+| [aio-libs/yarl](https://github.com/repolex-forx/aio-libs--yarl) | `d0d6a37515` | 2026-10-10 |
+| [aio-libs/aiohappyeyeballs](https://github.com/repolex-forx/aio-libs--aiohappyeyeballs) | `5dc56b90fa` | 2026-10-10 |
+| [aio-libs/aiojobs](https://github.com/repolex-forx/aio-libs--aiojobs) | `154e3575c2` | 2026-10-10 |
+| [aio-libs/async-lru](https://github.com/repolex-forx/aio-libs--async-lru) | `639c403a26` | 2026-10-10 |
+| [aio-libs/aiosignal](https://github.com/repolex-forx/aio-libs--aiosignal) | `63b413b5c3` | 2026-10-10 |
+| [aio-libs/propcache](https://github.com/repolex-forx/aio-libs--propcache) | `5fc239491c` | 2026-10-10 |
+| [aio-libs/frozenlist](https://github.com/repolex-forx/aio-libs--frozenlist) | `fd523c1768` | 2026-10-10 |
+| [aio-libs/aiodns](https://github.com/repolex-forx/aio-libs--aiodns) | `ff43a83ea5` | 2026-10-10 |
+| [aio-libs/aiorwlock](https://github.com/repolex-forx/aio-libs--aiorwlock) | `420dd9dcc0` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
