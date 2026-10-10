@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pydantic/pydantic-extra-types](https://github.com/repolex-forx/pydantic--pydantic-extra-types) | `27cca0ebf5` | 2026-10-10 |
+| [litestar-org/litestar-saq](https://github.com/repolex-forx/litestar-org--litestar-saq) | `95619b5f74` | 2026-10-10 |
+| [litestar-org/polyfactory](https://github.com/repolex-forx/litestar-org--polyfactory) | `6234cf0af8` | 2026-10-10 |
+| [litestar-org/litestar-asyncpg](https://github.com/repolex-forx/litestar-org--litestar-asyncpg) | `23fd93d733` | 2026-10-10 |
+| [pydantic/pytest-examples](https://github.com/repolex-forx/pydantic--pytest-examples) | `df945f7043` | 2026-10-10 |
+| [litestar-org/litestar-email](https://github.com/repolex-forx/litestar-org--litestar-email) | `270f3d370e` | 2026-10-10 |
+| [litestar-org/litestar-htmx](https://github.com/repolex-forx/litestar-org--litestar-htmx) | `e5c4e2fcdb` | 2026-10-10 |
 | [jazzband/django-hosts](https://github.com/repolex-forx/jazzband--django-hosts) | `ef571d4d39` | 2026-10-10 |
 | [jazzband/django-voting](https://github.com/repolex-forx/jazzband--django-voting) | `5721fb6647` | 2026-10-10 |
 | [jazzband/django-fsm-log](https://github.com/repolex-forx/jazzband--django-fsm-log) | `27d6437d08` | 2026-10-10 |
-| [jazzband/django-invitations](https://github.com/repolex-forx/jazzband--django-invitations) | `378b2f59ef` | 2026-10-10 |
-| [jazzband/icalevents](https://github.com/repolex-forx/jazzband--icalevents) | `9794b29e9d` | 2026-10-10 |
-| [jazzband/sorl-thumbnail](https://github.com/repolex-forx/jazzband--sorl-thumbnail) | `2c0b550cd7` | 2026-10-10 |
-| [jazzband/django-categories](https://github.com/repolex-forx/jazzband--django-categories) | `3964ba4b78` | 2026-10-10 |
-| [jazzband/django-user-sessions](https://github.com/repolex-forx/jazzband--django-user-sessions) | `527f91e83e` | 2026-10-10 |
-| [jazzband/geojson](https://github.com/repolex-forx/jazzband--geojson) | `82055e8679` | 2026-10-10 |
-| [jazzband/django-formtools](https://github.com/repolex-forx/jazzband--django-formtools) | `472d9887be` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
