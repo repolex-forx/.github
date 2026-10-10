@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [python-poetry/tomlkit](https://github.com/repolex-forx/python-poetry--tomlkit) | `858186a3ed` | 2026-10-10 |
+| [python-poetry/cleo](https://github.com/repolex-forx/python-poetry--cleo) | `8c3f1bbf82` | 2026-10-10 |
+| [python-poetry/poetry-plugin-export](https://github.com/repolex-forx/python-poetry--poetry-plugin-export) | `a69c5bce9b` | 2026-10-10 |
+| [mkdocstrings/autorefs](https://github.com/repolex-forx/mkdocstrings--autorefs) | `fd28aa305e` | 2026-10-10 |
+| [mkdocstrings/griffe2md](https://github.com/repolex-forx/mkdocstrings--griffe2md) | 1.5.1 | 2026-10-10 |
+| [python-poetry/poetry-plugin-bundle](https://github.com/repolex-forx/python-poetry--poetry-plugin-bundle) | 1.8.0 | 2026-10-10 |
+| [mkdocstrings/griffe-warnings-deprecated](https://github.com/repolex-forx/mkdocstrings--griffe-warnings-deprecated) | 1.1.2 | 2026-10-10 |
+| [python-poetry/crashtest](https://github.com/repolex-forx/python-poetry--crashtest) | 0.4.1 | 2026-10-10 |
+| [python-poetry/poetry-plugin-shell](https://github.com/repolex-forx/python-poetry--poetry-plugin-shell) | `2d4261b00b` | 2026-10-10 |
 | [agronholm/sqlacodegen](https://github.com/repolex-forx/agronholm--sqlacodegen) | `c7eef1f533` | 2026-10-10 |
-| [tox-dev/python-discovery](https://github.com/repolex-forx/tox-dev--python-discovery) | 1.6.2 | 2026-10-10 |
-| [mkdocstrings/griffe-pydantic](https://github.com/repolex-forx/mkdocstrings--griffe-pydantic) | 1.3.2 | 2026-10-10 |
-| [mkdocstrings/griffe-typingdoc](https://github.com/repolex-forx/mkdocstrings--griffe-typingdoc) | 0.3.2 | 2026-10-10 |
-| [agronholm/fetchling](https://github.com/repolex-forx/agronholm--fetchling) | `0389e6766c` | 2026-10-10 |
-| [mkdocstrings/griffe-inherited-docstrings](https://github.com/repolex-forx/mkdocstrings--griffe-inherited-docstrings) | 1.1.4 | 2026-10-10 |
-| [tox-dev/tox-toml-fmt](https://github.com/repolex-forx/tox-dev--tox-toml-fmt) | v1.11.1 | 2026-10-10 |
-| [tox-dev/pre-commit-uv](https://github.com/repolex-forx/tox-dev--pre-commit-uv) | `edc4fbece3` | 2026-10-10 |
-| [tox-dev/tox-ini-fmt](https://github.com/repolex-forx/tox-dev--tox-ini-fmt) | `862ac086ad` | 2026-10-10 |
-| [tox-dev/devpi-process](https://github.com/repolex-forx/tox-dev--devpi-process) | `b4d09adc26` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
