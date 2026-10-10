@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [BerriAI/litellm-bench](https://github.com/repolex-forx/BerriAI--litellm-bench) | `642704a955` | 2026-10-10 |
-| [shadcn-ui/cn](https://github.com/repolex-forx/shadcn-ui--cn) | `c71bd53a35` | 2026-10-10 |
-| [shadcn-ui/lint](https://github.com/repolex-forx/shadcn-ui--lint) | `ee9391038b` | 2026-10-10 |
-| [shadcn-ui/chatbot-template](https://github.com/repolex-forx/shadcn-ui--chatbot-template) | `55c9330d62` | 2026-10-10 |
-| [shadcn-ui/registry-template](https://github.com/repolex-forx/shadcn-ui--registry-template) | `906f859db0` | 2026-10-10 |
-| [BerriAI/litellm-lens-codex-integration](https://github.com/repolex-forx/BerriAI--litellm-lens-codex-integration) | `69a89e5315` | 2026-10-10 |
-| [BerriAI/agentchat](https://github.com/repolex-forx/BerriAI--agentchat) | `766bae16af` | 2026-10-10 |
-| [oven-sh/bun-pypi](https://github.com/repolex-forx/oven-sh--bun-pypi) | `26ef65de45` | 2026-10-10 |
-| [oven-sh/bun.report](https://github.com/repolex-forx/oven-sh--bun.report) | `be6067d5b4` | 2026-10-10 |
-| [oven-sh/homebrew-bun](https://github.com/repolex-forx/oven-sh--homebrew-bun) | `f698c7817c` | 2026-10-10 |
+| [oven-sh/bun-development-docker-image](https://github.com/repolex-forx/oven-sh--bun-development-docker-image) | `88381bd1b6` | 2026-10-10 |
+| [tiangolo/repo-redirect](https://github.com/repolex-forx/tiangolo--repo-redirect) | `1e4e8677a6` | 2026-10-10 |
+| [oven-sh/awesome-bun](https://github.com/repolex-forx/oven-sh--awesome-bun) | `9b6277f02b` | 2026-10-10 |
+| [oven-sh/security-scanner-template](https://github.com/repolex-forx/oven-sh--security-scanner-template) | `a18eb0889a` | 2026-10-10 |
+| [oven-sh/style-guide](https://github.com/repolex-forx/oven-sh--style-guide) | `26252c373d` | 2026-10-10 |
+| [oven-sh/bun-releases-for-updater](https://github.com/repolex-forx/oven-sh--bun-releases-for-updater) | bun-v1.4.3 | 2026-10-10 |
+| [tiangolo/uwsgi-nginx-flask-docker](https://github.com/repolex-forx/tiangolo--uwsgi-nginx-flask-docker) | `0547cf8ecb` | 2026-10-10 |
+| [tiangolo/blog-posts](https://github.com/repolex-forx/tiangolo--blog-posts) | `a4dc3df44d` | 2026-10-10 |
+| [tiangolo/nginx-rtmp-docker](https://github.com/repolex-forx/tiangolo--nginx-rtmp-docker) | `ff589ceb62` | 2026-10-10 |
+| [tiangolo/uwsgi-nginx-docker](https://github.com/repolex-forx/tiangolo--uwsgi-nginx-docker) | `2a3330ace1` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
