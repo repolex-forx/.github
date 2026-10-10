@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [aio-libs/multidict](https://github.com/repolex-forx/aio-libs--multidict) | `c728ce1cf0` | 2026-10-10 |
-| [aio-libs/yarl](https://github.com/repolex-forx/aio-libs--yarl) | `d0d6a37515` | 2026-10-10 |
-| [aio-libs/aiohappyeyeballs](https://github.com/repolex-forx/aio-libs--aiohappyeyeballs) | `5dc56b90fa` | 2026-10-10 |
-| [aio-libs/aiojobs](https://github.com/repolex-forx/aio-libs--aiojobs) | `154e3575c2` | 2026-10-10 |
-| [aio-libs/async-lru](https://github.com/repolex-forx/aio-libs--async-lru) | `639c403a26` | 2026-10-10 |
-| [aio-libs/aiosignal](https://github.com/repolex-forx/aio-libs--aiosignal) | `63b413b5c3` | 2026-10-10 |
-| [aio-libs/propcache](https://github.com/repolex-forx/aio-libs--propcache) | `5fc239491c` | 2026-10-10 |
-| [aio-libs/frozenlist](https://github.com/repolex-forx/aio-libs--frozenlist) | `fd523c1768` | 2026-10-10 |
-| [aio-libs/aiodns](https://github.com/repolex-forx/aio-libs--aiodns) | `ff43a83ea5` | 2026-10-10 |
-| [aio-libs/aiorwlock](https://github.com/repolex-forx/aio-libs--aiorwlock) | `420dd9dcc0` | 2026-10-10 |
+| [aio-libs/aiomonitor](https://github.com/repolex-forx/aio-libs--aiomonitor) | `73de9b00b2` | 2026-10-10 |
+| [aio-libs/aiohttp-remotes](https://github.com/repolex-forx/aio-libs--aiohttp-remotes) | `7aa3efd7ae` | 2026-10-10 |
+| [aio-libs/aiozipkin](https://github.com/repolex-forx/aio-libs--aiozipkin) | `978e7cde37` | 2026-10-10 |
+| [aio-libs/aiohttp-security](https://github.com/repolex-forx/aio-libs--aiohttp-security) | `b9378635fd` | 2026-10-10 |
+| [aio-libs/aiodocker](https://github.com/repolex-forx/aio-libs--aiodocker) | `178d8a0fc9` | 2026-10-10 |
+| [aio-libs/aiohttp-client-middlewares](https://github.com/repolex-forx/aio-libs--aiohttp-client-middlewares) | `33cb914393` | 2026-10-10 |
+| [aio-libs/aiohttp-sse](https://github.com/repolex-forx/aio-libs--aiohttp-sse) | `a674b62f76` | 2026-10-10 |
+| [aio-libs/pytest-aiohttp](https://github.com/repolex-forx/aio-libs--pytest-aiohttp) | `5f01c5f3c5` | 2026-10-10 |
+| [aio-libs/aiohttp-jinja2](https://github.com/repolex-forx/aio-libs--aiohttp-jinja2) | `e45cd67400` | 2026-10-10 |
+| [aio-libs/aiohttp-cors](https://github.com/repolex-forx/aio-libs--aiohttp-cors) | `041b99b3ea` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
