@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [samuelcolvin/json-cases](https://github.com/repolex-forx/samuelcolvin--json-cases) | `12caaa624f` | 2026-10-10 |
-| [agronholm/mqttproto](https://github.com/repolex-forx/agronholm--mqttproto) | `2c416ad1d1` | 2026-10-10 |
-| [mkdocstrings/griffe-tui](https://github.com/repolex-forx/mkdocstrings--griffe-tui) | 1.0.1 | 2026-10-10 |
-| [samuelcolvin/pydantic-ai-pii](https://github.com/repolex-forx/samuelcolvin--pydantic-ai-pii) | `2ff638b7cd` | 2026-10-10 |
-| [agronholm/smtpproto](https://github.com/repolex-forx/agronholm--smtpproto) | `75dcb6c6ac` | 2026-10-10 |
-| [mkdocstrings/griffe-sphinx](https://github.com/repolex-forx/mkdocstrings--griffe-sphinx) | 0.3.1 | 2026-10-10 |
-| [mkdocstrings/griffe-autodocstringstyle](https://github.com/repolex-forx/mkdocstrings--griffe-autodocstringstyle) | 0.2.2 | 2026-10-10 |
-| [samuelcolvin/py-ai-mcp](https://github.com/repolex-forx/samuelcolvin--py-ai-mcp) | `d878d6478c` | 2026-10-10 |
-| [mkdocstrings/griffe-public-wildcard-imports](https://github.com/repolex-forx/mkdocstrings--griffe-public-wildcard-imports) | 0.3.2 | 2026-10-10 |
-| [mkdocstrings/griffe-runtime-objects](https://github.com/repolex-forx/mkdocstrings--griffe-runtime-objects) | 0.3.2 | 2026-10-10 |
+| [samuelcolvin/openartifact](https://github.com/repolex-forx/samuelcolvin--openartifact) | `29b03bc46c` | 2026-10-10 |
+| [mkdocstrings/pytkdocs](https://github.com/repolex-forx/mkdocstrings--pytkdocs) | 0.16.5 | 2026-10-10 |
+| [tox-dev/sphinx-argparse-cli](https://github.com/repolex-forx/tox-dev--sphinx-argparse-cli) | `dbdc5c366d` | 2026-10-10 |
+| [samuelcolvin/check-python-version](https://github.com/repolex-forx/samuelcolvin--check-python-version) | `db74af5ee0` | 2026-10-10 |
+| [samuelcolvin/tinicly](https://github.com/repolex-forx/samuelcolvin--tinicly) | `2486fa3ea4` | 2026-10-10 |
+| [tox-dev/tox-extra](https://github.com/repolex-forx/tox-dev--tox-extra) | `9e16b11f7a` | 2026-10-10 |
+| [tox-dev/tox-pre-commit](https://github.com/repolex-forx/tox-dev--tox-pre-commit) | `f8808711e8` | 2026-10-10 |
+| [tox-dev/tox-towncrier](https://github.com/repolex-forx/tox-dev--tox-towncrier) | `ed81edcc77` | 2026-10-10 |
+| [tox-dev/tox-report](https://github.com/repolex-forx/tox-dev--tox-report) | `344d0f299c` | 2026-10-10 |
+| [tox-dev/xml-fmt](https://github.com/repolex-forx/tox-dev--xml-fmt) | `eb813b4479` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
