@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [vllm-project/humming](https://github.com/repolex-forx/vllm-project--humming) | `f08e744fb1` | 2026-10-10 |
+| [psf/diversity-and-inclusion-wg](https://github.com/repolex-forx/psf--diversity-and-inclusion-wg) | `73b21b9dc5` | 2026-10-10 |
+| [BerriAI/litellm-lens-example](https://github.com/repolex-forx/BerriAI--litellm-lens-example) | `238d61d611` | 2026-10-10 |
+| [psf/black-pre-commit-mirror](https://github.com/repolex-forx/psf--black-pre-commit-mirror) | 26.10.1 | 2026-10-10 |
 | [sgl-project/SpecForge](https://github.com/repolex-forx/sgl-project--SpecForge) | `fdcc2eddf1` | 2026-10-10 |
 | [BerriAI/litellm-memory](https://github.com/repolex-forx/BerriAI--litellm-memory) | `283454d073` | 2026-10-10 |
 | [psf/pyperf](https://github.com/repolex-forx/psf--pyperf) | `00556e1877` | 2026-10-10 |
 | [BerriAI/ai-gateway-bench](https://github.com/repolex-forx/BerriAI--ai-gateway-bench) | `35ba690a53` | 2026-10-10 |
 | [psf/pypistats.org](https://github.com/repolex-forx/psf--pypistats.org) | `2a433267de` | 2026-10-10 |
 | [psf/cachecontrol](https://github.com/repolex-forx/psf--cachecontrol) | `2627d9b267` | 2026-10-10 |
-| [psf/advisory-database](https://github.com/repolex-forx/psf--advisory-database) | `cf08884a2c` | 2026-10-10 |
-| [psf/clabot](https://github.com/repolex-forx/psf--clabot) | `6b1b3a33a3` | 2026-10-10 |
-| [pola-rs/polars-benchmark](https://github.com/repolex-forx/pola-rs--polars-benchmark) | `401908a307` | 2026-10-10 |
-| [pola-rs/polars-bigquery-client](https://github.com/repolex-forx/pola-rs--polars-bigquery-client) | `89c737ea68` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
