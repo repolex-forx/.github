@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [honojs/cli](https://github.com/repolex-forx/honojs--cli) | `c1b6028d8e` | 2026-10-10 |
+| [honojs/agent-dx](https://github.com/repolex-forx/honojs--agent-dx) | `8e85e3c3e8` | 2026-10-10 |
+| [drizzle-team/brocli](https://github.com/repolex-forx/drizzle-team--brocli) | 0.12.1 | 2026-10-10 |
+| [BerriAI/liteadmin-mcp](https://github.com/repolex-forx/BerriAI--liteadmin-mcp) | `d35ec9c19c` | 2026-10-10 |
+| [BerriAI/litellm-admin-agent](https://github.com/repolex-forx/BerriAI--litellm-admin-agent) | `3fdd3d3390` | 2026-10-10 |
+| [drizzle-team/hanji](https://github.com/repolex-forx/drizzle-team--hanji) | `9643039148` | 2026-10-10 |
+| [honojs/create-hono](https://github.com/repolex-forx/honojs--create-hono) | v0.20.0-rc.0 | 2026-10-10 |
+| [honojs/skills](https://github.com/repolex-forx/honojs--skills) | `5becff4242` | 2026-10-10 |
 | [vllm-project/humming](https://github.com/repolex-forx/vllm-project--humming) | `f08e744fb1` | 2026-10-10 |
 | [psf/diversity-and-inclusion-wg](https://github.com/repolex-forx/psf--diversity-and-inclusion-wg) | `73b21b9dc5` | 2026-10-10 |
-| [BerriAI/litellm-lens-example](https://github.com/repolex-forx/BerriAI--litellm-lens-example) | `238d61d611` | 2026-10-10 |
-| [psf/black-pre-commit-mirror](https://github.com/repolex-forx/psf--black-pre-commit-mirror) | 26.10.1 | 2026-10-10 |
-| [sgl-project/SpecForge](https://github.com/repolex-forx/sgl-project--SpecForge) | `fdcc2eddf1` | 2026-10-10 |
-| [BerriAI/litellm-memory](https://github.com/repolex-forx/BerriAI--litellm-memory) | `283454d073` | 2026-10-10 |
-| [psf/pyperf](https://github.com/repolex-forx/psf--pyperf) | `00556e1877` | 2026-10-10 |
-| [BerriAI/ai-gateway-bench](https://github.com/repolex-forx/BerriAI--ai-gateway-bench) | `35ba690a53` | 2026-10-10 |
-| [psf/pypistats.org](https://github.com/repolex-forx/psf--pypistats.org) | `2a433267de` | 2026-10-10 |
-| [psf/cachecontrol](https://github.com/repolex-forx/psf--cachecontrol) | `2627d9b267` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
