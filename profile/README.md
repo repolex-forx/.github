@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [BerriAI/litellm-bench](https://github.com/repolex-forx/BerriAI--litellm-bench) | `642704a955` | 2026-10-10 |
+| [shadcn-ui/cn](https://github.com/repolex-forx/shadcn-ui--cn) | `c71bd53a35` | 2026-10-10 |
+| [shadcn-ui/lint](https://github.com/repolex-forx/shadcn-ui--lint) | `ee9391038b` | 2026-10-10 |
 | [shadcn-ui/chatbot-template](https://github.com/repolex-forx/shadcn-ui--chatbot-template) | `55c9330d62` | 2026-10-10 |
 | [shadcn-ui/registry-template](https://github.com/repolex-forx/shadcn-ui--registry-template) | `906f859db0` | 2026-10-10 |
 | [BerriAI/litellm-lens-codex-integration](https://github.com/repolex-forx/BerriAI--litellm-lens-codex-integration) | `69a89e5315` | 2026-10-10 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [oven-sh/bun-pypi](https://github.com/repolex-forx/oven-sh--bun-pypi) | `26ef65de45` | 2026-10-10 |
 | [oven-sh/bun.report](https://github.com/repolex-forx/oven-sh--bun.report) | `be6067d5b4` | 2026-10-10 |
 | [oven-sh/homebrew-bun](https://github.com/repolex-forx/oven-sh--homebrew-bun) | `f698c7817c` | 2026-10-10 |
-| [honojs/cli](https://github.com/repolex-forx/honojs--cli) | `c1b6028d8e` | 2026-10-10 |
-| [honojs/agent-dx](https://github.com/repolex-forx/honojs--agent-dx) | `8e85e3c3e8` | 2026-10-10 |
-| [drizzle-team/brocli](https://github.com/repolex-forx/drizzle-team--brocli) | 0.12.1 | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
