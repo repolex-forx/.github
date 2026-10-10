@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [marshmallow-code/marshmallow](https://github.com/repolex-forx/marshmallow-code--marshmallow) | `d08471b178` | 2026-10-10 |
-| [jazzband/pip-tools](https://github.com/repolex-forx/jazzband--pip-tools) | v7.6.2 | 2026-10-10 |
-| [marshmallow-code/flask-smorest](https://github.com/repolex-forx/marshmallow-code--flask-smorest) | `3440f0d851` | 2026-10-10 |
-| [marshmallow-code/apispec](https://github.com/repolex-forx/marshmallow-code--apispec) | `0b66a26b86` | 2026-10-10 |
-| [marshmallow-code/webargs](https://github.com/repolex-forx/marshmallow-code--webargs) | `dd2bc37718` | 2026-10-10 |
-| [marshmallow-code/marshmallow-sqlalchemy](https://github.com/repolex-forx/marshmallow-code--marshmallow-sqlalchemy) | `a04b4a8bf4` | 2026-10-10 |
-| [jazzband/tablib](https://github.com/repolex-forx/jazzband--tablib) | `966876c76a` | 2026-10-10 |
-| [marshmallow-code/flask-marshmallow](https://github.com/repolex-forx/marshmallow-code--flask-marshmallow) | `9a83bbc137` | 2026-10-10 |
-| [marshmallow-code/marshmallow-oneofschema](https://github.com/repolex-forx/marshmallow-code--marshmallow-oneofschema) | `6b25e361b7` | 2026-10-10 |
-| [marshmallow-code/apispec-webframeworks](https://github.com/repolex-forx/marshmallow-code--apispec-webframeworks) | `b03f02fe2f` | 2026-10-10 |
+| [jazzband/django-superform](https://github.com/repolex-forx/jazzband--django-superform) | `92b4d9ea2c` | 2026-10-10 |
+| [jazzband/django-simple-menu](https://github.com/repolex-forx/jazzband--django-simple-menu) | v2.1.4 | 2026-10-10 |
+| [jazzband/django-downloadview](https://github.com/repolex-forx/jazzband--django-downloadview) | `ff0aeb909f` | 2026-10-10 |
+| [jazzband/django-eav2](https://github.com/repolex-forx/jazzband--django-eav2) | `3cc8e8fcc0` | 2026-10-10 |
+| [jazzband/django-avatar](https://github.com/repolex-forx/jazzband--django-avatar) | v9.0.0 | 2026-10-10 |
+| [jazzband/jsonmodels](https://github.com/repolex-forx/jazzband--jsonmodels) | `0770de5380` | 2026-10-10 |
+| [jazzband/django-axes](https://github.com/repolex-forx/jazzband--django-axes) | 8.3.2 | 2026-10-10 |
+| [jazzband/django-push-notifications](https://github.com/repolex-forx/jazzband--django-push-notifications) | `613e7e9448` | 2026-10-10 |
+| [jazzband/django-sortedm2m](https://github.com/repolex-forx/jazzband--django-sortedm2m) | `6c9285dfb8` | 2026-10-10 |
+| [jazzband/dj-database-url](https://github.com/repolex-forx/jazzband--dj-database-url) | `5656563adb` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
