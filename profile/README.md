@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [jazzband/web3-devkit-cli](https://github.com/repolex-forx/jazzband--web3-devkit-cli) | `402875cce9` | 2026-10-10 |
-| [jazzband/django-redshift-backend](https://github.com/repolex-forx/jazzband--django-redshift-backend) | `a11625e445` | 2026-10-10 |
-| [tox-dev/mdformat-zola](https://github.com/repolex-forx/tox-dev--mdformat-zola) | `bceb47770b` | 2026-10-10 |
-| [tox-dev/PyVenvManage](https://github.com/repolex-forx/tox-dev--PyVenvManage) | `754fc1a3b7` | 2026-10-10 |
-| [tox-dev/toml-fmt](https://github.com/repolex-forx/tox-dev--toml-fmt) | `58709e88fc` | 2026-10-10 |
-| [tox-dev/tox-docker](https://github.com/repolex-forx/tox-dev--tox-docker) | `ccadc6e341` | 2026-10-10 |
-| [pypa/cibuildwheel](https://github.com/repolex-forx/pypa--cibuildwheel) | `b3395e271a` | 2026-10-10 |
-| [pytest-dev/pytest-bpdb](https://github.com/repolex-forx/pytest-dev--pytest-bpdb) | `c6a97b8d8b` | 2026-10-10 |
-| [pytest-dev/pytest-faker](https://github.com/repolex-forx/pytest-dev--pytest-faker) | `5d21f74298` | 2026-10-10 |
-| [pytest-dev/pytest-faulthandler](https://github.com/repolex-forx/pytest-dev--pytest-faulthandler) | `11cfc20668` | 2026-10-10 |
+| [jazzband/imaplib2](https://github.com/repolex-forx/jazzband--imaplib2) | `6d45125882` | 2026-10-10 |
+| [jazzband/django-tinymce](https://github.com/repolex-forx/jazzband--django-tinymce) | `051886b8ed` | 2026-10-10 |
+| [tox-dev/peryx](https://github.com/repolex-forx/tox-dev--peryx) | `b8f0ff6f35` | 2026-10-10 |
+| [tox-dev/turbohtml](https://github.com/repolex-forx/tox-dev--turbohtml) | `07b987d45c` | 2026-10-10 |
+| [tox-dev/filelock](https://github.com/repolex-forx/tox-dev--filelock) | `4c6f32f279` | 2026-10-10 |
+| [pytest-dev/pyfakefs](https://github.com/repolex-forx/pytest-dev--pyfakefs) | `796c48eb78` | 2026-10-10 |
+| [pytest-dev/pytest-iam](https://github.com/repolex-forx/pytest-dev--pytest-iam) | `09b1d5cfc4` | 2026-10-10 |
+| [pytest-dev/nose2pytest](https://github.com/repolex-forx/pytest-dev--nose2pytest) | `15ca467f51` | 2026-10-10 |
+| [pytest-dev/pytest-testinfra](https://github.com/repolex-forx/pytest-dev--pytest-testinfra) | `04cccc3969` | 2026-10-10 |
+| [pytest-dev/pytest-forked](https://github.com/repolex-forx/pytest-dev--pytest-forked) | `0126c65af0` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
