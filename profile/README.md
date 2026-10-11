@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [pytest-dev/plugincompat](https://github.com/repolex-forx/pytest-dev--plugincompat) | `148b892c79` | 2026-10-11 |
-| [pytest-dev/blog.pytest.org](https://github.com/repolex-forx/pytest-dev--blog.pytest.org) | `eefcfa6534` | 2026-10-11 |
-| [pytest-dev/pytest-play](https://github.com/repolex-forx/pytest-dev--pytest-play) | `c39a1a7e74` | 2026-10-11 |
-| [urllib3/hypercorn](https://github.com/repolex-forx/urllib3--hypercorn) | `33ed006708` | 2026-10-11 |
-| [pytest-dev/design](https://github.com/repolex-forx/pytest-dev--design) | `7d3f9708bf` | 2026-10-11 |
-| [samuelcolvin/python-sdk](https://github.com/repolex-forx/samuelcolvin--python-sdk) | `ebb81d3b2b` | 2026-10-11 |
-| [psf/bpo-django-gae2django](https://github.com/repolex-forx/psf--bpo-django-gae2django) | `a949341b00` | 2026-10-11 |
-| [pytest-dev/meta](https://github.com/repolex-forx/pytest-dev--meta) | `c26b7705e1` | 2026-10-11 |
-| [bottlepy/test-docker](https://github.com/repolex-forx/bottlepy--test-docker) | `48cba1bbf1` | 2026-10-11 |
-| [psf/.github](https://github.com/repolex-forx/psf--.github) | `41b2bae8ad` | 2026-10-11 |
+| [samuelcolvin/notify](https://github.com/repolex-forx/samuelcolvin--notify) | `128bf6230c` | 2026-10-11 |
+| [samuelcolvin/python-devtools](https://github.com/repolex-forx/samuelcolvin--python-devtools) | `5022f1f6f1` | 2026-10-11 |
+| [samuelcolvin/scratch](https://github.com/repolex-forx/samuelcolvin--scratch) | `09b89c9bd4` | 2026-10-11 |
+| [samuelcolvin/array-has-slow](https://github.com/repolex-forx/samuelcolvin--array-has-slow) | `d833682ce9` | 2026-10-11 |
+| [samuelcolvin/batson-perf](https://github.com/repolex-forx/samuelcolvin--batson-perf) | `107627c5ba` | 2026-10-11 |
+| [samuelcolvin/mkdocs-redirects](https://github.com/repolex-forx/samuelcolvin--mkdocs-redirects) | `32ccfd0ce3` | 2026-10-11 |
+| [samuelcolvin/aioaws](https://github.com/repolex-forx/samuelcolvin--aioaws) | `d4141e30a1` | 2026-10-11 |
+| [samuelcolvin/pydantic-v2-startup-perf-bench](https://github.com/repolex-forx/samuelcolvin--pydantic-v2-startup-perf-bench) | `be3e062207` | 2026-10-11 |
+| [samuelcolvin/ollama-python](https://github.com/repolex-forx/samuelcolvin--ollama-python) | `70dd0b7e63` | 2026-10-11 |
+| [samuelcolvin/smokeshow](https://github.com/repolex-forx/samuelcolvin--smokeshow) | `6e982a3d08` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
