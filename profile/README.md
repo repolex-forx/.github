@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [samuelcolvin/forgettable](https://github.com/repolex-forx/samuelcolvin--forgettable) | `a411426afc` | 2026-10-10 |
-| [samuelcolvin/coverage-badge](https://github.com/repolex-forx/samuelcolvin--coverage-badge) | `5b90140d73` | 2026-10-10 |
-| [pallets-eco/flask-admin](https://github.com/repolex-forx/pallets-eco--flask-admin) | `9f0d23c03d` | 2026-10-10 |
-| [pypa/sampleproject](https://github.com/repolex-forx/pypa--sampleproject) | `621e4974ca` | 2026-10-10 |
-| [pypa/scripttest](https://github.com/repolex-forx/pypa--scripttest) | `3bebe70d11` | 2026-10-10 |
-| [pypa/gh-action-pip-audit](https://github.com/repolex-forx/pypa--gh-action-pip-audit) | `fb241f5816` | 2026-10-10 |
-| [pypa/distutils](https://github.com/repolex-forx/pypa--distutils) | `3ed42426ce` | 2026-10-10 |
-| [pypa/gh-action-pypi-publish](https://github.com/repolex-forx/pypa--gh-action-pypi-publish) | `c0d6f8e4af` | 2026-10-10 |
-| [pypa/hatch-code](https://github.com/repolex-forx/pypa--hatch-code) | `cebff56f5d` | 2026-10-10 |
-| [pypa/bootstrap](https://github.com/repolex-forx/pypa--bootstrap) | `9797ac6a73` | 2026-10-10 |
+| [aio-libs/prepare-coverage](https://github.com/repolex-forx/aio-libs--prepare-coverage) | `4a1ef3620e` | 2026-10-10 |
+| [aio-libs/upload-coverage](https://github.com/repolex-forx/aio-libs--upload-coverage) | `31d1bc1040` | 2026-10-10 |
+| [agronholm/release-notes](https://github.com/repolex-forx/agronholm--release-notes) | `d1772d33a8` | 2026-10-10 |
+| [samuelcolvin/luck-or-judgement](https://github.com/repolex-forx/samuelcolvin--luck-or-judgement) | `ecc7c9e5a6` | 2026-10-10 |
+| [samuelcolvin/call-alert](https://github.com/repolex-forx/samuelcolvin--call-alert) | `388511b0a5` | 2026-10-10 |
+| [samuelcolvin/antm](https://github.com/repolex-forx/samuelcolvin--antm) | `922d2902b1` | 2026-10-10 |
+| [tox-dev/workflow](https://github.com/repolex-forx/tox-dev--workflow) | `1bb961580e` | 2026-10-10 |
+| [python-poetry/install.python-poetry.org](https://github.com/repolex-forx/python-poetry--install.python-poetry.org) | `458b4019ae` | 2026-10-10 |
+| [python-poetry/website](https://github.com/repolex-forx/python-poetry--website) | `94d129208a` | 2026-10-10 |
+| [python-poetry/poetry-core](https://github.com/repolex-forx/python-poetry--poetry-core) | `b52c25c451` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
