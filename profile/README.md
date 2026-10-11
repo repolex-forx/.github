@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [pallets-eco/wtforms-dateutil](https://github.com/repolex-forx/pallets-eco--wtforms-dateutil) | `fbd183d4fc` | 2026-10-10 |
-| [pallets-eco/wtforms-appengine](https://github.com/repolex-forx/pallets-eco--wtforms-appengine) | `230da3db81` | 2026-10-10 |
-| [jazzband/django-polymorphic](https://github.com/repolex-forx/jazzband--django-polymorphic) | `db86c0c0ca` | 2026-10-10 |
-| [jazzband/django-simple-history](https://github.com/repolex-forx/jazzband--django-simple-history) | `e71cb9e054` | 2026-10-10 |
-| [jazzband/django-rest-knox](https://github.com/repolex-forx/jazzband--django-rest-knox) | `c3522713e0` | 2026-10-10 |
-| [jazzband/django-dbbackup](https://github.com/repolex-forx/jazzband--django-dbbackup) | `6714cd0122` | 2026-10-10 |
-| [pallets-eco/flask-orjson](https://github.com/repolex-forx/pallets-eco--flask-orjson) | `4e9ee0e46d` | 2026-10-10 |
-| [pallets-eco/flask-ujson](https://github.com/repolex-forx/pallets-eco--flask-ujson) | `1ee3a6489e` | 2026-10-10 |
-| [encode/sentry-asgi](https://github.com/repolex-forx/encode--sentry-asgi) | `6d4c6353ad` | 2026-10-10 |
-| [encode/requests-async](https://github.com/repolex-forx/encode--requests-async) | `1de1b948a0` | 2026-10-10 |
+| [jazzband/django-waffle](https://github.com/repolex-forx/jazzband--django-waffle) | `76f880d804` | 2026-10-10 |
+| [scrapy/itemadapter](https://github.com/repolex-forx/scrapy--itemadapter) | `ef0b748c57` | 2026-10-10 |
+| [scrapy/cssselect](https://github.com/repolex-forx/scrapy--cssselect) | `805705c5a2` | 2026-10-10 |
+| [scrapy/parsel](https://github.com/repolex-forx/scrapy--parsel) | `8ee96b7239` | 2026-10-10 |
+| [scrapy/w3lib](https://github.com/repolex-forx/scrapy--w3lib) | `ade4b62e55` | 2026-10-10 |
+| [pytest-dev/pytest-rerunfailures](https://github.com/repolex-forx/pytest-dev--pytest-rerunfailures) | `01fd226bd5` | 2026-10-10 |
+| [pytest-dev/pytest-print](https://github.com/repolex-forx/pytest-dev--pytest-print) | `514e2bcfc3` | 2026-10-10 |
+| [pytest-dev/pytest-env](https://github.com/repolex-forx/pytest-dev--pytest-env) | `484cdaed62` | 2026-10-10 |
+| [pytest-dev/execnet](https://github.com/repolex-forx/pytest-dev--execnet) | `5844b41f94` | 2026-10-10 |
+| [pytest-dev/pluggy](https://github.com/repolex-forx/pytest-dev--pluggy) | `87f130aa18` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
