@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [cherrypy/cherrypy.github.io](https://github.com/repolex-forx/cherrypy--cherrypy.github.io) | `188d9e3db5` | 2026-10-11 |
-| [psf/bpo-tracker-jython](https://github.com/repolex-forx/psf--bpo-tracker-jython) | `731b79d60e` | 2026-10-11 |
-| [psf/bpo-tracker-roundup](https://github.com/repolex-forx/psf--bpo-tracker-roundup) | `88ef50697a` | 2026-10-11 |
-| [cherrypy/tools](https://github.com/repolex-forx/cherrypy--tools) | `1b4e9438e9` | 2026-10-11 |
-| [tiangolo/meinheld-gunicorn-docker](https://github.com/repolex-forx/tiangolo--meinheld-gunicorn-docker) | `70cb7974f4` | 2026-10-11 |
-| [pallets/flask-docs](https://github.com/repolex-forx/pallets--flask-docs) | `ba4713af85` | 2026-10-11 |
-| [psf/project-funding-wg](https://github.com/repolex-forx/psf--project-funding-wg) | `9c21a8c901` | 2026-10-11 |
-| [psf/request-for](https://github.com/repolex-forx/psf--request-for) | `9f42ba4f02` | 2026-10-11 |
-| [psf/fundable-packaging-improvements](https://github.com/repolex-forx/psf--fundable-packaging-improvements) | `638bbd48f4` | 2026-10-11 |
-| [marshmallow-code/renovate-config](https://github.com/repolex-forx/marshmallow-code--renovate-config) | `b04c0a3af1` | 2026-10-11 |
+| [samuelcolvin/uqrl](https://github.com/repolex-forx/samuelcolvin--uqrl) | `e10907542e` | 2026-10-11 |
+| [aio-libs/aio-libs.github.io](https://github.com/repolex-forx/aio-libs--aio-libs.github.io) | `9a757da589` | 2026-10-11 |
+| [tiangolo/typer-cli](https://github.com/repolex-forx/tiangolo--typer-cli) | `36a49a4ec5` | 2026-10-11 |
+| [tiangolo/poetry-version-plugin](https://github.com/repolex-forx/tiangolo--poetry-version-plugin) | `96835bf262` | 2026-10-11 |
+| [pallets/website-2016](https://github.com/repolex-forx/pallets--website-2016) | `9f97f1ead3` | 2026-10-11 |
+| [pallets/website](https://github.com/repolex-forx/pallets--website) | `ec1afc9789` | 2026-10-11 |
+| [python-trio/exceptiongroup](https://github.com/repolex-forx/python-trio--exceptiongroup) | `dd8fe794d5` | 2026-10-11 |
+| [python-trio/python-trio.github.io](https://github.com/repolex-forx/python-trio--python-trio.github.io) | `25fecb307a` | 2026-10-11 |
+| [bottlepy/blog.bottlepy.org](https://github.com/repolex-forx/bottlepy--blog.bottlepy.org) | `409834c380` | 2026-10-11 |
+| [python-poetry/test-fixture-vcs-repository](https://github.com/repolex-forx/python-poetry--test-fixture-vcs-repository) | `0be1215c90` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
