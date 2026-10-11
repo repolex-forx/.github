@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [celery/librabbitmq](https://github.com/repolex-forx/celery--librabbitmq) | `a7f318055f` | 2026-10-11 |
-| [certifi/ruby-certifi](https://github.com/repolex-forx/certifi--ruby-certifi) | `101b2e2ed5` | 2026-10-11 |
-| [pydantic/pydantic-ai-temporal-example](https://github.com/repolex-forx/pydantic--pydantic-ai-temporal-example) | `ca6194221a` | 2026-10-11 |
-| [pydantic/pydantic-docs](https://github.com/repolex-forx/pydantic--pydantic-docs) | `6a53b295ca` | 2026-10-11 |
-| [pydantic/demo-endpoints](https://github.com/repolex-forx/pydantic--demo-endpoints) | `ff1f698dee` | 2026-10-11 |
-| [pydantic/logfire-lsp](https://github.com/repolex-forx/pydantic--logfire-lsp) | `c6564bd4e6` | 2026-10-11 |
-| [pydantic/mcpdb](https://github.com/repolex-forx/pydantic--mcpdb) | `6c9f909372` | 2026-10-11 |
-| [agronholm/asyncio_extras](https://github.com/repolex-forx/agronholm--asyncio_extras) | `6ac3aa38e2` | 2026-10-11 |
-| [agronholm/fcgiproto](https://github.com/repolex-forx/agronholm--fcgiproto) | `6dd4cc2366` | 2026-10-11 |
-| [agronholm/ircproto](https://github.com/repolex-forx/agronholm--ircproto) | `7993857e0f` | 2026-10-11 |
+| [agronholm/aiohttp-apispec](https://github.com/repolex-forx/agronholm--aiohttp-apispec) | `9a53408740` | 2026-10-11 |
+| [agronholm/cysystemd](https://github.com/repolex-forx/agronholm--cysystemd) | `aa82d02de6` | 2026-10-11 |
+| [agronholm/Pysher](https://github.com/repolex-forx/agronholm--Pysher) | `a2a3ae7476` | 2026-10-11 |
+| [pydantic/rust-jemalloc-pprof](https://github.com/repolex-forx/pydantic--rust-jemalloc-pprof) | `627104aa72` | 2026-10-11 |
+| [agronholm/aioredlock](https://github.com/repolex-forx/agronholm--aioredlock) | `258fbf7790` | 2026-10-11 |
+| [agronholm/timescaledb-docker](https://github.com/repolex-forx/agronholm--timescaledb-docker) | `62dc5d41b9` | 2026-10-11 |
+| [agronholm/sans-io](https://github.com/repolex-forx/agronholm--sans-io) | `4e0c9d2371` | 2026-10-11 |
+| [agronholm/async-timeout](https://github.com/repolex-forx/agronholm--async-timeout) | `c7d61a8190` | 2026-10-11 |
+| [agronholm/helm-kubectl-secrets](https://github.com/repolex-forx/agronholm--helm-kubectl-secrets) | `9e42495461` | 2026-10-11 |
+| [agronholm/anyio_serial](https://github.com/repolex-forx/agronholm--anyio_serial) | `fe0b3520bb` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
