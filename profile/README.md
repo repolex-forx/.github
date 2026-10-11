@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [encode/dashboard](https://github.com/repolex-forx/encode--dashboard) | `a184d749a3` | 2026-10-11 |
-| [samuelcolvin/datafusion-sql-udfs](https://github.com/repolex-forx/samuelcolvin--datafusion-sql-udfs) | `d173e9ba6e` | 2026-10-11 |
-| [samuelcolvin/cloudkv](https://github.com/repolex-forx/samuelcolvin--cloudkv) | `c5cb4dec9f` | 2026-10-11 |
-| [agronholm/unasync](https://github.com/repolex-forx/agronholm--unasync) | `3d7a369509` | 2026-10-11 |
-| [agronholm/httpx-ws](https://github.com/repolex-forx/agronholm--httpx-ws) | `c9efdda0ce` | 2026-10-11 |
-| [agronholm/httpx-sse](https://github.com/repolex-forx/agronholm--httpx-sse) | `643938c805` | 2026-10-11 |
-| [agronholm/sniffio](https://github.com/repolex-forx/agronholm--sniffio) | `95190ad580` | 2026-10-11 |
-| [pallets-eco/flask-stache](https://github.com/repolex-forx/pallets-eco--flask-stache) | `b3bbd326bd` | 2026-10-11 |
-| [pallets-eco/flask-api-examples](https://github.com/repolex-forx/pallets-eco--flask-api-examples) | `837ba43230` | 2026-10-11 |
-| [pallets-eco/click-bash4.2-completion](https://github.com/repolex-forx/pallets-eco--click-bash4.2-completion) | `b0fcf111ad` | 2026-10-11 |
+| [agronholm/python-sdk](https://github.com/repolex-forx/agronholm--python-sdk) | `0bcecffc4c` | 2026-10-11 |
+| [agronholm/packaging](https://github.com/repolex-forx/agronholm--packaging) | `3e67fc775e` | 2026-10-11 |
+| [agronholm/httpcore](https://github.com/repolex-forx/agronholm--httpcore) | `76f6e199b6` | 2026-10-11 |
+| [samuelcolvin/num-bigint](https://github.com/repolex-forx/samuelcolvin--num-bigint) | `14ced94a43` | 2026-10-11 |
+| [samuelcolvin/minicbor](https://github.com/repolex-forx/samuelcolvin--minicbor) | `620fa37031` | 2026-10-11 |
+| [agronholm/prometheus-fastapi-instrumentator](https://github.com/repolex-forx/agronholm--prometheus-fastapi-instrumentator) | `18dbfd64f1` | 2026-10-11 |
+| [agronholm/python-xmlsec](https://github.com/repolex-forx/agronholm--python-xmlsec) | `ebbc3f7346` | 2026-10-11 |
+| [agronholm/tkreload](https://github.com/repolex-forx/agronholm--tkreload) | `2c7126b094` | 2026-10-11 |
+| [agronholm/llama-cpp-binaries](https://github.com/repolex-forx/agronholm--llama-cpp-binaries) | `0356d5af3d` | 2026-10-11 |
+| [agronholm/pep789-testsuite](https://github.com/repolex-forx/agronholm--pep789-testsuite) | `5f0c7df0ca` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
