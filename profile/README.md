@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [python-trio/unasync](https://github.com/repolex-forx/python-trio--unasync) | `3a0a3bee2a` | 2026-10-11 |
-| [pypa/flit](https://github.com/repolex-forx/pypa--flit) | 4.1.0 | 2026-10-10 |
-| [litestar-org/pytest-databases](https://github.com/repolex-forx/litestar-org--pytest-databases) | `bbefed5477` | 2026-10-10 |
-| [pypa/abi3audit](https://github.com/repolex-forx/pypa--abi3audit) | `a33c6e0fe6` | 2026-10-10 |
-| [litestar-org/type-lens](https://github.com/repolex-forx/litestar-org--type-lens) | `58fccf85bd` | 2026-10-10 |
-| [pypa/pyproject-metadata](https://github.com/repolex-forx/pypa--pyproject-metadata) | `c78be647e3` | 2026-10-10 |
-| [pypa/installer](https://github.com/repolex-forx/pypa--installer) | `ba622422bc` | 2026-10-10 |
-| [pypa/trove-classifiers](https://github.com/repolex-forx/pypa--trove-classifiers) | 2026.9.21.13 | 2026-10-10 |
-| [pypa/dependency-groups](https://github.com/repolex-forx/pypa--dependency-groups) | `facfeaf7f8` | 2026-10-10 |
-| [pypa/pyproject-hooks](https://github.com/repolex-forx/pypa--pyproject-hooks) | v1.3.3 | 2026-10-10 |
+| [pypa/pipx](https://github.com/repolex-forx/pypa--pipx) | 1.17.13 | 2026-10-11 |
+| [pypa/setuptools-scm](https://github.com/repolex-forx/pypa--setuptools-scm) | `6146a26063` | 2026-10-11 |
+| [python-trio/flake8-async](https://github.com/repolex-forx/python-trio--flake8-async) | 26.8.1 | 2026-10-11 |
+| [pypa/pip-audit](https://github.com/repolex-forx/pypa--pip-audit) | `828e77a4d4` | 2026-10-11 |
+| [pypa/wheel](https://github.com/repolex-forx/pypa--wheel) | `4ae6d07d38` | 2026-10-11 |
+| [python-trio/trio-asyncio](https://github.com/repolex-forx/python-trio--trio-asyncio) | `4b0074272e` | 2026-10-11 |
+| [python-trio/trio-websocket](https://github.com/repolex-forx/python-trio--trio-websocket) | `e828e54cfc` | 2026-10-11 |
+| [python-trio/hypothesis-trio](https://github.com/repolex-forx/python-trio--hypothesis-trio) | `84250f4e35` | 2026-10-11 |
+| [python-trio/sphinxcontrib-trio](https://github.com/repolex-forx/python-trio--sphinxcontrib-trio) | `cfd44c1658` | 2026-10-11 |
+| [python-trio/pytest-trio](https://github.com/repolex-forx/python-trio--pytest-trio) | `f0168502bc` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
