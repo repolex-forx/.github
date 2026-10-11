@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [python-trio/trzmq](https://github.com/repolex-forx/python-trio--trzmq) | `275ce1d927` | 2026-10-11 |
-| [samuelcolvin/email-me](https://github.com/repolex-forx/samuelcolvin--email-me) | `c1c8260672` | 2026-10-11 |
-| [samuelcolvin/MacTab](https://github.com/repolex-forx/samuelcolvin--MacTab) | `e03917f222` | 2026-10-11 |
-| [cherrypy/tools-legacy](https://github.com/repolex-forx/cherrypy--tools-legacy) | `f9f5337c85` | 2026-10-11 |
-| [bottlepy/bottle-memcache](https://github.com/repolex-forx/bottlepy--bottle-memcache) | `1d4ed714cc` | 2026-10-11 |
-| [bottlepy/bottle-beaker](https://github.com/repolex-forx/bottlepy--bottle-beaker) | `37ccd0f0db` | 2026-10-11 |
-| [bottlepy/bottle-werkzeug](https://github.com/repolex-forx/bottlepy--bottle-werkzeug) | `77361e3e03` | 2026-10-11 |
-| [bottlepy/bottle-boilerplate](https://github.com/repolex-forx/bottlepy--bottle-boilerplate) | `097a044d93` | 2026-10-11 |
-| [bottlepy/bottle-redis](https://github.com/repolex-forx/bottlepy--bottle-redis) | `4c2306e5c8` | 2026-10-11 |
-| [bottlepy/bottle-inject](https://github.com/repolex-forx/bottlepy--bottle-inject) | `321d7f45be` | 2026-10-11 |
+| [psf/bylaws](https://github.com/repolex-forx/psf--bylaws) | `8878278034` | 2026-10-11 |
+| [psf/infra](https://github.com/repolex-forx/psf--infra) | `fe5c204dab` | 2026-10-11 |
+| [encode/sentry-asgi](https://github.com/repolex-forx/encode--sentry-asgi) | `6d4c6353ad` | 2026-10-11 |
+| [encode/savannah](https://github.com/repolex-forx/encode--savannah) | `291e73d455` | 2026-10-11 |
+| [samuelcolvin/githubproxy](https://github.com/repolex-forx/samuelcolvin--githubproxy) | `0679cb7f60` | 2026-10-11 |
+| [samuelcolvin/PaloAlto2SF](https://github.com/repolex-forx/samuelcolvin--PaloAlto2SF) | `98124cdbed` | 2026-10-11 |
+| [samuelcolvin/cf-request-error](https://github.com/repolex-forx/samuelcolvin--cf-request-error) | `fbe9c4c953` | 2026-10-11 |
+| [agronholm/redis-anyio](https://github.com/repolex-forx/agronholm--redis-anyio) | `cf2c8f2cc8` | 2026-10-11 |
+| [agronholm/asyncfusion](https://github.com/repolex-forx/agronholm--asyncfusion) | `8697a78991` | 2026-10-11 |
+| [python-trio/trimeter](https://github.com/repolex-forx/python-trio--trimeter) | `85d50671c3` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
