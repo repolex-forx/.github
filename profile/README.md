@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [samuelcolvin/uqrl](https://github.com/repolex-forx/samuelcolvin--uqrl) | `e10907542e` | 2026-10-11 |
-| [aio-libs/aio-libs.github.io](https://github.com/repolex-forx/aio-libs--aio-libs.github.io) | `9a757da589` | 2026-10-11 |
-| [tiangolo/typer-cli](https://github.com/repolex-forx/tiangolo--typer-cli) | `36a49a4ec5` | 2026-10-11 |
-| [tiangolo/poetry-version-plugin](https://github.com/repolex-forx/tiangolo--poetry-version-plugin) | `96835bf262` | 2026-10-11 |
-| [pallets/website-2016](https://github.com/repolex-forx/pallets--website-2016) | `9f97f1ead3` | 2026-10-11 |
-| [pallets/website](https://github.com/repolex-forx/pallets--website) | `ec1afc9789` | 2026-10-11 |
-| [python-trio/exceptiongroup](https://github.com/repolex-forx/python-trio--exceptiongroup) | `dd8fe794d5` | 2026-10-11 |
-| [python-trio/python-trio.github.io](https://github.com/repolex-forx/python-trio--python-trio.github.io) | `25fecb307a` | 2026-10-11 |
-| [bottlepy/blog.bottlepy.org](https://github.com/repolex-forx/bottlepy--blog.bottlepy.org) | `409834c380` | 2026-10-11 |
-| [python-poetry/test-fixture-vcs-repository](https://github.com/repolex-forx/python-poetry--test-fixture-vcs-repository) | `0be1215c90` | 2026-10-11 |
+| [samuelcolvin/mkdocs-run-code](https://github.com/repolex-forx/samuelcolvin--mkdocs-run-code) | `9a39e6b22c` | 2026-10-11 |
+| [samuelcolvin/mcpython](https://github.com/repolex-forx/samuelcolvin--mcpython) | `b461097e1d` | 2026-10-11 |
+| [cherrypy/python3statement.github.io](https://github.com/repolex-forx/cherrypy--python3statement.github.io) | `ede803185d` | 2026-10-11 |
+| [psf/bpo-tracker-cpython](https://github.com/repolex-forx/psf--bpo-tracker-cpython) | `1a94f0977c` | 2026-10-11 |
+| [psf/python-in-edu](https://github.com/repolex-forx/psf--python-in-edu) | `d4634d5357` | 2026-10-11 |
+| [psf/matterbridge-configuration](https://github.com/repolex-forx/psf--matterbridge-configuration) | `099868bb00` | 2026-10-11 |
+| [psf/docker-mailman](https://github.com/repolex-forx/psf--docker-mailman) | `6b091fc17a` | 2026-10-11 |
+| [pypa/packaging-problems](https://github.com/repolex-forx/pypa--packaging-problems) | `a4dd99101a` | 2026-10-11 |
+| [pypa/rootbeer](https://github.com/repolex-forx/pypa--rootbeer) | `f121ac5e3b` | 2026-10-11 |
+| [pypa/pip-test-package](https://github.com/repolex-forx/pypa--pip-test-package) | `96d6d72ac5` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
