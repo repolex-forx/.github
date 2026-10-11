@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [certifi/cert-tools](https://github.com/repolex-forx/certifi--cert-tools) | `94ff3b87f5` | 2026-10-11 |
-| [certifi/node-certifi](https://github.com/repolex-forx/certifi--node-certifi) | `868e391030` | 2026-10-11 |
-| [certifi/certifi-prompt](https://github.com/repolex-forx/certifi--certifi-prompt) | `c5ccd2e616` | 2026-10-11 |
-| [certifi/extract-nss-root-certs](https://github.com/repolex-forx/certifi--extract-nss-root-certs) | `96377fcbd1` | 2026-10-11 |
-| [dateutil/deadsnakes-action](https://github.com/repolex-forx/dateutil--deadsnakes-action) | `dafca658ce` | 2026-10-11 |
-| [certifi/certifi.io](https://github.com/repolex-forx/certifi--certifi.io) | `545cdb27ae` | 2026-10-11 |
-| [chardet/chardet.github.io](https://github.com/repolex-forx/chardet--chardet.github.io) | `489dd0b0b5` | 2026-10-11 |
-| [celery/celerytest](https://github.com/repolex-forx/celery--celerytest) | `39c7175824` | 2026-10-11 |
-| [celery/umbrella](https://github.com/repolex-forx/celery--umbrella) | `02b5ca0a4a` | 2026-10-11 |
-| [celery/.github](https://github.com/repolex-forx/celery--.github) | `19fb6c9041` | 2026-10-11 |
+| [celery/librabbitmq](https://github.com/repolex-forx/celery--librabbitmq) | `a7f318055f` | 2026-10-11 |
+| [certifi/ruby-certifi](https://github.com/repolex-forx/certifi--ruby-certifi) | `101b2e2ed5` | 2026-10-11 |
+| [pydantic/pydantic-ai-temporal-example](https://github.com/repolex-forx/pydantic--pydantic-ai-temporal-example) | `ca6194221a` | 2026-10-11 |
+| [pydantic/pydantic-docs](https://github.com/repolex-forx/pydantic--pydantic-docs) | `6a53b295ca` | 2026-10-11 |
+| [pydantic/demo-endpoints](https://github.com/repolex-forx/pydantic--demo-endpoints) | `ff1f698dee` | 2026-10-11 |
+| [pydantic/logfire-lsp](https://github.com/repolex-forx/pydantic--logfire-lsp) | `c6564bd4e6` | 2026-10-11 |
+| [pydantic/mcpdb](https://github.com/repolex-forx/pydantic--mcpdb) | `6c9f909372` | 2026-10-11 |
+| [agronholm/asyncio_extras](https://github.com/repolex-forx/agronholm--asyncio_extras) | `6ac3aa38e2` | 2026-10-11 |
+| [agronholm/fcgiproto](https://github.com/repolex-forx/agronholm--fcgiproto) | `6dd4cc2366` | 2026-10-11 |
+| [agronholm/ircproto](https://github.com/repolex-forx/agronholm--ircproto) | `7993857e0f` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
