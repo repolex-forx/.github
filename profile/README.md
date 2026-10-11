@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [agronholm/python-sdk](https://github.com/repolex-forx/agronholm--python-sdk) | `0bcecffc4c` | 2026-10-11 |
-| [agronholm/packaging](https://github.com/repolex-forx/agronholm--packaging) | `3e67fc775e` | 2026-10-11 |
-| [agronholm/httpcore](https://github.com/repolex-forx/agronholm--httpcore) | `76f6e199b6` | 2026-10-11 |
-| [samuelcolvin/num-bigint](https://github.com/repolex-forx/samuelcolvin--num-bigint) | `14ced94a43` | 2026-10-11 |
-| [samuelcolvin/minicbor](https://github.com/repolex-forx/samuelcolvin--minicbor) | `620fa37031` | 2026-10-11 |
-| [agronholm/prometheus-fastapi-instrumentator](https://github.com/repolex-forx/agronholm--prometheus-fastapi-instrumentator) | `18dbfd64f1` | 2026-10-11 |
-| [agronholm/python-xmlsec](https://github.com/repolex-forx/agronholm--python-xmlsec) | `ebbc3f7346` | 2026-10-11 |
-| [agronholm/tkreload](https://github.com/repolex-forx/agronholm--tkreload) | `2c7126b094` | 2026-10-11 |
-| [agronholm/llama-cpp-binaries](https://github.com/repolex-forx/agronholm--llama-cpp-binaries) | `0356d5af3d` | 2026-10-11 |
-| [agronholm/pep789-testsuite](https://github.com/repolex-forx/agronholm--pep789-testsuite) | `5f0c7df0ca` | 2026-10-11 |
+| [aio-libs/aioga](https://github.com/repolex-forx/aio-libs--aioga) | `dbc0cbdae3` | 2026-10-11 |
+| [aio-libs/aioneo4j](https://github.com/repolex-forx/aio-libs--aioneo4j) | `ac72fc7704` | 2026-10-11 |
+| [aio-libs/aiohttp-flashbag](https://github.com/repolex-forx/aio-libs--aiohttp-flashbag) | `705b31cca6` | 2026-10-11 |
+| [aio-libs/aiosparql](https://github.com/repolex-forx/aio-libs--aiosparql) | `f90ed49df5` | 2026-10-11 |
+| [aio-libs/aiolibs-executor](https://github.com/repolex-forx/aio-libs--aiolibs-executor) | `a215e91a81` | 2026-10-11 |
+| [aio-libs/sphinxcontrib-asyncio](https://github.com/repolex-forx/aio-libs--sphinxcontrib-asyncio) | `0cef4f21ae` | 2026-10-11 |
+| [aio-libs/aiohttp-bot](https://github.com/repolex-forx/aio-libs--aiohttp-bot) | `e5585fcd4f` | 2026-10-11 |
+| [aio-libs/create-release](https://github.com/repolex-forx/aio-libs--create-release) | `90f4215e01` | 2026-10-11 |
+| [aio-libs/dynoname](https://github.com/repolex-forx/aio-libs--dynoname) | `92a80b5ad5` | 2026-10-11 |
+| [aio-libs/triagers](https://github.com/repolex-forx/aio-libs--triagers) | `0cfed58bb6` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
