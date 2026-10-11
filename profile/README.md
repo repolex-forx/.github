@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [pypa/pipx](https://github.com/repolex-forx/pypa--pipx) | 1.17.13 | 2026-10-11 |
-| [pypa/setuptools-scm](https://github.com/repolex-forx/pypa--setuptools-scm) | `6146a26063` | 2026-10-11 |
-| [python-trio/flake8-async](https://github.com/repolex-forx/python-trio--flake8-async) | 26.8.1 | 2026-10-11 |
-| [pypa/pip-audit](https://github.com/repolex-forx/pypa--pip-audit) | `828e77a4d4` | 2026-10-11 |
-| [pypa/wheel](https://github.com/repolex-forx/pypa--wheel) | `4ae6d07d38` | 2026-10-11 |
-| [python-trio/trio-asyncio](https://github.com/repolex-forx/python-trio--trio-asyncio) | `4b0074272e` | 2026-10-11 |
-| [python-trio/trio-websocket](https://github.com/repolex-forx/python-trio--trio-websocket) | `e828e54cfc` | 2026-10-11 |
-| [python-trio/hypothesis-trio](https://github.com/repolex-forx/python-trio--hypothesis-trio) | `84250f4e35` | 2026-10-11 |
-| [python-trio/sphinxcontrib-trio](https://github.com/repolex-forx/python-trio--sphinxcontrib-trio) | `cfd44c1658` | 2026-10-11 |
-| [python-trio/pytest-trio](https://github.com/repolex-forx/python-trio--pytest-trio) | `f0168502bc` | 2026-10-11 |
+| [jazzband/django-payments](https://github.com/repolex-forx/jazzband--django-payments) | `8edfb1fc47` | 2026-10-10 |
+| [jazzband/django-robots](https://github.com/repolex-forx/jazzband--django-robots) | `4d151bcd64` | 2026-10-10 |
+| [pypa/auditwheel](https://github.com/repolex-forx/pypa--auditwheel) | `63a51b2f62` | 2026-10-10 |
+| [pypa/bandersnatch](https://github.com/repolex-forx/pypa--bandersnatch) | `6e27445dd5` | 2026-10-10 |
+| [python-trio/trio-monitor](https://github.com/repolex-forx/python-trio--trio-monitor) | `1fc9766a18` | 2026-10-10 |
+| [python-trio/asyncgpio](https://github.com/repolex-forx/python-trio--asyncgpio) | `9b35613b05` | 2026-10-10 |
+| [python-trio/trio-mysql](https://github.com/repolex-forx/python-trio--trio-mysql) | `34812ab354` | 2026-10-10 |
+| [python-trio/trio-amqp](https://github.com/repolex-forx/python-trio--trio-amqp) | `9a572309e0` | 2026-10-10 |
+| [python-trio/triopg](https://github.com/repolex-forx/python-trio--triopg) | `6575b2212a` | 2026-10-10 |
+| [python-trio/purerpc](https://github.com/repolex-forx/python-trio--purerpc) | `a3c17dd885` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
