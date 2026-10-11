@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [jazzband/django-smart-selects](https://github.com/repolex-forx/jazzband--django-smart-selects) | `780c1dfc2b` | 2026-10-10 |
-| [jazzband/django-configurations](https://github.com/repolex-forx/jazzband--django-configurations) | `3d0d4216ca` | 2026-10-10 |
-| [pallets-eco/flask-sqlalchemy-lite](https://github.com/repolex-forx/pallets-eco--flask-sqlalchemy-lite) | `8d31da6885` | 2026-10-10 |
-| [pallets-eco/flask-dramatiq](https://github.com/repolex-forx/pallets-eco--flask-dramatiq) | `566922ec1e` | 2026-10-10 |
-| [pallets-eco/flask-openid](https://github.com/repolex-forx/pallets-eco--flask-openid) | `1eccf8a8a2` | 2026-10-10 |
-| [pallets-eco/flask-pydantic](https://github.com/repolex-forx/pallets-eco--flask-pydantic) | `bc3fee46e6` | 2026-10-10 |
-| [pallets-eco/flask-classful](https://github.com/repolex-forx/pallets-eco--flask-classful) | `ff67068288` | 2026-10-10 |
-| [pallets-eco/flask-principal](https://github.com/repolex-forx/pallets-eco--flask-principal) | `f46b75e42d` | 2026-10-10 |
-| [pallets-eco/flask-session](https://github.com/repolex-forx/pallets-eco--flask-session) | `bc2fe67958` | 2026-10-10 |
-| [pallets-eco/flask-sqlalchemy](https://github.com/repolex-forx/pallets-eco--flask-sqlalchemy) | `80ac6ef26b` | 2026-10-10 |
+| [jazzband/django-fernet-encrypted-fields](https://github.com/repolex-forx/jazzband--django-fernet-encrypted-fields) | `fb8f3bf51e` | 2026-10-10 |
+| [jazzband/django-constance](https://github.com/repolex-forx/jazzband--django-constance) | `d77bace84e` | 2026-10-10 |
+| [pallets-eco/flask-jwt](https://github.com/repolex-forx/pallets-eco--flask-jwt) | `c27084114e` | 2026-10-10 |
+| [pallets-eco/wtforms-django](https://github.com/repolex-forx/pallets-eco--wtforms-django) | `d35ac883d0` | 2026-10-10 |
+| [pallets-eco/wtforms-sqlalchemy](https://github.com/repolex-forx/pallets-eco--wtforms-sqlalchemy) | `29dee4d59b` | 2026-10-10 |
+| [pallets-eco/flask-jsonschema](https://github.com/repolex-forx/pallets-eco--flask-jsonschema) | `c3041bfebc` | 2026-10-10 |
+| [pallets-eco/flask-environments](https://github.com/repolex-forx/pallets-eco--flask-environments) | `6a6cb75ad2` | 2026-10-10 |
+| [pallets-eco/flask-negotiate](https://github.com/repolex-forx/pallets-eco--flask-negotiate) | `9385116dbf` | 2026-10-10 |
+| [pallets-eco/flask-rq](https://github.com/repolex-forx/pallets-eco--flask-rq) | `4331cfce67` | 2026-10-10 |
+| [pallets-eco/flask-social](https://github.com/repolex-forx/pallets-eco--flask-social) | `36f5790c8f` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
