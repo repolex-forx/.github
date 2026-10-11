@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [aio-libs/aioga](https://github.com/repolex-forx/aio-libs--aioga) | `dbc0cbdae3` | 2026-10-11 |
-| [aio-libs/aioneo4j](https://github.com/repolex-forx/aio-libs--aioneo4j) | `ac72fc7704` | 2026-10-11 |
-| [aio-libs/aiohttp-flashbag](https://github.com/repolex-forx/aio-libs--aiohttp-flashbag) | `705b31cca6` | 2026-10-11 |
-| [aio-libs/aiosparql](https://github.com/repolex-forx/aio-libs--aiosparql) | `f90ed49df5` | 2026-10-11 |
-| [aio-libs/aiolibs-executor](https://github.com/repolex-forx/aio-libs--aiolibs-executor) | `a215e91a81` | 2026-10-11 |
-| [aio-libs/sphinxcontrib-asyncio](https://github.com/repolex-forx/aio-libs--sphinxcontrib-asyncio) | `0cef4f21ae` | 2026-10-11 |
-| [aio-libs/aiohttp-bot](https://github.com/repolex-forx/aio-libs--aiohttp-bot) | `e5585fcd4f` | 2026-10-11 |
-| [aio-libs/create-release](https://github.com/repolex-forx/aio-libs--create-release) | `90f4215e01` | 2026-10-11 |
-| [aio-libs/dynoname](https://github.com/repolex-forx/aio-libs--dynoname) | `92a80b5ad5` | 2026-10-11 |
-| [aio-libs/triagers](https://github.com/repolex-forx/aio-libs--triagers) | `0cfed58bb6` | 2026-10-11 |
+| [aio-libs/aioloop-proxy](https://github.com/repolex-forx/aio-libs--aioloop-proxy) | `ab9a19d098` | 2026-10-11 |
+| [aio-libs/aiohttp-benchmarks](https://github.com/repolex-forx/aio-libs--aiohttp-benchmarks) | `018d6a3dd9` | 2026-10-11 |
+| [aio-libs/aioppspp](https://github.com/repolex-forx/aio-libs--aioppspp) | `08cda4c4b1` | 2026-10-11 |
+| [aio-libs/aiocouchdb](https://github.com/repolex-forx/aio-libs--aiocouchdb) | `84a08cc339` | 2026-10-11 |
+| [aio-libs/aioamqp_consumer](https://github.com/repolex-forx/aio-libs--aioamqp_consumer) | `c687211e38` | 2026-10-11 |
+| [aio-libs/idna-ssl](https://github.com/repolex-forx/aio-libs--idna-ssl) | `24f5451418` | 2026-10-11 |
+| [aio-libs/aiocassandra](https://github.com/repolex-forx/aio-libs--aiocassandra) | `023dd429e1` | 2026-10-11 |
+| [aio-libs/aioelasticsearch](https://github.com/repolex-forx/aio-libs--aioelasticsearch) | `81b6ae3434` | 2026-10-11 |
+| [aio-libs/aiologstash](https://github.com/repolex-forx/aio-libs--aiologstash) | `61c8f784c5` | 2026-10-11 |
+| [aio-libs/aioodbc](https://github.com/repolex-forx/aio-libs--aioodbc) | `62069a2ecb` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
