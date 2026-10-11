@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [agronholm/graphql-core](https://github.com/repolex-forx/agronholm--graphql-core) | `fa8f9b509d` | 2026-10-11 |
-| [pydantic/logfire-js](https://github.com/repolex-forx/pydantic--logfire-js) | `95eca241f7` | 2026-10-11 |
-| [tiangolo/odmantic](https://github.com/repolex-forx/tiangolo--odmantic) | `a99a2588cd` | 2026-10-11 |
-| [agronholm/websockets](https://github.com/repolex-forx/agronholm--websockets) | `1c8032acb1` | 2026-10-11 |
-| [agronholm/aiokafka](https://github.com/repolex-forx/agronholm--aiokafka) | `1855cdefa8` | 2026-10-11 |
-| [agronholm/aiobotocore](https://github.com/repolex-forx/agronholm--aiobotocore) | `29b97290dc` | 2026-10-11 |
-| [agronholm/llama-cpp-python](https://github.com/repolex-forx/agronholm--llama-cpp-python) | `803924b02c` | 2026-10-11 |
-| [tiangolo/uvicorn](https://github.com/repolex-forx/tiangolo--uvicorn) | `3dd0d44445` | 2026-10-11 |
-| [pydantic/logfire-helm-chart](https://github.com/repolex-forx/pydantic--logfire-helm-chart) | `5ac371653e` | 2026-10-11 |
-| [pydantic/perses-shared](https://github.com/repolex-forx/pydantic--perses-shared) | `bcb5f0209a` | 2026-10-11 |
+| [certifi/cert-tools](https://github.com/repolex-forx/certifi--cert-tools) | `94ff3b87f5` | 2026-10-11 |
+| [certifi/node-certifi](https://github.com/repolex-forx/certifi--node-certifi) | `868e391030` | 2026-10-11 |
+| [certifi/certifi-prompt](https://github.com/repolex-forx/certifi--certifi-prompt) | `c5ccd2e616` | 2026-10-11 |
+| [certifi/extract-nss-root-certs](https://github.com/repolex-forx/certifi--extract-nss-root-certs) | `96377fcbd1` | 2026-10-11 |
+| [dateutil/deadsnakes-action](https://github.com/repolex-forx/dateutil--deadsnakes-action) | `dafca658ce` | 2026-10-11 |
+| [certifi/certifi.io](https://github.com/repolex-forx/certifi--certifi.io) | `545cdb27ae` | 2026-10-11 |
+| [chardet/chardet.github.io](https://github.com/repolex-forx/chardet--chardet.github.io) | `489dd0b0b5` | 2026-10-11 |
+| [celery/celerytest](https://github.com/repolex-forx/celery--celerytest) | `39c7175824` | 2026-10-11 |
+| [celery/umbrella](https://github.com/repolex-forx/celery--umbrella) | `02b5ca0a4a` | 2026-10-11 |
+| [celery/.github](https://github.com/repolex-forx/celery--.github) | `19fb6c9041` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
