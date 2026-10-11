@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [pallets/flask-website](https://github.com/repolex-forx/pallets--flask-website) | `8b083412f9` | 2026-10-11 |
-| [tiangolo/tiangolo.com](https://github.com/repolex-forx/tiangolo--tiangolo.com) | `e61748bd41` | 2026-10-11 |
-| [tiangolo/dockerswarm.rocks](https://github.com/repolex-forx/tiangolo--dockerswarm.rocks) | `c504a4b34d` | 2026-10-11 |
-| [tiangolo/meinheld-gunicorn-flask-docker](https://github.com/repolex-forx/tiangolo--meinheld-gunicorn-flask-docker) | `e871de6864` | 2026-10-11 |
-| [agronholm/docker-vernemq](https://github.com/repolex-forx/agronholm--docker-vernemq) | `dca9e7ba5a` | 2026-10-11 |
-| [agronholm/pythonfutures](https://github.com/repolex-forx/agronholm--pythonfutures) | `738e37148b` | 2026-10-11 |
-| [pydantic/skills](https://github.com/repolex-forx/pydantic--skills) | `238d971026` | 2026-10-11 |
-| [pydantic/thrust](https://github.com/repolex-forx/pydantic--thrust) | `8505b55a97` | 2026-10-11 |
-| [pydantic/datafusion-functions-json](https://github.com/repolex-forx/pydantic--datafusion-functions-json) | `30e05810d7` | 2026-10-11 |
-| [pydantic/datafusion-variant](https://github.com/repolex-forx/pydantic--datafusion-variant) | `9e1c846981` | 2026-10-11 |
+| [pallets-eco/flask-security-3.0](https://github.com/repolex-forx/pallets-eco--flask-security-3.0) | `b091e7d513` | 2026-10-11 |
+| [pydantic/axum-test](https://github.com/repolex-forx/pydantic--axum-test) | `462cbb0c81` | 2026-10-11 |
+| [pydantic/pulumi-logfire](https://github.com/repolex-forx/pydantic--pulumi-logfire) | `3b95efd9d9` | 2026-10-11 |
+| [tiangolo/full-stack-flask-couchbase](https://github.com/repolex-forx/tiangolo--full-stack-flask-couchbase) | `4b74f12439` | 2026-10-11 |
+| [pydantic/terraform-provider-logfire](https://github.com/repolex-forx/pydantic--terraform-provider-logfire) | `f25d556994` | 2026-10-11 |
+| [pydantic/logfire-rust](https://github.com/repolex-forx/pydantic--logfire-rust) | `804eca47b0` | 2026-10-11 |
+| [tiangolo/docker-auto-labels](https://github.com/repolex-forx/tiangolo--docker-auto-labels) | `c11b19fc8a` | 2026-10-11 |
+| [tiangolo/docker-with-compose](https://github.com/repolex-forx/tiangolo--docker-with-compose) | `f15906670b` | 2026-10-11 |
+| [tiangolo/label-approved](https://github.com/repolex-forx/tiangolo--label-approved) | `189338a34d` | 2026-10-11 |
+| [tiangolo/node-frontend](https://github.com/repolex-forx/tiangolo--node-frontend) | `58105139a4` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
