@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [celery/kombu](https://github.com/repolex-forx/celery--kombu) | `4a8f695e46` | 2026-10-11 |
-| [agronholm/bladerunner](https://github.com/repolex-forx/agronholm--bladerunner) | `2f9a0c4640` | 2026-10-11 |
-| [agronholm/twine](https://github.com/repolex-forx/agronholm--twine) | `f74eae5506` | 2026-10-11 |
-| [agronholm/dataclasses](https://github.com/repolex-forx/agronholm--dataclasses) | `ae712dd993` | 2026-10-11 |
-| [agronholm/lets-encrypt-azure](https://github.com/repolex-forx/agronholm--lets-encrypt-azure) | `57aac6bf48` | 2026-10-11 |
-| [pydantic/reqwest-middleware](https://github.com/repolex-forx/pydantic--reqwest-middleware) | `1485f61e20` | 2026-10-11 |
-| [agronholm/pyinstaller-hooks-contrib](https://github.com/repolex-forx/agronholm--pyinstaller-hooks-contrib) | `c8339c6246` | 2026-10-11 |
-| [pydantic/pydantic-feedstock](https://github.com/repolex-forx/pydantic--pydantic-feedstock) | `d85e815bf8` | 2026-10-11 |
-| [certifi/gocertifi](https://github.com/repolex-forx/certifi--gocertifi) | `431795d63e` | 2026-10-11 |
-| [certifi/erlang-certifi](https://github.com/repolex-forx/certifi--erlang-certifi) | `36e47cba36` | 2026-10-11 |
+| [pydantic/datafusion-table-providers](https://github.com/repolex-forx/pydantic--datafusion-table-providers) | `2064c60b06` | 2026-10-11 |
+| [pydantic/ai-chat-ui](https://github.com/repolex-forx/pydantic--ai-chat-ui) | `8014d57f8f` | 2026-10-11 |
+| [pydantic/provider-upjet-logfire](https://github.com/repolex-forx/pydantic--provider-upjet-logfire) | `5cf470dcbd` | 2026-10-11 |
+| [pydantic/tracing-opentelemetry-instrumentation-sdk](https://github.com/repolex-forx/pydantic--tracing-opentelemetry-instrumentation-sdk) | `08ef24d98c` | 2026-10-11 |
+| [agronholm/asks](https://github.com/repolex-forx/agronholm--asks) | `e3f2b097fa` | 2026-10-11 |
+| [pydantic/datafusion-federation](https://github.com/repolex-forx/pydantic--datafusion-federation) | `36b0d03a08` | 2026-10-11 |
+| [pydantic/tracing-opentelemetry](https://github.com/repolex-forx/pydantic--tracing-opentelemetry) | `13f7ca2c0a` | 2026-10-11 |
+| [agronholm/docker-atlassian-confluence](https://github.com/repolex-forx/agronholm--docker-atlassian-confluence) | `573b616b9a` | 2026-10-11 |
+| [agronholm/action-general-autotag](https://github.com/repolex-forx/agronholm--action-general-autotag) | `7d2ae9fb80` | 2026-10-11 |
+| [agronholm/pusher-http-python](https://github.com/repolex-forx/agronholm--pusher-http-python) | `57dd636c13` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
