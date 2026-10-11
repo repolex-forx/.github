@@ -34,16 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [celery/bootsteps](https://github.com/repolex-forx/celery--bootsteps) | `f2e788edb1` | 2026-10-10 |
-| [celery/case](https://github.com/repolex-forx/celery--case) | `e0ba875515` | 2026-10-10 |
-| [celery/jumpstarter](https://github.com/repolex-forx/celery--jumpstarter) | `43dbf34e5e` | 2026-10-10 |
-| [celery/sphinx_celery](https://github.com/repolex-forx/celery--sphinx_celery) | `715a76ddbb` | 2026-10-10 |
-| [celery/django-celery-results](https://github.com/repolex-forx/celery--django-celery-results) | `7f41f97b43` | 2026-10-10 |
-| [celery/py-amqp](https://github.com/repolex-forx/celery--py-amqp) | `15fb95f7a8` | 2026-10-10 |
-| [celery/django-celery-beat](https://github.com/repolex-forx/celery--django-celery-beat) | `dfe16f2edc` | 2026-10-10 |
-| [celery/vine](https://github.com/repolex-forx/celery--vine) | `ef33151cbb` | 2026-10-10 |
-| [celery/pytest-celery](https://github.com/repolex-forx/celery--pytest-celery) | `fdbdccf378` | 2026-10-10 |
-| [celery/billiard](https://github.com/repolex-forx/celery--billiard) | `40a82b1533` | 2026-10-10 |
+| [bottlepy/bottle-extras](https://github.com/repolex-forx/bottlepy--bottle-extras) | `e385a3940e` | 2026-10-10 |
+| [bottlepy/bottle-sqlite](https://github.com/repolex-forx/bottlepy--bottle-sqlite) | `fce1bb95e7` | 2026-10-10 |
+| [celery/amqpframe](https://github.com/repolex-forx/celery--amqpframe) | `ab4d73d092` | 2026-10-10 |
+| [celery/cookiecutter-celeryproject](https://github.com/repolex-forx/celery--cookiecutter-celeryproject) | `9efa7bd147` | 2026-10-10 |
+| [celery/cyme](https://github.com/repolex-forx/celery--cyme) | `c49047318c` | 2026-10-10 |
+| [celery/ceps](https://github.com/repolex-forx/celery--ceps) | `462d4aa701` | 2026-10-10 |
+| [celery/Celery-Kubernetes-Operator](https://github.com/repolex-forx/celery--Celery-Kubernetes-Operator) | `622cfa8324` | 2026-10-10 |
+| [celery/cyanide](https://github.com/repolex-forx/celery--cyanide) | `9b7d78dd4d` | 2026-10-10 |
+| [celery/django-celery](https://github.com/repolex-forx/celery--django-celery) | `3b6335d14f` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
