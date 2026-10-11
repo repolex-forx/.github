@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [samuelcolvin/spread](https://github.com/repolex-forx/samuelcolvin--spread) | `180cfaccbc` | 2026-10-10 |
-| [samuelcolvin/nextcall](https://github.com/repolex-forx/samuelcolvin--nextcall) | `3ef572168c` | 2026-10-10 |
-| [samuelcolvin/deckx](https://github.com/repolex-forx/samuelcolvin--deckx) | `ff0a0c4644` | 2026-10-10 |
-| [cherrypy/cheroot](https://github.com/repolex-forx/cherrypy--cheroot) | `a6283c12ca` | 2026-10-10 |
-| [aio-libs/aiohttp-theme](https://github.com/repolex-forx/aio-libs--aiohttp-theme) | `6bb6d4bbf4` | 2026-10-10 |
-| [aio-libs/aiohttp-asyncmdnsresolver](https://github.com/repolex-forx/aio-libs--aiohttp-asyncmdnsresolver) | `238407713a` | 2026-10-10 |
-| [aio-libs/aiofastnet](https://github.com/repolex-forx/aio-libs--aiofastnet) | `29bcb0f991` | 2026-10-10 |
-| [aio-libs/aiosmtpd](https://github.com/repolex-forx/aio-libs--aiosmtpd) | `07e5f26b0c` | 2026-10-10 |
-| [aio-libs/aiohttp-devtools](https://github.com/repolex-forx/aio-libs--aiohttp-devtools) | `5a5d4222c3` | 2026-10-10 |
-| [aio-libs/aiokafka](https://github.com/repolex-forx/aio-libs--aiokafka) | `13a6400024` | 2026-10-10 |
+| [aio-libs/get-releasenote](https://github.com/repolex-forx/aio-libs--get-releasenote) | `ad89ff3bd6` | 2026-10-10 |
+| [cherrypy/magicbus](https://github.com/repolex-forx/cherrypy--magicbus) | `030c66688f` | 2026-10-10 |
+| [agronholm/apscheduler](https://github.com/repolex-forx/agronholm--apscheduler) | `a660860d84` | 2026-10-10 |
+| [pallets-eco/flask-security](https://github.com/repolex-forx/pallets-eco--flask-security) | `4cb3a45c45` | 2026-10-10 |
+| [pallets-eco/flask-debugtoolbar](https://github.com/repolex-forx/pallets-eco--flask-debugtoolbar) | `5751c9ddac` | 2026-10-10 |
+| [tortoise/django-tortoise-objects](https://github.com/repolex-forx/tortoise--django-tortoise-objects) | `8d47497fed` | 2026-10-10 |
+| [tortoise/asyncodbc](https://github.com/repolex-forx/tortoise--asyncodbc) | `efcfa715a2` | 2026-10-10 |
+| [tortoise/tortoise-cli](https://github.com/repolex-forx/tortoise--tortoise-cli) | `f46c230048` | 2026-10-10 |
+| [tortoise/aerich](https://github.com/repolex-forx/tortoise--aerich) | `6333068e09` | 2026-10-10 |
+| [tortoise/pypika-tortoise](https://github.com/repolex-forx/tortoise--pypika-tortoise) | `e175c9c1a6` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
