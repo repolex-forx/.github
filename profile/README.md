@@ -34,16 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [samuelcolvin/grablib](https://github.com/repolex-forx/samuelcolvin--grablib) | `bec5d4fb1b` | 2026-10-11 |
-| [samuelcolvin/buildpg](https://github.com/repolex-forx/samuelcolvin--buildpg) | `e2a16abea5` | 2026-10-11 |
-| [samuelcolvin/dnserver](https://github.com/repolex-forx/samuelcolvin--dnserver) | `a99dfe9461` | 2026-10-11 |
-| [litestar-org/litestar-piccolo](https://github.com/repolex-forx/litestar-org--litestar-piccolo) | `943841d354` | 2026-10-11 |
-| [litestar-org/litestar-oracledb](https://github.com/repolex-forx/litestar-org--litestar-oracledb) | `8708da9bac` | 2026-10-11 |
-| [litestar-org/litestar-django](https://github.com/repolex-forx/litestar-org--litestar-django) | `a66be68559` | 2026-10-11 |
-| [litestar-org/litestar-oidc](https://github.com/repolex-forx/litestar-org--litestar-oidc) | `a8604405f4` | 2026-10-11 |
-| [litestar-org/litestar-hello-world](https://github.com/repolex-forx/litestar-org--litestar-hello-world) | `9076435539` | 2026-10-11 |
-| [litestar-org/litestar-templates](https://github.com/repolex-forx/litestar-org--litestar-templates) | `d5c671f8c2` | 2026-10-11 |
-| [litestar-org/fast-query-parsers](https://github.com/repolex-forx/litestar-org--fast-query-parsers) | `625a2d1f98` | 2026-10-11 |
+| [samuelcolvin/aicli](https://github.com/repolex-forx/samuelcolvin--aicli) | `56aff269b7` | 2026-10-11 |
+| [samuelcolvin/foxglove](https://github.com/repolex-forx/samuelcolvin--foxglove) | `23fa53c7c6` | 2026-10-11 |
+| [samuelcolvin/pytest-speed](https://github.com/repolex-forx/samuelcolvin--pytest-speed) | `21b84fa1ae` | 2026-10-11 |
+| [samuelcolvin/jinjahtml-vscode](https://github.com/repolex-forx/samuelcolvin--jinjahtml-vscode) | `d8daf5fd43` | 2026-10-11 |
+| [samuelcolvin/harrier](https://github.com/repolex-forx/samuelcolvin--harrier) | `dde44eef0f` | 2026-10-11 |
+| [litestar-org/dtos](https://github.com/repolex-forx/litestar-org--dtos) | `2ddd4a6cf4` | 2026-10-11 |
+| [litestar-org/litestar-sphinx-theme](https://github.com/repolex-forx/litestar-org--litestar-sphinx-theme) | `cb7cc4bddb` | 2026-10-11 |
+| [litestar-org/litestar-skills](https://github.com/repolex-forx/litestar-org--litestar-skills) | `d2d7b8276c` | 2026-10-11 |
+| [litestar-org/plugin-registry](https://github.com/repolex-forx/litestar-org--plugin-registry) | `31c0ac397f` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
