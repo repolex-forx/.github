@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [agronholm/aionursery](https://github.com/repolex-forx/agronholm--aionursery) | `c8f5636c65` | 2026-10-11 |
-| [agronholm/dummyproject](https://github.com/repolex-forx/agronholm--dummyproject) | `91b440ff13` | 2026-10-11 |
-| [agronholm/ep2018demo](https://github.com/repolex-forx/agronholm--ep2018demo) | `4dbda56eab` | 2026-10-11 |
-| [agronholm/pyproject-flake8](https://github.com/repolex-forx/agronholm--pyproject-flake8) | `b340fbc92c` | 2026-10-11 |
-| [pydantic/pydantic-core-feedstock](https://github.com/repolex-forx/pydantic--pydantic-core-feedstock) | `1f47ffb686` | 2026-10-11 |
-| [pydantic/logfire-vercel-ai-demo](https://github.com/repolex-forx/pydantic--logfire-vercel-ai-demo) | `0623404cc3` | 2026-10-11 |
-| [pydantic/pydantic-who](https://github.com/repolex-forx/pydantic--pydantic-who) | `b8e36eb767` | 2026-10-11 |
-| [pydantic/logfire-claude-plugin](https://github.com/repolex-forx/pydantic--logfire-claude-plugin) | `3da608785d` | 2026-10-11 |
-| [python-trio/ahip](https://github.com/repolex-forx/python-trio--ahip) | `a0085fd9a7` | 2026-10-11 |
-| [python-trio/.github](https://github.com/repolex-forx/python-trio--.github) | `840f9da893` | 2026-10-11 |
+| [agronholm/trio-typing](https://github.com/repolex-forx/agronholm--trio-typing) | `2b182b7d78` | 2026-10-11 |
+| [agronholm/modoboa-dmarc](https://github.com/repolex-forx/agronholm--modoboa-dmarc) | `47572ed820` | 2026-10-11 |
+| [agronholm/redis-specifications](https://github.com/repolex-forx/agronholm--redis-specifications) | `7bd21a0765` | 2026-10-11 |
+| [pydantic/pydantic-handlebars](https://github.com/repolex-forx/pydantic--pydantic-handlebars) | `9812951da4` | 2026-10-11 |
+| [pydantic/logfire-auth-action](https://github.com/repolex-forx/pydantic--logfire-auth-action) | `5bc43913fd` | 2026-10-11 |
+| [pydantic/speedate](https://github.com/repolex-forx/pydantic--speedate) | `a68ce8660d` | 2026-10-11 |
+| [pydantic/claude-code-logfire-plugin](https://github.com/repolex-forx/pydantic--claude-code-logfire-plugin) | `0f1b1172a4` | 2026-10-11 |
+| [pydantic/monty-helm-chart](https://github.com/repolex-forx/pydantic--monty-helm-chart) | `2ef57eac25` | 2026-10-11 |
+| [pydantic/strict-no-cover](https://github.com/repolex-forx/pydantic--strict-no-cover) | `6c644106e0` | 2026-10-11 |
+| [pydantic/.github](https://github.com/repolex-forx/pydantic--.github) | `31399f9034` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
