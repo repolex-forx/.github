@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [fastapi/sqlmodel](https://github.com/repolex-forx/fastapi--sqlmodel) | 0.0.48 | 2026-10-10 |
-| [fastapi/typer](https://github.com/repolex-forx/fastapi--typer) | 0.27.3 | 2026-10-10 |
-| [aio-libs/aioftp](https://github.com/repolex-forx/aio-libs--aioftp) | `11d8dd916d` | 2026-10-10 |
-| [encode/mkdocs](https://github.com/repolex-forx/encode--mkdocs) | `c03ca093c7` | 2026-10-10 |
-| [fastapi/fastapi-cli](https://github.com/repolex-forx/fastapi--fastapi-cli) | `093be9ca19` | 2026-10-10 |
-| [fastapi/asyncer](https://github.com/repolex-forx/fastapi--asyncer) | `de024c755c` | 2026-10-10 |
-| [aio-libs/sort-all](https://github.com/repolex-forx/aio-libs--sort-all) | `0caa98df16` | 2026-10-10 |
-| [fastapi/annotated-doc](https://github.com/repolex-forx/fastapi--annotated-doc) | `e6e7324ff5` | 2026-10-10 |
-| [aio-libs/aiohttp-apischema](https://github.com/repolex-forx/aio-libs--aiohttp-apischema) | `25d10ce623` | 2026-10-10 |
-| [fastapi/fastapi-new](https://github.com/repolex-forx/fastapi--fastapi-new) | `6902db31d1` | 2026-10-10 |
+| [python-trio/unasync](https://github.com/repolex-forx/python-trio--unasync) | `3a0a3bee2a` | 2026-10-11 |
+| [pypa/flit](https://github.com/repolex-forx/pypa--flit) | 4.1.0 | 2026-10-10 |
+| [litestar-org/pytest-databases](https://github.com/repolex-forx/litestar-org--pytest-databases) | `bbefed5477` | 2026-10-10 |
+| [pypa/abi3audit](https://github.com/repolex-forx/pypa--abi3audit) | `a33c6e0fe6` | 2026-10-10 |
+| [litestar-org/type-lens](https://github.com/repolex-forx/litestar-org--type-lens) | `58fccf85bd` | 2026-10-10 |
+| [pypa/pyproject-metadata](https://github.com/repolex-forx/pypa--pyproject-metadata) | `c78be647e3` | 2026-10-10 |
+| [pypa/installer](https://github.com/repolex-forx/pypa--installer) | `ba622422bc` | 2026-10-10 |
+| [pypa/trove-classifiers](https://github.com/repolex-forx/pypa--trove-classifiers) | 2026.9.21.13 | 2026-10-10 |
+| [pypa/dependency-groups](https://github.com/repolex-forx/pypa--dependency-groups) | `facfeaf7f8` | 2026-10-10 |
+| [pypa/pyproject-hooks](https://github.com/repolex-forx/pypa--pyproject-hooks) | v1.3.3 | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
