@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [samuelcolvin/notify](https://github.com/repolex-forx/samuelcolvin--notify) | `128bf6230c` | 2026-10-11 |
-| [samuelcolvin/python-devtools](https://github.com/repolex-forx/samuelcolvin--python-devtools) | `5022f1f6f1` | 2026-10-11 |
-| [samuelcolvin/scratch](https://github.com/repolex-forx/samuelcolvin--scratch) | `09b89c9bd4` | 2026-10-11 |
-| [samuelcolvin/array-has-slow](https://github.com/repolex-forx/samuelcolvin--array-has-slow) | `d833682ce9` | 2026-10-11 |
-| [samuelcolvin/batson-perf](https://github.com/repolex-forx/samuelcolvin--batson-perf) | `107627c5ba` | 2026-10-11 |
-| [samuelcolvin/mkdocs-redirects](https://github.com/repolex-forx/samuelcolvin--mkdocs-redirects) | `32ccfd0ce3` | 2026-10-11 |
-| [samuelcolvin/aioaws](https://github.com/repolex-forx/samuelcolvin--aioaws) | `d4141e30a1` | 2026-10-11 |
-| [samuelcolvin/pydantic-v2-startup-perf-bench](https://github.com/repolex-forx/samuelcolvin--pydantic-v2-startup-perf-bench) | `be3e062207` | 2026-10-11 |
-| [samuelcolvin/ollama-python](https://github.com/repolex-forx/samuelcolvin--ollama-python) | `70dd0b7e63` | 2026-10-11 |
-| [samuelcolvin/smokeshow](https://github.com/repolex-forx/samuelcolvin--smokeshow) | `6e982a3d08` | 2026-10-11 |
+| [agronholm/aionursery](https://github.com/repolex-forx/agronholm--aionursery) | `c8f5636c65` | 2026-10-11 |
+| [agronholm/dummyproject](https://github.com/repolex-forx/agronholm--dummyproject) | `91b440ff13` | 2026-10-11 |
+| [agronholm/ep2018demo](https://github.com/repolex-forx/agronholm--ep2018demo) | `4dbda56eab` | 2026-10-11 |
+| [agronholm/pyproject-flake8](https://github.com/repolex-forx/agronholm--pyproject-flake8) | `b340fbc92c` | 2026-10-11 |
+| [pydantic/pydantic-core-feedstock](https://github.com/repolex-forx/pydantic--pydantic-core-feedstock) | `1f47ffb686` | 2026-10-11 |
+| [pydantic/logfire-vercel-ai-demo](https://github.com/repolex-forx/pydantic--logfire-vercel-ai-demo) | `0623404cc3` | 2026-10-11 |
+| [pydantic/pydantic-who](https://github.com/repolex-forx/pydantic--pydantic-who) | `b8e36eb767` | 2026-10-11 |
+| [pydantic/logfire-claude-plugin](https://github.com/repolex-forx/pydantic--logfire-claude-plugin) | `3da608785d` | 2026-10-11 |
+| [python-trio/ahip](https://github.com/repolex-forx/python-trio--ahip) | `a0085fd9a7` | 2026-10-11 |
+| [python-trio/.github](https://github.com/repolex-forx/python-trio--.github) | `840f9da893` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
