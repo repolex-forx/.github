@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [aio-libs/aioloop-proxy](https://github.com/repolex-forx/aio-libs--aioloop-proxy) | `ab9a19d098` | 2026-10-11 |
-| [aio-libs/aiohttp-benchmarks](https://github.com/repolex-forx/aio-libs--aiohttp-benchmarks) | `018d6a3dd9` | 2026-10-11 |
-| [aio-libs/aioppspp](https://github.com/repolex-forx/aio-libs--aioppspp) | `08cda4c4b1` | 2026-10-11 |
-| [aio-libs/aiocouchdb](https://github.com/repolex-forx/aio-libs--aiocouchdb) | `84a08cc339` | 2026-10-11 |
-| [aio-libs/aioamqp_consumer](https://github.com/repolex-forx/aio-libs--aioamqp_consumer) | `c687211e38` | 2026-10-11 |
-| [aio-libs/idna-ssl](https://github.com/repolex-forx/aio-libs--idna-ssl) | `24f5451418` | 2026-10-11 |
-| [aio-libs/aiocassandra](https://github.com/repolex-forx/aio-libs--aiocassandra) | `023dd429e1` | 2026-10-11 |
-| [aio-libs/aioelasticsearch](https://github.com/repolex-forx/aio-libs--aioelasticsearch) | `81b6ae3434` | 2026-10-11 |
-| [aio-libs/aiologstash](https://github.com/repolex-forx/aio-libs--aiologstash) | `61c8f784c5` | 2026-10-11 |
-| [aio-libs/aioodbc](https://github.com/repolex-forx/aio-libs--aioodbc) | `62069a2ecb` | 2026-10-11 |
+| [samuelcolvin/parplot](https://github.com/repolex-forx/samuelcolvin--parplot) | `236f42423c` | 2026-10-11 |
+| [samuelcolvin/qrcam](https://github.com/repolex-forx/samuelcolvin--qrcam) | `ed1fffdd9d` | 2026-10-11 |
+| [tox-dev/action-pre-commit-uv](https://github.com/repolex-forx/tox-dev--action-pre-commit-uv) | `4de52c139e` | 2026-10-11 |
+| [pytest-dev/pytest-nunit](https://github.com/repolex-forx/pytest-dev--pytest-nunit) | `3890ee8ed4` | 2026-10-11 |
+| [pytest-dev/pytest-cloud](https://github.com/repolex-forx/pytest-dev--pytest-cloud) | `d4409d69af` | 2026-10-11 |
+| [pytest-dev/pytest-talks](https://github.com/repolex-forx/pytest-dev--pytest-talks) | `6eae44166e` | 2026-10-11 |
+| [pytest-dev/pytest-tcpclient](https://github.com/repolex-forx/pytest-dev--pytest-tcpclient) | `aa8b88db66` | 2026-10-11 |
+| [pytest-dev/pytest-stress](https://github.com/repolex-forx/pytest-dev--pytest-stress) | `2f4a6fb8a3` | 2026-10-11 |
+| [pytest-dev/pytest-splinter](https://github.com/repolex-forx/pytest-dev--pytest-splinter) | `1b0aa1efae` | 2026-10-11 |
+| [pytest-dev/regendoc](https://github.com/repolex-forx/pytest-dev--regendoc) | `e6013a994f` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
