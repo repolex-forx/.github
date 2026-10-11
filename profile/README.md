@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [aio-libs/get-releasenote](https://github.com/repolex-forx/aio-libs--get-releasenote) | `ad89ff3bd6` | 2026-10-10 |
-| [cherrypy/magicbus](https://github.com/repolex-forx/cherrypy--magicbus) | `030c66688f` | 2026-10-10 |
-| [agronholm/apscheduler](https://github.com/repolex-forx/agronholm--apscheduler) | `a660860d84` | 2026-10-10 |
-| [pallets-eco/flask-security](https://github.com/repolex-forx/pallets-eco--flask-security) | `4cb3a45c45` | 2026-10-10 |
-| [pallets-eco/flask-debugtoolbar](https://github.com/repolex-forx/pallets-eco--flask-debugtoolbar) | `5751c9ddac` | 2026-10-10 |
-| [tortoise/django-tortoise-objects](https://github.com/repolex-forx/tortoise--django-tortoise-objects) | `8d47497fed` | 2026-10-10 |
-| [tortoise/asyncodbc](https://github.com/repolex-forx/tortoise--asyncodbc) | `efcfa715a2` | 2026-10-10 |
-| [tortoise/tortoise-cli](https://github.com/repolex-forx/tortoise--tortoise-cli) | `f46c230048` | 2026-10-10 |
-| [tortoise/aerich](https://github.com/repolex-forx/tortoise--aerich) | `6333068e09` | 2026-10-10 |
-| [tortoise/pypika-tortoise](https://github.com/repolex-forx/tortoise--pypika-tortoise) | `e175c9c1a6` | 2026-10-10 |
+| [samuelcolvin/forgettable](https://github.com/repolex-forx/samuelcolvin--forgettable) | `a411426afc` | 2026-10-10 |
+| [samuelcolvin/coverage-badge](https://github.com/repolex-forx/samuelcolvin--coverage-badge) | `5b90140d73` | 2026-10-10 |
+| [pallets-eco/flask-admin](https://github.com/repolex-forx/pallets-eco--flask-admin) | `9f0d23c03d` | 2026-10-10 |
+| [pypa/sampleproject](https://github.com/repolex-forx/pypa--sampleproject) | `621e4974ca` | 2026-10-10 |
+| [pypa/scripttest](https://github.com/repolex-forx/pypa--scripttest) | `3bebe70d11` | 2026-10-10 |
+| [pypa/gh-action-pip-audit](https://github.com/repolex-forx/pypa--gh-action-pip-audit) | `fb241f5816` | 2026-10-10 |
+| [pypa/distutils](https://github.com/repolex-forx/pypa--distutils) | `3ed42426ce` | 2026-10-10 |
+| [pypa/gh-action-pypi-publish](https://github.com/repolex-forx/pypa--gh-action-pypi-publish) | `c0d6f8e4af` | 2026-10-10 |
+| [pypa/hatch-code](https://github.com/repolex-forx/pypa--hatch-code) | `cebff56f5d` | 2026-10-10 |
+| [pypa/bootstrap](https://github.com/repolex-forx/pypa--bootstrap) | `9797ac6a73` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
