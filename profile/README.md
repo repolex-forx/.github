@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [samuelcolvin/mkdocs-run-code](https://github.com/repolex-forx/samuelcolvin--mkdocs-run-code) | `9a39e6b22c` | 2026-10-11 |
-| [samuelcolvin/mcpython](https://github.com/repolex-forx/samuelcolvin--mcpython) | `b461097e1d` | 2026-10-11 |
-| [cherrypy/python3statement.github.io](https://github.com/repolex-forx/cherrypy--python3statement.github.io) | `ede803185d` | 2026-10-11 |
-| [psf/bpo-tracker-cpython](https://github.com/repolex-forx/psf--bpo-tracker-cpython) | `1a94f0977c` | 2026-10-11 |
-| [psf/python-in-edu](https://github.com/repolex-forx/psf--python-in-edu) | `d4634d5357` | 2026-10-11 |
-| [psf/matterbridge-configuration](https://github.com/repolex-forx/psf--matterbridge-configuration) | `099868bb00` | 2026-10-11 |
-| [psf/docker-mailman](https://github.com/repolex-forx/psf--docker-mailman) | `6b091fc17a` | 2026-10-11 |
-| [pypa/packaging-problems](https://github.com/repolex-forx/pypa--packaging-problems) | `a4dd99101a` | 2026-10-11 |
-| [pypa/rootbeer](https://github.com/repolex-forx/pypa--rootbeer) | `f121ac5e3b` | 2026-10-11 |
-| [pypa/pip-test-package](https://github.com/repolex-forx/pypa--pip-test-package) | `96d6d72ac5` | 2026-10-11 |
+| [encode/dashboard](https://github.com/repolex-forx/encode--dashboard) | `a184d749a3` | 2026-10-11 |
+| [samuelcolvin/datafusion-sql-udfs](https://github.com/repolex-forx/samuelcolvin--datafusion-sql-udfs) | `d173e9ba6e` | 2026-10-11 |
+| [samuelcolvin/cloudkv](https://github.com/repolex-forx/samuelcolvin--cloudkv) | `c5cb4dec9f` | 2026-10-11 |
+| [agronholm/unasync](https://github.com/repolex-forx/agronholm--unasync) | `3d7a369509` | 2026-10-11 |
+| [agronholm/httpx-ws](https://github.com/repolex-forx/agronholm--httpx-ws) | `c9efdda0ce` | 2026-10-11 |
+| [agronholm/httpx-sse](https://github.com/repolex-forx/agronholm--httpx-sse) | `643938c805` | 2026-10-11 |
+| [agronholm/sniffio](https://github.com/repolex-forx/agronholm--sniffio) | `95190ad580` | 2026-10-11 |
+| [pallets-eco/flask-stache](https://github.com/repolex-forx/pallets-eco--flask-stache) | `b3bbd326bd` | 2026-10-11 |
+| [pallets-eco/flask-api-examples](https://github.com/repolex-forx/pallets-eco--flask-api-examples) | `837ba43230` | 2026-10-11 |
+| [pallets-eco/click-bash4.2-completion](https://github.com/repolex-forx/pallets-eco--click-bash4.2-completion) | `b0fcf111ad` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
