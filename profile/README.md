@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [agronholm/trio-typing](https://github.com/repolex-forx/agronholm--trio-typing) | `2b182b7d78` | 2026-10-11 |
-| [agronholm/modoboa-dmarc](https://github.com/repolex-forx/agronholm--modoboa-dmarc) | `47572ed820` | 2026-10-11 |
-| [agronholm/redis-specifications](https://github.com/repolex-forx/agronholm--redis-specifications) | `7bd21a0765` | 2026-10-11 |
-| [pydantic/pydantic-handlebars](https://github.com/repolex-forx/pydantic--pydantic-handlebars) | `9812951da4` | 2026-10-11 |
-| [pydantic/logfire-auth-action](https://github.com/repolex-forx/pydantic--logfire-auth-action) | `5bc43913fd` | 2026-10-11 |
-| [pydantic/speedate](https://github.com/repolex-forx/pydantic--speedate) | `a68ce8660d` | 2026-10-11 |
-| [pydantic/claude-code-logfire-plugin](https://github.com/repolex-forx/pydantic--claude-code-logfire-plugin) | `0f1b1172a4` | 2026-10-11 |
-| [pydantic/monty-helm-chart](https://github.com/repolex-forx/pydantic--monty-helm-chart) | `2ef57eac25` | 2026-10-11 |
-| [pydantic/strict-no-cover](https://github.com/repolex-forx/pydantic--strict-no-cover) | `6c644106e0` | 2026-10-11 |
-| [pydantic/.github](https://github.com/repolex-forx/pydantic--.github) | `31399f9034` | 2026-10-11 |
+| [agronholm/reorder_python_imports](https://github.com/repolex-forx/agronholm--reorder_python_imports) | `b34a28239d` | 2026-10-11 |
+| [agronholm/sphinx-autodoc-typehints](https://github.com/repolex-forx/agronholm--sphinx-autodoc-typehints) | `af98022c1e` | 2026-10-11 |
+| [agronholm/serge](https://github.com/repolex-forx/agronholm--serge) | `12e2d63319` | 2026-10-11 |
+| [tox-dev/tox-travis](https://github.com/repolex-forx/tox-dev--tox-travis) | `fd98366ef2` | 2026-10-11 |
+| [tox-dev/tox-conda](https://github.com/repolex-forx/tox-dev--tox-conda) | `1bebdc94f3` | 2026-10-11 |
+| [tox-dev/toml-fmt-common](https://github.com/repolex-forx/tox-dev--toml-fmt-common) | `9647ac4da3` | 2026-10-11 |
+| [tox-dev/azure-pipelines-template](https://github.com/repolex-forx/tox-dev--azure-pipelines-template) | `c231fdfb68` | 2026-10-11 |
+| [tox-dev/tox-bindep](https://github.com/repolex-forx/tox-dev--tox-bindep) | `7edd12e2cf` | 2026-10-11 |
+| [tox-dev/tox-pyenv](https://github.com/repolex-forx/tox-dev--tox-pyenv) | `464180efa7` | 2026-10-11 |
+| [aio-libs/.github](https://github.com/repolex-forx/aio-libs--.github) | `df5def2d78` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
