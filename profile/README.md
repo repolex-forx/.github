@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-doc/sphinxcontrib-serializinghtml](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-serializinghtml) | `f0f3b15b2e` | 2026-10-11 |
+| [sphinx-doc/sphinxcontrib-devhelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-devhelp) | `0177fb44f1` | 2026-10-11 |
+| [sphinx-doc/sphinxcontrib-applehelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-applehelp) | `f4f9d900b2` | 2026-10-11 |
+| [sphinx-doc/sphinxcontrib-htmlhelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-htmlhelp) | `f7f5d4ecf2` | 2026-10-11 |
+| [sphinx-doc/sphinxcontrib-qthelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-qthelp) | `783caf58e9` | 2026-10-11 |
+| [sphinx-doc/sphinxcontrib-websupport](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-websupport) | `25dab08ff4` | 2026-10-11 |
+| [sphinx-doc/sphinxext-rediraffe](https://github.com/repolex-forx/sphinx-doc--sphinxext-rediraffe) | `47273a20ad` | 2026-10-11 |
+| [sphinx-doc/sphinxcontrib-django](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-django) | `0c06ad2379` | 2026-10-11 |
+| [sphinx-doc/sphinx-argparse](https://github.com/repolex-forx/sphinx-doc--sphinx-argparse) | `32b9a006af` | 2026-10-11 |
+| [sphinx-doc/alabaster](https://github.com/repolex-forx/sphinx-doc--alabaster) | `fba58a4398` | 2026-10-11 |
 | [sphinx-doc/sphinxext-opengraph](https://github.com/repolex-forx/sphinx-doc--sphinxext-opengraph) | `95cf8a8c30` | 2026-10-11 |
 | [sphinx-doc/sphinx-autobuild](https://github.com/repolex-forx/sphinx-doc--sphinx-autobuild) | `c9b7cb990e` | 2026-10-11 |
 | [sphinx-doc/sphinx-intl](https://github.com/repolex-forx/sphinx-doc--sphinx-intl) | `1e9e8e9835` | 2026-10-11 |
