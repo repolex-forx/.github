@@ -34,16 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [marshmallow-code/apispec-webframeworks](https://github.com/repolex-forx/marshmallow-code--apispec-webframeworks) | `b03f02fe2f` | 2026-10-10 |
-| [marshmallow-code/marshmallow-oneofschema](https://github.com/repolex-forx/marshmallow-code--marshmallow-oneofschema) | `6b25e361b7` | 2026-10-10 |
-| [aio-libs/aiobotocore](https://github.com/repolex-forx/aio-libs--aiobotocore) | `c58f9b5221` | 2026-10-10 |
-| [jazzband/django-ical](https://github.com/repolex-forx/jazzband--django-ical) | `47695cbc9b` | 2026-10-10 |
-| [jazzband/django-floppyforms](https://github.com/repolex-forx/jazzband--django-floppyforms) | `3c019feda4` | 2026-10-10 |
-| [jazzband/Watson](https://github.com/repolex-forx/jazzband--Watson) | `d9de4fcf3a` | 2026-10-10 |
-| [jazzband/django-defender](https://github.com/repolex-forx/jazzband--django-defender) | `daa6235caf` | 2026-10-10 |
-| [jazzband/django-revproxy](https://github.com/repolex-forx/jazzband--django-revproxy) | `72e1d4d7c9` | 2026-10-10 |
-| [jazzband/django-newsletter](https://github.com/repolex-forx/jazzband--django-newsletter) | `fbde7a13ba` | 2026-10-10 |
-| [jazzband/website](https://github.com/repolex-forx/jazzband--website) | `340e43e1e0` | 2026-10-10 |
+| [aio-libs/aiohttp-session](https://github.com/repolex-forx/aio-libs--aiohttp-session) | `5060d64ba2` | 2026-10-10 |
+| [aio-libs/aiomcache](https://github.com/repolex-forx/aio-libs--aiomcache) | `bf912d16f4` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
