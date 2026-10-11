@@ -34,17 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [psf/fides-deploy](https://github.com/repolex-forx/psf--fides-deploy) | `6fcea6d243` | 2026-10-11 |
-| [psf/gh-migration](https://github.com/repolex-forx/psf--gh-migration) | `96a350c3dd` | 2026-10-11 |
-| [psf/community-code-of-conduct](https://github.com/repolex-forx/psf--community-code-of-conduct) | `ebb4d2c1d4` | 2026-10-11 |
-| [psf/elections](https://github.com/repolex-forx/psf--elections) | `68a6bfc258` | 2026-10-11 |
-| [psf/user-success-wg](https://github.com/repolex-forx/psf--user-success-wg) | `16d552e3af` | 2026-10-11 |
-| [pallets/werkzeug-website](https://github.com/repolex-forx/pallets--werkzeug-website) | `a1243ec510` | 2026-10-11 |
-| [pallets/flask-ext-migrate](https://github.com/repolex-forx/pallets--flask-ext-migrate) | `913e598e60` | 2026-10-11 |
-| [pallets/flask-sphinx-themes](https://github.com/repolex-forx/pallets--flask-sphinx-themes) | `3d562d0f68` | 2026-10-11 |
-| [python-poetry/semver](https://github.com/repolex-forx/python-poetry--semver) | `7ef69b00f6` | 2026-10-11 |
-| [tiangolo/tiangolo](https://github.com/repolex-forx/tiangolo--tiangolo) | `4e5408956f` | 2026-10-11 |
-| [urllib3/urllib3-secure-extra](https://github.com/repolex-forx/urllib3--urllib3-secure-extra) | `b69da6320d` | 2026-10-11 |
+| [cherrypy/cherrypy.github.io](https://github.com/repolex-forx/cherrypy--cherrypy.github.io) | `188d9e3db5` | 2026-10-11 |
+| [psf/bpo-tracker-jython](https://github.com/repolex-forx/psf--bpo-tracker-jython) | `731b79d60e` | 2026-10-11 |
+| [psf/bpo-tracker-roundup](https://github.com/repolex-forx/psf--bpo-tracker-roundup) | `88ef50697a` | 2026-10-11 |
+| [cherrypy/tools](https://github.com/repolex-forx/cherrypy--tools) | `1b4e9438e9` | 2026-10-11 |
+| [tiangolo/meinheld-gunicorn-docker](https://github.com/repolex-forx/tiangolo--meinheld-gunicorn-docker) | `70cb7974f4` | 2026-10-11 |
+| [pallets/flask-docs](https://github.com/repolex-forx/pallets--flask-docs) | `ba4713af85` | 2026-10-11 |
+| [psf/project-funding-wg](https://github.com/repolex-forx/psf--project-funding-wg) | `9c21a8c901` | 2026-10-11 |
+| [psf/request-for](https://github.com/repolex-forx/psf--request-for) | `9f42ba4f02` | 2026-10-11 |
+| [psf/fundable-packaging-improvements](https://github.com/repolex-forx/psf--fundable-packaging-improvements) | `638bbd48f4` | 2026-10-11 |
+| [marshmallow-code/renovate-config](https://github.com/repolex-forx/marshmallow-code--renovate-config) | `b04c0a3af1` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
