@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [jazzband/django-payments](https://github.com/repolex-forx/jazzband--django-payments) | `8edfb1fc47` | 2026-10-10 |
-| [jazzband/django-robots](https://github.com/repolex-forx/jazzband--django-robots) | `4d151bcd64` | 2026-10-10 |
-| [pypa/auditwheel](https://github.com/repolex-forx/pypa--auditwheel) | `63a51b2f62` | 2026-10-10 |
-| [pypa/bandersnatch](https://github.com/repolex-forx/pypa--bandersnatch) | `6e27445dd5` | 2026-10-10 |
-| [python-trio/trio-monitor](https://github.com/repolex-forx/python-trio--trio-monitor) | `1fc9766a18` | 2026-10-10 |
-| [python-trio/asyncgpio](https://github.com/repolex-forx/python-trio--asyncgpio) | `9b35613b05` | 2026-10-10 |
-| [python-trio/trio-mysql](https://github.com/repolex-forx/python-trio--trio-mysql) | `34812ab354` | 2026-10-10 |
-| [python-trio/trio-amqp](https://github.com/repolex-forx/python-trio--trio-amqp) | `9a572309e0` | 2026-10-10 |
-| [python-trio/triopg](https://github.com/repolex-forx/python-trio--triopg) | `6575b2212a` | 2026-10-10 |
-| [python-trio/purerpc](https://github.com/repolex-forx/python-trio--purerpc) | `a3c17dd885` | 2026-10-10 |
+| [jazzband/django-smart-selects](https://github.com/repolex-forx/jazzband--django-smart-selects) | `780c1dfc2b` | 2026-10-10 |
+| [jazzband/django-configurations](https://github.com/repolex-forx/jazzband--django-configurations) | `3d0d4216ca` | 2026-10-10 |
+| [pallets-eco/flask-sqlalchemy-lite](https://github.com/repolex-forx/pallets-eco--flask-sqlalchemy-lite) | `8d31da6885` | 2026-10-10 |
+| [pallets-eco/flask-dramatiq](https://github.com/repolex-forx/pallets-eco--flask-dramatiq) | `566922ec1e` | 2026-10-10 |
+| [pallets-eco/flask-openid](https://github.com/repolex-forx/pallets-eco--flask-openid) | `1eccf8a8a2` | 2026-10-10 |
+| [pallets-eco/flask-pydantic](https://github.com/repolex-forx/pallets-eco--flask-pydantic) | `bc3fee46e6` | 2026-10-10 |
+| [pallets-eco/flask-classful](https://github.com/repolex-forx/pallets-eco--flask-classful) | `ff67068288` | 2026-10-10 |
+| [pallets-eco/flask-principal](https://github.com/repolex-forx/pallets-eco--flask-principal) | `f46b75e42d` | 2026-10-10 |
+| [pallets-eco/flask-session](https://github.com/repolex-forx/pallets-eco--flask-session) | `bc2fe67958` | 2026-10-10 |
+| [pallets-eco/flask-sqlalchemy](https://github.com/repolex-forx/pallets-eco--flask-sqlalchemy) | `80ac6ef26b` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
