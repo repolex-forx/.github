@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [aio-libs/prepare-coverage](https://github.com/repolex-forx/aio-libs--prepare-coverage) | `4a1ef3620e` | 2026-10-10 |
-| [aio-libs/upload-coverage](https://github.com/repolex-forx/aio-libs--upload-coverage) | `31d1bc1040` | 2026-10-10 |
-| [agronholm/release-notes](https://github.com/repolex-forx/agronholm--release-notes) | `d1772d33a8` | 2026-10-10 |
-| [samuelcolvin/luck-or-judgement](https://github.com/repolex-forx/samuelcolvin--luck-or-judgement) | `ecc7c9e5a6` | 2026-10-10 |
-| [samuelcolvin/call-alert](https://github.com/repolex-forx/samuelcolvin--call-alert) | `388511b0a5` | 2026-10-10 |
-| [samuelcolvin/antm](https://github.com/repolex-forx/samuelcolvin--antm) | `922d2902b1` | 2026-10-10 |
-| [tox-dev/workflow](https://github.com/repolex-forx/tox-dev--workflow) | `1bb961580e` | 2026-10-10 |
-| [python-poetry/install.python-poetry.org](https://github.com/repolex-forx/python-poetry--install.python-poetry.org) | `458b4019ae` | 2026-10-10 |
-| [python-poetry/website](https://github.com/repolex-forx/python-poetry--website) | `94d129208a` | 2026-10-10 |
-| [python-poetry/poetry-core](https://github.com/repolex-forx/python-poetry--poetry-core) | `b52c25c451` | 2026-10-10 |
+| [pallets-eco/flask-docs-translations](https://github.com/repolex-forx/pallets-eco--flask-docs-translations) | `71e4a78866` | 2026-10-10 |
+| [samuelcolvin/scolvin.com](https://github.com/repolex-forx/samuelcolvin--scolvin.com) | `fe642c11e1` | 2026-10-10 |
+| [samuelcolvin/obsbot-rs](https://github.com/repolex-forx/samuelcolvin--obsbot-rs) | `e8a17fb8f1` | 2026-10-10 |
+| [tornadoweb/tornado-testbed](https://github.com/repolex-forx/tornadoweb--tornado-testbed) | `ba2cc54671` | 2026-10-10 |
+| [pypa/manylinux](https://github.com/repolex-forx/pypa--manylinux) | `57bd9a6e8f` | 2026-10-10 |
+| [psf/webassembly](https://github.com/repolex-forx/psf--webassembly) | `60cd7a6672` | 2026-10-10 |
+| [psf/sboms-for-python-packages](https://github.com/repolex-forx/psf--sboms-for-python-packages) | `a399bc2f1e` | 2026-10-10 |
+| [psf/policies](https://github.com/repolex-forx/psf--policies) | `e767816f96` | 2026-10-10 |
+| [psf/organizer-toolkit](https://github.com/repolex-forx/psf--organizer-toolkit) | `661a39b6b0` | 2026-10-10 |
+| [psf/requests-html](https://github.com/repolex-forx/psf--requests-html) | `075ac162dc` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
