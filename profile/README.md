@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [scrapy/itemloaders](https://github.com/repolex-forx/scrapy--itemloaders) | `f3e680016d` | 2026-10-10 |
-| [scrapy/queuelib](https://github.com/repolex-forx/scrapy--queuelib) | `885ef61c6a` | 2026-10-10 |
-| [pytest-dev/pytest-services](https://github.com/repolex-forx/pytest-dev--pytest-services) | `bf6132c858` | 2026-10-10 |
-| [pytest-dev/pytest-repeat](https://github.com/repolex-forx/pytest-dev--pytest-repeat) | `a84eaa9196` | 2026-10-10 |
-| [pytest-dev/pytest-html](https://github.com/repolex-forx/pytest-dev--pytest-html) | `dd163c5408` | 2026-10-10 |
-| [pytest-dev/pytest-subtests](https://github.com/repolex-forx/pytest-dev--pytest-subtests) | `1e5760131d` | 2026-10-10 |
-| [pytest-dev/pytest-timeout](https://github.com/repolex-forx/pytest-dev--pytest-timeout) | `16edd491cb` | 2026-10-10 |
-| [pytest-dev/pytest-randomly](https://github.com/repolex-forx/pytest-dev--pytest-randomly) | `35dcf0a5df` | 2026-10-10 |
-| [pytest-dev/pytest-flask](https://github.com/repolex-forx/pytest-dev--pytest-flask) | `22120c079d` | 2026-10-10 |
-| [pytest-dev/pytest-django](https://github.com/repolex-forx/pytest-dev--pytest-django) | `ad5867df0b` | 2026-10-10 |
+| [pytest-dev/pytest-metadata](https://github.com/repolex-forx/pytest-dev--pytest-metadata) | `16b39d2b8e` | 2026-10-10 |
+| [pytest-dev/pytest-xprocess](https://github.com/repolex-forx/pytest-dev--pytest-xprocess) | `8aa836bc3e` | 2026-10-10 |
+| [pytest-dev/pytest-bdd](https://github.com/repolex-forx/pytest-dev--pytest-bdd) | `0e04014fd5` | 2026-10-10 |
+| [pytest-dev/pytest-selenium](https://github.com/repolex-forx/pytest-dev--pytest-selenium) | `98de796ad4` | 2026-10-10 |
+| [pytest-dev/pytest-variables](https://github.com/repolex-forx/pytest-dev--pytest-variables) | `0a5b11e474` | 2026-10-10 |
+| [pytest-dev/pytest-reportlog](https://github.com/repolex-forx/pytest-dev--pytest-reportlog) | `cd0788f2c8` | 2026-10-10 |
+| [pytest-dev/pytest-qt](https://github.com/repolex-forx/pytest-dev--pytest-qt) | `9dc1aa871b` | 2026-10-10 |
+| [pytest-dev/pytest-localserver](https://github.com/repolex-forx/pytest-dev--pytest-localserver) | `673ef31f7a` | 2026-10-10 |
+| [pytest-dev/pytest-cpp](https://github.com/repolex-forx/pytest-dev--pytest-cpp) | `a1b526e69c` | 2026-10-10 |
+| [pytest-dev/pytest-base-url](https://github.com/repolex-forx/pytest-dev--pytest-base-url) | `538ec4c67b` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
