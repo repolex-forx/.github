@@ -34,17 +34,13 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [pytest-dev/py](https://github.com/repolex-forx/pytest-dev--py) | `6b219734fc` | 2026-10-11 |
-| [cherrypy/cherrypy](https://github.com/repolex-forx/cherrypy--cherrypy) | `1f75bc9eed` | 2026-10-11 |
-| [pydantic/files.pydantic.run](https://github.com/repolex-forx/pydantic--files.pydantic.run) | `6254f2cfe9` | 2026-10-11 |
-| [pydantic/pydantic-media-kit](https://github.com/repolex-forx/pydantic--pydantic-media-kit) | `e84e2728e1` | 2026-10-11 |
-| [samuelcolvin/cf-run-python](https://github.com/repolex-forx/samuelcolvin--cf-run-python) | `d7db0200c1` | 2026-10-11 |
-| [samuelcolvin/logfire_django_demo](https://github.com/repolex-forx/samuelcolvin--logfire_django_demo) | `0e985073ce` | 2026-10-11 |
-| [samuelcolvin/datafusion-id-experiment](https://github.com/repolex-forx/samuelcolvin--datafusion-id-experiment) | `e31ed01e44` | 2026-10-11 |
-| [samuelcolvin/quick-strings](https://github.com/repolex-forx/samuelcolvin--quick-strings) | `2e427ddeef` | 2026-10-11 |
-| [samuelcolvin/RustModel](https://github.com/repolex-forx/samuelcolvin--RustModel) | `df61fe03a3` | 2026-10-11 |
-| [samuelcolvin/redis_ping](https://github.com/repolex-forx/samuelcolvin--redis_ping) | `eaae9c32ec` | 2026-10-11 |
-| [litestar-org/litestar.dev](https://github.com/repolex-forx/litestar-org--litestar.dev) | `9e5f55dffc` | 2026-10-11 |
+| [tox-dev/tox-lock](https://github.com/repolex-forx/tox-dev--tox-lock) | `c890036886` | 2026-10-11 |
+| [tox-dev/tox-sphinx](https://github.com/repolex-forx/tox-dev--tox-sphinx) | `c767a16400` | 2026-10-11 |
+| [tox-dev/tox-build](https://github.com/repolex-forx/tox-dev--tox-build) | `743b0c399c` | 2026-10-11 |
+| [litestar-org/litestar-fullstack-inertia](https://github.com/repolex-forx/litestar-org--litestar-fullstack-inertia) | `07938d2d5a` | 2026-10-11 |
+| [pydantic/brand](https://github.com/repolex-forx/pydantic--brand) | `83c4f63fbf` | 2026-10-11 |
+| [pydantic/pydantic-stack-demo](https://github.com/repolex-forx/pydantic--pydantic-stack-demo) | `5048e75c23` | 2026-10-11 |
+| [pydantic/httpx2](https://github.com/repolex-forx/pydantic--httpx2) | `0286b404fb` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
