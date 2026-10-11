@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [cherrypy/oauth-client-example](https://github.com/repolex-forx/cherrypy--oauth-client-example) | `84d882ad60` | 2026-10-10 |
-| [cherrypy/zappa-cherrypy](https://github.com/repolex-forx/cherrypy--zappa-cherrypy) | `ae2e6da5e7` | 2026-10-10 |
-| [psf/strategy](https://github.com/repolex-forx/psf--strategy) | `dc011d930c` | 2026-10-10 |
-| [pallets/actions](https://github.com/repolex-forx/pallets--actions) | `3255f16f0e` | 2026-10-10 |
-| [agronholm/asyncbis](https://github.com/repolex-forx/agronholm--asyncbis) | `592cc0b683` | 2026-10-10 |
-| [python-trio/snekomatic](https://github.com/repolex-forx/python-trio--snekomatic) | `43e8e6d260` | 2026-10-10 |
-| [python-trio/trio-owfs](https://github.com/repolex-forx/python-trio--trio-owfs) | `694a7d8926` | 2026-10-10 |
-| [python-trio/cookiecutter-trio](https://github.com/repolex-forx/python-trio--cookiecutter-trio) | `17f560a4aa` | 2026-10-10 |
-| [bottlepy/bottlepy.org](https://github.com/repolex-forx/bottlepy--bottlepy.org) | `28d8d09387` | 2026-10-10 |
-| [bottlepy/bottle-mongo](https://github.com/repolex-forx/bottlepy--bottle-mongo) | `5f359898fb` | 2026-10-10 |
+| [python-trio/trzmq](https://github.com/repolex-forx/python-trio--trzmq) | `275ce1d927` | 2026-10-11 |
+| [samuelcolvin/email-me](https://github.com/repolex-forx/samuelcolvin--email-me) | `c1c8260672` | 2026-10-11 |
+| [samuelcolvin/MacTab](https://github.com/repolex-forx/samuelcolvin--MacTab) | `e03917f222` | 2026-10-11 |
+| [cherrypy/tools-legacy](https://github.com/repolex-forx/cherrypy--tools-legacy) | `f9f5337c85` | 2026-10-11 |
+| [bottlepy/bottle-memcache](https://github.com/repolex-forx/bottlepy--bottle-memcache) | `1d4ed714cc` | 2026-10-11 |
+| [bottlepy/bottle-beaker](https://github.com/repolex-forx/bottlepy--bottle-beaker) | `37ccd0f0db` | 2026-10-11 |
+| [bottlepy/bottle-werkzeug](https://github.com/repolex-forx/bottlepy--bottle-werkzeug) | `77361e3e03` | 2026-10-11 |
+| [bottlepy/bottle-boilerplate](https://github.com/repolex-forx/bottlepy--bottle-boilerplate) | `097a044d93` | 2026-10-11 |
+| [bottlepy/bottle-redis](https://github.com/repolex-forx/bottlepy--bottle-redis) | `4c2306e5c8` | 2026-10-11 |
+| [bottlepy/bottle-inject](https://github.com/repolex-forx/bottlepy--bottle-inject) | `321d7f45be` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
