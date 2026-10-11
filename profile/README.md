@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [pydantic/datafusion-table-providers](https://github.com/repolex-forx/pydantic--datafusion-table-providers) | `2064c60b06` | 2026-10-11 |
-| [pydantic/ai-chat-ui](https://github.com/repolex-forx/pydantic--ai-chat-ui) | `8014d57f8f` | 2026-10-11 |
-| [pydantic/provider-upjet-logfire](https://github.com/repolex-forx/pydantic--provider-upjet-logfire) | `5cf470dcbd` | 2026-10-11 |
-| [pydantic/tracing-opentelemetry-instrumentation-sdk](https://github.com/repolex-forx/pydantic--tracing-opentelemetry-instrumentation-sdk) | `08ef24d98c` | 2026-10-11 |
-| [agronholm/asks](https://github.com/repolex-forx/agronholm--asks) | `e3f2b097fa` | 2026-10-11 |
-| [pydantic/datafusion-federation](https://github.com/repolex-forx/pydantic--datafusion-federation) | `36b0d03a08` | 2026-10-11 |
-| [pydantic/tracing-opentelemetry](https://github.com/repolex-forx/pydantic--tracing-opentelemetry) | `13f7ca2c0a` | 2026-10-11 |
-| [agronholm/docker-atlassian-confluence](https://github.com/repolex-forx/agronholm--docker-atlassian-confluence) | `573b616b9a` | 2026-10-11 |
-| [agronholm/action-general-autotag](https://github.com/repolex-forx/agronholm--action-general-autotag) | `7d2ae9fb80` | 2026-10-11 |
-| [agronholm/pusher-http-python](https://github.com/repolex-forx/agronholm--pusher-http-python) | `57dd636c13` | 2026-10-11 |
+| [samuelcolvin/grablib](https://github.com/repolex-forx/samuelcolvin--grablib) | `bec5d4fb1b` | 2026-10-11 |
+| [samuelcolvin/buildpg](https://github.com/repolex-forx/samuelcolvin--buildpg) | `e2a16abea5` | 2026-10-11 |
+| [samuelcolvin/dnserver](https://github.com/repolex-forx/samuelcolvin--dnserver) | `a99dfe9461` | 2026-10-11 |
+| [litestar-org/litestar-piccolo](https://github.com/repolex-forx/litestar-org--litestar-piccolo) | `943841d354` | 2026-10-11 |
+| [litestar-org/litestar-oracledb](https://github.com/repolex-forx/litestar-org--litestar-oracledb) | `8708da9bac` | 2026-10-11 |
+| [litestar-org/litestar-django](https://github.com/repolex-forx/litestar-org--litestar-django) | `a66be68559` | 2026-10-11 |
+| [litestar-org/litestar-oidc](https://github.com/repolex-forx/litestar-org--litestar-oidc) | `a8604405f4` | 2026-10-11 |
+| [litestar-org/litestar-hello-world](https://github.com/repolex-forx/litestar-org--litestar-hello-world) | `9076435539` | 2026-10-11 |
+| [litestar-org/litestar-templates](https://github.com/repolex-forx/litestar-org--litestar-templates) | `d5c671f8c2` | 2026-10-11 |
+| [litestar-org/fast-query-parsers](https://github.com/repolex-forx/litestar-org--fast-query-parsers) | `625a2d1f98` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
