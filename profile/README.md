@@ -34,18 +34,17 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [pypa/distlib](https://github.com/repolex-forx/pypa--distlib) | `454a87c64f` | 2026-10-11 |
-| [tiangolo/sandbox](https://github.com/repolex-forx/tiangolo--sandbox) | `3dfd81eba4` | 2026-10-11 |
-| [celery/celery-wheelhouse](https://github.com/repolex-forx/celery--celery-wheelhouse) | `fbe99121ac` | 2026-10-11 |
-| [python-trio/trio-talks](https://github.com/repolex-forx/python-trio--trio-talks) | `184aeb818b` | 2026-10-11 |
-| [python-trio/trio-ci-assets](https://github.com/repolex-forx/python-trio--trio-ci-assets) | `a4adf1b149` | 2026-10-11 |
-| [psf/bpo-rietveld](https://github.com/repolex-forx/psf--bpo-rietveld) | `636b94cf73` | 2026-10-11 |
-| [psf/psf-tuf-runbook](https://github.com/repolex-forx/psf--psf-tuf-runbook) | `01ff5b2b82` | 2026-10-11 |
-| [pydantic/monty](https://github.com/repolex-forx/pydantic--monty) | `c6e072c41f` | 2026-10-11 |
-| [tox-dev/velodex-data](https://github.com/repolex-forx/tox-dev--velodex-data) | `9a3a52f8ec` | 2026-10-11 |
-| [litestar-org/branding](https://github.com/repolex-forx/litestar-org--branding) | `6a4f90f42d` | 2026-10-11 |
-| [litestar-org/advanced-alchemy](https://github.com/repolex-forx/litestar-org--advanced-alchemy) | `e051a5de1a` | 2026-10-11 |
-| [litestar-org/litestar-vite](https://github.com/repolex-forx/litestar-org--litestar-vite) | `5c49ec501d` | 2026-10-11 |
+| [sphinx-doc/sphinxext-opengraph](https://github.com/repolex-forx/sphinx-doc--sphinxext-opengraph) | `95cf8a8c30` | 2026-10-11 |
+| [sphinx-doc/sphinx-autobuild](https://github.com/repolex-forx/sphinx-doc--sphinx-autobuild) | `c9b7cb990e` | 2026-10-11 |
+| [sphinx-doc/sphinx-intl](https://github.com/repolex-forx/sphinx-doc--sphinx-intl) | `1e9e8e9835` | 2026-10-11 |
+| [aio-libs/create-aio-app](https://github.com/repolex-forx/aio-libs--create-aio-app) | `ece2a2b513` | 2026-10-11 |
+| [aio-libs/sockjs](https://github.com/repolex-forx/aio-libs--sockjs) | `eeeb73568a` | 2026-10-11 |
+| [aio-libs/aiopg](https://github.com/repolex-forx/aio-libs--aiopg) | `eabd5216c0` | 2026-10-11 |
+| [aio-libs/aiozmq](https://github.com/repolex-forx/aio-libs--aiozmq) | `455faa6f93` | 2026-10-11 |
+| [aio-libs/aiomysql](https://github.com/repolex-forx/aio-libs--aiomysql) | `1aa9cfcbad` | 2026-10-11 |
+| [aio-libs/aiohttp-debugtoolbar](https://github.com/repolex-forx/aio-libs--aiohttp-debugtoolbar) | `f1ab053f57` | 2026-10-11 |
+| [aio-libs/aiocache](https://github.com/repolex-forx/aio-libs--aiocache) | `ae5948b2d9` | 2026-10-11 |
+| [aio-libs/janus](https://github.com/repolex-forx/aio-libs--janus) | `431248c05c` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
