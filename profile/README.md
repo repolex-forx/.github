@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [bottlepy/bottle](https://github.com/repolex-forx/bottlepy--bottle) | `8ec5fe2942` | 2026-10-10 |
-| [cherrypy/cherrypy-cors](https://github.com/repolex-forx/cherrypy--cherrypy-cors) | `0e1eba19e8` | 2026-10-10 |
-| [pytest-dev/unittest2pytest](https://github.com/repolex-forx/pytest-dev--unittest2pytest) | `53a3a77475` | 2026-10-10 |
-| [pytest-dev/pytest-pastebin](https://github.com/repolex-forx/pytest-dev--pytest-pastebin) | `072ccbdb5a` | 2026-10-10 |
-| [pytest-dev/pytest-fixture-tools](https://github.com/repolex-forx/pytest-dev--pytest-fixture-tools) | `f7ac631545` | 2026-10-10 |
-| [pytest-dev/pytest-snap](https://github.com/repolex-forx/pytest-dev--pytest-snap) | `08ec8a95bf` | 2026-10-10 |
-| [pytest-dev/pytest-plus](https://github.com/repolex-forx/pytest-dev--pytest-plus) | `8d78b89522` | 2026-10-10 |
-| [pytest-dev/pygments-pytest](https://github.com/repolex-forx/pytest-dev--pygments-pytest) | `91ed6b6211` | 2026-10-10 |
-| [pytest-dev/pytest-inline](https://github.com/repolex-forx/pytest-dev--pytest-inline) | `dbc8cb0bb4` | 2026-10-10 |
-| [pytest-dev/pytest-incremental](https://github.com/repolex-forx/pytest-dev--pytest-incremental) | `373cf8224a` | 2026-10-10 |
+| [jazzband/web3-devkit-cli](https://github.com/repolex-forx/jazzband--web3-devkit-cli) | `402875cce9` | 2026-10-10 |
+| [jazzband/django-redshift-backend](https://github.com/repolex-forx/jazzband--django-redshift-backend) | `a11625e445` | 2026-10-10 |
+| [tox-dev/mdformat-zola](https://github.com/repolex-forx/tox-dev--mdformat-zola) | `bceb47770b` | 2026-10-10 |
+| [tox-dev/PyVenvManage](https://github.com/repolex-forx/tox-dev--PyVenvManage) | `754fc1a3b7` | 2026-10-10 |
+| [tox-dev/toml-fmt](https://github.com/repolex-forx/tox-dev--toml-fmt) | `58709e88fc` | 2026-10-10 |
+| [tox-dev/tox-docker](https://github.com/repolex-forx/tox-dev--tox-docker) | `ccadc6e341` | 2026-10-10 |
+| [pypa/cibuildwheel](https://github.com/repolex-forx/pypa--cibuildwheel) | `b3395e271a` | 2026-10-10 |
+| [pytest-dev/pytest-bpdb](https://github.com/repolex-forx/pytest-dev--pytest-bpdb) | `c6a97b8d8b` | 2026-10-10 |
+| [pytest-dev/pytest-faker](https://github.com/repolex-forx/pytest-dev--pytest-faker) | `5d21f74298` | 2026-10-10 |
+| [pytest-dev/pytest-faulthandler](https://github.com/repolex-forx/pytest-dev--pytest-faulthandler) | `11cfc20668` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
