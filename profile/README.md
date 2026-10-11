@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [pallets-eco/flask-security-3.0](https://github.com/repolex-forx/pallets-eco--flask-security-3.0) | `b091e7d513` | 2026-10-11 |
-| [pydantic/axum-test](https://github.com/repolex-forx/pydantic--axum-test) | `462cbb0c81` | 2026-10-11 |
-| [pydantic/pulumi-logfire](https://github.com/repolex-forx/pydantic--pulumi-logfire) | `3b95efd9d9` | 2026-10-11 |
-| [tiangolo/full-stack-flask-couchbase](https://github.com/repolex-forx/tiangolo--full-stack-flask-couchbase) | `4b74f12439` | 2026-10-11 |
-| [pydantic/terraform-provider-logfire](https://github.com/repolex-forx/pydantic--terraform-provider-logfire) | `f25d556994` | 2026-10-11 |
-| [pydantic/logfire-rust](https://github.com/repolex-forx/pydantic--logfire-rust) | `804eca47b0` | 2026-10-11 |
-| [tiangolo/docker-auto-labels](https://github.com/repolex-forx/tiangolo--docker-auto-labels) | `c11b19fc8a` | 2026-10-11 |
-| [tiangolo/docker-with-compose](https://github.com/repolex-forx/tiangolo--docker-with-compose) | `f15906670b` | 2026-10-11 |
-| [tiangolo/label-approved](https://github.com/repolex-forx/tiangolo--label-approved) | `189338a34d` | 2026-10-11 |
-| [tiangolo/node-frontend](https://github.com/repolex-forx/tiangolo--node-frontend) | `58105139a4` | 2026-10-11 |
+| [agronholm/graphql-core](https://github.com/repolex-forx/agronholm--graphql-core) | `fa8f9b509d` | 2026-10-11 |
+| [pydantic/logfire-js](https://github.com/repolex-forx/pydantic--logfire-js) | `95eca241f7` | 2026-10-11 |
+| [tiangolo/odmantic](https://github.com/repolex-forx/tiangolo--odmantic) | `a99a2588cd` | 2026-10-11 |
+| [agronholm/websockets](https://github.com/repolex-forx/agronholm--websockets) | `1c8032acb1` | 2026-10-11 |
+| [agronholm/aiokafka](https://github.com/repolex-forx/agronholm--aiokafka) | `1855cdefa8` | 2026-10-11 |
+| [agronholm/aiobotocore](https://github.com/repolex-forx/agronholm--aiobotocore) | `29b97290dc` | 2026-10-11 |
+| [agronholm/llama-cpp-python](https://github.com/repolex-forx/agronholm--llama-cpp-python) | `803924b02c` | 2026-10-11 |
+| [tiangolo/uvicorn](https://github.com/repolex-forx/tiangolo--uvicorn) | `3dd0d44445` | 2026-10-11 |
+| [pydantic/logfire-helm-chart](https://github.com/repolex-forx/pydantic--logfire-helm-chart) | `5ac371653e` | 2026-10-11 |
+| [pydantic/perses-shared](https://github.com/repolex-forx/pydantic--perses-shared) | `bcb5f0209a` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
