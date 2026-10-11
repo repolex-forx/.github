@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [pallets-eco/flask-docs-translations](https://github.com/repolex-forx/pallets-eco--flask-docs-translations) | `71e4a78866` | 2026-10-10 |
-| [samuelcolvin/scolvin.com](https://github.com/repolex-forx/samuelcolvin--scolvin.com) | `fe642c11e1` | 2026-10-10 |
-| [samuelcolvin/obsbot-rs](https://github.com/repolex-forx/samuelcolvin--obsbot-rs) | `e8a17fb8f1` | 2026-10-10 |
-| [tornadoweb/tornado-testbed](https://github.com/repolex-forx/tornadoweb--tornado-testbed) | `ba2cc54671` | 2026-10-10 |
-| [pypa/manylinux](https://github.com/repolex-forx/pypa--manylinux) | `57bd9a6e8f` | 2026-10-10 |
-| [psf/webassembly](https://github.com/repolex-forx/psf--webassembly) | `60cd7a6672` | 2026-10-10 |
-| [psf/sboms-for-python-packages](https://github.com/repolex-forx/psf--sboms-for-python-packages) | `a399bc2f1e` | 2026-10-10 |
-| [psf/policies](https://github.com/repolex-forx/psf--policies) | `e767816f96` | 2026-10-10 |
-| [psf/organizer-toolkit](https://github.com/repolex-forx/psf--organizer-toolkit) | `661a39b6b0` | 2026-10-10 |
-| [psf/requests-html](https://github.com/repolex-forx/psf--requests-html) | `075ac162dc` | 2026-10-10 |
+| [celery/bootsteps](https://github.com/repolex-forx/celery--bootsteps) | `f2e788edb1` | 2026-10-10 |
+| [celery/case](https://github.com/repolex-forx/celery--case) | `e0ba875515` | 2026-10-10 |
+| [celery/jumpstarter](https://github.com/repolex-forx/celery--jumpstarter) | `43dbf34e5e` | 2026-10-10 |
+| [celery/sphinx_celery](https://github.com/repolex-forx/celery--sphinx_celery) | `715a76ddbb` | 2026-10-10 |
+| [celery/django-celery-results](https://github.com/repolex-forx/celery--django-celery-results) | `7f41f97b43` | 2026-10-10 |
+| [celery/py-amqp](https://github.com/repolex-forx/celery--py-amqp) | `15fb95f7a8` | 2026-10-10 |
+| [celery/django-celery-beat](https://github.com/repolex-forx/celery--django-celery-beat) | `dfe16f2edc` | 2026-10-10 |
+| [celery/vine](https://github.com/repolex-forx/celery--vine) | `ef33151cbb` | 2026-10-10 |
+| [celery/pytest-celery](https://github.com/repolex-forx/celery--pytest-celery) | `fdbdccf378` | 2026-10-10 |
+| [celery/billiard](https://github.com/repolex-forx/celery--billiard) | `40a82b1533` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
