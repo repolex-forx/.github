@@ -34,15 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [bottlepy/bottle-extras](https://github.com/repolex-forx/bottlepy--bottle-extras) | `e385a3940e` | 2026-10-10 |
-| [bottlepy/bottle-sqlite](https://github.com/repolex-forx/bottlepy--bottle-sqlite) | `fce1bb95e7` | 2026-10-10 |
-| [celery/amqpframe](https://github.com/repolex-forx/celery--amqpframe) | `ab4d73d092` | 2026-10-10 |
-| [celery/cookiecutter-celeryproject](https://github.com/repolex-forx/celery--cookiecutter-celeryproject) | `9efa7bd147` | 2026-10-10 |
-| [celery/cyme](https://github.com/repolex-forx/celery--cyme) | `c49047318c` | 2026-10-10 |
-| [celery/ceps](https://github.com/repolex-forx/celery--ceps) | `462d4aa701` | 2026-10-10 |
-| [celery/Celery-Kubernetes-Operator](https://github.com/repolex-forx/celery--Celery-Kubernetes-Operator) | `622cfa8324` | 2026-10-10 |
-| [celery/cyanide](https://github.com/repolex-forx/celery--cyanide) | `9b7d78dd4d` | 2026-10-10 |
-| [celery/django-celery](https://github.com/repolex-forx/celery--django-celery) | `3b6335d14f` | 2026-10-10 |
+| [cherrypy/oauth-client-example](https://github.com/repolex-forx/cherrypy--oauth-client-example) | `84d882ad60` | 2026-10-10 |
+| [cherrypy/zappa-cherrypy](https://github.com/repolex-forx/cherrypy--zappa-cherrypy) | `ae2e6da5e7` | 2026-10-10 |
+| [psf/strategy](https://github.com/repolex-forx/psf--strategy) | `dc011d930c` | 2026-10-10 |
+| [pallets/actions](https://github.com/repolex-forx/pallets--actions) | `3255f16f0e` | 2026-10-10 |
+| [agronholm/asyncbis](https://github.com/repolex-forx/agronholm--asyncbis) | `592cc0b683` | 2026-10-10 |
+| [python-trio/snekomatic](https://github.com/repolex-forx/python-trio--snekomatic) | `43e8e6d260` | 2026-10-10 |
+| [python-trio/trio-owfs](https://github.com/repolex-forx/python-trio--trio-owfs) | `694a7d8926` | 2026-10-10 |
+| [python-trio/cookiecutter-trio](https://github.com/repolex-forx/python-trio--cookiecutter-trio) | `17f560a4aa` | 2026-10-10 |
+| [bottlepy/bottlepy.org](https://github.com/repolex-forx/bottlepy--bottlepy.org) | `28d8d09387` | 2026-10-10 |
+| [bottlepy/bottle-mongo](https://github.com/repolex-forx/bottlepy--bottle-mongo) | `5f359898fb` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
