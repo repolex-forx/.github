@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [samuelcolvin/parplot](https://github.com/repolex-forx/samuelcolvin--parplot) | `236f42423c` | 2026-10-11 |
-| [samuelcolvin/qrcam](https://github.com/repolex-forx/samuelcolvin--qrcam) | `ed1fffdd9d` | 2026-10-11 |
-| [tox-dev/action-pre-commit-uv](https://github.com/repolex-forx/tox-dev--action-pre-commit-uv) | `4de52c139e` | 2026-10-11 |
-| [pytest-dev/pytest-nunit](https://github.com/repolex-forx/pytest-dev--pytest-nunit) | `3890ee8ed4` | 2026-10-11 |
-| [pytest-dev/pytest-cloud](https://github.com/repolex-forx/pytest-dev--pytest-cloud) | `d4409d69af` | 2026-10-11 |
-| [pytest-dev/pytest-talks](https://github.com/repolex-forx/pytest-dev--pytest-talks) | `6eae44166e` | 2026-10-11 |
-| [pytest-dev/pytest-tcpclient](https://github.com/repolex-forx/pytest-dev--pytest-tcpclient) | `aa8b88db66` | 2026-10-11 |
-| [pytest-dev/pytest-stress](https://github.com/repolex-forx/pytest-dev--pytest-stress) | `2f4a6fb8a3` | 2026-10-11 |
-| [pytest-dev/pytest-splinter](https://github.com/repolex-forx/pytest-dev--pytest-splinter) | `1b0aa1efae` | 2026-10-11 |
-| [pytest-dev/regendoc](https://github.com/repolex-forx/pytest-dev--regendoc) | `e6013a994f` | 2026-10-11 |
+| [pallets-eco/.github](https://github.com/repolex-forx/pallets-eco--.github) | `aa505cc7ea` | 2026-10-11 |
+| [pytest-dev/pytest-issue-2419](https://github.com/repolex-forx/pytest-dev--pytest-issue-2419) | `1eab7a9c7a` | 2026-10-11 |
+| [samuelcolvin/basedpyright-zed](https://github.com/repolex-forx/samuelcolvin--basedpyright-zed) | `a6012ade8a` | 2026-10-11 |
+| [samuelcolvin/awesome-mcp-servers](https://github.com/repolex-forx/samuelcolvin--awesome-mcp-servers) | `beb8dc051b` | 2026-10-11 |
+| [samuelcolvin/logfire-go-logs](https://github.com/repolex-forx/samuelcolvin--logfire-go-logs) | `8b3eba6d2f` | 2026-10-11 |
+| [samuelcolvin/uk-parliament-relatives](https://github.com/repolex-forx/samuelcolvin--uk-parliament-relatives) | `7b7e9e8090` | 2026-10-11 |
+| [samuelcolvin/pull_pull_request](https://github.com/repolex-forx/samuelcolvin--pull_pull_request) | `74df6a76a3` | 2026-10-11 |
+| [tox-dev/tox-tags](https://github.com/repolex-forx/tox-dev--tox-tags) | `c9968c0de9` | 2026-10-11 |
+| [cherrypy/.github](https://github.com/repolex-forx/cherrypy--.github) | `c0263bf269` | 2026-10-11 |
+| [marshmallow-code/.github](https://github.com/repolex-forx/marshmallow-code--.github) | `c95e0c1a38` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
