@@ -34,8 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [aio-libs/aiohttp-session](https://github.com/repolex-forx/aio-libs--aiohttp-session) | `5060d64ba2` | 2026-10-10 |
-| [aio-libs/aiomcache](https://github.com/repolex-forx/aio-libs--aiomcache) | `bf912d16f4` | 2026-10-10 |
+| [samuelcolvin/spread](https://github.com/repolex-forx/samuelcolvin--spread) | `180cfaccbc` | 2026-10-10 |
+| [samuelcolvin/nextcall](https://github.com/repolex-forx/samuelcolvin--nextcall) | `3ef572168c` | 2026-10-10 |
+| [samuelcolvin/deckx](https://github.com/repolex-forx/samuelcolvin--deckx) | `ff0a0c4644` | 2026-10-10 |
+| [cherrypy/cheroot](https://github.com/repolex-forx/cherrypy--cheroot) | `a6283c12ca` | 2026-10-10 |
+| [aio-libs/aiohttp-theme](https://github.com/repolex-forx/aio-libs--aiohttp-theme) | `6bb6d4bbf4` | 2026-10-10 |
+| [aio-libs/aiohttp-asyncmdnsresolver](https://github.com/repolex-forx/aio-libs--aiohttp-asyncmdnsresolver) | `238407713a` | 2026-10-10 |
+| [aio-libs/aiofastnet](https://github.com/repolex-forx/aio-libs--aiofastnet) | `29bcb0f991` | 2026-10-10 |
+| [aio-libs/aiosmtpd](https://github.com/repolex-forx/aio-libs--aiosmtpd) | `07e5f26b0c` | 2026-10-10 |
+| [aio-libs/aiohttp-devtools](https://github.com/repolex-forx/aio-libs--aiohttp-devtools) | `5a5d4222c3` | 2026-10-10 |
+| [aio-libs/aiokafka](https://github.com/repolex-forx/aio-libs--aiokafka) | `13a6400024` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
