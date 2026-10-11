@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [agronholm/reorder_python_imports](https://github.com/repolex-forx/agronholm--reorder_python_imports) | `b34a28239d` | 2026-10-11 |
-| [agronholm/sphinx-autodoc-typehints](https://github.com/repolex-forx/agronholm--sphinx-autodoc-typehints) | `af98022c1e` | 2026-10-11 |
-| [agronholm/serge](https://github.com/repolex-forx/agronholm--serge) | `12e2d63319` | 2026-10-11 |
-| [tox-dev/tox-travis](https://github.com/repolex-forx/tox-dev--tox-travis) | `fd98366ef2` | 2026-10-11 |
-| [tox-dev/tox-conda](https://github.com/repolex-forx/tox-dev--tox-conda) | `1bebdc94f3` | 2026-10-11 |
-| [tox-dev/toml-fmt-common](https://github.com/repolex-forx/tox-dev--toml-fmt-common) | `9647ac4da3` | 2026-10-11 |
-| [tox-dev/azure-pipelines-template](https://github.com/repolex-forx/tox-dev--azure-pipelines-template) | `c231fdfb68` | 2026-10-11 |
-| [tox-dev/tox-bindep](https://github.com/repolex-forx/tox-dev--tox-bindep) | `7edd12e2cf` | 2026-10-11 |
-| [tox-dev/tox-pyenv](https://github.com/repolex-forx/tox-dev--tox-pyenv) | `464180efa7` | 2026-10-11 |
-| [aio-libs/.github](https://github.com/repolex-forx/aio-libs--.github) | `df5def2d78` | 2026-10-11 |
+| [pallets/flask-website](https://github.com/repolex-forx/pallets--flask-website) | `8b083412f9` | 2026-10-11 |
+| [tiangolo/tiangolo.com](https://github.com/repolex-forx/tiangolo--tiangolo.com) | `e61748bd41` | 2026-10-11 |
+| [tiangolo/dockerswarm.rocks](https://github.com/repolex-forx/tiangolo--dockerswarm.rocks) | `c504a4b34d` | 2026-10-11 |
+| [tiangolo/meinheld-gunicorn-flask-docker](https://github.com/repolex-forx/tiangolo--meinheld-gunicorn-flask-docker) | `e871de6864` | 2026-10-11 |
+| [agronholm/docker-vernemq](https://github.com/repolex-forx/agronholm--docker-vernemq) | `dca9e7ba5a` | 2026-10-11 |
+| [agronholm/pythonfutures](https://github.com/repolex-forx/agronholm--pythonfutures) | `738e37148b` | 2026-10-11 |
+| [pydantic/skills](https://github.com/repolex-forx/pydantic--skills) | `238d971026` | 2026-10-11 |
+| [pydantic/thrust](https://github.com/repolex-forx/pydantic--thrust) | `8505b55a97` | 2026-10-11 |
+| [pydantic/datafusion-functions-json](https://github.com/repolex-forx/pydantic--datafusion-functions-json) | `30e05810d7` | 2026-10-11 |
+| [pydantic/datafusion-variant](https://github.com/repolex-forx/pydantic--datafusion-variant) | `9e1c846981` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
