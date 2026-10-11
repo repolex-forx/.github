@@ -34,13 +34,18 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [tox-dev/tox-lock](https://github.com/repolex-forx/tox-dev--tox-lock) | `c890036886` | 2026-10-11 |
-| [tox-dev/tox-sphinx](https://github.com/repolex-forx/tox-dev--tox-sphinx) | `c767a16400` | 2026-10-11 |
-| [tox-dev/tox-build](https://github.com/repolex-forx/tox-dev--tox-build) | `743b0c399c` | 2026-10-11 |
-| [litestar-org/litestar-fullstack-inertia](https://github.com/repolex-forx/litestar-org--litestar-fullstack-inertia) | `07938d2d5a` | 2026-10-11 |
-| [pydantic/brand](https://github.com/repolex-forx/pydantic--brand) | `83c4f63fbf` | 2026-10-11 |
-| [pydantic/pydantic-stack-demo](https://github.com/repolex-forx/pydantic--pydantic-stack-demo) | `5048e75c23` | 2026-10-11 |
-| [pydantic/httpx2](https://github.com/repolex-forx/pydantic--httpx2) | `0286b404fb` | 2026-10-11 |
+| [pypa/distlib](https://github.com/repolex-forx/pypa--distlib) | `454a87c64f` | 2026-10-11 |
+| [tiangolo/sandbox](https://github.com/repolex-forx/tiangolo--sandbox) | `3dfd81eba4` | 2026-10-11 |
+| [celery/celery-wheelhouse](https://github.com/repolex-forx/celery--celery-wheelhouse) | `fbe99121ac` | 2026-10-11 |
+| [python-trio/trio-talks](https://github.com/repolex-forx/python-trio--trio-talks) | `184aeb818b` | 2026-10-11 |
+| [python-trio/trio-ci-assets](https://github.com/repolex-forx/python-trio--trio-ci-assets) | `a4adf1b149` | 2026-10-11 |
+| [psf/bpo-rietveld](https://github.com/repolex-forx/psf--bpo-rietveld) | `636b94cf73` | 2026-10-11 |
+| [psf/psf-tuf-runbook](https://github.com/repolex-forx/psf--psf-tuf-runbook) | `01ff5b2b82` | 2026-10-11 |
+| [pydantic/monty](https://github.com/repolex-forx/pydantic--monty) | `c6e072c41f` | 2026-10-11 |
+| [tox-dev/velodex-data](https://github.com/repolex-forx/tox-dev--velodex-data) | `9a3a52f8ec` | 2026-10-11 |
+| [litestar-org/branding](https://github.com/repolex-forx/litestar-org--branding) | `6a4f90f42d` | 2026-10-11 |
+| [litestar-org/advanced-alchemy](https://github.com/repolex-forx/litestar-org--advanced-alchemy) | `e051a5de1a` | 2026-10-11 |
+| [litestar-org/litestar-vite](https://github.com/repolex-forx/litestar-org--litestar-vite) | `5c49ec501d` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
