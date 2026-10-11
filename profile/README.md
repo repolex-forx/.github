@@ -34,6 +34,17 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jazzband/django-mongonaut](https://github.com/repolex-forx/jazzband--django-mongonaut) | `6a008c7b8f` | 2026-10-11 |
+| [jazzband/django-flatblocks](https://github.com/repolex-forx/jazzband--django-flatblocks) | `8ecea624a3` | 2026-10-11 |
+| [jazzband/django-admin-sortable](https://github.com/repolex-forx/jazzband--django-admin-sortable) | `b9c1f3e0c4` | 2026-10-11 |
+| [jazzband/django-ddp](https://github.com/repolex-forx/jazzband--django-ddp) | `1e1954b06f` | 2026-10-11 |
+| [jazzband/django-postgres-utils](https://github.com/repolex-forx/jazzband--django-postgres-utils) | `886279ba1d` | 2026-10-11 |
+| [jazzband/django-nose](https://github.com/repolex-forx/jazzband--django-nose) | `b90f7c96da` | 2026-10-11 |
+| [jazzband/django-summernote](https://github.com/repolex-forx/jazzband--django-summernote) | `8b17863d44` | 2026-10-11 |
+| [jazzband/pathlib2](https://github.com/repolex-forx/jazzband--pathlib2) | `0ac11b8d69` | 2026-10-11 |
+| [jazzband/django-celery-monitor](https://github.com/repolex-forx/jazzband--django-celery-monitor) | `2b86acddc4` | 2026-10-11 |
+| [jazzband/django-queued-storage](https://github.com/repolex-forx/jazzband--django-queued-storage) | `1cbb3c973e` | 2026-10-11 |
+| [jazzband/django-tagging](https://github.com/repolex-forx/jazzband--django-tagging) | `79cb321b1e` | 2026-10-11 |
 | [sphinx-doc/sphinxcontrib-serializinghtml](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-serializinghtml) | `f0f3b15b2e` | 2026-10-11 |
 | [sphinx-doc/sphinxcontrib-devhelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-devhelp) | `0177fb44f1` | 2026-10-11 |
 | [sphinx-doc/sphinxcontrib-applehelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-applehelp) | `f4f9d900b2` | 2026-10-11 |
