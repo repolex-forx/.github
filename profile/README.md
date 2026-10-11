@@ -34,16 +34,17 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [psf/bylaws](https://github.com/repolex-forx/psf--bylaws) | `8878278034` | 2026-10-11 |
-| [psf/infra](https://github.com/repolex-forx/psf--infra) | `fe5c204dab` | 2026-10-11 |
-| [encode/sentry-asgi](https://github.com/repolex-forx/encode--sentry-asgi) | `6d4c6353ad` | 2026-10-11 |
-| [encode/savannah](https://github.com/repolex-forx/encode--savannah) | `291e73d455` | 2026-10-11 |
-| [samuelcolvin/githubproxy](https://github.com/repolex-forx/samuelcolvin--githubproxy) | `0679cb7f60` | 2026-10-11 |
-| [samuelcolvin/PaloAlto2SF](https://github.com/repolex-forx/samuelcolvin--PaloAlto2SF) | `98124cdbed` | 2026-10-11 |
-| [samuelcolvin/cf-request-error](https://github.com/repolex-forx/samuelcolvin--cf-request-error) | `fbe9c4c953` | 2026-10-11 |
-| [agronholm/redis-anyio](https://github.com/repolex-forx/agronholm--redis-anyio) | `cf2c8f2cc8` | 2026-10-11 |
-| [agronholm/asyncfusion](https://github.com/repolex-forx/agronholm--asyncfusion) | `8697a78991` | 2026-10-11 |
-| [python-trio/trimeter](https://github.com/repolex-forx/python-trio--trimeter) | `85d50671c3` | 2026-10-11 |
+| [psf/fides-deploy](https://github.com/repolex-forx/psf--fides-deploy) | `6fcea6d243` | 2026-10-11 |
+| [psf/gh-migration](https://github.com/repolex-forx/psf--gh-migration) | `96a350c3dd` | 2026-10-11 |
+| [psf/community-code-of-conduct](https://github.com/repolex-forx/psf--community-code-of-conduct) | `ebb4d2c1d4` | 2026-10-11 |
+| [psf/elections](https://github.com/repolex-forx/psf--elections) | `68a6bfc258` | 2026-10-11 |
+| [psf/user-success-wg](https://github.com/repolex-forx/psf--user-success-wg) | `16d552e3af` | 2026-10-11 |
+| [pallets/werkzeug-website](https://github.com/repolex-forx/pallets--werkzeug-website) | `a1243ec510` | 2026-10-11 |
+| [pallets/flask-ext-migrate](https://github.com/repolex-forx/pallets--flask-ext-migrate) | `913e598e60` | 2026-10-11 |
+| [pallets/flask-sphinx-themes](https://github.com/repolex-forx/pallets--flask-sphinx-themes) | `3d562d0f68` | 2026-10-11 |
+| [python-poetry/semver](https://github.com/repolex-forx/python-poetry--semver) | `7ef69b00f6` | 2026-10-11 |
+| [tiangolo/tiangolo](https://github.com/repolex-forx/tiangolo--tiangolo) | `4e5408956f` | 2026-10-11 |
+| [urllib3/urllib3-secure-extra](https://github.com/repolex-forx/urllib3--urllib3-secure-extra) | `b69da6320d` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
