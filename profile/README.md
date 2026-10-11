@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [pallets-eco/.github](https://github.com/repolex-forx/pallets-eco--.github) | `aa505cc7ea` | 2026-10-11 |
-| [pytest-dev/pytest-issue-2419](https://github.com/repolex-forx/pytest-dev--pytest-issue-2419) | `1eab7a9c7a` | 2026-10-11 |
-| [samuelcolvin/basedpyright-zed](https://github.com/repolex-forx/samuelcolvin--basedpyright-zed) | `a6012ade8a` | 2026-10-11 |
-| [samuelcolvin/awesome-mcp-servers](https://github.com/repolex-forx/samuelcolvin--awesome-mcp-servers) | `beb8dc051b` | 2026-10-11 |
-| [samuelcolvin/logfire-go-logs](https://github.com/repolex-forx/samuelcolvin--logfire-go-logs) | `8b3eba6d2f` | 2026-10-11 |
-| [samuelcolvin/uk-parliament-relatives](https://github.com/repolex-forx/samuelcolvin--uk-parliament-relatives) | `7b7e9e8090` | 2026-10-11 |
-| [samuelcolvin/pull_pull_request](https://github.com/repolex-forx/samuelcolvin--pull_pull_request) | `74df6a76a3` | 2026-10-11 |
-| [tox-dev/tox-tags](https://github.com/repolex-forx/tox-dev--tox-tags) | `c9968c0de9` | 2026-10-11 |
-| [cherrypy/.github](https://github.com/repolex-forx/cherrypy--.github) | `c0263bf269` | 2026-10-11 |
-| [marshmallow-code/.github](https://github.com/repolex-forx/marshmallow-code--.github) | `c95e0c1a38` | 2026-10-11 |
+| [pallets/.github](https://github.com/repolex-forx/pallets--.github) | `06702680f5` | 2026-10-11 |
+| [pypa/setuptools-issue-900](https://github.com/repolex-forx/pypa--setuptools-issue-900) | `4025ff7c93` | 2026-10-11 |
+| [pypa/python-manylinux-demo](https://github.com/repolex-forx/pypa--python-manylinux-demo) | `8247a02cc6` | 2026-10-11 |
+| [pypa/pypa.io](https://github.com/repolex-forx/pypa--pypa.io) | `ed988856b2` | 2026-10-11 |
+| [pypa/browntruck](https://github.com/repolex-forx/pypa--browntruck) | `8c6db1bb2d` | 2026-10-11 |
+| [pypa/pipfile](https://github.com/repolex-forx/pypa--pipfile) | `4706d2cbd3` | 2026-10-11 |
+| [pypa/sample-namespace-packages](https://github.com/repolex-forx/pypa--sample-namespace-packages) | `134414420e` | 2026-10-11 |
+| [pypa/.github](https://github.com/repolex-forx/pypa--.github) | `d2d8249a55` | 2026-10-11 |
+| [tiangolo/python-multipart](https://github.com/repolex-forx/tiangolo--python-multipart) | `d3d16dae4b` | 2026-10-11 |
+| [tiangolo/.github](https://github.com/repolex-forx/tiangolo--.github) | `d2f19734f3` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
