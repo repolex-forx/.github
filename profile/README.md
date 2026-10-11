@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [jazzband/django-embed-video](https://github.com/repolex-forx/jazzband--django-embed-video) | `2b644987ac` | 2026-10-10 |
-| [jazzband/django-dbtemplates](https://github.com/repolex-forx/jazzband--django-dbtemplates) | `eab2ce0a7e` | 2026-10-10 |
-| [jazzband/docopt-ng](https://github.com/repolex-forx/jazzband--docopt-ng) | `587f41a614` | 2026-10-10 |
-| [jazzband/contextlib2](https://github.com/repolex-forx/jazzband--contextlib2) | `9a547a3247` | 2026-10-10 |
-| [jazzband/django-recurrence](https://github.com/repolex-forx/jazzband--django-recurrence) | `14bb9b303a` | 2026-10-10 |
-| [tox-dev/gh-action-tox](https://github.com/repolex-forx/tox-dev--gh-action-tox) | `65b0b019d2` | 2026-10-10 |
-| [tox-dev/jetbrains-fish](https://github.com/repolex-forx/tox-dev--jetbrains-fish) | `6bc004c209` | 2026-10-10 |
-| [pytest-dev/cookiecutter-pytest-plugin](https://github.com/repolex-forx/pytest-dev--cookiecutter-pytest-plugin) | `8f38e95b34` | 2026-10-10 |
-| [pytest-dev/sprint](https://github.com/repolex-forx/pytest-dev--sprint) | `1a4b61d6e1` | 2026-10-10 |
-| [pytest-dev/pytest-messenger](https://github.com/repolex-forx/pytest-dev--pytest-messenger) | `f91694959e` | 2026-10-10 |
+| [marshmallow-code/apispec-webframeworks](https://github.com/repolex-forx/marshmallow-code--apispec-webframeworks) | `b03f02fe2f` | 2026-10-10 |
+| [marshmallow-code/marshmallow-oneofschema](https://github.com/repolex-forx/marshmallow-code--marshmallow-oneofschema) | `6b25e361b7` | 2026-10-10 |
+| [aio-libs/aiobotocore](https://github.com/repolex-forx/aio-libs--aiobotocore) | `c58f9b5221` | 2026-10-10 |
+| [jazzband/django-ical](https://github.com/repolex-forx/jazzband--django-ical) | `47695cbc9b` | 2026-10-10 |
+| [jazzband/django-floppyforms](https://github.com/repolex-forx/jazzband--django-floppyforms) | `3c019feda4` | 2026-10-10 |
+| [jazzband/Watson](https://github.com/repolex-forx/jazzband--Watson) | `d9de4fcf3a` | 2026-10-10 |
+| [jazzband/django-defender](https://github.com/repolex-forx/jazzband--django-defender) | `daa6235caf` | 2026-10-10 |
+| [jazzband/django-revproxy](https://github.com/repolex-forx/jazzband--django-revproxy) | `72e1d4d7c9` | 2026-10-10 |
+| [jazzband/django-newsletter](https://github.com/repolex-forx/jazzband--django-newsletter) | `fbde7a13ba` | 2026-10-10 |
+| [jazzband/website](https://github.com/repolex-forx/jazzband--website) | `340e43e1e0` | 2026-10-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
