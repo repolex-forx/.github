@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
-| [pallets/.github](https://github.com/repolex-forx/pallets--.github) | `06702680f5` | 2026-10-11 |
-| [pypa/setuptools-issue-900](https://github.com/repolex-forx/pypa--setuptools-issue-900) | `4025ff7c93` | 2026-10-11 |
-| [pypa/python-manylinux-demo](https://github.com/repolex-forx/pypa--python-manylinux-demo) | `8247a02cc6` | 2026-10-11 |
-| [pypa/pypa.io](https://github.com/repolex-forx/pypa--pypa.io) | `ed988856b2` | 2026-10-11 |
-| [pypa/browntruck](https://github.com/repolex-forx/pypa--browntruck) | `8c6db1bb2d` | 2026-10-11 |
-| [pypa/pipfile](https://github.com/repolex-forx/pypa--pipfile) | `4706d2cbd3` | 2026-10-11 |
-| [pypa/sample-namespace-packages](https://github.com/repolex-forx/pypa--sample-namespace-packages) | `134414420e` | 2026-10-11 |
-| [pypa/.github](https://github.com/repolex-forx/pypa--.github) | `d2d8249a55` | 2026-10-11 |
-| [tiangolo/python-multipart](https://github.com/repolex-forx/tiangolo--python-multipart) | `d3d16dae4b` | 2026-10-11 |
-| [tiangolo/.github](https://github.com/repolex-forx/tiangolo--.github) | `d2f19734f3` | 2026-10-11 |
+| [pytest-dev/plugincompat](https://github.com/repolex-forx/pytest-dev--plugincompat) | `148b892c79` | 2026-10-11 |
+| [pytest-dev/blog.pytest.org](https://github.com/repolex-forx/pytest-dev--blog.pytest.org) | `eefcfa6534` | 2026-10-11 |
+| [pytest-dev/pytest-play](https://github.com/repolex-forx/pytest-dev--pytest-play) | `c39a1a7e74` | 2026-10-11 |
+| [urllib3/hypercorn](https://github.com/repolex-forx/urllib3--hypercorn) | `33ed006708` | 2026-10-11 |
+| [pytest-dev/design](https://github.com/repolex-forx/pytest-dev--design) | `7d3f9708bf` | 2026-10-11 |
+| [samuelcolvin/python-sdk](https://github.com/repolex-forx/samuelcolvin--python-sdk) | `ebb81d3b2b` | 2026-10-11 |
+| [psf/bpo-django-gae2django](https://github.com/repolex-forx/psf--bpo-django-gae2django) | `a949341b00` | 2026-10-11 |
+| [pytest-dev/meta](https://github.com/repolex-forx/pytest-dev--meta) | `c26b7705e1` | 2026-10-11 |
+| [bottlepy/test-docker](https://github.com/repolex-forx/bottlepy--test-docker) | `48cba1bbf1` | 2026-10-11 |
+| [psf/.github](https://github.com/repolex-forx/psf--.github) | `41b2bae8ad` | 2026-10-11 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
