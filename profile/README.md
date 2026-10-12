@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [datasette/datasette-mcp](https://github.com/repolex-forx/datasette--datasette-mcp) | `55f1ed1b74` | 2026-10-12 |
+| [datasette/datasette-alerts](https://github.com/repolex-forx/datasette--datasette-alerts) | `c0a5fe7fbc` | 2026-10-12 |
+| [datasette/datasette-agent](https://github.com/repolex-forx/datasette--datasette-agent) | `c811e82352` | 2026-10-12 |
+| [datasette/datasette-cron](https://github.com/repolex-forx/datasette--datasette-cron) | `d90b8bd13d` | 2026-10-12 |
+| [datasette/datasette-llm](https://github.com/repolex-forx/datasette--datasette-llm) | `b54d325aa3` | 2026-10-12 |
+| [datasette/datasette-apps](https://github.com/repolex-forx/datasette--datasette-apps) | `f39519bfa8` | 2026-10-12 |
+| [datasette/datasette-enrichments](https://github.com/repolex-forx/datasette--datasette-enrichments) | `76a4de39f5` | 2026-10-12 |
+| [datasette/datasette-google-sheets](https://github.com/repolex-forx/datasette--datasette-google-sheets) | `51c5d380b7` | 2026-10-12 |
+| [datasette/datasette-google-credentials](https://github.com/repolex-forx/datasette--datasette-google-credentials) | `c281379068` | 2026-10-12 |
+| [datasette/datasette-accounts](https://github.com/repolex-forx/datasette--datasette-accounts) | `e3bd5c471f` | 2026-10-12 |
 | [simonw/llm-gemini](https://github.com/repolex-forx/simonw--llm-gemini) | `e8de0b30d6` | 2026-10-12 |
 | [simonw/llm-anthropic](https://github.com/repolex-forx/simonw--llm-anthropic) | `b66cdf112c` | 2026-10-12 |
 | [simonw/llm-mistral](https://github.com/repolex-forx/simonw--llm-mistral) | `1b8807821f` | 2026-10-12 |
