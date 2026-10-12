@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [piccolo-orm/piccolo_admin](https://github.com/repolex-forx/piccolo-orm--piccolo_admin) | `d6053adc9f` | 2026-10-12 |
+| [piccolo-orm/piccolo](https://github.com/repolex-forx/piccolo-orm--piccolo) | `2556bbf2af` | 2026-10-12 |
+| [tortoise/tortoise-orm](https://github.com/repolex-forx/tortoise--tortoise-orm) | `a47e3f6c9e` | 2026-10-12 |
+| [maxcountryman/flask-login](https://github.com/repolex-forx/maxcountryman--flask-login) | `c8bba84b9b` | 2026-10-12 |
+| [miguelgrinberg/Flask-Migrate](https://github.com/repolex-forx/miguelgrinberg--Flask-Migrate) | `bce4d35a0c` | 2026-10-12 |
+| [corydolphin/flask-cors](https://github.com/repolex-forx/corydolphin--flask-cors) | `ad4f355791` | 2026-10-12 |
+| [falconry/falcon](https://github.com/repolex-forx/falconry--falcon) | `05b35ee93d` | 2026-10-12 |
+| [tiangolo/fastapi-cli](https://github.com/repolex-forx/tiangolo--fastapi-cli) | `093be9ca19` | 2026-10-12 |
+| [tiangolo/sqlmodel](https://github.com/repolex-forx/tiangolo--sqlmodel) | `5ce1a47248` | 2026-10-12 |
+| [tiangolo/typer](https://github.com/repolex-forx/tiangolo--typer) | `b15210b71a` | 2026-10-12 |
 | [spec-first/swagger_ui_bundle](https://github.com/repolex-forx/spec-first--swagger_ui_bundle) | `77ce9d279b` | 2026-10-12 |
 | [spec-first/connexion](https://github.com/repolex-forx/spec-first--connexion) | `a23d44e0e0` | 2026-10-12 |
 | [executablebooks/jupyter-cache](https://github.com/repolex-forx/executablebooks--jupyter-cache) | `9394eada9b` | 2026-10-12 |
