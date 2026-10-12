@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Pylons/webtest](https://github.com/repolex-forx/Pylons--webtest) | `938524c616` | 2026-10-11 |
+| [Pylons/waitress](https://github.com/repolex-forx/Pylons--waitress) | `2b43237e9c` | 2026-10-11 |
+| [falconry/falcon-oauthlib](https://github.com/repolex-forx/falconry--falcon-oauthlib) | `6e09a06bef` | 2026-10-11 |
+| [falconry/falcon-mcp-server](https://github.com/repolex-forx/falconry--falcon-mcp-server) | `3cafe80225` | 2026-10-11 |
+| [graphql-python/graphql-server](https://github.com/repolex-forx/graphql-python--graphql-server) | `2d5ac95393` | 2026-10-11 |
+| [graphql-python/graphene-pydantic](https://github.com/repolex-forx/graphql-python--graphene-pydantic) | `2bc1b037db` | 2026-10-11 |
+| [graphql-python/graphene-django](https://github.com/repolex-forx/graphql-python--graphene-django) | `0e6ef22a87` | 2026-10-11 |
+| [graphql-python/gql](https://github.com/repolex-forx/graphql-python--gql) | `6ccc0cc2c2` | 2026-10-11 |
+| [graphql-python/graphene](https://github.com/repolex-forx/graphql-python--graphene) | `8290326308` | 2026-10-11 |
+| [graphql-python/graphql-core](https://github.com/repolex-forx/graphql-python--graphql-core) | `d913a6106f` | 2026-10-11 |
 | [falconry/python-mimeparse](https://github.com/repolex-forx/falconry--python-mimeparse) | `76d2173365` | 2026-10-11 |
 | [falconry/token-bucket](https://github.com/repolex-forx/falconry--token-bucket) | `75bc464c27` | 2026-10-11 |
 | [pyinvoke/invocations](https://github.com/repolex-forx/pyinvoke--invocations) | `da97d736f9` | 2026-10-11 |
