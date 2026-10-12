@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jupyterlab/jupyter-ai](https://github.com/repolex-forx/jupyterlab--jupyter-ai) | `f7bf67342f` | 2026-10-11 |
+| [jupyterlab/jupyterlab-git](https://github.com/repolex-forx/jupyterlab--jupyterlab-git) | `b62a87b719` | 2026-10-11 |
+| [ipython/ipyparallel](https://github.com/repolex-forx/ipython--ipyparallel) | `d724f99d7e` | 2026-10-11 |
+| [ipython/ipykernel](https://github.com/repolex-forx/ipython--ipykernel) | `a2b7a3ebbb` | 2026-10-11 |
+| [pyca/ed25519](https://github.com/repolex-forx/pyca--ed25519) | `bc01a714d2` | 2026-10-11 |
+| [pyca/pynacl](https://github.com/repolex-forx/pyca--pynacl) | `d869c68768` | 2026-10-11 |
+| [pyca/bcrypt](https://github.com/repolex-forx/pyca--bcrypt) | `0e84f64b28` | 2026-10-11 |
+| [twisted/pydoctor](https://github.com/repolex-forx/twisted--pydoctor) | `279e589afc` | 2026-10-11 |
+| [twisted/ldaptor](https://github.com/repolex-forx/twisted--ldaptor) | `c3eaca5cdf` | 2026-10-11 |
 | [ipython/comm](https://github.com/repolex-forx/ipython--comm) | `ba1c862a4c` | 2026-10-11 |
 | [ipython/pickleshare](https://github.com/repolex-forx/ipython--pickleshare) | `9f0a267b02` | 2026-10-11 |
 | [pyca/pyopenssl](https://github.com/repolex-forx/pyca--pyopenssl) | `567808adb4` | 2026-10-11 |
