@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [python-restx/flask-restx](https://github.com/repolex-forx/python-restx--flask-restx) | `30abd919e7` | 2026-10-12 |
+| [wtforms/wtforms](https://github.com/repolex-forx/wtforms--wtforms) | `ae8f4b4133` | 2026-10-12 |
+| [PyCQA/astroid](https://github.com/repolex-forx/PyCQA--astroid) | `7716fe08e0` | 2026-10-12 |
+| [PyCQA/doc8](https://github.com/repolex-forx/PyCQA--doc8) | `e4d2539177` | 2026-10-12 |
+| [PyCQA/pydocstyle](https://github.com/repolex-forx/PyCQA--pydocstyle) | `8d0cdfc93e` | 2026-10-12 |
+| [PyCQA/pycodestyle](https://github.com/repolex-forx/PyCQA--pycodestyle) | `96c007cb4e` | 2026-10-12 |
+| [PyCQA/pyflakes](https://github.com/repolex-forx/PyCQA--pyflakes) | `de74d28a5f` | 2026-10-12 |
+| [PyCQA/mccabe](https://github.com/repolex-forx/PyCQA--mccabe) | `292b5c71c3` | 2026-10-12 |
+| [PyCQA/bandit](https://github.com/repolex-forx/PyCQA--bandit) | `68ebe11ef7` | 2026-10-12 |
+| [PyCQA/flake8](https://github.com/repolex-forx/PyCQA--flake8) | `229f6c5387` | 2026-10-12 |
 | [eventlet/eventlet](https://github.com/repolex-forx/eventlet--eventlet) | `d0111a51ce` | 2026-10-12 |
 | [Tinche/aiofiles](https://github.com/repolex-forx/Tinche--aiofiles) | `3c2180f7f4` | 2026-10-12 |
 | [aio-libs/async-timeout](https://github.com/repolex-forx/aio-libs--async-timeout) | `7dc0022fb8` | 2026-10-12 |
