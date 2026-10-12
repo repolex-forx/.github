@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Pylons/deformdemo](https://github.com/repolex-forx/Pylons--deformdemo) | `a54e82d97c` | 2026-10-12 |
+| [Pylons/pyramid](https://github.com/repolex-forx/Pylons--pyramid) | `948c6bac3b` | 2026-10-12 |
+| [fabric/patchwork](https://github.com/repolex-forx/fabric--patchwork) | `6768f7880c` | 2026-10-12 |
+| [fabric/fabric](https://github.com/repolex-forx/fabric--fabric) | `ded51893f0` | 2026-10-12 |
+| [simonw/csvs-to-sqlite](https://github.com/repolex-forx/simonw--csvs-to-sqlite) | `33b79ed80a` | 2026-10-12 |
+| [simonw/shot-scraper](https://github.com/repolex-forx/simonw--shot-scraper) | `760c11449f` | 2026-10-12 |
+| [simonw/ttok](https://github.com/repolex-forx/simonw--ttok) | `df24f50072` | 2026-10-12 |
+| [simonw/datasette](https://github.com/repolex-forx/simonw--datasette) | `cf113a5985` | 2026-10-12 |
+| [simonw/llm](https://github.com/repolex-forx/simonw--llm) | `05d7ae7ded` | 2026-10-12 |
+| [simonw/sqlite-utils](https://github.com/repolex-forx/simonw--sqlite-utils) | `9c66bafa52` | 2026-10-12 |
 | [scrapy/formerly](https://github.com/repolex-forx/scrapy--formerly) | `1286733c17` | 2026-10-11 |
 | [scrapy/scrapy-bench](https://github.com/repolex-forx/scrapy--scrapy-bench) | `48626327dc` | 2026-10-11 |
 | [scrapy/slybot](https://github.com/repolex-forx/scrapy--slybot) | `47ce5afa74` | 2026-10-11 |
