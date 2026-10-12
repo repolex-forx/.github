@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pydantic/logfire](https://github.com/repolex-forx/pydantic--logfire) | `199cc4df2d` | 2026-10-12 |
+| [python-jsonschema/jsonschema-specifications](https://github.com/repolex-forx/python-jsonschema--jsonschema-specifications) | `5f06612cb4` | 2026-10-12 |
+| [python-gitlab/python-gitlab](https://github.com/repolex-forx/python-gitlab--python-gitlab) | `51eb17e6e6` | 2026-10-12 |
+| [python-jsonschema/check-jsonschema](https://github.com/repolex-forx/python-jsonschema--check-jsonschema) | `56b62a433c` | 2026-10-12 |
+| [flask-restful/flask-restful](https://github.com/repolex-forx/flask-restful--flask-restful) | `88cce53a8c` | 2026-10-12 |
+| [stefanfoulis/django-phonenumber-field](https://github.com/repolex-forx/stefanfoulis--django-phonenumber-field) | `5ef314efff` | 2026-10-12 |
+| [django-ckeditor/django-ckeditor](https://github.com/repolex-forx/django-ckeditor--django-ckeditor) | `1a9c5a78ec` | 2026-10-12 |
+| [pinax/pinax](https://github.com/repolex-forx/pinax--pinax) | `5a3b55788f` | 2026-10-12 |
+| [stephenmcd/mezzanine](https://github.com/repolex-forx/stephenmcd--mezzanine) | `85dfd41244` | 2026-10-12 |
+| [litestar-org/litestar](https://github.com/repolex-forx/litestar-org--litestar) | `afd3b039ab` | 2026-10-12 |
 | [python-jsonschema/referencing](https://github.com/repolex-forx/python-jsonschema--referencing) | `40be109b70` | 2026-10-12 |
 | [jpvanhal/inflection](https://github.com/repolex-forx/jpvanhal--inflection) | `88eefaacf7` | 2026-10-12 |
 | [SmileyChris/django-countries](https://github.com/repolex-forx/SmileyChris--django-countries) | `a6462d30fa` | 2026-10-12 |
