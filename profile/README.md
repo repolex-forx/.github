@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Pylons/weberror](https://github.com/repolex-forx/Pylons--weberror) | `8963e48ca7` | 2026-10-11 |
+| [Pylons/pyramid_mailer](https://github.com/repolex-forx/Pylons--pyramid_mailer) | `2e6b72508d` | 2026-10-11 |
+| [Pylons/pyramid_handlers](https://github.com/repolex-forx/Pylons--pyramid_handlers) | `b5023e666e` | 2026-10-11 |
+| [Pylons/pyramid_ldap](https://github.com/repolex-forx/Pylons--pyramid_ldap) | `02aec38c80` | 2026-10-11 |
+| [Pylons/pyramid_simpleform](https://github.com/repolex-forx/Pylons--pyramid_simpleform) | `30c666418c` | 2026-10-11 |
+| [jupyterlab/jupyter-chat](https://github.com/repolex-forx/jupyterlab--jupyter-chat) | `977488a707` | 2026-10-11 |
+| [requests/requests-threads](https://github.com/repolex-forx/requests--requests-threads) | `b4d4384da9` | 2026-10-11 |
+| [requests/requests-kerberos](https://github.com/repolex-forx/requests--requests-kerberos) | `d4088c05ad` | 2026-10-11 |
+| [requests/requests-ntlm](https://github.com/repolex-forx/requests--requests-ntlm) | `717339ff80` | 2026-10-11 |
+| [requests/requests-oauthlib](https://github.com/repolex-forx/requests--requests-oauthlib) | `f33dac32bd` | 2026-10-11 |
 | [jupyterlab/jupyter-ai](https://github.com/repolex-forx/jupyterlab--jupyter-ai) | `f7bf67342f` | 2026-10-11 |
 | [jupyterlab/jupyterlab-git](https://github.com/repolex-forx/jupyterlab--jupyterlab-git) | `b62a87b719` | 2026-10-11 |
 | [ipython/ipyparallel](https://github.com/repolex-forx/ipython--ipyparallel) | `d724f99d7e` | 2026-10-11 |
