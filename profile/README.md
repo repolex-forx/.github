@@ -34,6 +34,17 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scrapy/formerly](https://github.com/repolex-forx/scrapy--formerly) | `1286733c17` | 2026-10-11 |
+| [scrapy/scrapy-bench](https://github.com/repolex-forx/scrapy--scrapy-bench) | `48626327dc` | 2026-10-11 |
+| [scrapy/slybot](https://github.com/repolex-forx/scrapy--slybot) | `47ce5afa74` | 2026-10-11 |
+| [scrapy/pypydispatcher](https://github.com/repolex-forx/scrapy--pypydispatcher) | `3bee78abf2` | 2026-10-11 |
+| [scrapy/dirbot](https://github.com/repolex-forx/scrapy--dirbot) | `8e99544736` | 2026-10-11 |
+| [scrapy/scrapely](https://github.com/repolex-forx/scrapy--scrapely) | `31b5881bed` | 2026-10-11 |
+| [scrapy/quotesbot](https://github.com/repolex-forx/scrapy--quotesbot) | `16ec3f4176` | 2026-10-11 |
+| [scrapy/loginform](https://github.com/repolex-forx/scrapy--loginform) | `e61facef49` | 2026-10-11 |
+| [scrapy/scrapyd-client](https://github.com/repolex-forx/scrapy--scrapyd-client) | `c6aa9d5817` | 2026-10-11 |
+| [scrapy/xtractmime](https://github.com/repolex-forx/scrapy--xtractmime) | `9d50fcb0d7` | 2026-10-11 |
+| [scrapy/scrapyd](https://github.com/repolex-forx/scrapy--scrapyd) | `50c4aa1d6e` | 2026-10-11 |
 | [Pylons/weberror](https://github.com/repolex-forx/Pylons--weberror) | `8963e48ca7` | 2026-10-11 |
 | [Pylons/pyramid_mailer](https://github.com/repolex-forx/Pylons--pyramid_mailer) | `2e6b72508d` | 2026-10-11 |
 | [Pylons/pyramid_handlers](https://github.com/repolex-forx/Pylons--pyramid_handlers) | `b5023e666e` | 2026-10-11 |
