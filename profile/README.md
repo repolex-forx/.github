@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [python-jsonschema/referencing](https://github.com/repolex-forx/python-jsonschema--referencing) | `40be109b70` | 2026-10-12 |
 | [jpvanhal/inflection](https://github.com/repolex-forx/jpvanhal--inflection) | `88eefaacf7` | 2026-10-12 |
 | [SmileyChris/django-countries](https://github.com/repolex-forx/SmileyChris--django-countries) | `a6462d30fa` | 2026-10-12 |
 | [pypa/setuptools_scm](https://github.com/repolex-forx/pypa--setuptools_scm) | `6146a26063` | 2026-10-12 |
