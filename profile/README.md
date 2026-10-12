@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [strawberry-graphql/pytest-strawberry](https://github.com/repolex-forx/strawberry-graphql--pytest-strawberry) | `27ad06477d` | 2026-10-12 |
+| [strawberry-graphql/strawberry-sqlalchemy](https://github.com/repolex-forx/strawberry-graphql--strawberry-sqlalchemy) | `e1ff9fd059` | 2026-10-12 |
+| [strawberry-graphql/strawberry-django](https://github.com/repolex-forx/strawberry-graphql--strawberry-django) | `fd3f6502fc` | 2026-10-12 |
+| [strawberry-graphql/strawberry](https://github.com/repolex-forx/strawberry-graphql--strawberry) | `0eb1c5ecb6` | 2026-10-12 |
+| [executablebooks/sphinx-tabs](https://github.com/repolex-forx/executablebooks--sphinx-tabs) | `7e1d2eccd7` | 2026-10-12 |
+| [executablebooks/rst-to-myst](https://github.com/repolex-forx/executablebooks--rst-to-myst) | `10d1edcb96` | 2026-10-12 |
+| [executablebooks/mdit-py-plugins](https://github.com/repolex-forx/executablebooks--mdit-py-plugins) | `519953da0a` | 2026-10-12 |
+| [executablebooks/sphinx-external-toc](https://github.com/repolex-forx/executablebooks--sphinx-external-toc) | `ba976dbe69` | 2026-10-12 |
+| [executablebooks/mdurl](https://github.com/repolex-forx/executablebooks--mdurl) | `524d2edbbc` | 2026-10-12 |
+| [executablebooks/sphinx-copybutton](https://github.com/repolex-forx/executablebooks--sphinx-copybutton) | `ef430062a3` | 2026-10-12 |
 | [datasette/datasette-extract](https://github.com/repolex-forx/datasette--datasette-extract) | `4456f54f0c` | 2026-10-12 |
 | [datasette/datasette-enrichments-llm](https://github.com/repolex-forx/datasette--datasette-enrichments-llm) | `40e7923095` | 2026-10-12 |
 | [datasette/datasette-llm-usage](https://github.com/repolex-forx/datasette--datasette-llm-usage) | `a9269a8316` | 2026-10-12 |
