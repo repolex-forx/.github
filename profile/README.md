@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [datasette/datasette-plugin-router](https://github.com/repolex-forx/datasette--datasette-plugin-router) | `63e93bafcc` | 2026-10-12 |
+| [datasette/datasette-vite](https://github.com/repolex-forx/datasette--datasette-vite) | `e30144caef` | 2026-10-12 |
+| [datasette/datasette-user-profiles](https://github.com/repolex-forx/datasette--datasette-user-profiles) | `5e0079532e` | 2026-10-12 |
+| [datasette/datasette-places](https://github.com/repolex-forx/datasette--datasette-places) | `5429ce8edd` | 2026-10-12 |
+| [datasette/datasette-files](https://github.com/repolex-forx/datasette--datasette-files) | `011d2106dc` | 2026-10-12 |
+| [datasette/datasette-acl](https://github.com/repolex-forx/datasette--datasette-acl) | `b586db5bef` | 2026-10-12 |
+| [datasette/datasette-agent-modeler](https://github.com/repolex-forx/datasette--datasette-agent-modeler) | `99844d7b50` | 2026-10-12 |
+| [datasette/datasette-llm-limits](https://github.com/repolex-forx/datasette--datasette-llm-limits) | `c083b1d9fa` | 2026-10-12 |
+| [datasette/datasette-public](https://github.com/repolex-forx/datasette--datasette-public) | `15585d8c79` | 2026-10-12 |
+| [datasette/datasette-litestream](https://github.com/repolex-forx/datasette--datasette-litestream) | `6d043ddcaf` | 2026-10-12 |
 | [datasette/datasette-mcp](https://github.com/repolex-forx/datasette--datasette-mcp) | `55f1ed1b74` | 2026-10-12 |
 | [datasette/datasette-alerts](https://github.com/repolex-forx/datasette--datasette-alerts) | `c0a5fe7fbc` | 2026-10-12 |
 | [datasette/datasette-agent](https://github.com/repolex-forx/datasette--datasette-agent) | `c811e82352` | 2026-10-12 |
