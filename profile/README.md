@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [falconry/python-mimeparse](https://github.com/repolex-forx/falconry--python-mimeparse) | `76d2173365` | 2026-10-11 |
+| [falconry/token-bucket](https://github.com/repolex-forx/falconry--token-bucket) | `75bc464c27` | 2026-10-11 |
+| [pyinvoke/invocations](https://github.com/repolex-forx/pyinvoke--invocations) | `da97d736f9` | 2026-10-11 |
+| [python-hyper/priority](https://github.com/repolex-forx/python-hyper--priority) | `532ace514d` | 2026-10-11 |
+| [python-hyper/hyperlink](https://github.com/repolex-forx/python-hyper--hyperlink) | `978f2e6455` | 2026-10-11 |
+| [python-hyper/hyperframe](https://github.com/repolex-forx/python-hyper--hyperframe) | `632e309bf6` | 2026-10-11 |
+| [python-hyper/wsproto](https://github.com/repolex-forx/python-hyper--wsproto) | `5e0685d074` | 2026-10-11 |
+| [python-hyper/hpack](https://github.com/repolex-forx/python-hyper--hpack) | `c2edbee3b5` | 2026-10-11 |
+| [python-hyper/rfc3986](https://github.com/repolex-forx/python-hyper--rfc3986) | `3bd3832b72` | 2026-10-11 |
+| [python-hyper/uritemplate](https://github.com/repolex-forx/python-hyper--uritemplate) | `4a38e9f6e7` | 2026-10-11 |
 | [jazzband/django-mongonaut](https://github.com/repolex-forx/jazzband--django-mongonaut) | `6a008c7b8f` | 2026-10-11 |
 | [jazzband/django-flatblocks](https://github.com/repolex-forx/jazzband--django-flatblocks) | `8ecea624a3` | 2026-10-11 |
 | [jazzband/django-admin-sortable](https://github.com/repolex-forx/jazzband--django-admin-sortable) | `b9c1f3e0c4` | 2026-10-11 |
