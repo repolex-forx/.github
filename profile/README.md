@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [datasette/datasette-extract](https://github.com/repolex-forx/datasette--datasette-extract) | `4456f54f0c` | 2026-10-12 |
+| [datasette/datasette-enrichments-llm](https://github.com/repolex-forx/datasette--datasette-enrichments-llm) | `40e7923095` | 2026-10-12 |
+| [datasette/datasette-llm-usage](https://github.com/repolex-forx/datasette--datasette-llm-usage) | `a9269a8316` | 2026-10-12 |
+| [datasette/datasette-referrer-policy](https://github.com/repolex-forx/datasette--datasette-referrer-policy) | `d70d80010b` | 2026-10-12 |
+| [datasette/datasette-ip-rate-limit](https://github.com/repolex-forx/datasette--datasette-ip-rate-limit) | `8d338b0898` | 2026-10-12 |
+| [datasette/datasette-pins](https://github.com/repolex-forx/datasette--datasette-pins) | `d865b27098` | 2026-10-12 |
+| [datasette/datasette-comments](https://github.com/repolex-forx/datasette--datasette-comments) | `f381d96189` | 2026-10-12 |
+| [datasette/datasette-auth-tailscale](https://github.com/repolex-forx/datasette--datasette-auth-tailscale) | `7520939af6` | 2026-10-12 |
+| [datasette/datasette-tailscale](https://github.com/repolex-forx/datasette--datasette-tailscale) | `7f5ac3e3eb` | 2026-10-12 |
+| [datasette/datasette-export-database](https://github.com/repolex-forx/datasette--datasette-export-database) | `ca3ba4fa05` | 2026-10-12 |
 | [datasette/datasette-plugin-router](https://github.com/repolex-forx/datasette--datasette-plugin-router) | `63e93bafcc` | 2026-10-12 |
 | [datasette/datasette-vite](https://github.com/repolex-forx/datasette--datasette-vite) | `e30144caef` | 2026-10-12 |
 | [datasette/datasette-user-profiles](https://github.com/repolex-forx/datasette--datasette-user-profiles) | `5e0079532e` | 2026-10-12 |
