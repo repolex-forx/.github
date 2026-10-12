@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Pylons/pyramid_zcml](https://github.com/repolex-forx/Pylons--pyramid_zcml) | `b7740dc319` | 2026-10-11 |
+| [Pylons/pyramid_mako](https://github.com/repolex-forx/Pylons--pyramid_mako) | `7619ef2a5d` | 2026-10-11 |
+| [Pylons/webob](https://github.com/repolex-forx/Pylons--webob) | `c0d70f985f` | 2026-10-11 |
+| [Pylons/deform](https://github.com/repolex-forx/Pylons--deform) | `3977582583` | 2026-10-11 |
+| [Pylons/pyramid_openapi3](https://github.com/repolex-forx/Pylons--pyramid_openapi3) | `39a3e77b75` | 2026-10-11 |
+| [falconry/falcon-require-https](https://github.com/repolex-forx/falconry--falcon-require-https) | `1c1fd26aa7` | 2026-10-11 |
+| [falconry/falcon-sync](https://github.com/repolex-forx/falconry--falcon-sync) | `c3a3eefdd8` | 2026-10-11 |
+| [graphql-python/graphene-sqlalchemy](https://github.com/repolex-forx/graphql-python--graphene-sqlalchemy) | `4ea6ee8196` | 2026-10-11 |
+| [graphql-python/graphene-federation](https://github.com/repolex-forx/graphql-python--graphene-federation) | `653357cf08` | 2026-10-11 |
+| [graphql-python/graphene-mongo](https://github.com/repolex-forx/graphql-python--graphene-mongo) | `3b174a827f` | 2026-10-11 |
 | [Pylons/webtest](https://github.com/repolex-forx/Pylons--webtest) | `938524c616` | 2026-10-11 |
 | [Pylons/waitress](https://github.com/repolex-forx/Pylons--waitress) | `2b43237e9c` | 2026-10-11 |
 | [falconry/falcon-oauthlib](https://github.com/repolex-forx/falconry--falcon-oauthlib) | `6e09a06bef` | 2026-10-11 |
