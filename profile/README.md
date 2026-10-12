@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [django-crispy-forms/django-crispy-forms](https://github.com/repolex-forx/django-crispy-forms--django-crispy-forms) | `e7fbb53859` | 2026-10-12 |
+| [python-babel/flask-babel](https://github.com/repolex-forx/python-babel--flask-babel) | `869715cfea` | 2026-10-12 |
+| [python-babel/babel](https://github.com/repolex-forx/python-babel--babel) | `e2a17919f0` | 2026-10-12 |
+| [darrenburns/pytest-clarity](https://github.com/repolex-forx/darrenburns--pytest-clarity) | `533056491c` | 2026-10-12 |
+| [ionelmc/pytest-benchmark](https://github.com/repolex-forx/ionelmc--pytest-benchmark) | `07d5196726` | 2026-10-12 |
+| [Teemu/pytest-sugar](https://github.com/repolex-forx/Teemu--pytest-sugar) | `54ec9991e1` | 2026-10-12 |
+| [glyph/automat](https://github.com/repolex-forx/glyph--automat) | `1e64bf3da9` | 2026-10-12 |
+| [PyCQA/baron](https://github.com/repolex-forx/PyCQA--baron) | `eaa1062bec` | 2026-10-12 |
+| [PyCQA/redbaron](https://github.com/repolex-forx/PyCQA--redbaron) | `9b4a1825d1` | 2026-10-12 |
+| [PyCQA/prospector](https://github.com/repolex-forx/PyCQA--prospector) | `58a90fc31b` | 2026-10-12 |
 | [python-restx/flask-restx](https://github.com/repolex-forx/python-restx--flask-restx) | `30abd919e7` | 2026-10-12 |
 | [wtforms/wtforms](https://github.com/repolex-forx/wtforms--wtforms) | `ae8f4b4133` | 2026-10-12 |
 | [PyCQA/astroid](https://github.com/repolex-forx/PyCQA--astroid) | `7716fe08e0` | 2026-10-12 |
