@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ipython/comm](https://github.com/repolex-forx/ipython--comm) | `ba1c862a4c` | 2026-10-11 |
+| [ipython/pickleshare](https://github.com/repolex-forx/ipython--pickleshare) | `9f0a267b02` | 2026-10-11 |
+| [pyca/pyopenssl](https://github.com/repolex-forx/pyca--pyopenssl) | `567808adb4` | 2026-10-11 |
+| [pyca/service-identity](https://github.com/repolex-forx/pyca--service-identity) | `6858d01dd8` | 2026-10-11 |
+| [twisted/txmongo](https://github.com/repolex-forx/twisted--txmongo) | `128c88151f` | 2026-10-11 |
+| [twisted/constantly](https://github.com/repolex-forx/twisted--constantly) | `c0ca511f6f` | 2026-10-11 |
+| [twisted/incremental](https://github.com/repolex-forx/twisted--incremental) | `830ebeddf6` | 2026-10-11 |
+| [twisted/treq](https://github.com/repolex-forx/twisted--treq) | `99f17121ab` | 2026-10-11 |
+| [twisted/klein](https://github.com/repolex-forx/twisted--klein) | `722840bf1b` | 2026-10-11 |
+| [twisted/towncrier](https://github.com/repolex-forx/twisted--towncrier) | `f92fbf5180` | 2026-10-11 |
 | [Pylons/pyramid_zcml](https://github.com/repolex-forx/Pylons--pyramid_zcml) | `b7740dc319` | 2026-10-11 |
 | [Pylons/pyramid_mako](https://github.com/repolex-forx/Pylons--pyramid_mako) | `7619ef2a5d` | 2026-10-11 |
 | [Pylons/webob](https://github.com/repolex-forx/Pylons--webob) | `c0d70f985f` | 2026-10-11 |
