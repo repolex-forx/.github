@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [eventlet/eventlet](https://github.com/repolex-forx/eventlet--eventlet) | `d0111a51ce` | 2026-10-12 |
+| [Tinche/aiofiles](https://github.com/repolex-forx/Tinche--aiofiles) | `3c2180f7f4` | 2026-10-12 |
+| [aio-libs/async-timeout](https://github.com/repolex-forx/aio-libs--async-timeout) | `7dc0022fb8` | 2026-10-12 |
+| [graphql-python/graphql-relay-py](https://github.com/repolex-forx/graphql-python--graphql-relay-py) | `611c0333ee` | 2026-10-12 |
+| [python-openapi/openapi-schema-validator](https://github.com/repolex-forx/python-openapi--openapi-schema-validator) | `005e0804dd` | 2026-10-12 |
+| [python-openapi/openapi-spec-validator](https://github.com/repolex-forx/python-openapi--openapi-spec-validator) | `2121137e48` | 2026-10-12 |
+| [samuelcolvin/arq](https://github.com/repolex-forx/samuelcolvin--arq) | `5ee4b48cf6` | 2026-10-12 |
+| [samuelcolvin/aiohttp-devtools](https://github.com/repolex-forx/samuelcolvin--aiohttp-devtools) | `5a5d4222c3` | 2026-10-12 |
+| [lovasoa/marshmallow_dataclass](https://github.com/repolex-forx/lovasoa--marshmallow_dataclass) | `5c428f493e` | 2026-10-12 |
+| [frankie567/httpx-oauth](https://github.com/repolex-forx/frankie567--httpx-oauth) | `8570ab5bff` | 2026-10-12 |
 | [pydantic/logfire](https://github.com/repolex-forx/pydantic--logfire) | `199cc4df2d` | 2026-10-12 |
 | [python-jsonschema/jsonschema-specifications](https://github.com/repolex-forx/python-jsonschema--jsonschema-specifications) | `5f06612cb4` | 2026-10-12 |
 | [python-gitlab/python-gitlab](https://github.com/repolex-forx/python-gitlab--python-gitlab) | `51eb17e6e6` | 2026-10-12 |
