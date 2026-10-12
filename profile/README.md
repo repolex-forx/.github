@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [spec-first/swagger_ui_bundle](https://github.com/repolex-forx/spec-first--swagger_ui_bundle) | `77ce9d279b` | 2026-10-12 |
+| [spec-first/connexion](https://github.com/repolex-forx/spec-first--connexion) | `a23d44e0e0` | 2026-10-12 |
+| [executablebooks/jupyter-cache](https://github.com/repolex-forx/executablebooks--jupyter-cache) | `9394eada9b` | 2026-10-12 |
+| [executablebooks/MyST-NB](https://github.com/repolex-forx/executablebooks--MyST-NB) | `23b1747ff9` | 2026-10-12 |
+| [executablebooks/sphinx-exercise](https://github.com/repolex-forx/executablebooks--sphinx-exercise) | `9804d685b8` | 2026-10-12 |
+| [executablebooks/sphinx-togglebutton](https://github.com/repolex-forx/executablebooks--sphinx-togglebutton) | `76bb31f882` | 2026-10-12 |
+| [executablebooks/sphinx-proof](https://github.com/repolex-forx/executablebooks--sphinx-proof) | `d1113a8299` | 2026-10-12 |
+| [executablebooks/sphinx-book-theme](https://github.com/repolex-forx/executablebooks--sphinx-book-theme) | `3512c865a6` | 2026-10-12 |
+| [executablebooks/sphinx-thebe](https://github.com/repolex-forx/executablebooks--sphinx-thebe) | `60aa219f0a` | 2026-10-12 |
+| [executablebooks/MyST-Parser](https://github.com/repolex-forx/executablebooks--MyST-Parser) | `723cffcf84` | 2026-10-12 |
 | [strawberry-graphql/pytest-strawberry](https://github.com/repolex-forx/strawberry-graphql--pytest-strawberry) | `27ad06477d` | 2026-10-12 |
 | [strawberry-graphql/strawberry-sqlalchemy](https://github.com/repolex-forx/strawberry-graphql--strawberry-sqlalchemy) | `e1ff9fd059` | 2026-10-12 |
 | [strawberry-graphql/strawberry-django](https://github.com/repolex-forx/strawberry-graphql--strawberry-django) | `fd3f6502fc` | 2026-10-12 |
