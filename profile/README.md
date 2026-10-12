@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [simonw/llm-gemini](https://github.com/repolex-forx/simonw--llm-gemini) | `e8de0b30d6` | 2026-10-12 |
+| [simonw/llm-anthropic](https://github.com/repolex-forx/simonw--llm-anthropic) | `b66cdf112c` | 2026-10-12 |
+| [simonw/llm-mistral](https://github.com/repolex-forx/simonw--llm-mistral) | `1b8807821f` | 2026-10-12 |
+| [simonw/datasette-explain](https://github.com/repolex-forx/simonw--datasette-explain) | `d39ba0ff18` | 2026-10-12 |
+| [simonw/datasette-atom](https://github.com/repolex-forx/simonw--datasette-atom) | `907ddfa520` | 2026-10-12 |
+| [simonw/datasette-publish-fly](https://github.com/repolex-forx/simonw--datasette-publish-fly) | `a14b34ade8` | 2026-10-12 |
+| [simonw/datasette-auth-github](https://github.com/repolex-forx/simonw--datasette-auth-github) | `1d47f69f5a` | 2026-10-12 |
+| [simonw/datasette-block-robots](https://github.com/repolex-forx/simonw--datasette-block-robots) | `8470233830` | 2026-10-12 |
+| [simonw/datasette-cluster-map](https://github.com/repolex-forx/simonw--datasette-cluster-map) | `d6b2362cbd` | 2026-10-12 |
+| [simonw/datasette-auth-tokens](https://github.com/repolex-forx/simonw--datasette-auth-tokens) | `198f3af836` | 2026-10-12 |
 | [Pylons/deformdemo](https://github.com/repolex-forx/Pylons--deformdemo) | `a54e82d97c` | 2026-10-12 |
 | [Pylons/pyramid](https://github.com/repolex-forx/Pylons--pyramid) | `948c6bac3b` | 2026-10-12 |
 | [fabric/patchwork](https://github.com/repolex-forx/fabric--patchwork) | `6768f7880c` | 2026-10-12 |
