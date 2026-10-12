@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jpvanhal/inflection](https://github.com/repolex-forx/jpvanhal--inflection) | `88eefaacf7` | 2026-10-12 |
+| [SmileyChris/django-countries](https://github.com/repolex-forx/SmileyChris--django-countries) | `a6462d30fa` | 2026-10-12 |
+| [pypa/setuptools_scm](https://github.com/repolex-forx/pypa--setuptools_scm) | `6146a26063` | 2026-10-12 |
+| [pypa/hatch](https://github.com/repolex-forx/pypa--hatch) | `7c26ebeaf8` | 2026-10-12 |
+| [pypa/virtualenv](https://github.com/repolex-forx/pypa--virtualenv) | `a857a7823c` | 2026-10-12 |
+| [jazzband/prettytable](https://github.com/repolex-forx/jazzband--prettytable) | `5fec60c0fd` | 2026-10-12 |
+| [jazzband/django-oauth-toolkit](https://github.com/repolex-forx/jazzband--django-oauth-toolkit) | `c6e1bd2834` | 2026-10-12 |
+| [jazzband/django-debug-toolbar](https://github.com/repolex-forx/jazzband--django-debug-toolbar) | `2ac540263e` | 2026-10-12 |
+| [django-extensions/django-extensions](https://github.com/repolex-forx/django-extensions--django-extensions) | `9bdf315566` | 2026-10-12 |
 | [piccolo-orm/piccolo_admin](https://github.com/repolex-forx/piccolo-orm--piccolo_admin) | `d6053adc9f` | 2026-10-12 |
 | [piccolo-orm/piccolo](https://github.com/repolex-forx/piccolo-orm--piccolo) | `2556bbf2af` | 2026-10-12 |
 | [tortoise/tortoise-orm](https://github.com/repolex-forx/tortoise--tortoise-orm) | `a47e3f6c9e` | 2026-10-12 |
