@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [django-hijack/django-hijack](https://github.com/repolex-forx/django-hijack--django-hijack) | `c0bfe94e9f` | 2026-10-15 |
+| [simonw/paginate-json](https://github.com/repolex-forx/simonw--paginate-json) | `4b4f5e6442` | 2026-10-15 |
+| [simonw/llm-cluster](https://github.com/repolex-forx/simonw--llm-cluster) | `d2f93f1d17` | 2026-10-15 |
+| [simonw/llm-ollama](https://github.com/repolex-forx/simonw--llm-ollama) | `4c91d4544a` | 2026-10-15 |
+| [simonw/llm-cmd](https://github.com/repolex-forx/simonw--llm-cmd) | `1db3a14fdf` | 2026-10-15 |
+| [simonw/llm-groq](https://github.com/repolex-forx/simonw--llm-groq) | `57be10aeb6` | 2026-10-15 |
+| [encode/broadcaster](https://github.com/repolex-forx/encode--broadcaster) | `6b3ea71d4f` | 2026-10-15 |
+| [encode/orm](https://github.com/repolex-forx/encode--orm) | `062f7e03d6` | 2026-10-15 |
+| [encode/typesystem](https://github.com/repolex-forx/encode--typesystem) | `7decd48f40` | 2026-10-15 |
+| [encode/databases](https://github.com/repolex-forx/encode--databases) | `ae3fb16f40` | 2026-10-15 |
 | [tiangolo/asyncer](https://github.com/repolex-forx/tiangolo--asyncer) | `de024c755c` | 2026-10-15 |
 | [piccolo-orm/piccolo_theme](https://github.com/repolex-forx/piccolo-orm--piccolo_theme) | `d6fad398aa` | 2026-10-15 |
 | [piccolo-orm/piccolo_api](https://github.com/repolex-forx/piccolo-orm--piccolo_api) | `e1bee6cdda` | 2026-10-15 |
