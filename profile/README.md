@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pylint-dev/astroid](https://github.com/repolex-forx/pylint-dev--astroid) | `1eef6fa803` | 2026-10-15 |
+| [pylint-dev/pylint-plugin-utils](https://github.com/repolex-forx/pylint-dev--pylint-plugin-utils) | `cee16e5e91` | 2026-10-15 |
+| [pylint-dev/pylint-celery](https://github.com/repolex-forx/pylint-dev--pylint-celery) | `4edf639f29` | 2026-10-15 |
+| [pylint-dev/pylint-django](https://github.com/repolex-forx/pylint-dev--pylint-django) | `370556a75a` | 2026-10-15 |
+| [jupyterhub/firstuseauthenticator](https://github.com/repolex-forx/jupyterhub--firstuseauthenticator) | `7216c7415a` | 2026-10-15 |
+| [jupyterhub/systemdspawner](https://github.com/repolex-forx/jupyterhub--systemdspawner) | `9a0a7f4efe` | 2026-10-15 |
+| [jupyterhub/ldapauthenticator](https://github.com/repolex-forx/jupyterhub--ldapauthenticator) | `9d2759a3ca` | 2026-10-15 |
+| [jupyterhub/batchspawner](https://github.com/repolex-forx/jupyterhub--batchspawner) | `451dcf171c` | 2026-10-15 |
+| [jupyterhub/dockerspawner](https://github.com/repolex-forx/jupyterhub--dockerspawner) | `a73d0de667` | 2026-10-15 |
+| [jupyterhub/oauthenticator](https://github.com/repolex-forx/jupyterhub--oauthenticator) | `02344def2a` | 2026-10-15 |
 | [sphinx-contrib/images](https://github.com/repolex-forx/sphinx-contrib--images) | `fce459ff97` | 2026-10-15 |
 | [sphinx-contrib/confluencebuilder](https://github.com/repolex-forx/sphinx-contrib--confluencebuilder) | `14515276dd` | 2026-10-15 |
 | [sphinx-contrib/autoprogram](https://github.com/repolex-forx/sphinx-contrib--autoprogram) | `80ecc511c9` | 2026-10-15 |
