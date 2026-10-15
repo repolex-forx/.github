@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [executablebooks/mistletoe-ebp](https://github.com/repolex-forx/executablebooks--mistletoe-ebp) | `2298124367` | 2026-10-15 |
+| [executablebooks/cli](https://github.com/repolex-forx/executablebooks--cli) | `4510602b43` | 2026-10-15 |
+| [scrapy-plugins/scrapy-jsonrpc](https://github.com/repolex-forx/scrapy-plugins--scrapy-jsonrpc) | `15e0b7018c` | 2026-10-15 |
+| [scrapy-plugins/scrapy-splash](https://github.com/repolex-forx/scrapy-plugins--scrapy-splash) | `72a8788212` | 2026-10-15 |
+| [twisted/deferred](https://github.com/repolex-forx/twisted--deferred) | `d5f72e9068` | 2026-10-15 |
+| [twisted/ampoule](https://github.com/repolex-forx/twisted--ampoule) | `58d3003cc8` | 2026-10-15 |
+| [twisted/txacme](https://github.com/repolex-forx/twisted--txacme) | `ac18f92f6d` | 2026-10-15 |
+| [twisted/txaws](https://github.com/repolex-forx/twisted--txaws) | `5c3317376c` | 2026-10-15 |
+| [twisted/filepath](https://github.com/repolex-forx/twisted--filepath) | `920f6bb386` | 2026-10-15 |
+| [twisted/tubes](https://github.com/repolex-forx/twisted--tubes) | `a28e91a08e` | 2026-10-15 |
 | [sphinx-contrib/email](https://github.com/repolex-forx/sphinx-contrib--email) | `e23db323d1` | 2026-10-15 |
 | [executablebooks/sphinx-globaltoc](https://github.com/repolex-forx/executablebooks--sphinx-globaltoc) | `ea6c5ad08c` | 2026-10-15 |
 | [executablebooks/sphinx-yaml-config](https://github.com/repolex-forx/executablebooks--sphinx-yaml-config) | `b2339a3cd0` | 2026-10-15 |
