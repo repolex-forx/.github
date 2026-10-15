@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pypa/linehaul](https://github.com/repolex-forx/pypa--linehaul) | `cc9908824b` | 2026-10-15 |
+| [jupyterlab/maintainer-tools](https://github.com/repolex-forx/jupyterlab--maintainer-tools) | `9ef9d99e77` | 2026-10-15 |
+| [sphinx-contrib/anchormap](https://github.com/repolex-forx/sphinx-contrib--anchormap) | `d73763e069` | 2026-10-15 |
+| [sphinx-contrib/enum](https://github.com/repolex-forx/sphinx-contrib--enum) | `9e0ac3197e` | 2026-10-15 |
+| [sphinx-contrib/typer](https://github.com/repolex-forx/sphinx-contrib--typer) | `9a1e7e1b08` | 2026-10-15 |
+| [sphinx-contrib/sphinx-lint](https://github.com/repolex-forx/sphinx-contrib--sphinx-lint) | `a3c2554c7c` | 2026-10-15 |
+| [sphinx-contrib/sphinxcontrib-towncrier](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-towncrier) | `7b6ebdf880` | 2026-10-15 |
+| [jupyterlab/jupyter-collaboration](https://github.com/repolex-forx/jupyterlab--jupyter-collaboration) | `455f821803` | 2026-10-15 |
+| [sqlalchemy/dogpile.cache](https://github.com/repolex-forx/sqlalchemy--dogpile.cache) | `185db4fb6c` | 2026-10-15 |
+| [jupyter-widgets/traittypes](https://github.com/repolex-forx/jupyter-widgets--traittypes) | `9a1db7c182` | 2026-10-15 |
 | [pypa/pip-tools](https://github.com/repolex-forx/pypa--pip-tools) | `790ab56d1e` | 2026-10-15 |
 | [jupyter/nbviewer](https://github.com/repolex-forx/jupyter--nbviewer) | `5fde5fecfb` | 2026-10-15 |
 | [jupyter/jupyter_kernel_test](https://github.com/repolex-forx/jupyter--jupyter_kernel_test) | `5f2c65271b` | 2026-10-15 |
