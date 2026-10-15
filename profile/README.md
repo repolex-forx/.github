@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [geopandas/dask-geopandas](https://github.com/repolex-forx/geopandas--dask-geopandas) | `3e2143495a` | 2026-10-15 |
+| [geopandas/pyogrio](https://github.com/repolex-forx/geopandas--pyogrio) | `12efcde310` | 2026-10-15 |
+| [holoviz/spatialpandas](https://github.com/repolex-forx/holoviz--spatialpandas) | `36240a117d` | 2026-10-15 |
+| [holoviz/param](https://github.com/repolex-forx/holoviz--param) | `a45813bcda` | 2026-10-15 |
+| [holoviz/colorcet](https://github.com/repolex-forx/holoviz--colorcet) | `076eb84bf8` | 2026-10-15 |
+| [pyproj4/pyproj](https://github.com/repolex-forx/pyproj4--pyproj) | `5e644eaf07` | 2026-10-15 |
+| [Toblerity/rtree](https://github.com/repolex-forx/Toblerity--rtree) | `4b570582ff` | 2026-10-15 |
+| [Toblerity/Fiona](https://github.com/repolex-forx/Toblerity--Fiona) | `51cc8e3aad` | 2026-10-15 |
+| [shapely/shapely](https://github.com/repolex-forx/shapely--shapely) | `737cc734ca` | 2026-10-15 |
+| [geopandas/xyzservices](https://github.com/repolex-forx/geopandas--xyzservices) | `a1ed225394` | 2026-10-15 |
 | [altair-viz/altair-transform](https://github.com/repolex-forx/altair-viz--altair-transform) | `b65bf854de` | 2026-10-15 |
 | [altair-viz/altair_widgets](https://github.com/repolex-forx/altair-viz--altair_widgets) | `20f6659753` | 2026-10-15 |
 | [altair-viz/altair_pandas](https://github.com/repolex-forx/altair-viz--altair_pandas) | `506d0b937f` | 2026-10-15 |
