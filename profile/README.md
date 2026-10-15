@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scikit-hep/cabinetry](https://github.com/repolex-forx/scikit-hep--cabinetry) | `0252deed24` | 2026-10-15 |
+| [scikit-hep/pylhe](https://github.com/repolex-forx/scikit-hep--pylhe) | `4d347b912b` | 2026-10-15 |
+| [scikit-hep/resample](https://github.com/repolex-forx/scikit-hep--resample) | `2774eaaeb3` | 2026-10-15 |
+| [scikit-hep/formulate](https://github.com/repolex-forx/scikit-hep--formulate) | `70e72bc04a` | 2026-10-15 |
+| [scikit-hep/hepunits](https://github.com/repolex-forx/scikit-hep--hepunits) | `f78ca6d751` | 2026-10-15 |
+| [scikit-hep/uhi](https://github.com/repolex-forx/scikit-hep--uhi) | `2925a6d0ff` | 2026-10-15 |
+| [scikit-hep/hist](https://github.com/repolex-forx/scikit-hep--hist) | `1151fee4d9` | 2026-10-15 |
+| [scikit-hep/decaylanguage](https://github.com/repolex-forx/scikit-hep--decaylanguage) | `abe8e624aa` | 2026-10-15 |
+| [scikit-hep/particle](https://github.com/repolex-forx/scikit-hep--particle) | `9c259efc25` | 2026-10-15 |
+| [scikit-hep/vector](https://github.com/repolex-forx/scikit-hep--vector) | `caf34cddf9` | 2026-10-15 |
 | [pypa/linehaul](https://github.com/repolex-forx/pypa--linehaul) | `cc9908824b` | 2026-10-15 |
 | [jupyterlab/maintainer-tools](https://github.com/repolex-forx/jupyterlab--maintainer-tools) | `9ef9d99e77` | 2026-10-15 |
 | [sphinx-contrib/anchormap](https://github.com/repolex-forx/sphinx-contrib--anchormap) | `d73763e069` | 2026-10-15 |
