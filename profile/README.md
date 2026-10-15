@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [astropy/astropy-healpix](https://github.com/repolex-forx/astropy--astropy-healpix) | `0e24555771` | 2026-10-15 |
+| [astropy/regions](https://github.com/repolex-forx/astropy--regions) | `a9a0c30b48` | 2026-10-15 |
+| [astropy/extension-helpers](https://github.com/repolex-forx/astropy--extension-helpers) | `f75d18ad43` | 2026-10-15 |
+| [astropy/pyvo](https://github.com/repolex-forx/astropy--pyvo) | `545eac3ce7` | 2026-10-15 |
+| [astropy/sphinx-astropy](https://github.com/repolex-forx/astropy--sphinx-astropy) | `638ede78f0` | 2026-10-15 |
+| [astropy/pytest-astropy-header](https://github.com/repolex-forx/astropy--pytest-astropy-header) | `a884aa1f6d` | 2026-10-15 |
+| [astropy/pytest-astropy](https://github.com/repolex-forx/astropy--pytest-astropy) | `594ff8e150` | 2026-10-15 |
+| [astropy/pytest-remotedata](https://github.com/repolex-forx/astropy--pytest-remotedata) | `5e6bbf150c` | 2026-10-15 |
+| [astropy/pytest-doctestplus](https://github.com/repolex-forx/astropy--pytest-doctestplus) | `019daf388a` | 2026-10-15 |
+| [astropy/asdf-astropy](https://github.com/repolex-forx/astropy--asdf-astropy) | `de7045b49a` | 2026-10-15 |
 | [scikit-hep/cabinetry](https://github.com/repolex-forx/scikit-hep--cabinetry) | `0252deed24` | 2026-10-15 |
 | [scikit-hep/pylhe](https://github.com/repolex-forx/scikit-hep--pylhe) | `4d347b912b` | 2026-10-15 |
 | [scikit-hep/resample](https://github.com/repolex-forx/scikit-hep--resample) | `2774eaaeb3` | 2026-10-15 |
