@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/ansi](https://github.com/repolex-forx/sphinx-contrib--ansi) | `af63f758b1` | 2026-10-15 |
+| [sphinx-contrib/datatemplates](https://github.com/repolex-forx/sphinx-contrib--datatemplates) | `2ad0b634fa` | 2026-10-15 |
+| [jupyterhub/repo2docker](https://github.com/repolex-forx/jupyterhub--repo2docker) | `ebcc593885` | 2026-10-15 |
+| [jupyterhub/binderhub](https://github.com/repolex-forx/jupyterhub--binderhub) | `1013493a4e` | 2026-10-15 |
+| [jupyterhub/escapism](https://github.com/repolex-forx/jupyterhub--escapism) | `ae458c5ad9` | 2026-10-15 |
+| [jupyterhub/sudospawner](https://github.com/repolex-forx/jupyterhub--sudospawner) | `304be890e2` | 2026-10-15 |
+| [jupyterhub/jupyterhub](https://github.com/repolex-forx/jupyterhub--jupyterhub) | `10c37af3bf` | 2026-10-15 |
+| [python-poetry/poetry](https://github.com/repolex-forx/python-poetry--poetry) | `38a86661d2` | 2026-10-15 |
+| [boto/s3transfer](https://github.com/repolex-forx/boto--s3transfer) | `0ab921d7a0` | 2026-10-15 |
 | [sphinx-contrib/video](https://github.com/repolex-forx/sphinx-contrib--video) | `4d04cefddc` | 2026-10-15 |
 | [sphinx-contrib/fulltoc](https://github.com/repolex-forx/sphinx-contrib--fulltoc) | `8c09d8225e` | 2026-10-15 |
 | [sphinx-contrib/redoc](https://github.com/repolex-forx/sphinx-contrib--redoc) | `5b9906bade` | 2026-10-15 |
