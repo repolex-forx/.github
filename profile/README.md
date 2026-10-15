@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/email](https://github.com/repolex-forx/sphinx-contrib--email) | `e23db323d1` | 2026-10-15 |
+| [executablebooks/sphinx-globaltoc](https://github.com/repolex-forx/executablebooks--sphinx-globaltoc) | `ea6c5ad08c` | 2026-10-15 |
+| [executablebooks/sphinx-yaml-config](https://github.com/repolex-forx/executablebooks--sphinx-yaml-config) | `b2339a3cd0` | 2026-10-15 |
+| [executablebooks/github-activity](https://github.com/repolex-forx/executablebooks--github-activity) | `a73faf1082` | 2026-10-15 |
+| [executablebooks/rst2myst](https://github.com/repolex-forx/executablebooks--rst2myst) | `32f1dd8a6b` | 2026-10-15 |
+| [jupyter-server/enterprise_gateway](https://github.com/repolex-forx/jupyter-server--enterprise_gateway) | `880ab92b9a` | 2026-10-15 |
+| [jupyter-server/synchronizer](https://github.com/repolex-forx/jupyter-server--synchronizer) | `faa25ac7ba` | 2026-10-15 |
+| [jupyter-server/jupyter-scheduler](https://github.com/repolex-forx/jupyter-server--jupyter-scheduler) | `955883c1b3` | 2026-10-15 |
+| [jupyter-server/fps](https://github.com/repolex-forx/jupyter-server--fps) | `b4e2d1f44f` | 2026-10-15 |
+| [jupyter-server/jupyverse](https://github.com/repolex-forx/jupyter-server--jupyverse) | `5ab77dd10b` | 2026-10-15 |
 | [sphinx-gallery/sphinx-gallery](https://github.com/repolex-forx/sphinx-gallery--sphinx-gallery) | `a7f3bac58f` | 2026-10-15 |
 | [jupyter-server/jupyter_server_fileid](https://github.com/repolex-forx/jupyter-server--jupyter_server_fileid) | `c2902acd44` | 2026-10-15 |
 | [jupyter-server/jupyter_releaser](https://github.com/repolex-forx/jupyter-server--jupyter_releaser) | `46ef93177d` | 2026-10-15 |
