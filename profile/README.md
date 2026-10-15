@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [astropy/reproject](https://github.com/repolex-forx/astropy--reproject) | `9dddd41911` | 2026-10-15 |
+| [astropy/astropy-iers-data](https://github.com/repolex-forx/astropy--astropy-iers-data) | `46fb023b06` | 2026-10-15 |
+| [astropy/ccdproc](https://github.com/repolex-forx/astropy--ccdproc) | `6bab63d0b9` | 2026-10-15 |
+| [matplotlib/mpl-finance](https://github.com/repolex-forx/matplotlib--mpl-finance) | `d80c814a4c` | 2026-10-15 |
+| [matplotlib/cycler](https://github.com/repolex-forx/matplotlib--cycler) | `d1737eb0a4` | 2026-10-15 |
+| [pydata/numexpr](https://github.com/repolex-forx/pydata--numexpr) | `d7c975073b` | 2026-10-15 |
+| [pydata/pandas-datareader](https://github.com/repolex-forx/pydata--pandas-datareader) | `9a3e2fe8c4` | 2026-10-15 |
+| [pydata/patsy](https://github.com/repolex-forx/pydata--patsy) | `6d9d569716` | 2026-10-15 |
+| [pydata/bottleneck](https://github.com/repolex-forx/pydata--bottleneck) | `4053596342` | 2026-10-15 |
+| [pydata/sparse](https://github.com/repolex-forx/pydata--sparse) | `d632550577` | 2026-10-15 |
 | [astropy/astropy-healpix](https://github.com/repolex-forx/astropy--astropy-healpix) | `0e24555771` | 2026-10-15 |
 | [astropy/regions](https://github.com/repolex-forx/astropy--regions) | `a9a0c30b48` | 2026-10-15 |
 | [astropy/extension-helpers](https://github.com/repolex-forx/astropy--extension-helpers) | `f75d18ad43` | 2026-10-15 |
