@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/video](https://github.com/repolex-forx/sphinx-contrib--video) | `4d04cefddc` | 2026-10-15 |
+| [sphinx-contrib/fulltoc](https://github.com/repolex-forx/sphinx-contrib--fulltoc) | `8c09d8225e` | 2026-10-15 |
+| [sphinx-contrib/redoc](https://github.com/repolex-forx/sphinx-contrib--redoc) | `5b9906bade` | 2026-10-15 |
+| [sphinx-contrib/openapi](https://github.com/repolex-forx/sphinx-contrib--openapi) | `dd03c2bbaa` | 2026-10-15 |
+| [jupyterhub/tmpauthenticator](https://github.com/repolex-forx/jupyterhub--tmpauthenticator) | `49cb1fb144` | 2026-10-15 |
+| [jupyterhub/jupyter-server-proxy](https://github.com/repolex-forx/jupyterhub--jupyter-server-proxy) | `240a3ac397` | 2026-10-15 |
+| [jupyterhub/wrapspawner](https://github.com/repolex-forx/jupyterhub--wrapspawner) | `cb74046aa0` | 2026-10-15 |
+| [jupyterhub/simplespawner](https://github.com/repolex-forx/jupyterhub--simplespawner) | `86bd528fe1` | 2026-10-15 |
+| [jupyterhub/dummyauthenticator](https://github.com/repolex-forx/jupyterhub--dummyauthenticator) | `6f0a5ea56f` | 2026-10-15 |
+| [jupyterhub/kubespawner](https://github.com/repolex-forx/jupyterhub--kubespawner) | `47ce269d51` | 2026-10-15 |
 | [pylint-dev/astroid](https://github.com/repolex-forx/pylint-dev--astroid) | `1eef6fa803` | 2026-10-15 |
 | [pylint-dev/pylint-plugin-utils](https://github.com/repolex-forx/pylint-dev--pylint-plugin-utils) | `cee16e5e91` | 2026-10-15 |
 | [pylint-dev/pylint-celery](https://github.com/repolex-forx/pylint-dev--pylint-celery) | `4edf639f29` | 2026-10-15 |
