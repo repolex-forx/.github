@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-gallery/sphinx-gallery](https://github.com/repolex-forx/sphinx-gallery--sphinx-gallery) | `a7f3bac58f` | 2026-10-15 |
+| [jupyter-server/jupyter_server_fileid](https://github.com/repolex-forx/jupyter-server--jupyter_server_fileid) | `c2902acd44` | 2026-10-15 |
+| [jupyter-server/jupyter_releaser](https://github.com/repolex-forx/jupyter-server--jupyter_releaser) | `46ef93177d` | 2026-10-15 |
+| [jupyter-server/gateway_provisioners](https://github.com/repolex-forx/jupyter-server--gateway_provisioners) | `d2d6f36c66` | 2026-10-15 |
+| [jupyter-server/jupyter_server_mathjax](https://github.com/repolex-forx/jupyter-server--jupyter_server_mathjax) | `286f3852ae` | 2026-10-15 |
+| [jupyter-server/jupyter_server_terminals](https://github.com/repolex-forx/jupyter-server--jupyter_server_terminals) | `46563c0797` | 2026-10-15 |
+| [jupyter-server/pytest-jupyter](https://github.com/repolex-forx/jupyter-server--pytest-jupyter) | `9509dd22d3` | 2026-10-15 |
+| [jupyter-server/kernel_gateway](https://github.com/repolex-forx/jupyter-server--kernel_gateway) | `8c483ff06e` | 2026-10-15 |
+| [jupyter-server/jupyter_server](https://github.com/repolex-forx/jupyter-server--jupyter_server) | `f8169d721a` | 2026-10-15 |
+| [celery/celery](https://github.com/repolex-forx/celery--celery) | `f5dbef3506` | 2026-10-15 |
 | [sphinx-contrib/ansi](https://github.com/repolex-forx/sphinx-contrib--ansi) | `af63f758b1` | 2026-10-15 |
 | [sphinx-contrib/datatemplates](https://github.com/repolex-forx/sphinx-contrib--datatemplates) | `2ad0b634fa` | 2026-10-15 |
 | [jupyterhub/repo2docker](https://github.com/repolex-forx/jupyterhub--repo2docker) | `ebcc593885` | 2026-10-15 |
