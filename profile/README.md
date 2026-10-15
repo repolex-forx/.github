@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pypa/pip-tools](https://github.com/repolex-forx/pypa--pip-tools) | `790ab56d1e` | 2026-10-15 |
+| [jupyter/nbviewer](https://github.com/repolex-forx/jupyter--nbviewer) | `5fde5fecfb` | 2026-10-15 |
+| [jupyter/jupyter_kernel_test](https://github.com/repolex-forx/jupyter--jupyter_kernel_test) | `5f2c65271b` | 2026-10-15 |
+| [jupyter/testpath](https://github.com/repolex-forx/jupyter--testpath) | `5c6ccfda4d` | 2026-10-15 |
+| [jupyter/terminado](https://github.com/repolex-forx/jupyter--terminado) | `23a0bf7711` | 2026-10-15 |
+| [jupyter/jupyter_console](https://github.com/repolex-forx/jupyter--jupyter_console) | `29f882adec` | 2026-10-15 |
+| [jupyter/nbconvert](https://github.com/repolex-forx/jupyter--nbconvert) | `e681152f21` | 2026-10-15 |
+| [jupyter/jupyter_client](https://github.com/repolex-forx/jupyter--jupyter_client) | `978361b378` | 2026-10-15 |
+| [jupyter/nbformat](https://github.com/repolex-forx/jupyter--nbformat) | `cfb73afdd2` | 2026-10-15 |
+| [jupyter/jupyter_core](https://github.com/repolex-forx/jupyter--jupyter_core) | `4c4f526ada` | 2026-10-15 |
 | [sphinx-doc/sphinxcontrib-jsmath](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-jsmath) | `19763d7fc9` | 2026-10-15 |
 | [sphinx-doc/sphinx-testing](https://github.com/repolex-forx/sphinx-doc--sphinx-testing) | `89bdde5cf7` | 2026-10-15 |
 | [executablebooks/sphinx-panels](https://github.com/repolex-forx/executablebooks--sphinx-panels) | `44bab2341d` | 2026-10-15 |
