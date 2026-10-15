@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [altair-viz/altair-transform](https://github.com/repolex-forx/altair-viz--altair-transform) | `b65bf854de` | 2026-10-15 |
+| [altair-viz/altair_widgets](https://github.com/repolex-forx/altair-viz--altair_widgets) | `20f6659753` | 2026-10-15 |
+| [altair-viz/altair_pandas](https://github.com/repolex-forx/altair-viz--altair_pandas) | `506d0b937f` | 2026-10-15 |
+| [astropy/pytest-arraydiff](https://github.com/repolex-forx/astropy--pytest-arraydiff) | `12e95c06cd` | 2026-10-15 |
+| [astropy/astroscrappy](https://github.com/repolex-forx/astropy--astroscrappy) | `d18e28defe` | 2026-10-15 |
+| [astropy/astro-image-display-api](https://github.com/repolex-forx/astropy--astro-image-display-api) | `8f18e54e6e` | 2026-10-15 |
+| [astropy/astropy-sphinx-theme](https://github.com/repolex-forx/astropy--astropy-sphinx-theme) | `f845236c2c` | 2026-10-15 |
+| [astropy/astrowidgets](https://github.com/repolex-forx/astropy--astrowidgets) | `1694d14c9d` | 2026-10-15 |
+| [astropy/astroplan](https://github.com/repolex-forx/astropy--astroplan) | `7b1c154a79` | 2026-10-15 |
+| [astropy/sphinx-automodapi](https://github.com/repolex-forx/astropy--sphinx-automodapi) | `330ef7db93` | 2026-10-15 |
 | [astropy/reproject](https://github.com/repolex-forx/astropy--reproject) | `9dddd41911` | 2026-10-15 |
 | [astropy/astropy-iers-data](https://github.com/repolex-forx/astropy--astropy-iers-data) | `46fb023b06` | 2026-10-15 |
 | [astropy/ccdproc](https://github.com/repolex-forx/astropy--ccdproc) | `6bab63d0b9` | 2026-10-15 |
