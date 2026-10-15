@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [twisted/vertex](https://github.com/repolex-forx/twisted--vertex) | `feb591aa1b` | 2026-10-15 |
+| [scrapy-plugins/scrapy-streamitem](https://github.com/repolex-forx/scrapy-plugins--scrapy-streamitem) | `78ecb9db71` | 2026-10-15 |
+| [twisted/newsbuilder](https://github.com/repolex-forx/twisted--newsbuilder) | `5de0b3d90f` | 2026-10-15 |
+| [twisted/quotient](https://github.com/repolex-forx/twisted--quotient) | `95f2515219` | 2026-10-15 |
+| [twisted/mantissa](https://github.com/repolex-forx/twisted--mantissa) | `53e5502aba` | 2026-10-15 |
+| [twisted/epsilon](https://github.com/repolex-forx/twisted--epsilon) | `68b7e43286` | 2026-10-15 |
+| [twisted/nevow](https://github.com/repolex-forx/twisted--nevow) | `aff713a688` | 2026-10-15 |
+| [twisted/axiom](https://github.com/repolex-forx/twisted--axiom) | `02a14c39ec` | 2026-10-15 |
+| [twisted/qt5reactor](https://github.com/repolex-forx/twisted--qt5reactor) | `300a382b08` | 2026-10-15 |
+| [twisted/twistedchecker](https://github.com/repolex-forx/twisted--twistedchecker) | `4a69f3f7d8` | 2026-10-15 |
 | [executablebooks/mistletoe-ebp](https://github.com/repolex-forx/executablebooks--mistletoe-ebp) | `2298124367` | 2026-10-15 |
 | [executablebooks/cli](https://github.com/repolex-forx/executablebooks--cli) | `4510602b43` | 2026-10-15 |
 | [scrapy-plugins/scrapy-jsonrpc](https://github.com/repolex-forx/scrapy-plugins--scrapy-jsonrpc) | `15e0b7018c` | 2026-10-15 |
