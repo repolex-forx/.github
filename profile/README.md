@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [click-contrib/click-log](https://github.com/repolex-forx/click-contrib--click-log) | `6e9ef98359` | 2026-10-15 |
+| [click-contrib/click-datetime](https://github.com/repolex-forx/click-contrib--click-datetime) | `942964cf71` | 2026-10-15 |
+| [click-contrib/click-repl](https://github.com/repolex-forx/click-contrib--click-repl) | `cab5f48382` | 2026-10-15 |
+| [click-contrib/click-aliases](https://github.com/repolex-forx/click-contrib--click-aliases) | `8341453c07` | 2026-10-15 |
+| [click-contrib/click-spinner](https://github.com/repolex-forx/click-contrib--click-spinner) | `31c253177d` | 2026-10-15 |
+| [click-contrib/click-didyoumean](https://github.com/repolex-forx/click-contrib--click-didyoumean) | `d8a5eb9f82` | 2026-10-15 |
+| [click-contrib/click-default-group](https://github.com/repolex-forx/click-contrib--click-default-group) | `dfddfd694e` | 2026-10-15 |
+| [Textualize/frogmouth](https://github.com/repolex-forx/Textualize--frogmouth) | `15c3e85a6e` | 2026-10-15 |
+| [Textualize/toolong](https://github.com/repolex-forx/Textualize--toolong) | `5aa22ee878` | 2026-10-15 |
+| [Textualize/trogon](https://github.com/repolex-forx/Textualize--trogon) | `eaa9e68c40` | 2026-10-15 |
 | [django-hijack/django-hijack](https://github.com/repolex-forx/django-hijack--django-hijack) | `c0bfe94e9f` | 2026-10-15 |
 | [simonw/paginate-json](https://github.com/repolex-forx/simonw--paginate-json) | `4b4f5e6442` | 2026-10-15 |
 | [simonw/llm-cluster](https://github.com/repolex-forx/simonw--llm-cluster) | `d2f93f1d17` | 2026-10-15 |
