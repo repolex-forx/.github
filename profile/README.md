@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [tiangolo/asyncer](https://github.com/repolex-forx/tiangolo--asyncer) | `de024c755c` | 2026-10-15 |
+| [piccolo-orm/piccolo_theme](https://github.com/repolex-forx/piccolo-orm--piccolo_theme) | `d6fad398aa` | 2026-10-15 |
+| [piccolo-orm/piccolo_api](https://github.com/repolex-forx/piccolo-orm--piccolo_api) | `e1bee6cdda` | 2026-10-15 |
+| [simonw/llm-claude-3](https://github.com/repolex-forx/simonw--llm-claude-3) | `5b42bfc3e5` | 2026-10-15 |
+| [simonw/sqlite-dump](https://github.com/repolex-forx/simonw--sqlite-dump) | `14655bedf4` | 2026-10-15 |
+| [simonw/yaml-to-sqlite](https://github.com/repolex-forx/simonw--yaml-to-sqlite) | `1405bc83c8` | 2026-10-15 |
+| [simonw/files-to-prompt](https://github.com/repolex-forx/simonw--files-to-prompt) | `1b234ff6dc` | 2026-10-15 |
+| [simonw/symbex](https://github.com/repolex-forx/simonw--symbex) | `81c4b9c042` | 2026-10-15 |
+| [simonw/s3-credentials](https://github.com/repolex-forx/simonw--s3-credentials) | `4611f33340` | 2026-10-15 |
+| [simonw/strip-tags](https://github.com/repolex-forx/simonw--strip-tags) | `868072957a` | 2026-10-15 |
 | [adamchainz/django-mysql](https://github.com/repolex-forx/adamchainz--django-mysql) | `bb19ecea2d` | 2026-10-15 |
 | [adamchainz/django-upgrade](https://github.com/repolex-forx/adamchainz--django-upgrade) | `4077de1d0f` | 2026-10-15 |
 | [adamchainz/django-cors-headers](https://github.com/repolex-forx/adamchainz--django-cors-headers) | `8d96f0172c` | 2026-10-15 |
