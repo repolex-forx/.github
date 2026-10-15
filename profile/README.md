@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-doc/sphinxcontrib-jsmath](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-jsmath) | `19763d7fc9` | 2026-10-15 |
+| [sphinx-doc/sphinx-testing](https://github.com/repolex-forx/sphinx-doc--sphinx-testing) | `89bdde5cf7` | 2026-10-15 |
+| [executablebooks/sphinx-panels](https://github.com/repolex-forx/executablebooks--sphinx-panels) | `44bab2341d` | 2026-10-15 |
+| [pytest-dev/pytest-runner](https://github.com/repolex-forx/pytest-dev--pytest-runner) | `9d13da8bd3` | 2026-10-15 |
+| [scrapy-plugins/scrapy-zyte-smartproxy](https://github.com/repolex-forx/scrapy-plugins--scrapy-zyte-smartproxy) | `debd444534` | 2026-10-15 |
+| [twisted/sine](https://github.com/repolex-forx/twisted--sine) | `a81b653641` | 2026-10-15 |
+| [twisted/hyperbola](https://github.com/repolex-forx/twisted--hyperbola) | `acadb1f2e3` | 2026-10-15 |
+| [twisted/twisted-dev-tools](https://github.com/repolex-forx/twisted--twisted-dev-tools) | `6a08511f7e` | 2026-10-15 |
+| [twisted/parsley-protocols](https://github.com/repolex-forx/twisted--parsley-protocols) | `7c56638e7a` | 2026-10-15 |
+| [twisted/imaginary](https://github.com/repolex-forx/twisted--imaginary) | `36231bce32` | 2026-10-15 |
 | [twisted/vertex](https://github.com/repolex-forx/twisted--vertex) | `feb591aa1b` | 2026-10-15 |
 | [scrapy-plugins/scrapy-streamitem](https://github.com/repolex-forx/scrapy-plugins--scrapy-streamitem) | `78ecb9db71` | 2026-10-15 |
 | [twisted/newsbuilder](https://github.com/repolex-forx/twisted--newsbuilder) | `5de0b3d90f` | 2026-10-15 |
