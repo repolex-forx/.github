@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rasterio/affine](https://github.com/repolex-forx/rasterio--affine) | `63d1898b81` | 2026-10-15 |
+| [geopandas/geodatasets](https://github.com/repolex-forx/geopandas--geodatasets) | `ef8bcc9b67` | 2026-10-15 |
+| [scikit-learn-contrib/sklearn-pandas](https://github.com/repolex-forx/scikit-learn-contrib--sklearn-pandas) | `c9db2d6dcb` | 2026-10-15 |
+| [scikit-learn-contrib/metric-learn](https://github.com/repolex-forx/scikit-learn-contrib--metric-learn) | `8eb775ea82` | 2026-10-15 |
+| [scikit-learn-contrib/forest-confidence-interval](https://github.com/repolex-forx/scikit-learn-contrib--forest-confidence-interval) | `582058827a` | 2026-10-15 |
+| [scikit-learn-contrib/boruta_py](https://github.com/repolex-forx/scikit-learn-contrib--boruta_py) | `dd7b020cdc` | 2026-10-15 |
+| [scikit-learn-contrib/DESlib](https://github.com/repolex-forx/scikit-learn-contrib--DESlib) | `d0eaeec4f6` | 2026-10-15 |
+| [scikit-learn-contrib/hiclass](https://github.com/repolex-forx/scikit-learn-contrib--hiclass) | `6384239b29` | 2026-10-15 |
+| [scikit-learn-contrib/sklearn-ann](https://github.com/repolex-forx/scikit-learn-contrib--sklearn-ann) | `c105475ab0` | 2026-10-15 |
+| [scikit-learn-contrib/scikit-learn-extra](https://github.com/repolex-forx/scikit-learn-contrib--scikit-learn-extra) | `da55e27dbb` | 2026-10-15 |
 | [geopandas/dask-geopandas](https://github.com/repolex-forx/geopandas--dask-geopandas) | `3e2143495a` | 2026-10-15 |
 | [geopandas/pyogrio](https://github.com/repolex-forx/geopandas--pyogrio) | `12efcde310` | 2026-10-15 |
 | [holoviz/spatialpandas](https://github.com/repolex-forx/holoviz--spatialpandas) | `36240a117d` | 2026-10-15 |
