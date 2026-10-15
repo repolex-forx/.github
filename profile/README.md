@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [adamchainz/django-mysql](https://github.com/repolex-forx/adamchainz--django-mysql) | `bb19ecea2d` | 2026-10-15 |
+| [adamchainz/django-upgrade](https://github.com/repolex-forx/adamchainz--django-upgrade) | `4077de1d0f` | 2026-10-15 |
+| [adamchainz/django-cors-headers](https://github.com/repolex-forx/adamchainz--django-cors-headers) | `8d96f0172c` | 2026-10-15 |
+| [jieter/django-tables2](https://github.com/repolex-forx/jieter--django-tables2) | `34cdba3e13` | 2026-10-15 |
+| [carltongibson/django-filter](https://github.com/repolex-forx/carltongibson--django-filter) | `daddf7b655` | 2026-10-15 |
+| [jrief/django-admin-sortable2](https://github.com/repolex-forx/jrief--django-admin-sortable2) | `899402aa0a` | 2026-10-15 |
+| [viewflow/django-fsm](https://github.com/repolex-forx/viewflow--django-fsm) | `88eeeca1a4` | 2026-10-15 |
+| [django-guardian/django-guardian](https://github.com/repolex-forx/django-guardian--django-guardian) | `02465ce96c` | 2026-10-15 |
+| [django-import-export/django-import-export](https://github.com/repolex-forx/django-import-export--django-import-export) | `6cdbaa3b49` | 2026-10-15 |
+| [django-mptt/django-mptt](https://github.com/repolex-forx/django-mptt--django-mptt) | `72195e261d` | 2026-10-15 |
 | [django-crispy-forms/django-crispy-forms](https://github.com/repolex-forx/django-crispy-forms--django-crispy-forms) | `e7fbb53859` | 2026-10-12 |
 | [python-babel/flask-babel](https://github.com/repolex-forx/python-babel--flask-babel) | `869715cfea` | 2026-10-12 |
 | [python-babel/babel](https://github.com/repolex-forx/python-babel--babel) | `e2a17919f0` | 2026-10-12 |
