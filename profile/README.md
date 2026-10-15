@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/images](https://github.com/repolex-forx/sphinx-contrib--images) | `fce459ff97` | 2026-10-15 |
+| [sphinx-contrib/confluencebuilder](https://github.com/repolex-forx/sphinx-contrib--confluencebuilder) | `14515276dd` | 2026-10-15 |
+| [sphinx-contrib/autoprogram](https://github.com/repolex-forx/sphinx-contrib--autoprogram) | `80ecc511c9` | 2026-10-15 |
+| [colour-science/flask-compress](https://github.com/repolex-forx/colour-science--flask-compress) | `33ff4e5ebe` | 2026-10-15 |
+| [vimalloc/flask-jwt-extended](https://github.com/repolex-forx/vimalloc--flask-jwt-extended) | `11785e00ea` | 2026-10-15 |
+| [sphinx-contrib/spelling](https://github.com/repolex-forx/sphinx-contrib--spelling) | `1eb81816aa` | 2026-10-15 |
+| [sphinx-contrib/httpdomain](https://github.com/repolex-forx/sphinx-contrib--httpdomain) | `32c21562d8` | 2026-10-15 |
+| [spatialaudio/nbsphinx](https://github.com/repolex-forx/spatialaudio--nbsphinx) | `0d01427042` | 2026-10-15 |
+| [googleapis/python-api-core](https://github.com/repolex-forx/googleapis--python-api-core) | `daf3040bef` | 2026-10-15 |
+| [google/yapf](https://github.com/repolex-forx/google--yapf) | `1200509529` | 2026-10-15 |
 | [click-contrib/click-log](https://github.com/repolex-forx/click-contrib--click-log) | `6e9ef98359` | 2026-10-15 |
 | [click-contrib/click-datetime](https://github.com/repolex-forx/click-contrib--click-datetime) | `942964cf71` | 2026-10-15 |
 | [click-contrib/click-repl](https://github.com/repolex-forx/click-contrib--click-repl) | `cab5f48382` | 2026-10-15 |
