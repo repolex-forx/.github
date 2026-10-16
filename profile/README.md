@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [xarray-contrib/xoak](https://github.com/repolex-forx/xarray-contrib--xoak) | `3aa25f5c80` | 2026-10-15 |
+| [xarray-contrib/rasterix](https://github.com/repolex-forx/xarray-contrib--rasterix) | `92131e0d5a` | 2026-10-15 |
+| [xarray-contrib/xncml](https://github.com/repolex-forx/xarray-contrib--xncml) | `de521d9a30` | 2026-10-15 |
+| [xarray-contrib/cupy-xarray](https://github.com/repolex-forx/xarray-contrib--cupy-xarray) | `9f01df09fb` | 2026-10-15 |
+| [xarray-contrib/xarray-schema](https://github.com/repolex-forx/xarray-contrib--xarray-schema) | `bed4d2d968` | 2026-10-15 |
+| [xarray-contrib/pint-xarray](https://github.com/repolex-forx/xarray-contrib--pint-xarray) | `908d2d94d2` | 2026-10-15 |
+| [xarray-contrib/xbatcher](https://github.com/repolex-forx/xarray-contrib--xbatcher) | `5513cc1872` | 2026-10-15 |
+| [xarray-contrib/xskillscore](https://github.com/repolex-forx/xarray-contrib--xskillscore) | `42bbeba672` | 2026-10-15 |
+| [xarray-contrib/flox](https://github.com/repolex-forx/xarray-contrib--flox) | `d2857f323a` | 2026-10-15 |
+| [xarray-contrib/cf-xarray](https://github.com/repolex-forx/xarray-contrib--cf-xarray) | `b0ecc0da02` | 2026-10-15 |
 | [pvlib/solposx](https://github.com/repolex-forx/pvlib--solposx) | `498c7cc10b` | 2026-10-15 |
 | [pvlib/solarfactors](https://github.com/repolex-forx/pvlib--solarfactors) | `ecbfc86365` | 2026-10-15 |
 | [pvlib/twoaxistracking](https://github.com/repolex-forx/pvlib--twoaxistracking) | `64592bceca` | 2026-10-15 |
