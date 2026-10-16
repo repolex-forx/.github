@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pvlib/solposx](https://github.com/repolex-forx/pvlib--solposx) | `498c7cc10b` | 2026-10-15 |
+| [pvlib/solarfactors](https://github.com/repolex-forx/pvlib--solarfactors) | `ecbfc86365` | 2026-10-15 |
+| [pvlib/twoaxistracking](https://github.com/repolex-forx/pvlib--twoaxistracking) | `64592bceca` | 2026-10-15 |
+| [pvlib/pvanalytics](https://github.com/repolex-forx/pvlib--pvanalytics) | `06fd59694b` | 2026-10-15 |
+| [pysal/redistricting](https://github.com/repolex-forx/pysal--redistricting) | `cbce00fa1f` | 2026-10-15 |
+| [pysal/inequality](https://github.com/repolex-forx/pysal--inequality) | `77d802d6b8` | 2026-10-15 |
+| [pysal/access](https://github.com/repolex-forx/pysal--access) | `c58aea7f5a` | 2026-10-15 |
+| [pysal/spreg](https://github.com/repolex-forx/pysal--spreg) | `4dbc809242` | 2026-10-15 |
+| [pysal/spint](https://github.com/repolex-forx/pysal--spint) | `d5f88ceda2` | 2026-10-15 |
+| [pysal/spglm](https://github.com/repolex-forx/pysal--spglm) | `69a720d51e` | 2026-10-15 |
 | [vispy/gsp](https://github.com/repolex-forx/vispy--gsp) | `2e345caf9d` | 2026-10-15 |
 | [vispy/jupyter_rfb](https://github.com/repolex-forx/vispy--jupyter_rfb) | `23764d3aec` | 2026-10-15 |
 | [glue-viz/glue-jupyter](https://github.com/repolex-forx/glue-viz--glue-jupyter) | `f71a1589bd` | 2026-10-15 |
