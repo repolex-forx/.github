@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pysal/splot](https://github.com/repolex-forx/pysal--splot) | `b8361cb5f4` | 2026-10-15 |
+| [pysal/giddy](https://github.com/repolex-forx/pysal--giddy) | `f853d8569c` | 2026-10-15 |
+| [pysal/pointpats](https://github.com/repolex-forx/pysal--pointpats) | `95ca252901` | 2026-10-15 |
+| [pysal/mapclassify](https://github.com/repolex-forx/pysal--mapclassify) | `8df1564808` | 2026-10-15 |
+| [dirty-cat/dirty_cat](https://github.com/repolex-forx/dirty-cat--dirty_cat) | `f27c58e370` | 2026-10-15 |
+| [scikit-beam/scikit-beam](https://github.com/repolex-forx/scikit-beam--scikit-beam) | `dbe344435f` | 2026-10-15 |
+| [scikit-opt/scikit-opt](https://github.com/repolex-forx/scikit-opt--scikit-opt) | `dbbb41ad5c` | 2026-10-15 |
+| [sknetwork-team/scikit-network](https://github.com/repolex-forx/sknetwork-team--scikit-network) | `f8f9dfcde8` | 2026-10-15 |
+| [scikit-fuzzy/scikit-fuzzy](https://github.com/repolex-forx/scikit-fuzzy--scikit-fuzzy) | `be7e344f3c` | 2026-10-15 |
+| [koaning/scikit-lego](https://github.com/repolex-forx/koaning--scikit-lego) | `f329086cb1` | 2026-10-15 |
 | [xarray-contrib/xoak](https://github.com/repolex-forx/xarray-contrib--xoak) | `3aa25f5c80` | 2026-10-15 |
 | [xarray-contrib/rasterix](https://github.com/repolex-forx/xarray-contrib--rasterix) | `92131e0d5a` | 2026-10-15 |
 | [xarray-contrib/xncml](https://github.com/repolex-forx/xarray-contrib--xncml) | `de521d9a30` | 2026-10-15 |
