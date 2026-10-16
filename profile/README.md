@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [vispy/gsp](https://github.com/repolex-forx/vispy--gsp) | `2e345caf9d` | 2026-10-15 |
+| [vispy/jupyter_rfb](https://github.com/repolex-forx/vispy--jupyter_rfb) | `23764d3aec` | 2026-10-15 |
+| [glue-viz/glue-jupyter](https://github.com/repolex-forx/glue-viz--glue-jupyter) | `f71a1589bd` | 2026-10-15 |
+| [glue-viz/jupyter-output-monitor](https://github.com/repolex-forx/glue-viz--jupyter-output-monitor) | `069b71b2b9` | 2026-10-15 |
+| [glue-viz/bqplot-linlog](https://github.com/repolex-forx/glue-viz--bqplot-linlog) | `e83e7326a0` | 2026-10-15 |
+| [glue-viz/glue-standalone-apps](https://github.com/repolex-forx/glue-viz--glue-standalone-apps) | `4e35d18fe6` | 2026-10-15 |
+| [glue-viz/bqplot-image-gl](https://github.com/repolex-forx/glue-viz--bqplot-image-gl) | `cbea0e5810` | 2026-10-15 |
+| [glue-viz/echo](https://github.com/repolex-forx/glue-viz--echo) | `63265a279f` | 2026-10-15 |
+| [glue-viz/glue-wwt](https://github.com/repolex-forx/glue-viz--glue-wwt) | `2be42f0656` | 2026-10-15 |
+| [glue-viz/glue-astronomy](https://github.com/repolex-forx/glue-viz--glue-astronomy) | `680dfeeea5` | 2026-10-15 |
 | [sunpy/ablog](https://github.com/repolex-forx/sunpy--ablog) | `3f18064e41` | 2026-10-15 |
 | [sunpy/sunpy-sphinx-theme](https://github.com/repolex-forx/sunpy--sunpy-sphinx-theme) | `8578aae4bb` | 2026-10-15 |
 | [sunpy/sunkit-dem](https://github.com/repolex-forx/sunpy--sunkit-dem) | `e5dacc21c8` | 2026-10-15 |
