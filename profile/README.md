@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sunpy/ablog](https://github.com/repolex-forx/sunpy--ablog) | `3f18064e41` | 2026-10-15 |
+| [sunpy/sunpy-sphinx-theme](https://github.com/repolex-forx/sunpy--sunpy-sphinx-theme) | `8578aae4bb` | 2026-10-15 |
+| [sunpy/sunkit-dem](https://github.com/repolex-forx/sunpy--sunkit-dem) | `e5dacc21c8` | 2026-10-15 |
+| [sunpy/mpl-animators](https://github.com/repolex-forx/sunpy--mpl-animators) | `c1d4fe4cd4` | 2026-10-15 |
+| [sunpy/sunraster](https://github.com/repolex-forx/sunpy--sunraster) | `3a18806294` | 2026-10-15 |
+| [sunpy/sunkit-instruments](https://github.com/repolex-forx/sunpy--sunkit-instruments) | `df64b4e3cf` | 2026-10-15 |
+| [sunpy/sunkit-image](https://github.com/repolex-forx/sunpy--sunkit-image) | `1effa5d756` | 2026-10-15 |
+| [sunpy/radiospectra](https://github.com/repolex-forx/sunpy--radiospectra) | `b43d043fe1` | 2026-10-15 |
+| [sunpy/ndcube](https://github.com/repolex-forx/sunpy--ndcube) | `62a9947073` | 2026-10-15 |
+| [sunpy/drms](https://github.com/repolex-forx/sunpy--drms) | `68eec28d4d` | 2026-10-15 |
 | [rasterio/affine](https://github.com/repolex-forx/rasterio--affine) | `63d1898b81` | 2026-10-15 |
 | [geopandas/geodatasets](https://github.com/repolex-forx/geopandas--geodatasets) | `ef8bcc9b67` | 2026-10-15 |
 | [scikit-learn-contrib/sklearn-pandas](https://github.com/repolex-forx/scikit-learn-contrib--sklearn-pandas) | `c9db2d6dcb` | 2026-10-15 |
