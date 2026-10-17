@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scikit-learn-contrib/imbalanced-learn](https://github.com/repolex-forx/scikit-learn-contrib--imbalanced-learn) | `8504e95f01` | 2026-10-16 |
+| [GAA-UAM/scikit-fda](https://github.com/repolex-forx/GAA-UAM--scikit-fda) | `903c4c9f7f` | 2026-10-16 |
+| [skrub-data/skrub](https://github.com/repolex-forx/skrub-data--skrub) | `e17834a89e` | 2026-10-16 |
+| [nipy/nibabel](https://github.com/repolex-forx/nipy--nibabel) | `5ac55aacc9` | 2026-10-16 |
+| [mne-tools/mne-python](https://github.com/repolex-forx/mne-tools--mne-python) | `8f498626a5` | 2026-10-16 |
+| [nilearn/nilearn](https://github.com/repolex-forx/nilearn--nilearn) | `44da9ef86a` | 2026-10-16 |
+| [pyro-ppl/pyro](https://github.com/repolex-forx/pyro-ppl--pyro) | `a31bc17847` | 2026-10-16 |
+| [cleanlab/cleanlab](https://github.com/repolex-forx/cleanlab--cleanlab) | `750625747d` | 2026-10-16 |
+| [pydicom/pydicom](https://github.com/repolex-forx/pydicom--pydicom) | `a6374203fe` | 2026-10-16 |
+| [networkx/networkx](https://github.com/repolex-forx/networkx--networkx) | `abf2feda22` | 2026-10-16 |
 | [rasterio/rasterio](https://github.com/repolex-forx/rasterio--rasterio) | `c2c0a9692e` | 2026-10-16 |
 | [geopandas/geopandas](https://github.com/repolex-forx/geopandas--geopandas) | `ee889bb636` | 2026-10-16 |
 | [catalyst-team/catalyst](https://github.com/repolex-forx/catalyst-team--catalyst) | `e99f90655d` | 2026-10-16 |
