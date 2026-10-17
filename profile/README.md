@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [google-deepmind/mujoco](https://github.com/repolex-forx/google-deepmind--mujoco) | `651bae11c3` | 2026-10-17 |
+| [facebookresearch/hydra](https://github.com/repolex-forx/facebookresearch--hydra) | `9b521d9a9d` | 2026-10-17 |
+| [thu-ml/tianshou](https://github.com/repolex-forx/thu-ml--tianshou) | `f2402056b0` | 2026-10-17 |
+| [vwxyzjn/cleanrl](https://github.com/repolex-forx/vwxyzjn--cleanrl) | `fe8d8a03c4` | 2026-10-17 |
+| [google-deepmind/dm_control](https://github.com/repolex-forx/google-deepmind--dm_control) | `773d5b5d94` | 2026-10-17 |
+| [huggingface/lerobot](https://github.com/repolex-forx/huggingface--lerobot) | `146d847493` | 2026-10-17 |
+| [DLR-RM/stable-baselines3](https://github.com/repolex-forx/DLR-RM--stable-baselines3) | `b2878f4b83` | 2026-10-17 |
+| [Farama-Foundation/Shimmy](https://github.com/repolex-forx/Farama-Foundation--Shimmy) | `b3c5636ca7` | 2026-10-17 |
+| [Farama-Foundation/PettingZoo](https://github.com/repolex-forx/Farama-Foundation--PettingZoo) | `b0fe02166d` | 2026-10-17 |
+| [Farama-Foundation/Gymnasium](https://github.com/repolex-forx/Farama-Foundation--Gymnasium) | `57c1610e80` | 2026-10-17 |
 | [pvlib/pvlib-python](https://github.com/repolex-forx/pvlib--pvlib-python) | `49530b4dc4` | 2026-10-17 |
 | [Qiskit/qiskit](https://github.com/repolex-forx/Qiskit--qiskit) | `829b3842db` | 2026-10-17 |
 | [PennyLaneAI/pennylane](https://github.com/repolex-forx/PennyLaneAI--pennylane) | `9792b3ea46` | 2026-10-17 |
