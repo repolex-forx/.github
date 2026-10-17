@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Qiskit/qiskit](https://github.com/repolex-forx/Qiskit--qiskit) | `829b3842db` | 2026-10-17 |
+| [PennyLaneAI/pennylane](https://github.com/repolex-forx/PennyLaneAI--pennylane) | `9792b3ea46` | 2026-10-17 |
+| [facebookresearch/fairchem](https://github.com/repolex-forx/facebookresearch--fairchem) | `d4e10d0f4e` | 2026-10-17 |
+| [vaexio/vaex](https://github.com/repolex-forx/vaexio--vaex) | `65ab462819` | 2026-10-17 |
+| [modin-project/modin](https://github.com/repolex-forx/modin-project--modin) | `7ca200b085` | 2026-10-17 |
+| [datamol-io/datamol](https://github.com/repolex-forx/datamol-io--datamol) | `ea501d4bbe` | 2026-10-17 |
+| [lululxvi/deepxde](https://github.com/repolex-forx/lululxvi--deepxde) | `99b6620386` | 2026-10-17 |
+| [trevorstephens/gplearn](https://github.com/repolex-forx/trevorstephens--gplearn) | `0390aea863` | 2026-10-17 |
+| [MilesCranmer/PySR](https://github.com/repolex-forx/MilesCranmer--PySR) | `1fd411441d` | 2026-10-17 |
 | [mlfoundations/open_clip](https://github.com/repolex-forx/mlfoundations--open_clip) | `7067b35005` | 2026-10-17 |
 | [openai/CLIP](https://github.com/repolex-forx/openai--CLIP) | `d05afc436d` | 2026-10-17 |
 | [open-mmlab/mmengine](https://github.com/repolex-forx/open-mmlab--mmengine) | `f8a8b1b3b3` | 2026-10-17 |
