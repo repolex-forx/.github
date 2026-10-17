@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pvlib/pvlib-python](https://github.com/repolex-forx/pvlib--pvlib-python) | `49530b4dc4` | 2026-10-17 |
 | [Qiskit/qiskit](https://github.com/repolex-forx/Qiskit--qiskit) | `829b3842db` | 2026-10-17 |
 | [PennyLaneAI/pennylane](https://github.com/repolex-forx/PennyLaneAI--pennylane) | `9792b3ea46` | 2026-10-17 |
 | [facebookresearch/fairchem](https://github.com/repolex-forx/facebookresearch--fairchem) | `d4e10d0f4e` | 2026-10-17 |
