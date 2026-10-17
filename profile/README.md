@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [facebookresearch/pytorch3d](https://github.com/repolex-forx/facebookresearch--pytorch3d) | `88e182f989` | 2026-10-17 |
+| [cvxpy/cvxpy](https://github.com/repolex-forx/cvxpy--cvxpy) | `ccf24bf121` | 2026-10-17 |
+| [yzhao062/pyod](https://github.com/repolex-forx/yzhao062--pyod) | `f0d0967d16` | 2026-10-17 |
+| [Nixtla/hierarchicalforecast](https://github.com/repolex-forx/Nixtla--hierarchicalforecast) | `56cc4fac0c` | 2026-10-17 |
+| [Nixtla/mlforecast](https://github.com/repolex-forx/Nixtla--mlforecast) | `e3f057376a` | 2026-10-17 |
+| [Nixtla/statsforecast](https://github.com/repolex-forx/Nixtla--statsforecast) | `61bd26fa11` | 2026-10-17 |
+| [Nixtla/neuralforecast](https://github.com/repolex-forx/Nixtla--neuralforecast) | `6c11accfbc` | 2026-10-17 |
+| [facebook/prophet](https://github.com/repolex-forx/facebook--prophet) | `0cf18fc38e` | 2026-10-17 |
+| [ourownstory/neural_prophet](https://github.com/repolex-forx/ourownstory--neural_prophet) | `2ac7d0f555` | 2026-10-17 |
+| [unit8co/darts](https://github.com/repolex-forx/unit8co--darts) | `dcdde2414f` | 2026-10-17 |
 | [google-deepmind/mujoco](https://github.com/repolex-forx/google-deepmind--mujoco) | `651bae11c3` | 2026-10-17 |
 | [facebookresearch/hydra](https://github.com/repolex-forx/facebookresearch--hydra) | `9b521d9a9d` | 2026-10-17 |
 | [thu-ml/tianshou](https://github.com/repolex-forx/thu-ml--tianshou) | `f2402056b0` | 2026-10-17 |
