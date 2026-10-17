@@ -34,6 +34,14 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [meta-llama/llama-recipes](https://github.com/repolex-forx/meta-llama--llama-recipes) | `2f22a9eb03` | 2026-10-17 |
+| [embedchain/embedchain](https://github.com/repolex-forx/embedchain--embedchain) | `0724291bd8` | 2026-10-17 |
+| [lm-sys/FastChat](https://github.com/repolex-forx/lm-sys--FastChat) | `587d5cfa16` | 2026-10-17 |
+| [casper-hansen/AutoAWQ](https://github.com/repolex-forx/casper-hansen--AutoAWQ) | `88e4c76b20` | 2026-10-17 |
+| [IST-DASLab/gptq](https://github.com/repolex-forx/IST-DASLab--gptq) | `2d65066eeb` | 2026-10-17 |
+| [mit-han-lab/llm-awq](https://github.com/repolex-forx/mit-han-lab--llm-awq) | `d6e797a42b` | 2026-10-17 |
+| [TimDettmers/bitsandbytes](https://github.com/repolex-forx/TimDettmers--bitsandbytes) | `8336490434` | 2026-10-17 |
+| [abetlen/llama-cpp-python](https://github.com/repolex-forx/abetlen--llama-cpp-python) | `1652066e0a` | 2026-10-17 |
 | [cleanlab/cleanlab-studio](https://github.com/repolex-forx/cleanlab--cleanlab-studio) | `e5299e2f50` | 2026-10-17 |
 | [dagshub/dagshub](https://github.com/repolex-forx/dagshub--dagshub) | `4f7d78a828` | 2026-10-17 |
 | [truera/trulens](https://github.com/repolex-forx/truera--trulens) | `86893205ee` | 2026-10-17 |
