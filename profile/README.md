@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [colcon/colcon-mixin](https://github.com/repolex-forx/colcon--colcon-mixin) | `47fc23fff7` | 2026-10-17 |
+| [colcon/colcon-devtools](https://github.com/repolex-forx/colcon--colcon-devtools) | `5c8e31a9b5` | 2026-10-17 |
+| [colcon/colcon-ed](https://github.com/repolex-forx/colcon--colcon-ed) | `e1b5b7e101` | 2026-10-17 |
+| [colcon/colcon-clean](https://github.com/repolex-forx/colcon--colcon-clean) | `9cff7c8b8a` | 2026-10-17 |
+| [pyusb/pyusb](https://github.com/repolex-forx/pyusb--pyusb) | `3241c0e6a7` | 2026-10-17 |
+| [pyserial/pyserial-asyncio](https://github.com/repolex-forx/pyserial--pyserial-asyncio) | `13694c5a09` | 2026-10-17 |
+| [espressif/esptool](https://github.com/repolex-forx/espressif--esptool) | `af1ed10290` | 2026-10-17 |
+| [cantools/cantools](https://github.com/repolex-forx/cantools--cantools) | `8d884136f0` | 2026-10-17 |
+| [hardbyte/python-can](https://github.com/repolex-forx/hardbyte--python-can) | `b4f82abede` | 2026-10-17 |
+| [hbldh/bleak](https://github.com/repolex-forx/hbldh--bleak) | `c7ca1b04b0` | 2026-10-17 |
 | [vcstools/rosinstall](https://github.com/repolex-forx/vcstools--rosinstall) | `c33f88d7c9` | 2026-10-17 |
 | [vcstools/vcstools](https://github.com/repolex-forx/vcstools--vcstools) | `5c9bbccbe6` | 2026-10-17 |
 | [ros-infrastructure/rosdistro-reviewer](https://github.com/repolex-forx/ros-infrastructure--rosdistro-reviewer) | `15f4131c6e` | 2026-10-17 |
