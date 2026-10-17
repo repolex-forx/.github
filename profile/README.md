@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pyserial/pyserial](https://github.com/repolex-forx/pyserial--pyserial) | `a5c48d445f` | 2026-10-17 |
+| [ros-infrastructure/superflore](https://github.com/repolex-forx/ros-infrastructure--superflore) | `03508a6cec` | 2026-10-17 |
+| [ros-infrastructure/rosdistro](https://github.com/repolex-forx/ros-infrastructure--rosdistro) | `960790d1e0` | 2026-10-17 |
+| [ros-infrastructure/catkin_pkg](https://github.com/repolex-forx/ros-infrastructure--catkin_pkg) | `de8b53fad2` | 2026-10-17 |
+| [colcon/colcon-notification](https://github.com/repolex-forx/colcon--colcon-notification) | `0401c0ed04` | 2026-10-17 |
+| [colcon/colcon-metadata](https://github.com/repolex-forx/colcon--colcon-metadata) | `e9e5c2dbe5` | 2026-10-17 |
+| [colcon/colcon-test-result](https://github.com/repolex-forx/colcon--colcon-test-result) | `ccccca0ea6` | 2026-10-17 |
+| [colcon/colcon-library-path](https://github.com/repolex-forx/colcon--colcon-library-path) | `8bf9381308` | 2026-10-17 |
+| [colcon/colcon-cmake](https://github.com/repolex-forx/colcon--colcon-cmake) | `5d6bc11dae` | 2026-10-17 |
+| [colcon/colcon-output](https://github.com/repolex-forx/colcon--colcon-output) | `7f44232dc5` | 2026-10-17 |
 | [colcon/colcon-package-information](https://github.com/repolex-forx/colcon--colcon-package-information) | `df35edd9a8` | 2026-10-17 |
 | [ros-infrastructure/rosdep](https://github.com/repolex-forx/ros-infrastructure--rosdep) | `f073f7ffdd` | 2026-10-17 |
 | [ros-infrastructure/rospkg](https://github.com/repolex-forx/ros-infrastructure--rospkg) | `dd46467d3f` | 2026-10-17 |
