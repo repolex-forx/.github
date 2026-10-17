@@ -34,6 +34,13 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [huggingface/smolagents](https://github.com/repolex-forx/huggingface--smolagents) | `96f33faaf0` | 2026-10-16 |
+| [huggingface/optimum](https://github.com/repolex-forx/huggingface--optimum) | `0df84f2388` | 2026-10-16 |
+| [huggingface/trl](https://github.com/repolex-forx/huggingface--trl) | `6d6901c5e3` | 2026-10-16 |
+| [huggingface/peft](https://github.com/repolex-forx/huggingface--peft) | `c2d5f697fb` | 2026-10-16 |
+| [huggingface/accelerate](https://github.com/repolex-forx/huggingface--accelerate) | `2cc4616288` | 2026-10-16 |
+| [huggingface/evaluate](https://github.com/repolex-forx/huggingface--evaluate) | `a5db2ad54a` | 2026-10-16 |
+| [huggingface/safetensors](https://github.com/repolex-forx/huggingface--safetensors) | `e246a25606` | 2026-10-16 |
 | [astropy/photutils](https://github.com/repolex-forx/astropy--photutils) | `c41855f642` | 2026-10-16 |
 | [pydata/pydata-sphinx-theme](https://github.com/repolex-forx/pydata--pydata-sphinx-theme) | `24aa6558b7` | 2026-10-16 |
 | [astropy/specutils](https://github.com/repolex-forx/astropy--specutils) | `22ba8446b6` | 2026-10-16 |
