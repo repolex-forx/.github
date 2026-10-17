@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [colcon/colcon-zsh](https://github.com/repolex-forx/colcon--colcon-zsh) | `ea584ed779` | 2026-10-17 |
+| [colcon/colcon-bash](https://github.com/repolex-forx/colcon--colcon-bash) | `7f850b6eb2` | 2026-10-17 |
+| [colcon/colcon-powershell](https://github.com/repolex-forx/colcon--colcon-powershell) | `5268900f0e` | 2026-10-17 |
+| [colcon/colcon-python-setup-py](https://github.com/repolex-forx/colcon--colcon-python-setup-py) | `2317cc933c` | 2026-10-17 |
+| [colcon/colcon-argcomplete](https://github.com/repolex-forx/colcon--colcon-argcomplete) | `4b8388fef8` | 2026-10-17 |
+| [colcon/colcon-parallel-executor](https://github.com/repolex-forx/colcon--colcon-parallel-executor) | `bb4e55382b` | 2026-10-17 |
+| [colcon/colcon-pkg-config](https://github.com/repolex-forx/colcon--colcon-pkg-config) | `81d7fdf257` | 2026-10-17 |
+| [colcon/colcon-installed-package-information](https://github.com/repolex-forx/colcon--colcon-installed-package-information) | `081b198084` | 2026-10-17 |
+| [colcon/colcon-recursive-crawl](https://github.com/repolex-forx/colcon--colcon-recursive-crawl) | `645281d423` | 2026-10-17 |
+| [colcon/colcon-defaults](https://github.com/repolex-forx/colcon--colcon-defaults) | `db15d01754` | 2026-10-17 |
 | [pyserial/pyserial](https://github.com/repolex-forx/pyserial--pyserial) | `a5c48d445f` | 2026-10-17 |
 | [ros-infrastructure/superflore](https://github.com/repolex-forx/ros-infrastructure--superflore) | `03508a6cec` | 2026-10-17 |
 | [ros-infrastructure/rosdistro](https://github.com/repolex-forx/ros-infrastructure--rosdistro) | `960790d1e0` | 2026-10-17 |
