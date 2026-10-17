@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [vcstools/rosinstall](https://github.com/repolex-forx/vcstools--rosinstall) | `c33f88d7c9` | 2026-10-17 |
+| [vcstools/vcstools](https://github.com/repolex-forx/vcstools--vcstools) | `5c9bbccbe6` | 2026-10-17 |
+| [ros-infrastructure/rosdistro-reviewer](https://github.com/repolex-forx/ros-infrastructure--rosdistro-reviewer) | `15f4131c6e` | 2026-10-17 |
+| [ros-infrastructure/pallet-patcher](https://github.com/repolex-forx/ros-infrastructure--pallet-patcher) | `a6143ef05a` | 2026-10-17 |
+| [ros-infrastructure/rosdoc2](https://github.com/repolex-forx/ros-infrastructure--rosdoc2) | `0ed2e41fce` | 2026-10-17 |
+| [ros-infrastructure/reprepro-updater](https://github.com/repolex-forx/ros-infrastructure--reprepro-updater) | `1ade02f3d7` | 2026-10-17 |
+| [ros-infrastructure/bloom](https://github.com/repolex-forx/ros-infrastructure--bloom) | `0179b9193b` | 2026-10-17 |
+| [ros-infrastructure/catkinize](https://github.com/repolex-forx/ros-infrastructure--catkinize) | `11d660c52f` | 2026-10-17 |
+| [ros-infrastructure/rosdoc_lite](https://github.com/repolex-forx/ros-infrastructure--rosdoc_lite) | `ddd083504c` | 2026-10-17 |
+| [ros-infrastructure/rosinstall_generator](https://github.com/repolex-forx/ros-infrastructure--rosinstall_generator) | `96b6f03c79` | 2026-10-17 |
 | [colcon/colcon-zsh](https://github.com/repolex-forx/colcon--colcon-zsh) | `ea584ed779` | 2026-10-17 |
 | [colcon/colcon-bash](https://github.com/repolex-forx/colcon--colcon-bash) | `7f850b6eb2` | 2026-10-17 |
 | [colcon/colcon-powershell](https://github.com/repolex-forx/colcon--colcon-powershell) | `5268900f0e` | 2026-10-17 |
