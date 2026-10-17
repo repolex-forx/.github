@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [joaomdmoura/crewAI-tools](https://github.com/repolex-forx/joaomdmoura--crewAI-tools) | `62f4d7efd1` | 2026-10-17 |
 | [Pythagora-io/gpt-pilot](https://github.com/repolex-forx/Pythagora-io--gpt-pilot) | `9b763fdaf0` | 2026-10-17 |
 | [AntonOsika/gpt-engineer](https://github.com/repolex-forx/AntonOsika--gpt-engineer) | `a90fcd543e` | 2026-10-17 |
 | [TransformerOptimus/SuperAGI](https://github.com/repolex-forx/TransformerOptimus--SuperAGI) | `c3c1982e7b` | 2026-10-17 |
