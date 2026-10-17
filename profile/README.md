@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [chroma-core/chroma](https://github.com/repolex-forx/chroma-core--chroma) | `fd725c5cd3` | 2026-10-17 |
+| [microsoft/autogen](https://github.com/repolex-forx/microsoft--autogen) | `004749e6b7` | 2026-10-17 |
+| [crewAIInc/crewAI](https://github.com/repolex-forx/crewAIInc--crewAI) | `40bb2d3b58` | 2026-10-17 |
+| [togethercomputer/together-python](https://github.com/repolex-forx/togethercomputer--together-python) | `cc9f253699` | 2026-10-17 |
+| [stanfordnlp/dspy](https://github.com/repolex-forx/stanfordnlp--dspy) | `c7e9752deb` | 2026-10-17 |
+| [BerriAI/litellm](https://github.com/repolex-forx/BerriAI--litellm) | `ae6f7f6613` | 2026-10-17 |
+| [guidance-ai/guidance](https://github.com/repolex-forx/guidance-ai--guidance) | `21b1d90dfb` | 2026-10-17 |
+| [outlines-dev/outlines](https://github.com/repolex-forx/outlines-dev--outlines) | `c52af8472c` | 2026-10-17 |
+| [instructor-ai/instructor](https://github.com/repolex-forx/instructor-ai--instructor) | `035c77b7b0` | 2026-10-17 |
+| [langchain-ai/langgraph](https://github.com/repolex-forx/langchain-ai--langgraph) | `41c9c22fdc` | 2026-10-17 |
 | [lucidrains/vector-quantize-pytorch](https://github.com/repolex-forx/lucidrains--vector-quantize-pytorch) | `4103bf2c7b` | 2026-10-17 |
 | [lucidrains/denoising-diffusion-pytorch](https://github.com/repolex-forx/lucidrains--denoising-diffusion-pytorch) | `c8155b1dc6` | 2026-10-17 |
 | [Lightning-AI/torchmetrics](https://github.com/repolex-forx/Lightning-AI--torchmetrics) | `6c551c6469` | 2026-10-17 |
