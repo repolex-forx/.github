@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [omnilib/aiosqlite](https://github.com/repolex-forx/omnilib--aiosqlite) | `9b127cecc7` | 2026-10-17 |
+| [mongodb/motor](https://github.com/repolex-forx/mongodb--motor) | `60f645614e` | 2026-10-17 |
+| [elastic/elasticsearch-py](https://github.com/repolex-forx/elastic--elasticsearch-py) | `ba53123a99` | 2026-10-17 |
+| [opensearch-project/opensearch-py](https://github.com/repolex-forx/opensearch-project--opensearch-py) | `f09f8b04e8` | 2026-10-17 |
+| [typesense/typesense-python](https://github.com/repolex-forx/typesense--typesense-python) | `8727d2ba58` | 2026-10-17 |
+| [meilisearch/meilisearch-python](https://github.com/repolex-forx/meilisearch--meilisearch-python) | `b6d80209a2` | 2026-10-17 |
+| [kuzudb/kuzu](https://github.com/repolex-forx/kuzudb--kuzu) | `89f0263cc7` | 2026-10-17 |
+| [surrealdb/surrealdb.py](https://github.com/repolex-forx/surrealdb--surrealdb.py) | `4f2b9d784c` | 2026-10-17 |
+| [neo4j/neo4j-python-driver](https://github.com/repolex-forx/neo4j--neo4j-python-driver) | `9755761235` | 2026-10-17 |
+| [ClickHouse/clickhouse-connect](https://github.com/repolex-forx/ClickHouse--clickhouse-connect) | `d5a1d85c8c` | 2026-10-17 |
 | [joaomdmoura/crewAI-tools](https://github.com/repolex-forx/joaomdmoura--crewAI-tools) | `62f4d7efd1` | 2026-10-17 |
 | [Pythagora-io/gpt-pilot](https://github.com/repolex-forx/Pythagora-io--gpt-pilot) | `9b763fdaf0` | 2026-10-17 |
 | [AntonOsika/gpt-engineer](https://github.com/repolex-forx/AntonOsika--gpt-engineer) | `a90fcd543e` | 2026-10-17 |
