@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [intake/intake](https://github.com/repolex-forx/intake--intake) | `61369fee4d` | 2026-10-16 |
+| [dask/partd](https://github.com/repolex-forx/dask--partd) | `e832b65560` | 2026-10-16 |
+| [dask/dask-glm](https://github.com/repolex-forx/dask--dask-glm) | `8dee45ab86` | 2026-10-16 |
+| [dask/dask-image](https://github.com/repolex-forx/dask--dask-image) | `e1a0358386` | 2026-10-16 |
+| [dask/fastparquet](https://github.com/repolex-forx/dask--fastparquet) | `d5c57426e8` | 2026-10-16 |
+| [fsspec/adlfs](https://github.com/repolex-forx/fsspec--adlfs) | `6362b4f2e2` | 2026-10-16 |
+| [fsspec/gcsfs](https://github.com/repolex-forx/fsspec--gcsfs) | `905240e42e` | 2026-10-16 |
+| [fsspec/s3fs](https://github.com/repolex-forx/fsspec--s3fs) | `0cdfb8108c` | 2026-10-16 |
+| [zarr-developers/numcodecs](https://github.com/repolex-forx/zarr-developers--numcodecs) | `1f83681cf3` | 2026-10-16 |
+| [zarr-developers/zarr-python](https://github.com/repolex-forx/zarr-developers--zarr-python) | `bd0dc840f3` | 2026-10-16 |
 | [astropy/astroquery](https://github.com/repolex-forx/astropy--astroquery) | `efbcc3e940` | 2026-10-16 |
 | [sncosmo/sncosmo](https://github.com/repolex-forx/sncosmo--sncosmo) | `a42c93634a` | 2026-10-16 |
 | [spacetelescope/drizzlepac](https://github.com/repolex-forx/spacetelescope--drizzlepac) | `07a9de88ca` | 2026-10-16 |
