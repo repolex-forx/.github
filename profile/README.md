@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [explosion/curated-transformers](https://github.com/repolex-forx/explosion--curated-transformers) | `e7e7e9dacf` | 2026-10-17 |
+| [explosion/thinc](https://github.com/repolex-forx/explosion--thinc) | `6c38b29924` | 2026-10-17 |
+| [mne-tools/mne-bids](https://github.com/repolex-forx/mne-tools--mne-bids) | `085e309b9f` | 2026-10-17 |
+| [scikit-learn-contrib/hdbscan](https://github.com/repolex-forx/scikit-learn-contrib--hdbscan) | `bb01526bf1` | 2026-10-17 |
+| [scikit-learn-contrib/category_encoders](https://github.com/repolex-forx/scikit-learn-contrib--category_encoders) | `fafdccced2` | 2026-10-17 |
+| [facebookresearch/iopath](https://github.com/repolex-forx/facebookresearch--iopath) | `44f9a451ac` | 2026-10-17 |
+| [rasbt/mlxtend](https://github.com/repolex-forx/rasbt--mlxtend) | `1aee767ef5` | 2026-10-17 |
+| [interpretml/interpret](https://github.com/repolex-forx/interpretml--interpret) | `fcca94a445` | 2026-10-17 |
+| [marcotcr/lime](https://github.com/repolex-forx/marcotcr--lime) | `fd7eb2e6f7` | 2026-10-17 |
+| [shap/shap](https://github.com/repolex-forx/shap--shap) | `4f8a9c97fb` | 2026-10-17 |
 | [scikit-learn-contrib/imbalanced-learn](https://github.com/repolex-forx/scikit-learn-contrib--imbalanced-learn) | `8504e95f01` | 2026-10-16 |
 | [GAA-UAM/scikit-fda](https://github.com/repolex-forx/GAA-UAM--scikit-fda) | `903c4c9f7f` | 2026-10-16 |
 | [skrub-data/skrub](https://github.com/repolex-forx/skrub-data--skrub) | `e17834a89e` | 2026-10-16 |
