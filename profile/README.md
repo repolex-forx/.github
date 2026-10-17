@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [spacetelescope/costools](https://github.com/repolex-forx/spacetelescope--costools) | `5bf5eb6177` | 2026-10-16 |
+| [spacetelescope/ci_watson](https://github.com/repolex-forx/spacetelescope--ci_watson) | `d6fa926e47` | 2026-10-16 |
+| [spacetelescope/stsci.imagestats](https://github.com/repolex-forx/spacetelescope--stsci.imagestats) | `ed819da642` | 2026-10-16 |
+| [spacetelescope/tweakwcs](https://github.com/repolex-forx/spacetelescope--tweakwcs) | `d87f57c968` | 2026-10-16 |
+| [spacetelescope/stwcs](https://github.com/repolex-forx/spacetelescope--stwcs) | `fb3a632588` | 2026-10-16 |
+| [spacetelescope/stsci.tools](https://github.com/repolex-forx/spacetelescope--stsci.tools) | `fc95b64519` | 2026-10-16 |
+| [spacetelescope/stsynphot](https://github.com/repolex-forx/spacetelescope--stsynphot) | `dafc63928f` | 2026-10-16 |
+| [spacetelescope/spherical_geometry](https://github.com/repolex-forx/spacetelescope--spherical_geometry) | `f2b2b5628a` | 2026-10-16 |
+| [spacetelescope/stcal](https://github.com/repolex-forx/spacetelescope--stcal) | `e0e2df9e58` | 2026-10-16 |
+| [spacetelescope/fitsblender](https://github.com/repolex-forx/spacetelescope--fitsblender) | `035429ac2c` | 2026-10-16 |
 | [mosquito/aio-pika](https://github.com/repolex-forx/mosquito--aio-pika) | `39cc074a26` | 2026-10-16 |
 | [nats-io/nats.py](https://github.com/repolex-forx/nats-io--nats.py) | `6ffd84ce78` | 2026-10-16 |
 | [jplana/python-etcd](https://github.com/repolex-forx/jplana--python-etcd) | `d2889f7b23` | 2026-10-16 |
