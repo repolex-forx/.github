@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [cleanlab/cleanlab-studio](https://github.com/repolex-forx/cleanlab--cleanlab-studio) | `e5299e2f50` | 2026-10-17 |
+| [dagshub/dagshub](https://github.com/repolex-forx/dagshub--dagshub) | `4f7d78a828` | 2026-10-17 |
 | [truera/trulens](https://github.com/repolex-forx/truera--trulens) | `86893205ee` | 2026-10-17 |
 | [whylabs/whylogs](https://github.com/repolex-forx/whylabs--whylogs) | `976bc4c15c` | 2026-10-17 |
 | [deepchecks/deepchecks](https://github.com/repolex-forx/deepchecks--deepchecks) | `98475d17b0` | 2026-10-17 |
