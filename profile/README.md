@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [intake/intake-stac](https://github.com/repolex-forx/intake--intake-stac) | `227a74c5d3` | 2026-10-16 |
+| [intake/intake-esm](https://github.com/repolex-forx/intake--intake-esm) | `414c4cfc17` | 2026-10-16 |
+| [intake/intake_geopandas](https://github.com/repolex-forx/intake--intake_geopandas) | `34b30175ba` | 2026-10-16 |
+| [intake/intake-sql](https://github.com/repolex-forx/intake--intake-sql) | `052cde1415` | 2026-10-16 |
+| [fsspec/kerchunk](https://github.com/repolex-forx/fsspec--kerchunk) | `37e8f90165` | 2026-10-16 |
+| [fsspec/sshfs](https://github.com/repolex-forx/fsspec--sshfs) | `3d2d681b4a` | 2026-10-16 |
+| [dask/crick](https://github.com/repolex-forx/dask--crick) | `720de70c6a` | 2026-10-16 |
+| [dask/dask-cloudprovider](https://github.com/repolex-forx/dask--dask-cloudprovider) | `f21833282b` | 2026-10-16 |
+| [dask/dask-yarn](https://github.com/repolex-forx/dask--dask-yarn) | `8eed5e2b5a` | 2026-10-16 |
+| [spacetelescope/webbpsf](https://github.com/repolex-forx/spacetelescope--webbpsf) | `95b37d2263` | 2026-10-16 |
 | [fsspec/filesystem_spec](https://github.com/repolex-forx/fsspec--filesystem_spec) | `685f62eaf4` | 2026-10-16 |
 | [dask/dask-expr](https://github.com/repolex-forx/dask--dask-expr) | `42e7a8958b` | 2026-10-16 |
 | [fsspec/universal_pathlib](https://github.com/repolex-forx/fsspec--universal_pathlib) | `827574045b` | 2026-10-16 |
