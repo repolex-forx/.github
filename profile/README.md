@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [cohere-ai/cohere-python](https://github.com/repolex-forx/cohere-ai--cohere-python) | `0eacfe77e1` | 2026-10-17 |
+| [pinecone-io/pinecone-python-client](https://github.com/repolex-forx/pinecone-io--pinecone-python-client) | `0a97b36afe` | 2026-10-17 |
+| [weaviate/weaviate-python-client](https://github.com/repolex-forx/weaviate--weaviate-python-client) | `671f0a5c60` | 2026-10-17 |
+| [milvus-io/pymilvus](https://github.com/repolex-forx/milvus-io--pymilvus) | `58589c0409` | 2026-10-17 |
+| [vespa-engine/pyvespa](https://github.com/repolex-forx/vespa-engine--pyvespa) | `236e87cbe1` | 2026-10-17 |
+| [qdrant/fastembed](https://github.com/repolex-forx/qdrant--fastembed) | `de502ca83b` | 2026-10-17 |
+| [beir-cellar/beir](https://github.com/repolex-forx/beir-cellar--beir) | `ef83d29307` | 2026-10-17 |
+| [UKPLab/sentence-transformers](https://github.com/repolex-forx/UKPLab--sentence-transformers) | `1fa45b4212` | 2026-10-17 |
+| [piskvorky/gensim](https://github.com/repolex-forx/piskvorky--gensim) | `37f90ec121` | 2026-10-17 |
+| [nltk/nltk](https://github.com/repolex-forx/nltk--nltk) | `05a0ea3996` | 2026-10-17 |
 | [explosion/curated-transformers](https://github.com/repolex-forx/explosion--curated-transformers) | `e7e7e9dacf` | 2026-10-17 |
 | [explosion/thinc](https://github.com/repolex-forx/explosion--thinc) | `6c38b29924` | 2026-10-17 |
 | [mne-tools/mne-bids](https://github.com/repolex-forx/mne-tools--mne-bids) | `085e309b9f` | 2026-10-17 |
