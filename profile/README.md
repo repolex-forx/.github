@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [colcon/colcon-package-information](https://github.com/repolex-forx/colcon--colcon-package-information) | `df35edd9a8` | 2026-10-17 |
+| [ros-infrastructure/rosdep](https://github.com/repolex-forx/ros-infrastructure--rosdep) | `f073f7ffdd` | 2026-10-17 |
+| [ros-infrastructure/rospkg](https://github.com/repolex-forx/ros-infrastructure--rospkg) | `dd46467d3f` | 2026-10-17 |
+| [colcon/colcon-core](https://github.com/repolex-forx/colcon--colcon-core) | `6bfb100bd8` | 2026-10-17 |
+| [mahmoud/boltons](https://github.com/repolex-forx/mahmoud--boltons) | `4e5faa3d7e` | 2026-10-17 |
+| [pytoolz/cytoolz](https://github.com/repolex-forx/pytoolz--cytoolz) | `61a0e48851` | 2026-10-17 |
+| [pytoolz/toolz](https://github.com/repolex-forx/pytoolz--toolz) | `451af60dec` | 2026-10-17 |
+| [mpmath/mpmath](https://github.com/repolex-forx/mpmath--mpmath) | `bbbeabbd7e` | 2026-10-17 |
+| [dry-python/returns](https://github.com/repolex-forx/dry-python--returns) | `c60e1d8c51` | 2026-10-17 |
+| [python-injector/injector](https://github.com/repolex-forx/python-injector--injector) | `5daed12510` | 2026-10-17 |
 | [PyCQA/docformatter](https://github.com/repolex-forx/PyCQA--docformatter) | `f8303162e6` | 2026-10-17 |
 | [hylang/hy](https://github.com/repolex-forx/hylang--hy) | `219db3cf7b` | 2026-10-17 |
 | [pdm-project/pdm](https://github.com/repolex-forx/pdm-project--pdm) | `b8b21a9ce2` | 2026-10-17 |
