@@ -34,6 +34,14 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [truera/trulens](https://github.com/repolex-forx/truera--trulens) | `86893205ee` | 2026-10-17 |
+| [whylabs/whylogs](https://github.com/repolex-forx/whylabs--whylogs) | `976bc4c15c` | 2026-10-17 |
+| [deepchecks/deepchecks](https://github.com/repolex-forx/deepchecks--deepchecks) | `98475d17b0` | 2026-10-17 |
+| [clearml/clearml](https://github.com/repolex-forx/clearml--clearml) | `8738571cdc` | 2026-10-17 |
+| [wandb/wandb](https://github.com/repolex-forx/wandb--wandb) | `2e10e7dd51` | 2026-10-17 |
+| [skypilot-org/skypilot](https://github.com/repolex-forx/skypilot-org--skypilot) | `8d91efff99` | 2026-10-17 |
+| [modal-labs/modal-client](https://github.com/repolex-forx/modal-labs--modal-client) | `47cbc08b80` | 2026-10-17 |
+| [bentoml/BentoML](https://github.com/repolex-forx/bentoml--BentoML) | `517b343b81` | 2026-10-17 |
 | [chroma-core/chroma](https://github.com/repolex-forx/chroma-core--chroma) | `fd725c5cd3` | 2026-10-17 |
 | [microsoft/autogen](https://github.com/repolex-forx/microsoft--autogen) | `004749e6b7` | 2026-10-17 |
 | [crewAIInc/crewAI](https://github.com/repolex-forx/crewAIInc--crewAI) | `40bb2d3b58` | 2026-10-17 |
