@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [hpcaitech/ColossalAI](https://github.com/repolex-forx/hpcaitech--ColossalAI) | `250c903c82` | 2026-10-17 |
+| [facebookresearch/xformers](https://github.com/repolex-forx/facebookresearch--xformers) | `4f701fad69` | 2026-10-17 |
+| [EleutherAI/lm-evaluation-harness](https://github.com/repolex-forx/EleutherAI--lm-evaluation-harness) | `d6de816439` | 2026-10-17 |
+| [EleutherAI/gpt-neox](https://github.com/repolex-forx/EleutherAI--gpt-neox) | `28c81ed9f7` | 2026-10-17 |
+| [mosaicml/llm-foundry](https://github.com/repolex-forx/mosaicml--llm-foundry) | `0cdb2f4296` | 2026-10-17 |
+| [mosaicml/composer](https://github.com/repolex-forx/mosaicml--composer) | `6405188805` | 2026-10-17 |
+| [Lightning-AI/pytorch-lightning](https://github.com/repolex-forx/Lightning-AI--pytorch-lightning) | `84df182f50` | 2026-10-17 |
+| [microsoft/DeepSpeed](https://github.com/repolex-forx/microsoft--DeepSpeed) | `036230e4f9` | 2026-10-17 |
+| [state-spaces/mamba](https://github.com/repolex-forx/state-spaces--mamba) | `e9594ce1c7` | 2026-10-17 |
+| [Dao-AILab/flash-attention](https://github.com/repolex-forx/Dao-AILab--flash-attention) | `965c9212e6` | 2026-10-17 |
 | [Lightning-AI/litgpt](https://github.com/repolex-forx/Lightning-AI--litgpt) | `18c931c15c` | 2026-10-17 |
 | [turboderp/exllama](https://github.com/repolex-forx/turboderp--exllama) | `3b013cd53c` | 2026-10-17 |
 | [meta-llama/llama-recipes](https://github.com/repolex-forx/meta-llama--llama-recipes) | `2f22a9eb03` | 2026-10-17 |
