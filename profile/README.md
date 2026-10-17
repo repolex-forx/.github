@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [mlfoundations/open_clip](https://github.com/repolex-forx/mlfoundations--open_clip) | `7067b35005` | 2026-10-17 |
+| [openai/CLIP](https://github.com/repolex-forx/openai--CLIP) | `d05afc436d` | 2026-10-17 |
+| [open-mmlab/mmengine](https://github.com/repolex-forx/open-mmlab--mmengine) | `f8a8b1b3b3` | 2026-10-17 |
+| [open-mmlab/mmdetection](https://github.com/repolex-forx/open-mmlab--mmdetection) | `cfd5d3a985` | 2026-10-17 |
+| [facebookresearch/detectron2](https://github.com/repolex-forx/facebookresearch--detectron2) | `1e3e13bbf6` | 2026-10-17 |
+| [IDEA-Research/GroundingDINO](https://github.com/repolex-forx/IDEA-Research--GroundingDINO) | `856dde20ae` | 2026-10-17 |
+| [haotian-liu/LLaVA](https://github.com/repolex-forx/haotian-liu--LLaVA) | `c121f0432d` | 2026-10-17 |
+| [coqui-ai/TTS](https://github.com/repolex-forx/coqui-ai--TTS) | `dbf1a08a0d` | 2026-10-17 |
+| [facebookresearch/audiocraft](https://github.com/repolex-forx/facebookresearch--audiocraft) | `896ec7c47f` | 2026-10-17 |
+| [ultralytics/ultralytics](https://github.com/repolex-forx/ultralytics--ultralytics) | `f413c7b2a6` | 2026-10-17 |
 | [hpcaitech/ColossalAI](https://github.com/repolex-forx/hpcaitech--ColossalAI) | `250c903c82` | 2026-10-17 |
 | [facebookresearch/xformers](https://github.com/repolex-forx/facebookresearch--xformers) | `4f701fad69` | 2026-10-17 |
 | [EleutherAI/lm-evaluation-harness](https://github.com/repolex-forx/EleutherAI--lm-evaluation-harness) | `d6de816439` | 2026-10-17 |
