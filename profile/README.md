@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [astropy/astroquery](https://github.com/repolex-forx/astropy--astroquery) | `efbcc3e940` | 2026-10-16 |
+| [sncosmo/sncosmo](https://github.com/repolex-forx/sncosmo--sncosmo) | `a42c93634a` | 2026-10-16 |
+| [spacetelescope/drizzlepac](https://github.com/repolex-forx/spacetelescope--drizzlepac) | `07a9de88ca` | 2026-10-16 |
+| [spacetelescope/poppy](https://github.com/repolex-forx/spacetelescope--poppy) | `5e76d377bd` | 2026-10-16 |
+| [glue-viz/glue-qt](https://github.com/repolex-forx/glue-viz--glue-qt) | `9780eaf9c2` | 2026-10-16 |
+| [scikit-multilearn/scikit-multilearn](https://github.com/repolex-forx/scikit-multilearn--scikit-multilearn) | `2ea8c414d6` | 2026-10-16 |
+| [huggingface/doc-builder](https://github.com/repolex-forx/huggingface--doc-builder) | `90ddd199e0` | 2026-10-16 |
+| [coleifer/peewee](https://github.com/repolex-forx/coleifer--peewee) | `e245a01b1f` | 2026-10-16 |
+| [MagicStack/immutables](https://github.com/repolex-forx/MagicStack--immutables) | `1317f9d607` | 2026-10-16 |
+| [MagicStack/asyncpg](https://github.com/repolex-forx/MagicStack--asyncpg) | `13b01910da` | 2026-10-16 |
 | [huggingface/picotron](https://github.com/repolex-forx/huggingface--picotron) | `59714b1bf2` | 2026-10-16 |
 | [huggingface/distil-whisper](https://github.com/repolex-forx/huggingface--distil-whisper) | `cc96130f6e` | 2026-10-16 |
 | [huggingface/alignment-handbook](https://github.com/repolex-forx/huggingface--alignment-handbook) | `53c11c3286` | 2026-10-16 |
