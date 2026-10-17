@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [mosquito/aio-pika](https://github.com/repolex-forx/mosquito--aio-pika) | `39cc074a26` | 2026-10-16 |
+| [nats-io/nats.py](https://github.com/repolex-forx/nats-io--nats.py) | `6ffd84ce78` | 2026-10-16 |
+| [jplana/python-etcd](https://github.com/repolex-forx/jplana--python-etcd) | `d2889f7b23` | 2026-10-16 |
+| [kragniz/python-etcd3](https://github.com/repolex-forx/kragniz--python-etcd3) | `e58a899579` | 2026-10-16 |
+| [duckdb/duckdb-python](https://github.com/repolex-forx/duckdb--duckdb-python) | `6d67c23ddb` | 2026-10-16 |
+| [pika/pika](https://github.com/repolex-forx/pika--pika) | `e31246e203` | 2026-10-16 |
+| [confluentinc/confluent-kafka-python](https://github.com/repolex-forx/confluentinc--confluent-kafka-python) | `47d124053c` | 2026-10-16 |
+| [dpkp/kafka-python](https://github.com/repolex-forx/dpkp--kafka-python) | `cd3f7938e1` | 2026-10-16 |
+| [vmagamedov/grpclib](https://github.com/repolex-forx/vmagamedov--grpclib) | `0d27158f98` | 2026-10-16 |
+| [temporalio/sdk-python](https://github.com/repolex-forx/temporalio--sdk-python) | `da794611db` | 2026-10-16 |
 | [statsmodels/statsmodels](https://github.com/repolex-forx/statsmodels--statsmodels) | `283253007b` | 2026-10-16 |
 | [scikit-image/scikit-image](https://github.com/repolex-forx/scikit-image--scikit-image) | `b700edc800` | 2026-10-16 |
 | [holoviz/datashader](https://github.com/repolex-forx/holoviz--datashader) | `385fb0b976` | 2026-10-16 |
