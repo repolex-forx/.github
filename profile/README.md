@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rasterio/rasterio](https://github.com/repolex-forx/rasterio--rasterio) | `c2c0a9692e` | 2026-10-16 |
+| [geopandas/geopandas](https://github.com/repolex-forx/geopandas--geopandas) | `ee889bb636` | 2026-10-16 |
+| [catalyst-team/catalyst](https://github.com/repolex-forx/catalyst-team--catalyst) | `e99f90655d` | 2026-10-16 |
+| [kornia/kornia](https://github.com/repolex-forx/kornia--kornia) | `2d8b49be03` | 2026-10-16 |
+| [albumentations-team/albumentations](https://github.com/repolex-forx/albumentations-team--albumentations) | `66212d77a4` | 2026-10-16 |
+| [fastai/fastcore](https://github.com/repolex-forx/fastai--fastcore) | `9d2e1395ca` | 2026-10-16 |
+| [arviz-devs/arviz](https://github.com/repolex-forx/arviz-devs--arviz) | `7d8d55517b` | 2026-10-16 |
+| [lmfit/lmfit-py](https://github.com/repolex-forx/lmfit--lmfit-py) | `e270500e3e` | 2026-10-16 |
+| [pymc-devs/pytensor](https://github.com/repolex-forx/pymc-devs--pytensor) | `ce6df07fd2` | 2026-10-16 |
+| [facebookresearch/fvcore](https://github.com/repolex-forx/facebookresearch--fvcore) | `8363d8d9e0` | 2026-10-16 |
 | [intake/intake-stac](https://github.com/repolex-forx/intake--intake-stac) | `227a74c5d3` | 2026-10-16 |
 | [intake/intake-esm](https://github.com/repolex-forx/intake--intake-esm) | `414c4cfc17` | 2026-10-16 |
 | [intake/intake_geopandas](https://github.com/repolex-forx/intake--intake_geopandas) | `34b30175ba` | 2026-10-16 |
