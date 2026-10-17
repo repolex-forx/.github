@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Pythagora-io/gpt-pilot](https://github.com/repolex-forx/Pythagora-io--gpt-pilot) | `9b763fdaf0` | 2026-10-17 |
+| [AntonOsika/gpt-engineer](https://github.com/repolex-forx/AntonOsika--gpt-engineer) | `a90fcd543e` | 2026-10-17 |
+| [TransformerOptimus/SuperAGI](https://github.com/repolex-forx/TransformerOptimus--SuperAGI) | `c3c1982e7b` | 2026-10-17 |
+| [assafelovic/gpt-researcher](https://github.com/repolex-forx/assafelovic--gpt-researcher) | `3582a6841f` | 2026-10-17 |
+| [KillianLucas/open-interpreter](https://github.com/repolex-forx/KillianLucas--open-interpreter) | `ac1fcc8fe5` | 2026-10-17 |
+| [All-Hands-AI/OpenHands](https://github.com/repolex-forx/All-Hands-AI--OpenHands) | `045290739f` | 2026-10-17 |
+| [sweepai/sweep](https://github.com/repolex-forx/sweepai--sweep) | `a8b8b67bda` | 2026-10-17 |
+| [OpenBMB/ChatDev](https://github.com/repolex-forx/OpenBMB--ChatDev) | `a2ea4a263c` | 2026-10-17 |
+| [camel-ai/camel](https://github.com/repolex-forx/camel-ai--camel) | `e5e55256e9` | 2026-10-17 |
 | [facebookresearch/pytorch3d](https://github.com/repolex-forx/facebookresearch--pytorch3d) | `88e182f989` | 2026-10-17 |
 | [cvxpy/cvxpy](https://github.com/repolex-forx/cvxpy--cvxpy) | `ccf24bf121` | 2026-10-17 |
 | [yzhao062/pyod](https://github.com/repolex-forx/yzhao062--pyod) | `f0d0967d16` | 2026-10-17 |
