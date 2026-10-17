@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Lightning-AI/litgpt](https://github.com/repolex-forx/Lightning-AI--litgpt) | `18c931c15c` | 2026-10-17 |
+| [turboderp/exllama](https://github.com/repolex-forx/turboderp--exllama) | `3b013cd53c` | 2026-10-17 |
 | [meta-llama/llama-recipes](https://github.com/repolex-forx/meta-llama--llama-recipes) | `2f22a9eb03` | 2026-10-17 |
 | [embedchain/embedchain](https://github.com/repolex-forx/embedchain--embedchain) | `0724291bd8` | 2026-10-17 |
 | [lm-sys/FastChat](https://github.com/repolex-forx/lm-sys--FastChat) | `587d5cfa16` | 2026-10-17 |
