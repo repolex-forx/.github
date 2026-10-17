@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [statsmodels/statsmodels](https://github.com/repolex-forx/statsmodels--statsmodels) | `283253007b` | 2026-10-16 |
+| [scikit-image/scikit-image](https://github.com/repolex-forx/scikit-image--scikit-image) | `b700edc800` | 2026-10-16 |
+| [holoviz/datashader](https://github.com/repolex-forx/holoviz--datashader) | `385fb0b976` | 2026-10-16 |
+| [holoviz/geoviews](https://github.com/repolex-forx/holoviz--geoviews) | `fe1ec429ba` | 2026-10-16 |
+| [holoviz/hvplot](https://github.com/repolex-forx/holoviz--hvplot) | `3fc8075f9d` | 2026-10-16 |
+| [holoviz/lumen](https://github.com/repolex-forx/holoviz--lumen) | `296c796a14` | 2026-10-16 |
+| [holoviz/pyviz_comms](https://github.com/repolex-forx/holoviz--pyviz_comms) | `666f04709f` | 2026-10-16 |
+| [glue-viz/glue-plotly](https://github.com/repolex-forx/glue-viz--glue-plotly) | `127c20875b` | 2026-10-16 |
+| [glue-viz/glue-vispy-viewers](https://github.com/repolex-forx/glue-viz--glue-vispy-viewers) | `9b2aa91361` | 2026-10-16 |
+| [vispy/vispy](https://github.com/repolex-forx/vispy--vispy) | `66033d9b87` | 2026-10-16 |
 | [pysal/splot](https://github.com/repolex-forx/pysal--splot) | `b8361cb5f4` | 2026-10-15 |
 | [pysal/giddy](https://github.com/repolex-forx/pysal--giddy) | `f853d8569c` | 2026-10-15 |
 | [pysal/pointpats](https://github.com/repolex-forx/pysal--pointpats) | `95ca252901` | 2026-10-15 |
