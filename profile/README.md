@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [lucidrains/vector-quantize-pytorch](https://github.com/repolex-forx/lucidrains--vector-quantize-pytorch) | `4103bf2c7b` | 2026-10-17 |
+| [lucidrains/denoising-diffusion-pytorch](https://github.com/repolex-forx/lucidrains--denoising-diffusion-pytorch) | `c8155b1dc6` | 2026-10-17 |
+| [Lightning-AI/torchmetrics](https://github.com/repolex-forx/Lightning-AI--torchmetrics) | `6c551c6469` | 2026-10-17 |
+| [karpathy/makemore](https://github.com/repolex-forx/karpathy--makemore) | `988aa59e4d` | 2026-10-17 |
+| [karpathy/micrograd](https://github.com/repolex-forx/karpathy--micrograd) | `7bc720e951` | 2026-10-17 |
+| [karpathy/minGPT](https://github.com/repolex-forx/karpathy--minGPT) | `37baab71b9` | 2026-10-17 |
+| [karpathy/nanoGPT](https://github.com/repolex-forx/karpathy--nanoGPT) | `3adf61e154` | 2026-10-17 |
+| [arogozhnikov/einops](https://github.com/repolex-forx/arogozhnikov--einops) | `1f2268c55a` | 2026-10-17 |
+| [facebookresearch/segment-anything](https://github.com/repolex-forx/facebookresearch--segment-anything) | `dca509fe79` | 2026-10-17 |
+| [openai/whisper](https://github.com/repolex-forx/openai--whisper) | `86098128c0` | 2026-10-17 |
 | [cohere-ai/cohere-python](https://github.com/repolex-forx/cohere-ai--cohere-python) | `0eacfe77e1` | 2026-10-17 |
 | [pinecone-io/pinecone-python-client](https://github.com/repolex-forx/pinecone-io--pinecone-python-client) | `0a97b36afe` | 2026-10-17 |
 | [weaviate/weaviate-python-client](https://github.com/repolex-forx/weaviate--weaviate-python-client) | `671f0a5c60` | 2026-10-17 |
