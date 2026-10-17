@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [huggingface/picotron](https://github.com/repolex-forx/huggingface--picotron) | `59714b1bf2` | 2026-10-16 |
+| [huggingface/distil-whisper](https://github.com/repolex-forx/huggingface--distil-whisper) | `cc96130f6e` | 2026-10-16 |
+| [huggingface/alignment-handbook](https://github.com/repolex-forx/huggingface--alignment-handbook) | `53c11c3286` | 2026-10-16 |
 | [huggingface/smolagents](https://github.com/repolex-forx/huggingface--smolagents) | `96f33faaf0` | 2026-10-16 |
 | [huggingface/optimum](https://github.com/repolex-forx/huggingface--optimum) | `0df84f2388` | 2026-10-16 |
 | [huggingface/trl](https://github.com/repolex-forx/huggingface--trl) | `6d6901c5e3` | 2026-10-16 |
