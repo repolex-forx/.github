@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [astropy/photutils](https://github.com/repolex-forx/astropy--photutils) | `c41855f642` | 2026-10-16 |
+| [pydata/pydata-sphinx-theme](https://github.com/repolex-forx/pydata--pydata-sphinx-theme) | `24aa6558b7` | 2026-10-16 |
+| [astropy/specutils](https://github.com/repolex-forx/astropy--specutils) | `22ba8446b6` | 2026-10-16 |
+| [astropy/halotools](https://github.com/repolex-forx/astropy--halotools) | `ff438dfd61` | 2026-10-16 |
+| [spacetelescope/gwcs](https://github.com/repolex-forx/spacetelescope--gwcs) | `7f7e664ffd` | 2026-10-16 |
+| [spacetelescope/synphot_refactor](https://github.com/repolex-forx/spacetelescope--synphot_refactor) | `a308c5ac1a` | 2026-10-16 |
+| [spacetelescope/asdf](https://github.com/repolex-forx/spacetelescope--asdf) | `bb9f3c8dec` | 2026-10-16 |
+| [sebp/scikit-survival](https://github.com/repolex-forx/sebp--scikit-survival) | `ca0c2bd6ed` | 2026-10-16 |
+| [apache/pulsar-client-python](https://github.com/repolex-forx/apache--pulsar-client-python) | `e0cff2cbd6` | 2026-10-16 |
+| [zeromq/pyzmq](https://github.com/repolex-forx/zeromq--pyzmq) | `1cbf63a791` | 2026-10-16 |
 | [spacetelescope/costools](https://github.com/repolex-forx/spacetelescope--costools) | `5bf5eb6177` | 2026-10-16 |
 | [spacetelescope/ci_watson](https://github.com/repolex-forx/spacetelescope--ci_watson) | `d6fa926e47` | 2026-10-16 |
 | [spacetelescope/stsci.imagestats](https://github.com/repolex-forx/spacetelescope--stsci.imagestats) | `ed819da642` | 2026-10-16 |
