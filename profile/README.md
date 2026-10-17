@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [PyCQA/docformatter](https://github.com/repolex-forx/PyCQA--docformatter) | `f8303162e6` | 2026-10-17 |
+| [hylang/hy](https://github.com/repolex-forx/hylang--hy) | `219db3cf7b` | 2026-10-17 |
+| [pdm-project/pdm](https://github.com/repolex-forx/pdm-project--pdm) | `b8b21a9ce2` | 2026-10-17 |
+| [pybind/pybind11](https://github.com/repolex-forx/pybind--pybind11) | `6254086d96` | 2026-10-17 |
+| [cython/cython](https://github.com/repolex-forx/cython--cython) | `2fc896931e` | 2026-10-17 |
+| [uqfoundation/dill](https://github.com/repolex-forx/uqfoundation--dill) | `72c61c8f9e` | 2026-10-17 |
+| [paramiko/paramiko](https://github.com/repolex-forx/paramiko--paramiko) | `d87f9c01c1` | 2026-10-17 |
+| [sqlalchemy/alembic](https://github.com/repolex-forx/sqlalchemy--alembic) | `723d9c2cc8` | 2026-10-17 |
+| [joblib/joblib](https://github.com/repolex-forx/joblib--joblib) | `878c9e0599` | 2026-10-17 |
+| [pypa/pip](https://github.com/repolex-forx/pypa--pip) | `41ce840487` | 2026-10-17 |
 | [omnilib/aiosqlite](https://github.com/repolex-forx/omnilib--aiosqlite) | `9b127cecc7` | 2026-10-17 |
 | [mongodb/motor](https://github.com/repolex-forx/mongodb--motor) | `60f645614e` | 2026-10-17 |
 | [elastic/elasticsearch-py](https://github.com/repolex-forx/elastic--elasticsearch-py) | `ba53123a99` | 2026-10-17 |
