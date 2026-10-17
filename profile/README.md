@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [fsspec/filesystem_spec](https://github.com/repolex-forx/fsspec--filesystem_spec) | `685f62eaf4` | 2026-10-16 |
+| [dask/dask-expr](https://github.com/repolex-forx/dask--dask-expr) | `42e7a8958b` | 2026-10-16 |
+| [fsspec/universal_pathlib](https://github.com/repolex-forx/fsspec--universal_pathlib) | `827574045b` | 2026-10-16 |
+| [dask/dask-kubernetes](https://github.com/repolex-forx/dask--dask-kubernetes) | `0b02f63176` | 2026-10-16 |
+| [dask/dask-gateway](https://github.com/repolex-forx/dask--dask-gateway) | `1fc81895c8` | 2026-10-16 |
+| [intake/intake-xarray](https://github.com/repolex-forx/intake--intake-xarray) | `719a7c84b5` | 2026-10-16 |
+| [intake/intake-parquet](https://github.com/repolex-forx/intake--intake-parquet) | `2541e1a698` | 2026-10-16 |
+| [dask/dask-ml](https://github.com/repolex-forx/dask--dask-ml) | `fcc8111ac6` | 2026-10-16 |
+| [Unidata/cftime](https://github.com/repolex-forx/Unidata--cftime) | `211e91f18f` | 2026-10-16 |
+| [sunpy/sunpy](https://github.com/repolex-forx/sunpy--sunpy) | `969514fa29` | 2026-10-16 |
 | [intake/intake](https://github.com/repolex-forx/intake--intake) | `61369fee4d` | 2026-10-16 |
 | [dask/partd](https://github.com/repolex-forx/dask--partd) | `e832b65560` | 2026-10-16 |
 | [dask/dask-glm](https://github.com/repolex-forx/dask--dask-glm) | `8dee45ab86` | 2026-10-16 |
