@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [simonw/datasette-publish-vercel](https://github.com/repolex-forx/simonw--datasette-publish-vercel) | `1559d979b4` | 2026-10-17 |
+| [simonw/datasette-auth-passwords](https://github.com/repolex-forx/simonw--datasette-auth-passwords) | `bb96899c84` | 2026-10-17 |
+| [simonw/datasette-vega](https://github.com/repolex-forx/simonw--datasette-vega) | `6fe66c4c9d` | 2026-10-17 |
+| [simonw/datasette-render-markdown](https://github.com/repolex-forx/simonw--datasette-render-markdown) | `65051d4db2` | 2026-10-17 |
+| [simonw/datasette-graphql](https://github.com/repolex-forx/simonw--datasette-graphql) | `587ebdd6a0` | 2026-10-17 |
+| [dbcli/athenacli](https://github.com/repolex-forx/dbcli--athenacli) | `b1b18c4f16` | 2026-10-17 |
+| [dbcli/vcli](https://github.com/repolex-forx/dbcli--vcli) | `1e8b34141a` | 2026-10-17 |
+| [dbcli/litecli](https://github.com/repolex-forx/dbcli--litecli) | `aa53bb0c15` | 2026-10-17 |
+| [kayak/pypika](https://github.com/repolex-forx/kayak--pypika) | `5e800d83a0` | 2026-10-17 |
+| [coleifer/huey](https://github.com/repolex-forx/coleifer--huey) | `c5afa051a9` | 2026-10-17 |
 | [tiran/defusedxml](https://github.com/repolex-forx/tiran--defusedxml) | `c7445887f5` | 2026-10-17 |
 | [in-toto/in-toto](https://github.com/repolex-forx/in-toto--in-toto) | `e352b43ad7` | 2026-10-17 |
 | [sigstore/sigstore-python](https://github.com/repolex-forx/sigstore--sigstore-python) | `7ee385ac8b` | 2026-10-17 |
