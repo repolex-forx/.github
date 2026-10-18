@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [alexmojaki/pure_eval](https://github.com/repolex-forx/alexmojaki--pure_eval) | `cbb5256528` | 2026-10-17 |
+| [GrahamDumpleton/wrapt](https://github.com/repolex-forx/GrahamDumpleton--wrapt) | `b521fe6307` | 2026-10-17 |
+| [Qix-/better-exceptions](https://github.com/repolex-forx/Qix---better-exceptions) | `b928ff9e2c` | 2026-10-17 |
+| [cool-RR/PySnooper](https://github.com/repolex-forx/cool-RR--PySnooper) | `4be5c156ff` | 2026-10-17 |
+| [pdbpp/pdbpp](https://github.com/repolex-forx/pdbpp--pdbpp) | `e1c2e347cc` | 2026-10-17 |
+| [gotcha/ipdb](https://github.com/repolex-forx/gotcha--ipdb) | `be12fe3b3a` | 2026-10-17 |
+| [gruns/furl](https://github.com/repolex-forx/gruns--furl) | `46d9ea79c9` | 2026-10-17 |
+| [hynek/structlog](https://github.com/repolex-forx/hynek--structlog) | `19c4f21059` | 2026-10-17 |
+| [Delgan/loguru](https://github.com/repolex-forx/Delgan--loguru) | `bce5dfd3b4` | 2026-10-17 |
 | [tmbo/questionary](https://github.com/repolex-forx/tmbo--questionary) | `5a68c2d3e1` | 2026-10-17 |
 | [magmax/python-readchar](https://github.com/repolex-forx/magmax--python-readchar) | `cba1fa062e` | 2026-10-17 |
 | [click-contrib/click-completion](https://github.com/repolex-forx/click-contrib--click-completion) | `39e8b5453e` | 2026-10-17 |
