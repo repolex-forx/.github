@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [google/flax](https://github.com/repolex-forx/google--flax) | `41deea36bd` | 2026-10-17 |
+| [google/gin-config](https://github.com/repolex-forx/google--gin-config) | `bda557dedb` | 2026-10-17 |
+| [deepmind/bsuite](https://github.com/repolex-forx/deepmind--bsuite) | `8109eb2329` | 2026-10-17 |
+| [deepmind/trfl](https://github.com/repolex-forx/deepmind--trfl) | `ed6eff5b79` | 2026-10-17 |
+| [deepmind/mctx](https://github.com/repolex-forx/deepmind--mctx) | `428bfb7e1c` | 2026-10-17 |
+| [deepmind/distrax](https://github.com/repolex-forx/deepmind--distrax) | `d5314206ef` | 2026-10-17 |
+| [deepmind/rlax](https://github.com/repolex-forx/deepmind--rlax) | `036c859d6b` | 2026-10-17 |
+| [deepmind/chex](https://github.com/repolex-forx/deepmind--chex) | `02bfaa7856` | 2026-10-17 |
+| [deepmind/dm-haiku](https://github.com/repolex-forx/deepmind--dm-haiku) | `5e13a66672` | 2026-10-17 |
+| [deepmind/optax](https://github.com/repolex-forx/deepmind--optax) | `8589d974e5` | 2026-10-17 |
 | [worldveil/dejavu](https://github.com/repolex-forx/worldveil--dejavu) | `e56a4a221a` | 2026-10-17 |
 | [YannickJadoul/Parselmouth](https://github.com/repolex-forx/YannickJadoul--Parselmouth) | `b5e97e77e7` | 2026-10-17 |
 | [CPJKU/madmom](https://github.com/repolex-forx/CPJKU--madmom) | `27f032e894` | 2026-10-17 |
