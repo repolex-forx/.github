@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ionelmc/python-fields](https://github.com/repolex-forx/ionelmc--python-fields) | `cb473d126b` | 2026-10-17 |
+| [ionelmc/python-aspectlib](https://github.com/repolex-forx/ionelmc--python-aspectlib) | `52092d5e8e` | 2026-10-17 |
+| [ionelmc/python-lazy-object-proxy](https://github.com/repolex-forx/ionelmc--python-lazy-object-proxy) | `1030dfa676` | 2026-10-17 |
+| [myint/autoflake](https://github.com/repolex-forx/myint--autoflake) | `8b019503c6` | 2026-10-17 |
+| [alexmojaki/birdseye](https://github.com/repolex-forx/alexmojaki--birdseye) | `753f6648db` | 2026-10-17 |
+| [hynek/environ-config](https://github.com/repolex-forx/hynek--environ-config) | `dfbfdc910e` | 2026-10-17 |
+| [WojciechMula/pyahocorasick](https://github.com/repolex-forx/WojciechMula--pyahocorasick) | `4e28d29898` | 2026-10-17 |
+| [google/pygtrie](https://github.com/repolex-forx/google--pygtrie) | `64ee0836f4` | 2026-10-17 |
+| [pythonprofilers/memory_profiler](https://github.com/repolex-forx/pythonprofilers--memory_profiler) | `fdf104d652` | 2026-10-17 |
+| [sumerc/yappi](https://github.com/repolex-forx/sumerc--yappi) | `c2f6d4384e` | 2026-10-17 |
 | [jaraco/pytest-checkdocs](https://github.com/repolex-forx/jaraco--pytest-checkdocs) | `356d6718b1` | 2026-10-17 |
 | [jaraco/pytest-enabler](https://github.com/repolex-forx/jaraco--pytest-enabler) | `2f6585b18a` | 2026-10-17 |
 | [ktosiek/pytest-freezegun](https://github.com/repolex-forx/ktosiek--pytest-freezegun) | `3202256486` | 2026-10-17 |
