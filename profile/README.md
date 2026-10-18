@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Pylons/hupper](https://github.com/repolex-forx/Pylons--hupper) | `b2c564c915` | 2026-10-18 |
+| [Pylons/colander](https://github.com/repolex-forx/Pylons--colander) | `4557c01765` | 2026-10-18 |
+| [aiortc/aioice](https://github.com/repolex-forx/aiortc--aioice) | `d17b537824` | 2026-10-18 |
+| [postmanlabs/httpbin](https://github.com/repolex-forx/postmanlabs--httpbin) | `f8ec666b4d` | 2026-10-18 |
+| [miguelgrinberg/Flask-SocketIO](https://github.com/repolex-forx/miguelgrinberg--Flask-SocketIO) | `4c4d56b758` | 2026-10-18 |
+| [miguelgrinberg/python-engineio](https://github.com/repolex-forx/miguelgrinberg--python-engineio) | `740d905780` | 2026-10-18 |
+| [miguelgrinberg/python-socketio](https://github.com/repolex-forx/miguelgrinberg--python-socketio) | `5b49d7ca33` | 2026-10-18 |
+| [crossbario/autobahn-python](https://github.com/repolex-forx/crossbario--autobahn-python) | `657d0fa16e` | 2026-10-18 |
+| [websocket-client/websocket-client](https://github.com/repolex-forx/websocket-client--websocket-client) | `318d1bc3b8` | 2026-10-18 |
+| [aaugustin/websockets](https://github.com/repolex-forx/aaugustin--websockets) | `bc17da4841` | 2026-10-18 |
 | [kvesteri/sqlalchemy-i18n](https://github.com/repolex-forx/kvesteri--sqlalchemy-i18n) | `9cf515be75` | 2026-10-18 |
 | [kvesteri/sqlalchemy-continuum](https://github.com/repolex-forx/kvesteri--sqlalchemy-continuum) | `3d3c86bde8` | 2026-10-18 |
 | [kvesteri/wtforms-alchemy](https://github.com/repolex-forx/kvesteri--wtforms-alchemy) | `8b5bc887ed` | 2026-10-18 |
