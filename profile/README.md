@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jazzband/django-sorter](https://github.com/repolex-forx/jazzband--django-sorter) | `e92b2f7acc` | 2026-10-18 |
+| [jazzband/django-authority](https://github.com/repolex-forx/jazzband--django-authority) | `f58bbef27e` | 2026-10-18 |
+| [webpy/webpy](https://github.com/repolex-forx/webpy--webpy) | `470d1f512f` | 2026-10-18 |
+| [hugapi/hug](https://github.com/repolex-forx/hugapi--hug) | `e4a3fa40f9` | 2026-10-18 |
+| [Pylons/translationstring](https://github.com/repolex-forx/Pylons--translationstring) | `a8d0268000` | 2026-10-18 |
+| [samuelcolvin/pytest-toolbox](https://github.com/repolex-forx/samuelcolvin--pytest-toolbox) | `e33b6b68b1` | 2026-10-18 |
+| [jazzband/django-discover-jenkins](https://github.com/repolex-forx/jazzband--django-discover-jenkins) | `c056f94456` | 2026-10-18 |
+| [jazzband/django-admin2](https://github.com/repolex-forx/jazzband--django-admin2) | `7770da8a49` | 2026-10-18 |
+| [jaraco/path](https://github.com/repolex-forx/jaraco--path) | `b5ae11e41b` | 2026-10-18 |
+| [jaraco/autocommand](https://github.com/repolex-forx/jaraco--autocommand) | `9d95de8ad2` | 2026-10-18 |
 | [thombashi/pingparsing](https://github.com/repolex-forx/thombashi--pingparsing) | `5c9d51d322` | 2026-10-18 |
 | [thombashi/SimpleSQLite](https://github.com/repolex-forx/thombashi--SimpleSQLite) | `aca1601933` | 2026-10-18 |
 | [thombashi/DateTimeRange](https://github.com/repolex-forx/thombashi--DateTimeRange) | `7ddde34a09` | 2026-10-18 |
