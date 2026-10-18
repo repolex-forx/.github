@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/jaraco.collections](https://github.com/repolex-forx/jaraco--jaraco.collections) | `8d214676c4` | 2026-10-17 |
+| [jaraco/jaraco.classes](https://github.com/repolex-forx/jaraco--jaraco.classes) | `2554beb49a` | 2026-10-17 |
+| [jaraco/jaraco.text](https://github.com/repolex-forx/jaraco--jaraco.text) | `080a036712` | 2026-10-17 |
+| [jaraco/jaraco.itertools](https://github.com/repolex-forx/jaraco--jaraco.itertools) | `2712e916b2` | 2026-10-17 |
+| [jaraco/jaraco.functools](https://github.com/repolex-forx/jaraco--jaraco.functools) | `348632f3ee` | 2026-10-17 |
+| [scrapinghub/dateparser](https://github.com/repolex-forx/scrapinghub--dateparser) | `07b40b2f01` | 2026-10-17 |
+| [dr-prodigy/python-holidays](https://github.com/repolex-forx/dr-prodigy--python-holidays) | `d3d32b9a9f` | 2026-10-17 |
+| [myusuf3/delorean](https://github.com/repolex-forx/myusuf3--delorean) | `eea5ccaf3c` | 2026-10-17 |
+| [python-pendulum/pendulum](https://github.com/repolex-forx/python-pendulum--pendulum) | `e06dacedc4` | 2026-10-17 |
+| [arrow-py/arrow](https://github.com/repolex-forx/arrow-py--arrow) | `2224255c4a` | 2026-10-17 |
 | [nikvaessen/jiwer](https://github.com/repolex-forx/nikvaessen--jiwer) | `46f6364dcd` | 2026-10-17 |
 | [wiseman/py-webrtcvad](https://github.com/repolex-forx/wiseman--py-webrtcvad) | `e283ca41df` | 2026-10-17 |
 | [pyannote/pyannote-audio](https://github.com/repolex-forx/pyannote--pyannote-audio) | `b749285c5c` | 2026-10-17 |
