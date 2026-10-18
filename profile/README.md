@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [tiran/defusedxml](https://github.com/repolex-forx/tiran--defusedxml) | `c7445887f5` | 2026-10-17 |
+| [in-toto/in-toto](https://github.com/repolex-forx/in-toto--in-toto) | `e352b43ad7` | 2026-10-17 |
+| [sigstore/sigstore-python](https://github.com/repolex-forx/sigstore--sigstore-python) | `7ee385ac8b` | 2026-10-17 |
+| [duo-labs/py_webauthn](https://github.com/repolex-forx/duo-labs--py_webauthn) | `c9ba2b7dad` | 2026-10-17 |
+| [Yubico/python-fido2](https://github.com/repolex-forx/Yubico--python-fido2) | `57dfac9182` | 2026-10-17 |
+| [pyauth/pyotp](https://github.com/repolex-forx/pyauth--pyotp) | `cc156832fa` | 2026-10-17 |
+| [hynek/argon2-cffi](https://github.com/repolex-forx/hynek--argon2-cffi) | `ff02917de7` | 2026-10-17 |
+| [mpdavis/python-jose](https://github.com/repolex-forx/mpdavis--python-jose) | `018b310ddb` | 2026-10-17 |
+| [authlib/authlib](https://github.com/repolex-forx/authlib--authlib) | `8a308fc39c` | 2026-10-17 |
+| [oauthlib/oauthlib](https://github.com/repolex-forx/oauthlib--oauthlib) | `fa4570206d` | 2026-10-17 |
 | [dropbox/pyannotate](https://github.com/repolex-forx/dropbox--pyannotate) | `a7a46f394f` | 2026-10-17 |
 | [jaraco/jaraco.context](https://github.com/repolex-forx/jaraco--jaraco.context) | `0474f20847` | 2026-10-17 |
 | [gruns/icecream](https://github.com/repolex-forx/gruns--icecream) | `2e09b0dc67` | 2026-10-17 |
