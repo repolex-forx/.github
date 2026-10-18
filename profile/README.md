@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [tmbo/questionary](https://github.com/repolex-forx/tmbo--questionary) | `5a68c2d3e1` | 2026-10-17 |
+| [magmax/python-readchar](https://github.com/repolex-forx/magmax--python-readchar) | `cba1fa062e` | 2026-10-17 |
+| [click-contrib/click-completion](https://github.com/repolex-forx/click-contrib--click-completion) | `39e8b5453e` | 2026-10-17 |
+| [click-contrib/click-plugins](https://github.com/repolex-forx/click-contrib--click-plugins) | `ab3c1e7f0b` | 2026-10-17 |
+| [jonathaneunice/ansiwrap](https://github.com/repolex-forx/jonathaneunice--ansiwrap) | `a20c337cee` | 2026-10-17 |
+| [bpython/curtsies](https://github.com/repolex-forx/bpython--curtsies) | `3c303d0fad` | 2026-10-17 |
+| [erikrose/blessings](https://github.com/repolex-forx/erikrose--blessings) | `50655345d2` | 2026-10-17 |
+| [termcolor/termcolor](https://github.com/repolex-forx/termcolor--termcolor) | `c7d0b8e8a4` | 2026-10-17 |
+| [borntyping/python-colorlog](https://github.com/repolex-forx/borntyping--python-colorlog) | `868b53d31d` | 2026-10-17 |
+| [docopt/docopt](https://github.com/repolex-forx/docopt--docopt) | `8fea867d42` | 2026-10-17 |
 | [jsonpickle/jsonpickle](https://github.com/repolex-forx/jsonpickle--jsonpickle) | `9bf812997e` | 2026-10-17 |
 | [wbolster/jsonlines](https://github.com/repolex-forx/wbolster--jsonlines) | `43d1a30b96` | 2026-10-17 |
 | [schematics/schematics](https://github.com/repolex-forx/schematics--schematics) | `3a144be0aa` | 2026-10-17 |
