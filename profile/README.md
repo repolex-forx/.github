@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dropbox/pyannotate](https://github.com/repolex-forx/dropbox--pyannotate) | `a7a46f394f` | 2026-10-17 |
 | [jaraco/jaraco.context](https://github.com/repolex-forx/jaraco--jaraco.context) | `0474f20847` | 2026-10-17 |
 | [gruns/icecream](https://github.com/repolex-forx/gruns--icecream) | `2e09b0dc67` | 2026-10-17 |
 | [ilevkivskyi/typing_inspect](https://github.com/repolex-forx/ilevkivskyi--typing_inspect) | `ce24e24812` | 2026-10-17 |
