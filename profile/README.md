@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [adamchainz/django-permissions-policy](https://github.com/repolex-forx/adamchainz--django-permissions-policy) | `694b936384` | 2026-10-18 |
+| [adamchainz/django-browser-reload](https://github.com/repolex-forx/adamchainz--django-browser-reload) | `9e07824fe1` | 2026-10-18 |
+| [adamchainz/time-machine](https://github.com/repolex-forx/adamchainz--time-machine) | `fa8d18d59e` | 2026-10-18 |
+| [kennethreitz/envoy](https://github.com/repolex-forx/kennethreitz--envoy) | `ab463a14da` | 2026-10-18 |
+| [kennethreitz/maya](https://github.com/repolex-forx/kennethreitz--maya) | `9766619d00` | 2026-10-18 |
+| [ionrock/cachecontrol](https://github.com/repolex-forx/ionrock--cachecontrol) | `2627d9b267` | 2026-10-18 |
+| [explosion/weasel](https://github.com/repolex-forx/explosion--weasel) | `0e688d4424` | 2026-10-18 |
+| [explosion/catalogue](https://github.com/repolex-forx/explosion--catalogue) | `4c815128eb` | 2026-10-18 |
+| [explosion/wasabi](https://github.com/repolex-forx/explosion--wasabi) | `ddcb05ac1e` | 2026-10-18 |
+| [explosion/srsly](https://github.com/repolex-forx/explosion--srsly) | `050951efad` | 2026-10-18 |
 | [miguelgrinberg/Flask-HTTPAuth](https://github.com/repolex-forx/miguelgrinberg--Flask-HTTPAuth) | `9ff38c6875` | 2026-10-18 |
 | [kennethreitz/crayons](https://github.com/repolex-forx/kennethreitz--crayons) | `b1b78c9a35` | 2026-10-18 |
 | [miracle2k/flask-assets](https://github.com/repolex-forx/miracle2k--flask-assets) | `62efd23fe9` | 2026-10-18 |
