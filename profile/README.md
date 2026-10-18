@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [micropython/micropython-lib](https://github.com/repolex-forx/micropython--micropython-lib) | `90028be082` | 2026-10-17 |
+| [adafruit/Adafruit_Blinka](https://github.com/repolex-forx/adafruit--Adafruit_Blinka) | `6021fc9ccf` | 2026-10-17 |
+| [adafruit/Adafruit_Python_PureIO](https://github.com/repolex-forx/adafruit--Adafruit_Python_PureIO) | `bc28777ee0` | 2026-10-17 |
+| [bastibe/python-soundfile](https://github.com/repolex-forx/bastibe--python-soundfile) | `e0f2f49f1c` | 2026-10-17 |
+| [spatialaudio/python-sounddevice](https://github.com/repolex-forx/spatialaudio--python-sounddevice) | `626fcb0716` | 2026-10-17 |
+| [beetbox/audioread](https://github.com/repolex-forx/beetbox--audioread) | `9b749f0c4d` | 2026-10-17 |
+| [quodlibet/mutagen](https://github.com/repolex-forx/quodlibet--mutagen) | `ada28b2cc9` | 2026-10-17 |
+| [tinytag/tinytag](https://github.com/repolex-forx/tinytag--tinytag) | `ea5be2b7cf` | 2026-10-17 |
+| [jiaaro/pydub](https://github.com/repolex-forx/jiaaro--pydub) | `103e339d3b` | 2026-10-17 |
+| [mido/mido](https://github.com/repolex-forx/mido--mido) | `7c1de5df22` | 2026-10-17 |
 | [colcon/colcon-mixin](https://github.com/repolex-forx/colcon--colcon-mixin) | `47fc23fff7` | 2026-10-17 |
 | [colcon/colcon-devtools](https://github.com/repolex-forx/colcon--colcon-devtools) | `5c8e31a9b5` | 2026-10-17 |
 | [colcon/colcon-ed](https://github.com/repolex-forx/colcon--colcon-ed) | `e1b5b7e101` | 2026-10-17 |
