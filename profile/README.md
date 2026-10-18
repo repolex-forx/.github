@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [worldveil/dejavu](https://github.com/repolex-forx/worldveil--dejavu) | `e56a4a221a` | 2026-10-17 |
+| [YannickJadoul/Parselmouth](https://github.com/repolex-forx/YannickJadoul--Parselmouth) | `b5e97e77e7` | 2026-10-17 |
+| [CPJKU/madmom](https://github.com/repolex-forx/CPJKU--madmom) | `27f032e894` | 2026-10-17 |
+| [beetbox/beets](https://github.com/repolex-forx/beetbox--beets) | `18967aad9d` | 2026-10-17 |
+| [cuthbertLab/music21](https://github.com/repolex-forx/cuthbertLab--music21) | `fd9a14d30d` | 2026-10-17 |
+| [spotify/pedalboard](https://github.com/repolex-forx/spotify--pedalboard) | `05e8f0b3c4` | 2026-10-17 |
+| [iver56/audiomentations](https://github.com/repolex-forx/iver56--audiomentations) | `f5e45049df` | 2026-10-17 |
+| [craffel/mir_eval](https://github.com/repolex-forx/craffel--mir_eval) | `fe73b35337` | 2026-10-17 |
+| [bmcfee/resampy](https://github.com/repolex-forx/bmcfee--resampy) | `67263d6fc0` | 2026-10-17 |
+| [craffel/pretty-midi](https://github.com/repolex-forx/craffel--pretty-midi) | `60f6bce899` | 2026-10-17 |
 | [micropython/micropython-lib](https://github.com/repolex-forx/micropython--micropython-lib) | `90028be082` | 2026-10-17 |
 | [adafruit/Adafruit_Blinka](https://github.com/repolex-forx/adafruit--Adafruit_Blinka) | `6021fc9ccf` | 2026-10-17 |
 | [adafruit/Adafruit_Python_PureIO](https://github.com/repolex-forx/adafruit--Adafruit_Python_PureIO) | `bc28777ee0` | 2026-10-17 |
