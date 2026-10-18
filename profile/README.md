@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [laixintao/iredis](https://github.com/repolex-forx/laixintao--iredis) | `554bff6bfa` | 2026-10-18 |
+| [dbcli/mycli](https://github.com/repolex-forx/dbcli--mycli) | `ad4a28bdaa` | 2026-10-18 |
+| [dbcli/pgcli](https://github.com/repolex-forx/dbcli--pgcli) | `3c3776cf22` | 2026-10-18 |
+| [rochacbruno/flasgger](https://github.com/repolex-forx/rochacbruno--flasgger) | `bb1a86b2d7` | 2026-10-18 |
+| [viniciuschiele/flask-apscheduler](https://github.com/repolex-forx/viniciuschiele--flask-apscheduler) | `d5b6cdd104` | 2026-10-18 |
+| [Koed00/django-q](https://github.com/repolex-forx/Koed00--django-q) | `85baaccd2c` | 2026-10-18 |
+| [Bogdanp/dramatiq](https://github.com/repolex-forx/Bogdanp--dramatiq) | `08d711a761` | 2026-10-18 |
+| [rq/rq-scheduler](https://github.com/repolex-forx/rq--rq-scheduler) | `134c2eb1b8` | 2026-10-18 |
+| [rq/rq](https://github.com/repolex-forx/rq--rq) | `a0048377ac` | 2026-10-18 |
 | [betamaxpy/betamax](https://github.com/repolex-forx/betamaxpy--betamax) | `8f3d284103` | 2026-10-17 |
 | [ross/requests-futures](https://github.com/repolex-forx/ross--requests-futures) | `73f85fbe0f` | 2026-10-17 |
 | [getsentry/responses](https://github.com/repolex-forx/getsentry--responses) | `e68019c21a` | 2026-10-17 |
