@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [kvesteri/sqlalchemy-i18n](https://github.com/repolex-forx/kvesteri--sqlalchemy-i18n) | `9cf515be75` | 2026-10-18 |
+| [kvesteri/sqlalchemy-continuum](https://github.com/repolex-forx/kvesteri--sqlalchemy-continuum) | `3d3c86bde8` | 2026-10-18 |
+| [kvesteri/wtforms-alchemy](https://github.com/repolex-forx/kvesteri--wtforms-alchemy) | `8b5bc887ed` | 2026-10-18 |
+| [Pylons/venusian](https://github.com/repolex-forx/Pylons--venusian) | `d036c00afa` | 2026-10-18 |
+| [sloria/flask-konch](https://github.com/repolex-forx/sloria--flask-konch) | `e194dbaa17` | 2026-10-18 |
+| [sloria/konch](https://github.com/repolex-forx/sloria--konch) | `a01ce970b7` | 2026-10-18 |
+| [sloria/doitlive](https://github.com/repolex-forx/sloria--doitlive) | `b2e1ee834e` | 2026-10-18 |
+| [sloria/TextBlob](https://github.com/repolex-forx/sloria--TextBlob) | `0db22cb986` | 2026-10-18 |
+| [sloria/environs](https://github.com/repolex-forx/sloria--environs) | `d65f5d1615` | 2026-10-18 |
+| [python-validators/validators](https://github.com/repolex-forx/python-validators--validators) | `6ffd8625ee` | 2026-10-18 |
 | [kvesteri/intervals](https://github.com/repolex-forx/kvesteri--intervals) | `97445fe2d5` | 2026-10-18 |
 | [laixintao/iredis](https://github.com/repolex-forx/laixintao--iredis) | `554bff6bfa` | 2026-10-18 |
 | [dbcli/mycli](https://github.com/repolex-forx/dbcli--mycli) | `ad4a28bdaa` | 2026-10-18 |
