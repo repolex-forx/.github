@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/pytest-checkdocs](https://github.com/repolex-forx/jaraco--pytest-checkdocs) | `356d6718b1` | 2026-10-17 |
+| [jaraco/pytest-enabler](https://github.com/repolex-forx/jaraco--pytest-enabler) | `2f6585b18a` | 2026-10-17 |
+| [ktosiek/pytest-freezegun](https://github.com/repolex-forx/ktosiek--pytest-freezegun) | `3202256486` | 2026-10-17 |
+| [tarpas/pytest-testmon](https://github.com/repolex-forx/tarpas--pytest-testmon) | `dccc58d2ed` | 2026-10-17 |
+| [kiwicom/pytest-recording](https://github.com/repolex-forx/kiwicom--pytest-recording) | `243e582d55` | 2026-10-17 |
+| [ESSS/pytest-regressions](https://github.com/repolex-forx/ESSS--pytest-regressions) | `baf5a54685` | 2026-10-17 |
+| [hamcrest/PyHamcrest](https://github.com/repolex-forx/hamcrest--PyHamcrest) | `59139e31d6` | 2026-10-17 |
+| [gabrielfalcao/HTTPretty](https://github.com/repolex-forx/gabrielfalcao--HTTPretty) | `f9f0127115` | 2026-10-17 |
+| [kevin1024/vcrpy](https://github.com/repolex-forx/kevin1024--vcrpy) | `13904ec429` | 2026-10-17 |
+| [spulec/freezegun](https://github.com/repolex-forx/spulec--freezegun) | `92d61b3f5c` | 2026-10-17 |
 | [simonw/datasette-publish-vercel](https://github.com/repolex-forx/simonw--datasette-publish-vercel) | `1559d979b4` | 2026-10-17 |
 | [simonw/datasette-auth-passwords](https://github.com/repolex-forx/simonw--datasette-auth-passwords) | `bb96899c84` | 2026-10-17 |
 | [simonw/datasette-vega](https://github.com/repolex-forx/simonw--datasette-vega) | `6fe66c4c9d` | 2026-10-17 |
