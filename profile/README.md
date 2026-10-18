@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jsonpickle/jsonpickle](https://github.com/repolex-forx/jsonpickle--jsonpickle) | `9bf812997e` | 2026-10-17 |
+| [wbolster/jsonlines](https://github.com/repolex-forx/wbolster--jsonlines) | `43d1a30b96` | 2026-10-17 |
+| [schematics/schematics](https://github.com/repolex-forx/schematics--schematics) | `3a144be0aa` | 2026-10-17 |
+| [Blosc/python-blosc](https://github.com/repolex-forx/Blosc--python-blosc) | `d80d533dab` | 2026-10-17 |
+| [python-lz4/python-lz4](https://github.com/repolex-forx/python-lz4--python-lz4) | `029f36597b` | 2026-10-17 |
+| [indygreg/python-zstandard](https://github.com/repolex-forx/indygreg--python-zstandard) | `a2bb3c0bb3` | 2026-10-17 |
+| [fastavro/fastavro](https://github.com/repolex-forx/fastavro--fastavro) | `c62f6fe325` | 2026-10-17 |
+| [alecthomas/voluptuous](https://github.com/repolex-forx/alecthomas--voluptuous) | `44593ce7c3` | 2026-10-17 |
+| [simplejson/simplejson](https://github.com/repolex-forx/simplejson--simplejson) | `1ae4376804` | 2026-10-17 |
+| [msgpack/msgpack-python](https://github.com/repolex-forx/msgpack--msgpack-python) | `874b828d9b` | 2026-10-17 |
 | [scrapinghub/price-parser](https://github.com/repolex-forx/scrapinghub--price-parser) | `6718bfe844` | 2026-10-17 |
 | [life4/textdistance](https://github.com/repolex-forx/life4--textdistance) | `d6a68d6108` | 2026-10-17 |
 | [vi3k6i5/flashtext](https://github.com/repolex-forx/vi3k6i5--flashtext) | `f49274459b` | 2026-10-17 |
