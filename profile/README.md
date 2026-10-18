@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/jaraco.context](https://github.com/repolex-forx/jaraco--jaraco.context) | `0474f20847` | 2026-10-17 |
+| [gruns/icecream](https://github.com/repolex-forx/gruns--icecream) | `2e09b0dc67` | 2026-10-17 |
+| [ilevkivskyi/typing_inspect](https://github.com/repolex-forx/ilevkivskyi--typing_inspect) | `ce24e24812` | 2026-10-17 |
+| [google/pasta](https://github.com/repolex-forx/google--pasta) | `f007c5394d` | 2026-10-17 |
+| [simonpercivall/astunparse](https://github.com/repolex-forx/simonpercivall--astunparse) | `2acce01fcd` | 2026-10-17 |
+| [serge-sans-paille/gast](https://github.com/repolex-forx/serge-sans-paille--gast) | `df3a87952a` | 2026-10-17 |
+| [gristlabs/asttokens](https://github.com/repolex-forx/gristlabs--asttokens) | `f97a6e1403` | 2026-10-17 |
+| [lark-parser/lark](https://github.com/repolex-forx/lark-parser--lark) | `9a4fb9c745` | 2026-10-17 |
+| [davidhalter/parso](https://github.com/repolex-forx/davidhalter--parso) | `b26da16316` | 2026-10-17 |
 | [alexmojaki/heartrate](https://github.com/repolex-forx/alexmojaki--heartrate) | `e6cab2c512` | 2026-10-17 |
 | [alexmojaki/pure_eval](https://github.com/repolex-forx/alexmojaki--pure_eval) | `cbb5256528` | 2026-10-17 |
 | [GrahamDumpleton/wrapt](https://github.com/repolex-forx/GrahamDumpleton--wrapt) | `b521fe6307` | 2026-10-17 |
