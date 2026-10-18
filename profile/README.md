@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scrapinghub/price-parser](https://github.com/repolex-forx/scrapinghub--price-parser) | `6718bfe844` | 2026-10-17 |
+| [life4/textdistance](https://github.com/repolex-forx/life4--textdistance) | `d6a68d6108` | 2026-10-17 |
+| [vi3k6i5/flashtext](https://github.com/repolex-forx/vi3k6i5--flashtext) | `f49274459b` | 2026-10-17 |
+| [seatgeek/thefuzz](https://github.com/repolex-forx/seatgeek--thefuzz) | `1ba86f33a1` | 2026-10-17 |
+| [Kozea/Pyphen](https://github.com/repolex-forx/Kozea--Pyphen) | `708189702c` | 2026-10-17 |
+| [jaraco/inflect](https://github.com/repolex-forx/jaraco--inflect) | `0aa3f7a951` | 2026-10-17 |
+| [un33k/python-slugify](https://github.com/repolex-forx/un33k--python-slugify) | `35aca63fc2` | 2026-10-17 |
+| [mozilla/bleach](https://github.com/repolex-forx/mozilla--bleach) | `f0355a7af0` | 2026-10-17 |
+| [rapidfuzz/Levenshtein](https://github.com/repolex-forx/rapidfuzz--Levenshtein) | `83575b7b25` | 2026-10-17 |
+| [jamesturk/jellyfish](https://github.com/repolex-forx/jamesturk--jellyfish) | `922a6395d0` | 2026-10-17 |
 | [jaraco/jaraco.collections](https://github.com/repolex-forx/jaraco--jaraco.collections) | `8d214676c4` | 2026-10-17 |
 | [jaraco/jaraco.classes](https://github.com/repolex-forx/jaraco--jaraco.classes) | `2554beb49a` | 2026-10-17 |
 | [jaraco/jaraco.text](https://github.com/repolex-forx/jaraco--jaraco.text) | `080a036712` | 2026-10-17 |
