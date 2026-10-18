@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [kvesteri/intervals](https://github.com/repolex-forx/kvesteri--intervals) | `97445fe2d5` | 2026-10-18 |
 | [laixintao/iredis](https://github.com/repolex-forx/laixintao--iredis) | `554bff6bfa` | 2026-10-18 |
 | [dbcli/mycli](https://github.com/repolex-forx/dbcli--mycli) | `ad4a28bdaa` | 2026-10-18 |
 | [dbcli/pgcli](https://github.com/repolex-forx/dbcli--pgcli) | `3c3776cf22` | 2026-10-18 |
