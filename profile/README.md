@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scverse/mudata](https://github.com/repolex-forx/scverse--mudata) | `6038e1ae0b` | 2026-10-18 |
+| [scverse/scanpy](https://github.com/repolex-forx/scverse--scanpy) | `8ed52d9dad` | 2026-10-18 |
+| [scverse/anndata](https://github.com/repolex-forx/scverse--anndata) | `e90df01da4` | 2026-10-18 |
+| [imageio/imageio](https://github.com/repolex-forx/imageio--imageio) | `803b9ef192` | 2026-10-18 |
+| [colour-science/colour](https://github.com/repolex-forx/colour-science--colour) | `248121e33f` | 2026-10-18 |
+| [jiffyclub/palettable](https://github.com/repolex-forx/jiffyclub--palettable) | `de1760e713` | 2026-10-18 |
+| [holoviz/holoviews](https://github.com/repolex-forx/holoviz--holoviews) | `e4168fd4b9` | 2026-10-18 |
+| [has2k1/plotnine](https://github.com/repolex-forx/has2k1--plotnine) | `8e02b38250` | 2026-10-18 |
+| [altair-viz/altair](https://github.com/repolex-forx/altair-viz--altair) | `e98486cac6` | 2026-10-18 |
+| [mwaskom/seaborn](https://github.com/repolex-forx/mwaskom--seaborn) | `c1cb287835` | 2026-10-18 |
 | [evidentlyai/evidently](https://github.com/repolex-forx/evidentlyai--evidently) | `34771fe41c` | 2026-10-18 |
 | [feature-engine/feature_engine](https://github.com/repolex-forx/feature-engine--feature_engine) | `d866312874` | 2026-10-18 |
 | [fastai/nbdev](https://github.com/repolex-forx/fastai--nbdev) | `a336173c26` | 2026-10-18 |
