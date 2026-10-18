@@ -34,7 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [miguelgrinberg/Flask-HTTPAuth](https://github.com/repolex-forx/miguelgrinberg--Flask-HTTPAuth) | `9ff38c6875` | 2026-10-18 |
+| [kennethreitz/crayons](https://github.com/repolex-forx/kennethreitz--crayons) | `b1b78c9a35` | 2026-10-18 |
+| [miracle2k/flask-assets](https://github.com/repolex-forx/miracle2k--flask-assets) | `62efd23fe9` | 2026-10-18 |
+| [etianen/django-reversion](https://github.com/repolex-forx/etianen--django-reversion) | `abfd7d7d36` | 2026-10-18 |
+| [django-compressor/django-compressor](https://github.com/repolex-forx/django-compressor--django-compressor) | `1490427055` | 2026-10-18 |
+| [django-money/django-money](https://github.com/repolex-forx/django-money--django-money) | `b255e27887` | 2026-10-18 |
+| [adamchainz/django-rich](https://github.com/repolex-forx/adamchainz--django-rich) | `1009f10932` | 2026-10-18 |
 | [wtforms/flask-wtf](https://github.com/repolex-forx/wtforms--flask-wtf) | `7c57f3e70d` | 2026-10-18 |
+| [prompt-toolkit/ptpython](https://github.com/repolex-forx/prompt-toolkit--ptpython) | `dfe9dae32d` | 2026-10-18 |
 | [bpython/bpython](https://github.com/repolex-forx/bpython--bpython) | `4a21ac03d0` | 2026-10-18 |
 | [django-ses/django-ses](https://github.com/repolex-forx/django-ses--django-ses) | `8355851ad8` | 2026-10-18 |
 | [django-recurrence/django-recurrence](https://github.com/repolex-forx/django-recurrence--django-recurrence) | `14bb9b303a` | 2026-10-18 |
