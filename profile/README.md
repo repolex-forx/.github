@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [nikvaessen/jiwer](https://github.com/repolex-forx/nikvaessen--jiwer) | `46f6364dcd` | 2026-10-17 |
+| [wiseman/py-webrtcvad](https://github.com/repolex-forx/wiseman--py-webrtcvad) | `e283ca41df` | 2026-10-17 |
+| [pyannote/pyannote-audio](https://github.com/repolex-forx/pyannote--pyannote-audio) | `b749285c5c` | 2026-10-17 |
+| [nussl/nussl](https://github.com/repolex-forx/nussl--nussl) | `17368d4082` | 2026-10-17 |
+| [timsainb/noisereduce](https://github.com/repolex-forx/timsainb--noisereduce) | `51c85343d6` | 2026-10-17 |
+| [asteroid-team/asteroid](https://github.com/repolex-forx/asteroid-team--asteroid) | `c15708a04d` | 2026-10-17 |
+| [suno-ai/bark](https://github.com/repolex-forx/suno-ai--bark) | `f4f32d4cd4` | 2026-10-17 |
+| [resemble-ai/Resemblyzer](https://github.com/repolex-forx/resemble-ai--Resemblyzer) | `15d828edeb` | 2026-10-17 |
+| [snakers4/silero-vad](https://github.com/repolex-forx/snakers4--silero-vad) | `1e261b0366` | 2026-10-17 |
+| [facebookresearch/demucs](https://github.com/repolex-forx/facebookresearch--demucs) | `e976d93ecc` | 2026-10-17 |
 | [google/flax](https://github.com/repolex-forx/google--flax) | `41deea36bd` | 2026-10-17 |
 | [google/gin-config](https://github.com/repolex-forx/google--gin-config) | `bda557dedb` | 2026-10-17 |
 | [deepmind/bsuite](https://github.com/repolex-forx/deepmind--bsuite) | `8109eb2329` | 2026-10-17 |
