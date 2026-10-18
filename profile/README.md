@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [betamaxpy/betamax](https://github.com/repolex-forx/betamaxpy--betamax) | `8f3d284103` | 2026-10-17 |
+| [ross/requests-futures](https://github.com/repolex-forx/ross--requests-futures) | `73f85fbe0f` | 2026-10-17 |
+| [getsentry/responses](https://github.com/repolex-forx/getsentry--responses) | `e68019c21a` | 2026-10-17 |
+| [jamielennox/requests-mock](https://github.com/repolex-forx/jamielennox--requests-mock) | `9742d02a8c` | 2026-10-17 |
+| [requests-cache/requests-cache](https://github.com/repolex-forx/requests-cache--requests-cache) | `abe06a833c` | 2026-10-17 |
+| [mvantellingen/python-zeep](https://github.com/repolex-forx/mvantellingen--python-zeep) | `1b7072c0db` | 2026-10-17 |
+| [sethmlarson/truststore](https://github.com/repolex-forx/sethmlarson--truststore) | `98195f0d27` | 2026-10-17 |
+| [saghul/pycares](https://github.com/repolex-forx/saghul--pycares) | `6ceda977f5` | 2026-10-17 |
+| [saghul/aiodns](https://github.com/repolex-forx/saghul--aiodns) | `ff43a83ea5` | 2026-10-17 |
+| [rthalley/dnspython](https://github.com/repolex-forx/rthalley--dnspython) | `68f8eb2310` | 2026-10-17 |
 | [asottile/tokenize-rt](https://github.com/repolex-forx/asottile--tokenize-rt) | `c5a287c51d` | 2026-10-17 |
 | [ikamensh/flynt](https://github.com/repolex-forx/ikamensh--flynt) | `34ec5eb2d0` | 2026-10-17 |
 | [PyCQA/pep8-naming](https://github.com/repolex-forx/PyCQA--pep8-naming) | `1587bfe4ca` | 2026-10-17 |
