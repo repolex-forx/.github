@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [wtforms/flask-wtf](https://github.com/repolex-forx/wtforms--flask-wtf) | `7c57f3e70d` | 2026-10-18 |
+| [bpython/bpython](https://github.com/repolex-forx/bpython--bpython) | `4a21ac03d0` | 2026-10-18 |
 | [django-ses/django-ses](https://github.com/repolex-forx/django-ses--django-ses) | `8355851ad8` | 2026-10-18 |
 | [django-recurrence/django-recurrence](https://github.com/repolex-forx/django-recurrence--django-recurrence) | `14bb9b303a` | 2026-10-18 |
 | [pennersr/django-allauth](https://github.com/repolex-forx/pennersr--django-allauth) | `5ea117e723` | 2026-10-18 |
