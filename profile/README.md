@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [alexmojaki/heartrate](https://github.com/repolex-forx/alexmojaki--heartrate) | `e6cab2c512` | 2026-10-17 |
 | [alexmojaki/pure_eval](https://github.com/repolex-forx/alexmojaki--pure_eval) | `cbb5256528` | 2026-10-17 |
 | [GrahamDumpleton/wrapt](https://github.com/repolex-forx/GrahamDumpleton--wrapt) | `b521fe6307` | 2026-10-17 |
 | [Qix-/better-exceptions](https://github.com/repolex-forx/Qix---better-exceptions) | `b928ff9e2c` | 2026-10-17 |
