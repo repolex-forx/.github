@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asottile/tokenize-rt](https://github.com/repolex-forx/asottile--tokenize-rt) | `c5a287c51d` | 2026-10-17 |
 | [ikamensh/flynt](https://github.com/repolex-forx/ikamensh--flynt) | `34ec5eb2d0` | 2026-10-17 |
 | [PyCQA/pep8-naming](https://github.com/repolex-forx/PyCQA--pep8-naming) | `1587bfe4ca` | 2026-10-17 |
 | [asottile/flake8-2020](https://github.com/repolex-forx/asottile--flake8-2020) | `7c8c9ac8a9` | 2026-10-17 |
