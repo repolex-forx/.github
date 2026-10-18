@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [evidentlyai/evidently](https://github.com/repolex-forx/evidentlyai--evidently) | `34771fe41c` | 2026-10-18 |
+| [feature-engine/feature_engine](https://github.com/repolex-forx/feature-engine--feature_engine) | `d866312874` | 2026-10-18 |
+| [fastai/nbdev](https://github.com/repolex-forx/fastai--nbdev) | `a336173c26` | 2026-10-18 |
+| [omry/omegaconf](https://github.com/repolex-forx/omry--omegaconf) | `bba6c5f1fe` | 2026-10-18 |
+| [pandera-dev/pandera](https://github.com/repolex-forx/pandera-dev--pandera) | `f3a6a1e6b5` | 2026-10-18 |
+| [EpistasisLab/tpot](https://github.com/repolex-forx/EpistasisLab--tpot) | `1bca6c6a51` | 2026-10-18 |
+| [microsoft/FLAML](https://github.com/repolex-forx/microsoft--FLAML) | `ebc0c7575a` | 2026-10-18 |
+| [scikit-optimize/scikit-optimize](https://github.com/repolex-forx/scikit-optimize--scikit-optimize) | `a2369ddbc3` | 2026-10-18 |
+| [hyperopt/hyperopt](https://github.com/repolex-forx/hyperopt--hyperopt) | `9834314879` | 2026-10-18 |
+| [optuna/optuna](https://github.com/repolex-forx/optuna--optuna) | `c8d040d190` | 2026-10-18 |
 | [adamchainz/django-permissions-policy](https://github.com/repolex-forx/adamchainz--django-permissions-policy) | `694b936384` | 2026-10-18 |
 | [adamchainz/django-browser-reload](https://github.com/repolex-forx/adamchainz--django-browser-reload) | `9e07824fe1` | 2026-10-18 |
 | [adamchainz/time-machine](https://github.com/repolex-forx/adamchainz--time-machine) | `fa8d18d59e` | 2026-10-18 |
