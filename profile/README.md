@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [django-ses/django-ses](https://github.com/repolex-forx/django-ses--django-ses) | `8355851ad8` | 2026-10-18 |
+| [django-recurrence/django-recurrence](https://github.com/repolex-forx/django-recurrence--django-recurrence) | `14bb9b303a` | 2026-10-18 |
+| [pennersr/django-allauth](https://github.com/repolex-forx/pennersr--django-allauth) | `5ea117e723` | 2026-10-18 |
+| [tfranzel/drf-spectacular](https://github.com/repolex-forx/tfranzel--drf-spectacular) | `1a5c44a15b` | 2026-10-18 |
+| [django-treebeard/django-treebeard](https://github.com/repolex-forx/django-treebeard--django-treebeard) | `ba525b1ab0` | 2026-10-18 |
+| [revsys/django-health-check](https://github.com/repolex-forx/revsys--django-health-check) | `24b9269ab0` | 2026-10-18 |
+| [jschneier/django-storages](https://github.com/repolex-forx/jschneier--django-storages) | `85928d6367` | 2026-10-18 |
+| [SmileyChris/easy-thumbnails](https://github.com/repolex-forx/SmileyChris--easy-thumbnails) | `035d9ff245` | 2026-10-18 |
+| [alanjds/drf-nested-routers](https://github.com/repolex-forx/alanjds--drf-nested-routers) | `68e5bf56c9` | 2026-10-18 |
+| [kraiz/django-crontab](https://github.com/repolex-forx/kraiz--django-crontab) | `978a26d547` | 2026-10-18 |
 | [jaraco/abode](https://github.com/repolex-forx/jaraco--abode) | `9dab1fa53f` | 2026-10-18 |
 | [jazzband/django-permission](https://github.com/repolex-forx/jazzband--django-permission) | `7f23ceb00a` | 2026-10-18 |
 | [pypa/pkg_resources](https://github.com/repolex-forx/pypa--pkg_resources) | `7fa76c17ea` | 2026-10-18 |
