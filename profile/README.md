@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/abode](https://github.com/repolex-forx/jaraco--abode) | `9dab1fa53f` | 2026-10-18 |
+| [jazzband/django-permission](https://github.com/repolex-forx/jazzband--django-permission) | `7f23ceb00a` | 2026-10-18 |
+| [pypa/pkg_resources](https://github.com/repolex-forx/pypa--pkg_resources) | `7fa76c17ea` | 2026-10-18 |
+| [kennethreitz/records](https://github.com/repolex-forx/kennethreitz--records) | `ea4273695c` | 2026-10-18 |
+| [ansible-community/molecule](https://github.com/repolex-forx/ansible-community--molecule) | `da31a19eb0` | 2026-10-18 |
+| [pre-commit/identify](https://github.com/repolex-forx/pre-commit--identify) | `28ae3106d2` | 2026-10-18 |
+| [jaraco/backports.tarfile](https://github.com/repolex-forx/jaraco--backports.tarfile) | `6ff4300ff5` | 2026-10-18 |
+| [jaraco/calendra](https://github.com/repolex-forx/jaraco--calendra) | `cd3de1b04d` | 2026-10-18 |
+| [jaraco/abodepy](https://github.com/repolex-forx/jaraco--abodepy) | `4ffce2314e` | 2026-10-18 |
+| [jaraco/cmdix](https://github.com/repolex-forx/jaraco--cmdix) | `ca4e0b795a` | 2026-10-18 |
 | [jazzband/django-sorter](https://github.com/repolex-forx/jazzband--django-sorter) | `e92b2f7acc` | 2026-10-18 |
 | [jazzband/django-authority](https://github.com/repolex-forx/jazzband--django-authority) | `f58bbef27e` | 2026-10-18 |
 | [webpy/webpy](https://github.com/repolex-forx/webpy--webpy) | `470d1f512f` | 2026-10-18 |
