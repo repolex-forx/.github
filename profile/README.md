@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ikamensh/flynt](https://github.com/repolex-forx/ikamensh--flynt) | `34ec5eb2d0` | 2026-10-17 |
+| [PyCQA/pep8-naming](https://github.com/repolex-forx/PyCQA--pep8-naming) | `1587bfe4ca` | 2026-10-17 |
+| [asottile/flake8-2020](https://github.com/repolex-forx/asottile--flake8-2020) | `7c8c9ac8a9` | 2026-10-17 |
+| [asottile/blacken-docs](https://github.com/repolex-forx/asottile--blacken-docs) | `e6b021559e` | 2026-10-17 |
+| [asottile/setup-cfg-fmt](https://github.com/repolex-forx/asottile--setup-cfg-fmt) | `6343732185` | 2026-10-17 |
+| [asottile/yesqa](https://github.com/repolex-forx/asottile--yesqa) | `8fd8985ce6` | 2026-10-17 |
+| [asottile/reorder_python_imports](https://github.com/repolex-forx/asottile--reorder_python_imports) | `c64f4b028f` | 2026-10-17 |
+| [asottile/add-trailing-comma](https://github.com/repolex-forx/asottile--add-trailing-comma) | `4aa21034cf` | 2026-10-17 |
+| [asottile/pyupgrade](https://github.com/repolex-forx/asottile--pyupgrade) | `9c750258a3` | 2026-10-17 |
 | [ionelmc/python-fields](https://github.com/repolex-forx/ionelmc--python-fields) | `cb473d126b` | 2026-10-17 |
 | [ionelmc/python-aspectlib](https://github.com/repolex-forx/ionelmc--python-aspectlib) | `52092d5e8e` | 2026-10-17 |
 | [ionelmc/python-lazy-object-proxy](https://github.com/repolex-forx/ionelmc--python-lazy-object-proxy) | `1030dfa676` | 2026-10-17 |
