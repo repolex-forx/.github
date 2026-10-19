@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scrapy-plugins/scrapy-deltafetch](https://github.com/repolex-forx/scrapy-plugins--scrapy-deltafetch) | `a8caf39de5` | 2026-10-19 |
+| [zytedata/zyte-spider-templates](https://github.com/repolex-forx/zytedata--zyte-spider-templates) | `579c60037a` | 2026-10-19 |
+| [scrapinghub/shub](https://github.com/repolex-forx/scrapinghub--shub) | `4facd31c84` | 2026-10-19 |
+| [scrapinghub/spidermon](https://github.com/repolex-forx/scrapinghub--spidermon) | `5bac6dd768` | 2026-10-19 |
+| [zytedata/zyte-common-items](https://github.com/repolex-forx/zytedata--zyte-common-items) | `297cb86af8` | 2026-10-19 |
+| [scrapinghub/scrapy-poet](https://github.com/repolex-forx/scrapinghub--scrapy-poet) | `f06d684b6b` | 2026-10-19 |
+| [scrapinghub/web-poet](https://github.com/repolex-forx/scrapinghub--web-poet) | `b3cc347952` | 2026-10-19 |
+| [scrapinghub/extruct](https://github.com/repolex-forx/scrapinghub--extruct) | `d24f5414fd` | 2026-10-19 |
+| [sdispater/orator](https://github.com/repolex-forx/sdispater--orator) | `db8744967e` | 2026-10-19 |
+| [closeio/tasktiger](https://github.com/repolex-forx/closeio--tasktiger) | `881a59f587` | 2026-10-19 |
 | [abersheeran/baize](https://github.com/repolex-forx/abersheeran--baize) | `ecc675ea4d` | 2026-10-19 |
 | [snok/asgi-correlation-id](https://github.com/repolex-forx/snok--asgi-correlation-id) | `76b61b6325` | 2026-10-19 |
 | [florimondmanca/msgpack-asgi](https://github.com/repolex-forx/florimondmanca--msgpack-asgi) | `2875e1f0a0` | 2026-10-19 |
