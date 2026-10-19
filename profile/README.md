@@ -34,6 +34,17 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [klen/mixer](https://github.com/repolex-forx/klen--mixer) | `431ca2756a` | 2026-10-19 |
+| [klen/pylama](https://github.com/repolex-forx/klen--pylama) | `53ad214de0` | 2026-10-19 |
+| [GoogleCloudPlatform/flask-talisman](https://github.com/repolex-forx/GoogleCloudPlatform--flask-talisman) | `0040966bed` | 2026-10-19 |
+| [alexmojaki/sorcery](https://github.com/repolex-forx/alexmojaki--sorcery) | `65e976d660` | 2026-10-19 |
+| [alexmojaki/snoop](https://github.com/repolex-forx/alexmojaki--snoop) | `f2f345f3cc` | 2026-10-19 |
+| [konradhalas/dacite](https://github.com/repolex-forx/konradhalas--dacite) | `9898ccbb78` | 2026-10-19 |
+| [alisaifee/flask-limiter](https://github.com/repolex-forx/alisaifee--flask-limiter) | `0e715b6fbb` | 2026-10-19 |
+| [kvesteri/infinity](https://github.com/repolex-forx/kvesteri--infinity) | `1be47baffc` | 2026-10-19 |
+| [sdispater/cachy](https://github.com/repolex-forx/sdispater--cachy) | `dd1da618d5` | 2026-10-19 |
+| [sdispater/clikit](https://github.com/repolex-forx/sdispater--clikit) | `1da34f16c5` | 2026-10-19 |
+| [msiemens/tinydb](https://github.com/repolex-forx/msiemens--tinydb) | `edff96aeb2` | 2026-10-19 |
 | [python-semantic-release/python-semantic-release](https://github.com/repolex-forx/python-semantic-release--python-semantic-release) | `60de8fcace` | 2026-10-19 |
 | [duosecurity/duo_client_python](https://github.com/repolex-forx/duosecurity--duo_client_python) | `685f321639` | 2026-10-19 |
 | [googleapis/google-auth-library-python](https://github.com/repolex-forx/googleapis--google-auth-library-python) | `2ea24b0343` | 2026-10-19 |
