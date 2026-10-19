@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [python-semantic-release/python-semantic-release](https://github.com/repolex-forx/python-semantic-release--python-semantic-release) | `60de8fcace` | 2026-10-19 |
+| [duosecurity/duo_client_python](https://github.com/repolex-forx/duosecurity--duo_client_python) | `685f321639` | 2026-10-19 |
+| [googleapis/google-auth-library-python](https://github.com/repolex-forx/googleapis--google-auth-library-python) | `2ea24b0343` | 2026-10-19 |
+| [dry-python/stories](https://github.com/repolex-forx/dry-python--stories) | `0754046098` | 2026-10-19 |
+| [tlsfuzzer/python-ecdsa](https://github.com/repolex-forx/tlsfuzzer--python-ecdsa) | `bff40c6cf2` | 2026-10-19 |
+| [warner/python-ed25519](https://github.com/repolex-forx/warner--python-ed25519) | `d57b8f2c7e` | 2026-10-19 |
+| [Yubico/yubikey-manager](https://github.com/repolex-forx/Yubico--yubikey-manager) | `4ca60f706a` | 2026-10-19 |
+| [magic-wormhole/magic-wormhole](https://github.com/repolex-forx/magic-wormhole--magic-wormhole) | `cfa275f575` | 2026-10-19 |
+| [mirumee/ariadne](https://github.com/repolex-forx/mirumee--ariadne) | `08c97a8657` | 2026-10-19 |
 | [dynaconf/dynaconf](https://github.com/repolex-forx/dynaconf--dynaconf) | `455ee38569` | 2026-10-19 |
 | [beartype/beartype](https://github.com/repolex-forx/beartype--beartype) | `cffbad2e66` | 2026-10-19 |
 | [bambinos/bambi](https://github.com/repolex-forx/bambinos--bambi) | `ef4097dc61` | 2026-10-19 |
