@@ -34,6 +34,14 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pysal/spopt](https://github.com/repolex-forx/pysal--spopt) | `aeea0e690e` | 2026-10-19 |
+| [pysal/segregation](https://github.com/repolex-forx/pysal--segregation) | `9a4c639544` | 2026-10-19 |
+| [pysal/momepy](https://github.com/repolex-forx/pysal--momepy) | `7634925d72` | 2026-10-19 |
+| [pysal/spaghetti](https://github.com/repolex-forx/pysal--spaghetti) | `9ae829b45c` | 2026-10-19 |
+| [pysal/esda](https://github.com/repolex-forx/pysal--esda) | `2054740124` | 2026-10-19 |
+| [pysal/pysal](https://github.com/repolex-forx/pysal--pysal) | `c27b6e3490` | 2026-10-19 |
+| [corteva/rioxarray](https://github.com/repolex-forx/corteva--rioxarray) | `3182e84bff` | 2026-10-19 |
+| [geopy/geopy](https://github.com/repolex-forx/geopy--geopy) | `402cbba8b0` | 2026-10-19 |
 | [adamchainz/flake8-tidy-imports](https://github.com/repolex-forx/adamchainz--flake8-tidy-imports) | `7207cd25f9` | 2026-10-19 |
 | [PyCQA/eradicate](https://github.com/repolex-forx/PyCQA--eradicate) | `d3f3d01e5c` | 2026-10-19 |
 | [peterjc/flake8-black](https://github.com/repolex-forx/peterjc--flake8-black) | `6c93de987e` | 2026-10-19 |
