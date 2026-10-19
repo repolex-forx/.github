@@ -34,6 +34,14 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [readthedocs/sphinx-hoverxref](https://github.com/repolex-forx/readthedocs--sphinx-hoverxref) | `96ff768d56` | 2026-10-19 |
+| [mkdocstrings/mkdocstrings](https://github.com/repolex-forx/mkdocstrings--mkdocstrings) | `e9538c4045` | 2026-10-19 |
+| [hukkin/mdformat](https://github.com/repolex-forx/hukkin--mdformat) | `56b24ef0c6` | 2026-10-19 |
+| [executablebooks/jupyter-book](https://github.com/repolex-forx/executablebooks--jupyter-book) | `11acb1bbdd` | 2026-10-19 |
+| [readthedocs/recommonmark](https://github.com/repolex-forx/readthedocs--recommonmark) | `0df398dbca` | 2026-10-19 |
+| [readthedocs/sphinx-autoapi](https://github.com/repolex-forx/readthedocs--sphinx-autoapi) | `7018ce6ddb` | 2026-10-19 |
+| [mgaitan/sphinxcontrib-mermaid](https://github.com/repolex-forx/mgaitan--sphinxcontrib-mermaid) | `864b543624` | 2026-10-19 |
+| [pradyunsg/furo](https://github.com/repolex-forx/pradyunsg--furo) | `7b0cb83657` | 2026-10-19 |
 | [scverse/mudata](https://github.com/repolex-forx/scverse--mudata) | `6038e1ae0b` | 2026-10-18 |
 | [scverse/scanpy](https://github.com/repolex-forx/scverse--scanpy) | `8ed52d9dad` | 2026-10-18 |
 | [scverse/anndata](https://github.com/repolex-forx/scverse--anndata) | `e90df01da4` | 2026-10-18 |
