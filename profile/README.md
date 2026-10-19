@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ionelmc/cookiecutter-pylibrary](https://github.com/repolex-forx/ionelmc--cookiecutter-pylibrary) | `24da906dfb` | 2026-10-19 |
+| [ionelmc/python-manhole](https://github.com/repolex-forx/ionelmc--python-manhole) | `175f426fc4` | 2026-10-19 |
+| [closeio/ciso8601](https://github.com/repolex-forx/closeio--ciso8601) | `aff55974fe` | 2026-10-19 |
+| [wireservice/agate-sql](https://github.com/repolex-forx/wireservice--agate-sql) | `20d796c8c1` | 2026-10-19 |
+| [wireservice/agate-excel](https://github.com/repolex-forx/wireservice--agate-excel) | `596ea9e9a7` | 2026-10-19 |
+| [wireservice/agate](https://github.com/repolex-forx/wireservice--agate) | `202796ada6` | 2026-10-19 |
+| [petl-developers/petl](https://github.com/repolex-forx/petl-developers--petl) | `1b9af0030e` | 2026-10-19 |
+| [frictionlessdata/datapackage-py](https://github.com/repolex-forx/frictionlessdata--datapackage-py) | `fd3a9af665` | 2026-10-19 |
+| [frictionlessdata/tabulator-py](https://github.com/repolex-forx/frictionlessdata--tabulator-py) | `aecfa88d7a` | 2026-10-19 |
+| [frictionlessdata/tableschema-py](https://github.com/repolex-forx/frictionlessdata--tableschema-py) | `75d2accb98` | 2026-10-19 |
 | [klen/mixer](https://github.com/repolex-forx/klen--mixer) | `431ca2756a` | 2026-10-19 |
 | [klen/pylama](https://github.com/repolex-forx/klen--pylama) | `53ad214de0` | 2026-10-19 |
 | [GoogleCloudPlatform/flask-talisman](https://github.com/repolex-forx/GoogleCloudPlatform--flask-talisman) | `0040966bed` | 2026-10-19 |
