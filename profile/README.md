@@ -34,6 +34,18 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [adamchainz/flake8-tidy-imports](https://github.com/repolex-forx/adamchainz--flake8-tidy-imports) | `7207cd25f9` | 2026-10-19 |
+| [PyCQA/eradicate](https://github.com/repolex-forx/PyCQA--eradicate) | `d3f3d01e5c` | 2026-10-19 |
+| [peterjc/flake8-black](https://github.com/repolex-forx/peterjc--flake8-black) | `6c93de987e` | 2026-10-19 |
+| [PyCQA/flake8-import-order](https://github.com/repolex-forx/PyCQA--flake8-import-order) | `1cf24157c6` | 2026-10-19 |
+| [adamchainz/flake8-logging](https://github.com/repolex-forx/adamchainz--flake8-logging) | `ee5d482b79` | 2026-10-19 |
+| [adamchainz/flake8-comprehensions](https://github.com/repolex-forx/adamchainz--flake8-comprehensions) | `164a531968` | 2026-10-19 |
+| [PyCQA/flake8-docstrings](https://github.com/repolex-forx/PyCQA--flake8-docstrings) | `2e2f1b2700` | 2026-10-19 |
+| [PyCQA/flake8-bugbear](https://github.com/repolex-forx/PyCQA--flake8-bugbear) | `22a93344f3` | 2026-10-19 |
+| [python-rope/rope](https://github.com/repolex-forx/python-rope--rope) | `22f5e50151` | 2026-10-19 |
+| [python-lsp/pylsp-mypy](https://github.com/repolex-forx/python-lsp--pylsp-mypy) | `738aed026f` | 2026-10-19 |
+| [python-lsp/python-lsp-jsonrpc](https://github.com/repolex-forx/python-lsp--python-lsp-jsonrpc) | `a96d764d29` | 2026-10-19 |
+| [python-lsp/python-lsp-server](https://github.com/repolex-forx/python-lsp--python-lsp-server) | `a3620069a6` | 2026-10-19 |
 | [readthedocs/sphinx-hoverxref](https://github.com/repolex-forx/readthedocs--sphinx-hoverxref) | `96ff768d56` | 2026-10-19 |
 | [mkdocstrings/mkdocstrings](https://github.com/repolex-forx/mkdocstrings--mkdocstrings) | `e9538c4045` | 2026-10-19 |
 | [hukkin/mdformat](https://github.com/repolex-forx/hukkin--mdformat) | `56b24ef0c6` | 2026-10-19 |
