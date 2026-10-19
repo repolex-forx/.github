@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [abersheeran/baize](https://github.com/repolex-forx/abersheeran--baize) | `ecc675ea4d` | 2026-10-19 |
+| [snok/asgi-correlation-id](https://github.com/repolex-forx/snok--asgi-correlation-id) | `76b61b6325` | 2026-10-19 |
+| [florimondmanca/msgpack-asgi](https://github.com/repolex-forx/florimondmanca--msgpack-asgi) | `2875e1f0a0` | 2026-10-19 |
+| [lepture/captcha](https://github.com/repolex-forx/lepture--captcha) | `087b30be72` | 2026-10-19 |
+| [authlib/otpauth](https://github.com/repolex-forx/authlib--otpauth) | `72374ac815` | 2026-10-19 |
+| [miguelgrinberg/Flask-Moment](https://github.com/repolex-forx/miguelgrinberg--Flask-Moment) | `ec32737fbc` | 2026-10-19 |
+| [django-commons/django-simple-history](https://github.com/repolex-forx/django-commons--django-simple-history) | `e71cb9e054` | 2026-10-19 |
+| [Cerberus/cerberus](https://github.com/repolex-forx/Cerberus--cerberus) | `13f5fb572d` | 2026-10-19 |
+| [aio-libs-abandoned/async-timeout](https://github.com/repolex-forx/aio-libs-abandoned--async-timeout) | `7dc0022fb8` | 2026-10-19 |
+| [coleifer/walrus](https://github.com/repolex-forx/coleifer--walrus) | `a1e3b2d103` | 2026-10-19 |
 | [ionelmc/cookiecutter-pylibrary](https://github.com/repolex-forx/ionelmc--cookiecutter-pylibrary) | `24da906dfb` | 2026-10-19 |
 | [ionelmc/python-manhole](https://github.com/repolex-forx/ionelmc--python-manhole) | `175f426fc4` | 2026-10-19 |
 | [closeio/ciso8601](https://github.com/repolex-forx/closeio--ciso8601) | `aff55974fe` | 2026-10-19 |
