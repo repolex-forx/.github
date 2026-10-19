@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [tomerfiliba/plumbum](https://github.com/repolex-forx/tomerfiliba--plumbum) | `3315d73b35` | 2026-10-19 |
+| [tomerfiliba-org/rpyc](https://github.com/repolex-forx/tomerfiliba-org--rpyc) | `08ad26b5e8` | 2026-10-19 |
+| [selectel/pyte](https://github.com/repolex-forx/selectel--pyte) | `0718fa8088` | 2026-10-19 |
+| [wbond/oscrypto](https://github.com/repolex-forx/wbond--oscrypto) | `76bfdcb728` | 2026-10-19 |
+| [wbond/asn1crypto](https://github.com/repolex-forx/wbond--asn1crypto) | `a767d2daa8` | 2026-10-19 |
+| [scrapy-plugins/scrapy-dotpersistence](https://github.com/repolex-forx/scrapy-plugins--scrapy-dotpersistence) | `9b55f05e80` | 2026-10-19 |
+| [scrapinghub/frontera](https://github.com/repolex-forx/scrapinghub--frontera) | `c94beae2f4` | 2026-10-19 |
+| [sanic-org/sanic-ext](https://github.com/repolex-forx/sanic-org--sanic-ext) | `7602a434e5` | 2026-10-19 |
+| [sanic-org/sanic-testing](https://github.com/repolex-forx/sanic-org--sanic-testing) | `66b72d2297` | 2026-10-19 |
+| [sanic-org/sanic-routing](https://github.com/repolex-forx/sanic-org--sanic-routing) | `7863561c86` | 2026-10-19 |
 | [scrapy-plugins/scrapy-deltafetch](https://github.com/repolex-forx/scrapy-plugins--scrapy-deltafetch) | `a8caf39de5` | 2026-10-19 |
 | [zytedata/zyte-spider-templates](https://github.com/repolex-forx/zytedata--zyte-spider-templates) | `579c60037a` | 2026-10-19 |
 | [scrapinghub/shub](https://github.com/repolex-forx/scrapinghub--shub) | `4facd31c84` | 2026-10-19 |
