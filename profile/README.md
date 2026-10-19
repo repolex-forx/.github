@@ -34,6 +34,13 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dynaconf/dynaconf](https://github.com/repolex-forx/dynaconf--dynaconf) | `455ee38569` | 2026-10-19 |
+| [beartype/beartype](https://github.com/repolex-forx/beartype--beartype) | `cffbad2e66` | 2026-10-19 |
+| [bambinos/bambi](https://github.com/repolex-forx/bambinos--bambi) | `ef4097dc61` | 2026-10-19 |
+| [django/daphne](https://github.com/repolex-forx/django--daphne) | `d7a005258c` | 2026-10-19 |
+| [dry-python/classes](https://github.com/repolex-forx/dry-python--classes) | `35fa4a8072` | 2026-10-19 |
+| [life4/deal](https://github.com/repolex-forx/life4--deal) | `751c0a7ebd` | 2026-10-19 |
+| [zheller/flake8-quotes](https://github.com/repolex-forx/zheller--flake8-quotes) | `e75accbd40` | 2026-10-19 |
 | [pysal/spopt](https://github.com/repolex-forx/pysal--spopt) | `aeea0e690e` | 2026-10-19 |
 | [pysal/segregation](https://github.com/repolex-forx/pysal--segregation) | `9a4c639544` | 2026-10-19 |
 | [pysal/momepy](https://github.com/repolex-forx/pysal--momepy) | `7634925d72` | 2026-10-19 |
