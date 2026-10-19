@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [construct/construct](https://github.com/repolex-forx/construct--construct) | `28c6e5779f` | 2026-10-19 |
+| [joeyespo/grip](https://github.com/repolex-forx/joeyespo--grip) | `a3f0ab5c89` | 2026-10-19 |
+| [Kludex/uvicorn-worker](https://github.com/repolex-forx/Kludex--uvicorn-worker) | `cd29cc6447` | 2026-10-19 |
+| [pwaller/pyfiglet](https://github.com/repolex-forx/pwaller--pyfiglet) | `255827efbc` | 2026-10-19 |
+| [mahmoud/face](https://github.com/repolex-forx/mahmoud--face) | `f39598c7af` | 2026-10-19 |
+| [mahmoud/glom](https://github.com/repolex-forx/mahmoud--glom) | `fd70d3051a` | 2026-10-19 |
+| [python-humanize/humanize](https://github.com/repolex-forx/python-humanize--humanize) | `785e5dcc0d` | 2026-10-19 |
+| [Kludex/mangum](https://github.com/repolex-forx/Kludex--mangum) | `c5b20b8785` | 2026-10-19 |
+| [amitt001/delegator.py](https://github.com/repolex-forx/amitt001--delegator.py) | `194aa92543` | 2026-10-19 |
+| [long2ice/fastapi-cache](https://github.com/repolex-forx/long2ice--fastapi-cache) | `b2143ef85e` | 2026-10-19 |
 | [explosion/confection](https://github.com/repolex-forx/explosion--confection) | `b3adaf460c` | 2026-10-19 |
 | [coleifer/scout](https://github.com/repolex-forx/coleifer--scout) | `4269486986` | 2026-10-19 |
 | [coleifer/micawber](https://github.com/repolex-forx/coleifer--micawber) | `3790e285a1` | 2026-10-19 |
