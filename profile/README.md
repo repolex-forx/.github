@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [explosion/confection](https://github.com/repolex-forx/explosion--confection) | `b3adaf460c` | 2026-10-19 |
+| [coleifer/scout](https://github.com/repolex-forx/coleifer--scout) | `4269486986` | 2026-10-19 |
+| [coleifer/micawber](https://github.com/repolex-forx/coleifer--micawber) | `3790e285a1` | 2026-10-19 |
+| [rr-/docstring_parser](https://github.com/repolex-forx/rr---docstring_parser) | `8347d8fb34` | 2026-10-19 |
+| [hynek/hatch-fancy-pypi-readme](https://github.com/repolex-forx/hynek--hatch-fancy-pypi-readme) | `fcf9bc6f7f` | 2026-10-19 |
+| [hynek/pem](https://github.com/repolex-forx/hynek--pem) | `91ec16ac3b` | 2026-10-19 |
+| [hynek/svcs](https://github.com/repolex-forx/hynek--svcs) | `9a034ff4cc` | 2026-10-19 |
+| [mitsuhiko/phpserialize](https://github.com/repolex-forx/mitsuhiko--phpserialize) | `46a7e5d443` | 2026-10-19 |
+| [mitsuhiko/speaklater](https://github.com/repolex-forx/mitsuhiko--speaklater) | `5e137816de` | 2026-10-19 |
+| [mitsuhiko/pluginbase](https://github.com/repolex-forx/mitsuhiko--pluginbase) | `2a5db4c0bb` | 2026-10-19 |
 | [tomerfiliba/plumbum](https://github.com/repolex-forx/tomerfiliba--plumbum) | `3315d73b35` | 2026-10-19 |
 | [tomerfiliba-org/rpyc](https://github.com/repolex-forx/tomerfiliba-org--rpyc) | `08ad26b5e8` | 2026-10-19 |
 | [selectel/pyte](https://github.com/repolex-forx/selectel--pyte) | `0718fa8088` | 2026-10-19 |
