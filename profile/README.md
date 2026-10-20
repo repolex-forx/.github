@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asottile/setuptools-download](https://github.com/repolex-forx/asottile--setuptools-download) | `6379d3f20e` | 2026-10-20 |
+| [asottile/git-code-debt](https://github.com/repolex-forx/asottile--git-code-debt) | `e8f2f64389` | 2026-10-20 |
+| [asottile/lazy-static](https://github.com/repolex-forx/asottile--lazy-static) | `64447c5932` | 2026-10-20 |
+| [asottile/babi-grammars](https://github.com/repolex-forx/asottile--babi-grammars) | `4f4e49f99d` | 2026-10-20 |
+| [asottile/babi](https://github.com/repolex-forx/asottile--babi) | `efcf4cb26a` | 2026-10-20 |
+| [asottile/cfgv](https://github.com/repolex-forx/asottile--cfgv) | `0e89c0b493` | 2026-10-20 |
+| [pre-commit/pre-commit-mirror-maker](https://github.com/repolex-forx/pre-commit--pre-commit-mirror-maker) | `b7a43f1c73` | 2026-10-20 |
+| [pre-commit/sync-pre-commit-deps](https://github.com/repolex-forx/pre-commit--sync-pre-commit-deps) | `eb61537bdf` | 2026-10-20 |
+| [pre-commit/pygrep-hooks](https://github.com/repolex-forx/pre-commit--pygrep-hooks) | `bc3cc02ec8` | 2026-10-20 |
+| [pre-commit/pre-commit-hooks](https://github.com/repolex-forx/pre-commit--pre-commit-hooks) | `2ee68084ed` | 2026-10-20 |
 | [asottile/all-repos](https://github.com/repolex-forx/asottile--all-repos) | `cef3a75a19` | 2026-10-20 |
 | [asottile/astpretty](https://github.com/repolex-forx/asottile--astpretty) | `1fb4135054` | 2026-10-20 |
 | [asottile/detect-test-pollution](https://github.com/repolex-forx/asottile--detect-test-pollution) | `64b684098f` | 2026-10-20 |
