@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [coleifer/dot-theme](https://github.com/repolex-forx/coleifer--dot-theme) | `c8c9709067` | 2026-10-20 |
+| [klen/muffin-debugtoolbar](https://github.com/repolex-forx/klen--muffin-debugtoolbar) | `bce845f48a` | 2026-10-20 |
+| [klen/graphite-beacon](https://github.com/repolex-forx/klen--graphite-beacon) | `c1f071e9f5` | 2026-10-20 |
+| [klen/pylama_pylint](https://github.com/repolex-forx/klen--pylama_pylint) | `8359b449f0` | 2026-10-20 |
+| [klen/square-wars](https://github.com/repolex-forx/klen--square-wars) | `8c4dd7a1a6` | 2026-10-20 |
+| [klen/starter](https://github.com/repolex-forx/klen--starter) | `24a65c10d4` | 2026-10-20 |
+| [klen/py-frameworks-bench](https://github.com/repolex-forx/klen--py-frameworks-bench) | `d4cf8c2b11` | 2026-10-20 |
+| [klen/muffin-oauth](https://github.com/repolex-forx/klen--muffin-oauth) | `3b40021532` | 2026-10-20 |
+| [klen/pytest-aio](https://github.com/repolex-forx/klen--pytest-aio) | `8b54be4cab` | 2026-10-20 |
+| [klen/muffin-session](https://github.com/repolex-forx/klen--muffin-session) | `7de23a03ce` | 2026-10-20 |
 | [klen/muffin-sentry](https://github.com/repolex-forx/klen--muffin-sentry) | `bc97360dfa` | 2026-10-20 |
 | [klen/imgproxy](https://github.com/repolex-forx/klen--imgproxy) | `593191e936` | 2026-10-20 |
 | [klen/Flask-Collect](https://github.com/repolex-forx/klen--Flask-Collect) | `2297e78a79` | 2026-10-20 |
