@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/dropbox-index](https://github.com/repolex-forx/jaraco--dropbox-index) | `4a9fb37790` | 2026-10-20 |
+| [jaraco/paradocx](https://github.com/repolex-forx/jaraco--paradocx) | `68b1e2b1a7` | 2026-10-20 |
+| [jaraco/svg.charts](https://github.com/repolex-forx/jaraco--svg.charts) | `9032cb1a99` | 2026-10-20 |
+| [jaraco/wolframalpha](https://github.com/repolex-forx/jaraco--wolframalpha) | `1b0207fdd1` | 2026-10-20 |
+| [jaraco/xlsxcessive](https://github.com/repolex-forx/jaraco--xlsxcessive) | `a4c270b6be` | 2026-10-20 |
+| [mitsuhiko/flask-oauth](https://github.com/repolex-forx/mitsuhiko--flask-oauth) | `af6432621a` | 2026-10-20 |
+| [simonw/recent-california-brown-pelicans](https://github.com/repolex-forx/simonw--recent-california-brown-pelicans) | `ebb3164a05` | 2026-10-20 |
+| [simonw/ollama-models-atom-feed](https://github.com/repolex-forx/simonw--ollama-models-atom-feed) | `8b77d32add` | 2026-10-20 |
+| [simonw/web-edit](https://github.com/repolex-forx/simonw--web-edit) | `0a24583937` | 2026-10-20 |
+| [simonw/actions-latest](https://github.com/repolex-forx/simonw--actions-latest) | `8d046f2ec6` | 2026-10-20 |
 | [jaraco/nspektr](https://github.com/repolex-forx/jaraco--nspektr) | `5d29faa1f9` | 2026-10-20 |
 | [jaraco/keyrings.firefox](https://github.com/repolex-forx/jaraco--keyrings.firefox) | `edee95caa2` | 2026-10-20 |
 | [jaraco/keyrings.alt](https://github.com/repolex-forx/jaraco--keyrings.alt) | `2189879d8b` | 2026-10-20 |
