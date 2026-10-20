@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [adamchainz/patchy](https://github.com/repolex-forx/adamchainz--patchy) | `8f3f9bf0c0` | 2026-10-20 |
+| [adamchainz/pytest-restrict](https://github.com/repolex-forx/adamchainz--pytest-restrict) | `4deef6fed1` | 2026-10-20 |
+| [adamchainz/pytest-reverse](https://github.com/repolex-forx/adamchainz--pytest-reverse) | `84670881ea` | 2026-10-20 |
+| [adamchainz/unittest-parametrize](https://github.com/repolex-forx/adamchainz--unittest-parametrize) | `9bfbdd53e4` | 2026-10-20 |
+| [adamchainz/django-minify-html](https://github.com/repolex-forx/adamchainz--django-minify-html) | `ec8c17abe8` | 2026-10-20 |
+| [adamchainz/django-auto-prefetch](https://github.com/repolex-forx/adamchainz--django-auto-prefetch) | `3df0e0ec2a` | 2026-10-20 |
+| [adamchainz/django-htmx](https://github.com/repolex-forx/adamchainz--django-htmx) | `6cde91e398` | 2026-10-20 |
+| [FactoryBoy/factory_boy](https://github.com/repolex-forx/FactoryBoy--factory_boy) | `ae9f2f4650` | 2026-10-20 |
+| [singingwolfboy/flask-dance](https://github.com/repolex-forx/singingwolfboy--flask-dance) | `70f79fd9b6` | 2026-10-20 |
+| [msiemens/tinydb-serialization](https://github.com/repolex-forx/msiemens--tinydb-serialization) | `685b819299` | 2026-10-20 |
 | [construct/construct](https://github.com/repolex-forx/construct--construct) | `28c6e5779f` | 2026-10-19 |
 | [joeyespo/grip](https://github.com/repolex-forx/joeyespo--grip) | `a3f0ab5c89` | 2026-10-19 |
 | [Kludex/uvicorn-worker](https://github.com/repolex-forx/Kludex--uvicorn-worker) | `cd29cc6447` | 2026-10-19 |
