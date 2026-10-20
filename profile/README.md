@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asottile/all-repos](https://github.com/repolex-forx/asottile--all-repos) | `cef3a75a19` | 2026-10-20 |
+| [asottile/astpretty](https://github.com/repolex-forx/asottile--astpretty) | `1fb4135054` | 2026-10-20 |
+| [asottile/detect-test-pollution](https://github.com/repolex-forx/asottile--detect-test-pollution) | `64b684098f` | 2026-10-20 |
+| [asottile/covdefaults](https://github.com/repolex-forx/asottile--covdefaults) | `1e444722b6` | 2026-10-20 |
+| [asottile/importtime-waterfall](https://github.com/repolex-forx/asottile--importtime-waterfall) | `dbe92da066` | 2026-10-20 |
+| [asottile/classify-imports](https://github.com/repolex-forx/asottile--classify-imports) | `e63b6c6e66` | 2026-10-20 |
+| [asottile/pygments-pre-commit](https://github.com/repolex-forx/asottile--pygments-pre-commit) | `afe05c3fdc` | 2026-10-20 |
+| [asottile/markdown-code-blocks](https://github.com/repolex-forx/asottile--markdown-code-blocks) | `b40eb98ccf` | 2026-10-20 |
+| [asottile/re-assert](https://github.com/repolex-forx/asottile--re-assert) | `43fc286427` | 2026-10-20 |
+| [asottile/reorder-python-imports](https://github.com/repolex-forx/asottile--reorder-python-imports) | `c64f4b028f` | 2026-10-20 |
 | [jaraco/pmxbot.webhooks](https://github.com/repolex-forx/jaraco--pmxbot.webhooks) | `593da6b75f` | 2026-10-20 |
 | [jaraco/jaraco.home](https://github.com/repolex-forx/jaraco--jaraco.home) | `394e968592` | 2026-10-20 |
 | [jaraco/jaraco.modb](https://github.com/repolex-forx/jaraco--jaraco.modb) | `66cebd9b31` | 2026-10-20 |
