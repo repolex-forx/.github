@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [klen/muffin-prometheus](https://github.com/repolex-forx/klen--muffin-prometheus) | `f21e86f944` | 2026-10-20 |
+| [klen/muffin-grpc](https://github.com/repolex-forx/klen--muffin-grpc) | `790afb3a6f` | 2026-10-20 |
+| [klen/muffin-babel](https://github.com/repolex-forx/klen--muffin-babel) | `140c6b73b9` | 2026-10-20 |
+| [klen/knocker](https://github.com/repolex-forx/klen--knocker) | `e6fc5188a7` | 2026-10-20 |
+| [klen/muffin-peewee](https://github.com/repolex-forx/klen--muffin-peewee) | `cf338708b4` | 2026-10-20 |
+| [klen/pytest-redislite](https://github.com/repolex-forx/klen--pytest-redislite) | `4188598423` | 2026-10-20 |
+| [klen/donald](https://github.com/repolex-forx/klen--donald) | `d48bf0f0f9` | 2026-10-20 |
+| [klen/muffin-donald](https://github.com/repolex-forx/klen--muffin-donald) | `7bea4ab656` | 2026-10-20 |
+| [klen/muffin-example](https://github.com/repolex-forx/klen--muffin-example) | `83b0478668` | 2026-10-20 |
+| [klen/muffin-docker](https://github.com/repolex-forx/klen--muffin-docker) | `702e0d0a03` | 2026-10-20 |
 | [coleifer/kvkit](https://github.com/repolex-forx/coleifer--kvkit) | `a3551c6fc6` | 2026-10-20 |
 | [klen/aiorest-client](https://github.com/repolex-forx/klen--aiorest-client) | `01ecced2be` | 2026-10-20 |
 | [klen/uss](https://github.com/repolex-forx/klen--uss) | `ca79487ea9` | 2026-10-20 |
