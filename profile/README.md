@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [simonw/datasette-plugin](https://github.com/repolex-forx/simonw--datasette-plugin) | `ee9f1f1bb1` | 2026-10-20 |
+| [simonw/python-lib](https://github.com/repolex-forx/simonw--python-lib) | `46ad133e8c` | 2026-10-20 |
+| [simonw/click-app](https://github.com/repolex-forx/simonw--click-app) | `5e571600f0` | 2026-10-20 |
+| [simonw/chonkers-alert](https://github.com/repolex-forx/simonw--chonkers-alert) | `8088a62cae` | 2026-10-20 |
+| [simonw/commit-rewriter](https://github.com/repolex-forx/simonw--commit-rewriter) | `239658841f` | 2026-10-20 |
+| [simonw/llm-keys-ui](https://github.com/repolex-forx/simonw--llm-keys-ui) | `cb1dd2ff49` | 2026-10-20 |
+| [simonw/llm-typesafe](https://github.com/repolex-forx/simonw--llm-typesafe) | `225932cfde` | 2026-10-20 |
+| [simonw/llm-openai-decisions](https://github.com/repolex-forx/simonw--llm-openai-decisions) | `4827324f5b` | 2026-10-20 |
+| [simonw/llm-tools-datasette](https://github.com/repolex-forx/simonw--llm-tools-datasette) | `3223970dd1` | 2026-10-20 |
+| [simonw/llm-plugin](https://github.com/repolex-forx/simonw--llm-plugin) | `06510bdd7d` | 2026-10-20 |
 | [simonw/llm-meta-ai](https://github.com/repolex-forx/simonw--llm-meta-ai) | `01c0990973` | 2026-10-20 |
 | [simonw/llm-openrouter](https://github.com/repolex-forx/simonw--llm-openrouter) | `6de4963a76` | 2026-10-20 |
 | [simonw/llm-echo](https://github.com/repolex-forx/simonw--llm-echo) | `8378368799` | 2026-10-20 |
