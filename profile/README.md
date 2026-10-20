@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [tortoise/orm-benchmarks](https://github.com/repolex-forx/tortoise--orm-benchmarks) | `6a5b4ebd43` | 2026-10-20 |
+| [webpy/webpy-examples](https://github.com/repolex-forx/webpy--webpy-examples) | `196ec74f12` | 2026-10-20 |
+| [graphql-python/gql-next](https://github.com/repolex-forx/graphql-python--gql-next) | `1e583a203d` | 2026-10-20 |
+| [graphql-python/graphene-gae](https://github.com/repolex-forx/graphql-python--graphene-gae) | `7cf364eddb` | 2026-10-20 |
+| [graphql-python/graphene-tornado](https://github.com/repolex-forx/graphql-python--graphene-tornado) | `e4fa7d7b4c` | 2026-10-20 |
+| [graphql-python/webob-graphql](https://github.com/repolex-forx/graphql-python--webob-graphql) | `0c3fc39297` | 2026-10-20 |
+| [PyCQA/flake8-polyfill](https://github.com/repolex-forx/PyCQA--flake8-polyfill) | `b98e6f4f6c` | 2026-10-20 |
+| [PyCQA/pylint-pytest](https://github.com/repolex-forx/PyCQA--pylint-pytest) | `9b7a67d543` | 2026-10-20 |
+| [PyCQA/pylint-django](https://github.com/repolex-forx/PyCQA--pylint-django) | `9b1a684727` | 2026-10-20 |
+| [PyCQA/pylint-celery](https://github.com/repolex-forx/PyCQA--pylint-celery) | `4edf639f29` | 2026-10-20 |
 | [scrapy/scurl](https://github.com/repolex-forx/scrapy--scurl) | `fa5c05d95d` | 2026-10-20 |
 | [scrapy/form2request](https://github.com/repolex-forx/scrapy--form2request) | `a251597d9f` | 2026-10-20 |
 | [PyCQA/modernize](https://github.com/repolex-forx/PyCQA--modernize) | `f06b20ad47` | 2026-10-20 |
