@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scrapy/scurl](https://github.com/repolex-forx/scrapy--scurl) | `fa5c05d95d` | 2026-10-20 |
+| [scrapy/form2request](https://github.com/repolex-forx/scrapy--form2request) | `a251597d9f` | 2026-10-20 |
+| [PyCQA/modernize](https://github.com/repolex-forx/PyCQA--modernize) | `f06b20ad47` | 2026-10-20 |
+| [PyCQA/flake8-json](https://github.com/repolex-forx/PyCQA--flake8-json) | `482ef7ee7a` | 2026-10-20 |
+| [PyCQA/flake8-commas](https://github.com/repolex-forx/PyCQA--flake8-commas) | `b0bbc820c4` | 2026-10-20 |
+| [PyCQA/flake8-pyi](https://github.com/repolex-forx/PyCQA--flake8-pyi) | `2ed488c2cd` | 2026-10-20 |
+| [graphql-python/graphql-core-legacy](https://github.com/repolex-forx/graphql-python--graphql-core-legacy) | `6e2fbccdec` | 2026-10-20 |
+| [graphql-python/graphql-ws](https://github.com/repolex-forx/graphql-python--graphql-ws) | `7ef25ecfaf` | 2026-10-20 |
+| [graphql-python/sanic-graphql](https://github.com/repolex-forx/graphql-python--sanic-graphql) | `9eb1b0b4d4` | 2026-10-20 |
+| [graphql-python/aiohttp-graphql](https://github.com/repolex-forx/graphql-python--aiohttp-graphql) | `5f75803107` | 2026-10-20 |
 | [graphql-python/flask-graphql](https://github.com/repolex-forx/graphql-python--flask-graphql) | `0d45561607` | 2026-10-20 |
 | [falconry/falcon-policy](https://github.com/repolex-forx/falconry--falcon-policy) | `3777dfb283` | 2026-10-20 |
 | [falconry/pecyn](https://github.com/repolex-forx/falconry--pecyn) | `fef9333136` | 2026-10-20 |
