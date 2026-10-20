@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [klen/muffin-sentry](https://github.com/repolex-forx/klen--muffin-sentry) | `bc97360dfa` | 2026-10-20 |
+| [klen/imgproxy](https://github.com/repolex-forx/klen--imgproxy) | `593191e936` | 2026-10-20 |
+| [klen/Flask-Collect](https://github.com/repolex-forx/klen--Flask-Collect) | `2297e78a79` | 2026-10-20 |
+| [klen/dealer](https://github.com/repolex-forx/klen--dealer) | `6becc485fd` | 2026-10-20 |
+| [klen/muffin-metrics](https://github.com/repolex-forx/klen--muffin-metrics) | `b62fc25172` | 2026-10-20 |
+| [klen/muffin-jade](https://github.com/repolex-forx/klen--muffin-jade) | `3ddd6bf27f` | 2026-10-20 |
+| [klen/muffin-databases](https://github.com/repolex-forx/klen--muffin-databases) | `51a09b28dd` | 2026-10-20 |
+| [klen/muffin-mongo](https://github.com/repolex-forx/klen--muffin-mongo) | `fdfa40b2b6` | 2026-10-20 |
+| [klen/muffin-jinja2](https://github.com/repolex-forx/klen--muffin-jinja2) | `8c270cf7cf` | 2026-10-20 |
+| [klen/muffin-apiclient](https://github.com/repolex-forx/klen--muffin-apiclient) | `37fe19602f` | 2026-10-20 |
 | [klen/muffin-prometheus](https://github.com/repolex-forx/klen--muffin-prometheus) | `f21e86f944` | 2026-10-20 |
 | [klen/muffin-grpc](https://github.com/repolex-forx/klen--muffin-grpc) | `790afb3a6f` | 2026-10-20 |
 | [klen/muffin-babel](https://github.com/repolex-forx/klen--muffin-babel) | `140c6b73b9` | 2026-10-20 |
