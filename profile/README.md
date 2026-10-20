@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [falconry/updraft](https://github.com/repolex-forx/falconry--updraft) | `d34bc8a35b` | 2026-10-20 |
 | [piccolo-orm/piccolo_docker](https://github.com/repolex-forx/piccolo-orm--piccolo_docker) | `2bf2980c62` | 2026-10-20 |
 | [piccolo-orm/pymdb](https://github.com/repolex-forx/piccolo-orm--pymdb) | `a32f91f8ab` | 2026-10-20 |
 | [piccolo-orm/piccolo-admin-docker](https://github.com/repolex-forx/piccolo-orm--piccolo-admin-docker) | `bd1b74b9c9` | 2026-10-20 |
