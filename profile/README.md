@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [coleifer/sqlcipher3](https://github.com/repolex-forx/coleifer--sqlcipher3) | `e0fad03cbe` | 2026-10-20 |
+| [sdispater/melomaniac](https://github.com/repolex-forx/sdispater--melomaniac) | `26edeba844` | 2026-10-20 |
+| [jd/pifpaf](https://github.com/repolex-forx/jd--pifpaf) | `b9c3364b29` | 2026-10-20 |
+| [florimondmanca/ddtrace-asgi](https://github.com/repolex-forx/florimondmanca--ddtrace-asgi) | `78936f2556` | 2026-10-20 |
+| [piccolo-orm/piccolo_cursor_pagination](https://github.com/repolex-forx/piccolo-orm--piccolo_cursor_pagination) | `253210d76f` | 2026-10-20 |
+| [piccolo-orm/asyncio_tools](https://github.com/repolex-forx/piccolo-orm--asyncio_tools) | `08948b436c` | 2026-10-20 |
+| [piccolo-orm/targ](https://github.com/repolex-forx/piccolo-orm--targ) | `40c8820802` | 2026-10-20 |
+| [klen/muffin-peewee-aio](https://github.com/repolex-forx/klen--muffin-peewee-aio) | `ffc6e9ef40` | 2026-10-20 |
+| [klen/muffin-redis](https://github.com/repolex-forx/klen--muffin-redis) | `423bfc31bf` | 2026-10-20 |
+| [klen/muffin-kafka](https://github.com/repolex-forx/klen--muffin-kafka) | `f5e8bf63a8` | 2026-10-20 |
 | [klen/asgi-tools](https://github.com/repolex-forx/klen--asgi-tools) | `1a1a85dfb9` | 2026-10-20 |
 | [klen/aio-databases](https://github.com/repolex-forx/klen--aio-databases) | `a072cd47cb` | 2026-10-20 |
 | [klen/muffin-rest](https://github.com/repolex-forx/klen--muffin-rest) | `f2298d12e0` | 2026-10-20 |
