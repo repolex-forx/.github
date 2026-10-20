@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [klen/asgi-prometheus](https://github.com/repolex-forx/klen--asgi-prometheus) | `6eb6abf0f3` | 2026-10-20 |
+| [coleifer/irc](https://github.com/repolex-forx/coleifer--irc) | `bbc47e2bf4` | 2026-10-20 |
+| [klen/modconfig](https://github.com/repolex-forx/klen--modconfig) | `646ce7f5a1` | 2026-10-20 |
+| [klen/asgi-babel](https://github.com/repolex-forx/klen--asgi-babel) | `c29ba605f8` | 2026-10-20 |
+| [klen/asgi-sessions](https://github.com/repolex-forx/klen--asgi-sessions) | `bc83d86f7c` | 2026-10-20 |
+| [klen/aio-apiclient](https://github.com/repolex-forx/klen--aio-apiclient) | `486a80a0bd` | 2026-10-20 |
+| [asottile/future-lazy-imports](https://github.com/repolex-forx/asottile--future-lazy-imports) | `dbde883185` | 2026-10-20 |
+| [asottile/itl](https://github.com/repolex-forx/asottile--itl) | `07ac5f7e52` | 2026-10-20 |
+| [asottile/gh-perf-review](https://github.com/repolex-forx/asottile--gh-perf-review) | `57c067bddd` | 2026-10-20 |
+| [asottile/shiny-pokemon-scraper](https://github.com/repolex-forx/asottile--shiny-pokemon-scraper) | `f9f293a3ad` | 2026-10-20 |
 | [klen/simple-totp](https://github.com/repolex-forx/klen--simple-totp) | `cd5aba449a` | 2026-10-20 |
 | [klen/flask-pw](https://github.com/repolex-forx/klen--flask-pw) | `04d7846f0c` | 2026-10-20 |
 | [klen/marshmallow-peewee](https://github.com/repolex-forx/klen--marshmallow-peewee) | `010c7d6c69` | 2026-10-20 |
