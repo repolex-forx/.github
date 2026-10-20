@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [klen/asgi-tools](https://github.com/repolex-forx/klen--asgi-tools) | `1a1a85dfb9` | 2026-10-20 |
+| [klen/aio-databases](https://github.com/repolex-forx/klen--aio-databases) | `a072cd47cb` | 2026-10-20 |
+| [klen/muffin-rest](https://github.com/repolex-forx/klen--muffin-rest) | `f2298d12e0` | 2026-10-20 |
+| [klen/muffin-admin](https://github.com/repolex-forx/klen--muffin-admin) | `2b1f600d08` | 2026-10-20 |
+| [florimondmanca/djangorestframework-api-key](https://github.com/repolex-forx/florimondmanca--djangorestframework-api-key) | `02f68e85d2` | 2026-10-20 |
+| [florimondmanca/asgi-htmx](https://github.com/repolex-forx/florimondmanca--asgi-htmx) | `c433c294db` | 2026-10-20 |
+| [florimondmanca/asgi-sitemaps](https://github.com/repolex-forx/florimondmanca--asgi-sitemaps) | `009b0f04ef` | 2026-10-20 |
+| [florimondmanca/arel](https://github.com/repolex-forx/florimondmanca--arel) | `ec8768016b` | 2026-10-20 |
+| [florimondmanca/asgi-lifespan](https://github.com/repolex-forx/florimondmanca--asgi-lifespan) | `8591cb1068` | 2026-10-20 |
+| [florimondmanca/aiometer](https://github.com/repolex-forx/florimondmanca--aiometer) | `73db261bcc` | 2026-10-20 |
 | [jd/fastcounter](https://github.com/repolex-forx/jd--fastcounter) | `b8c7a5333c` | 2026-10-20 |
 | [tox-dev/tox-venv](https://github.com/repolex-forx/tox-dev--tox-venv) | `dab94edb96` | 2026-10-20 |
 | [tox-dev/tox-pipenv](https://github.com/repolex-forx/tox-dev--tox-pipenv) | `fd9e3946b2` | 2026-10-20 |
