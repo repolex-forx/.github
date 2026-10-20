@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [spulec/uncurl](https://github.com/repolex-forx/spulec--uncurl) | `ee947f48b9` | 2026-10-20 |
+| [lepture/otpauth](https://github.com/repolex-forx/lepture--otpauth) | `72374ac815` | 2026-10-20 |
+| [coleifer/ucache](https://github.com/repolex-forx/coleifer--ucache) | `19a87f84a4` | 2026-10-20 |
+| [coleifer/beefish](https://github.com/repolex-forx/coleifer--beefish) | `f63b808c20` | 2026-10-20 |
+| [coleifer/django-generic-aggregation](https://github.com/repolex-forx/coleifer--django-generic-aggregation) | `7dc1557ac0` | 2026-10-20 |
+| [coleifer/sqlite-vtfunc](https://github.com/repolex-forx/coleifer--sqlite-vtfunc) | `2001b5567b` | 2026-10-20 |
+| [coleifer/django-generic-m2m](https://github.com/repolex-forx/coleifer--django-generic-m2m) | `cb67e1cf77` | 2026-10-20 |
+| [coleifer/simpledb](https://github.com/repolex-forx/coleifer--simpledb) | `bf674ccf8b` | 2026-10-20 |
+| [coleifer/wtf-peewee](https://github.com/repolex-forx/coleifer--wtf-peewee) | `d75c7cbc4e` | 2026-10-20 |
+| [mitsuhiko/similar](https://github.com/repolex-forx/mitsuhiko--similar) | `96993d9285` | 2026-10-20 |
 | [coleifer/python-lsm-db](https://github.com/repolex-forx/coleifer--python-lsm-db) | `c375670648` | 2026-10-20 |
 | [klen/aioauth-client](https://github.com/repolex-forx/klen--aioauth-client) | `6b4c3d6383` | 2026-10-20 |
 | [coleifer/pysqlite3](https://github.com/repolex-forx/coleifer--pysqlite3) | `2121dfb570` | 2026-10-20 |
