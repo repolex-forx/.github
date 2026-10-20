@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [asottile/dead](https://github.com/repolex-forx/asottile--dead) | `579345debb` | 2026-10-20 |
 | [lepture/authlib](https://github.com/repolex-forx/lepture--authlib) | `dbf2f5c4fc` | 2026-10-20 |
 | [ionelmc/python-hunter](https://github.com/repolex-forx/ionelmc--python-hunter) | `b29fb483a1` | 2026-10-20 |
 | [hynek/first](https://github.com/repolex-forx/hynek--first) | `d18599541b` | 2026-10-20 |
