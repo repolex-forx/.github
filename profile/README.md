@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [graphql-python/flask-graphql](https://github.com/repolex-forx/graphql-python--flask-graphql) | `0d45561607` | 2026-10-20 |
+| [falconry/falcon-policy](https://github.com/repolex-forx/falconry--falcon-policy) | `3777dfb283` | 2026-10-20 |
+| [falconry/pecyn](https://github.com/repolex-forx/falconry--pecyn) | `fef9333136` | 2026-10-20 |
+| [PyMySQL/Tornado-MySQL](https://github.com/repolex-forx/PyMySQL--Tornado-MySQL) | `75d3466e43` | 2026-10-20 |
+| [PyMySQL/myloginpath](https://github.com/repolex-forx/PyMySQL--myloginpath) | `2dc7b2d232` | 2026-10-20 |
+| [PyMySQL/mysqlclient](https://github.com/repolex-forx/PyMySQL--mysqlclient) | `ff9e96da3f` | 2026-10-20 |
+| [PyMySQL/PyMySQL](https://github.com/repolex-forx/PyMySQL--PyMySQL) | `4399e300fd` | 2026-10-20 |
+| [py-pdf/pdf](https://github.com/repolex-forx/py-pdf--pdf) | `899bff5cbd` | 2026-10-20 |
+| [py-pdf/pdfly](https://github.com/repolex-forx/py-pdf--pdfly) | `1612f42636` | 2026-10-20 |
+| [py-pdf/pypdf](https://github.com/repolex-forx/py-pdf--pypdf) | `885e7430cd` | 2026-10-20 |
 | [falconry/updraft](https://github.com/repolex-forx/falconry--updraft) | `d34bc8a35b` | 2026-10-20 |
 | [piccolo-orm/piccolo_docker](https://github.com/repolex-forx/piccolo-orm--piccolo_docker) | `2bf2980c62` | 2026-10-20 |
 | [piccolo-orm/pymdb](https://github.com/repolex-forx/piccolo-orm--pymdb) | `a32f91f8ab` | 2026-10-20 |
