@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/nspektr](https://github.com/repolex-forx/jaraco--nspektr) | `5d29faa1f9` | 2026-10-20 |
+| [jaraco/keyrings.firefox](https://github.com/repolex-forx/jaraco--keyrings.firefox) | `edee95caa2` | 2026-10-20 |
+| [jaraco/keyrings.alt](https://github.com/repolex-forx/jaraco--keyrings.alt) | `2189879d8b` | 2026-10-20 |
+| [jaraco/singledispatch](https://github.com/repolex-forx/jaraco--singledispatch) | `8dab473b3f` | 2026-10-20 |
+| [jaraco/pytest-perf](https://github.com/repolex-forx/jaraco--pytest-perf) | `b565f96a8c` | 2026-10-20 |
+| [jaraco/pytest-home](https://github.com/repolex-forx/jaraco--pytest-home) | `d9d598faec` | 2026-10-20 |
+| [jaraco/rst.linker](https://github.com/repolex-forx/jaraco--rst.linker) | `c41cef52d5` | 2026-10-20 |
+| [jaraco/jaraco.net](https://github.com/repolex-forx/jaraco--jaraco.net) | `014d6324c2` | 2026-10-20 |
+| [jaraco/jaraco.vcs](https://github.com/repolex-forx/jaraco--jaraco.vcs) | `f33866f7c5` | 2026-10-20 |
+| [jaraco/jaraco.stream](https://github.com/repolex-forx/jaraco--jaraco.stream) | `c5edc819b8` | 2026-10-20 |
 | [simonw/datasette-plugin](https://github.com/repolex-forx/simonw--datasette-plugin) | `ee9f1f1bb1` | 2026-10-20 |
 | [simonw/python-lib](https://github.com/repolex-forx/simonw--python-lib) | `46ad133e8c` | 2026-10-20 |
 | [simonw/click-app](https://github.com/repolex-forx/simonw--click-app) | `5e571600f0` | 2026-10-20 |
