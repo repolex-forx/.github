@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [klen/simple-totp](https://github.com/repolex-forx/klen--simple-totp) | `cd5aba449a` | 2026-10-20 |
+| [klen/flask-pw](https://github.com/repolex-forx/klen--flask-pw) | `04d7846f0c` | 2026-10-20 |
+| [klen/marshmallow-peewee](https://github.com/repolex-forx/klen--marshmallow-peewee) | `010c7d6c69` | 2026-10-20 |
+| [klen/http-router](https://github.com/repolex-forx/klen--http-router) | `ab775319ef` | 2026-10-20 |
+| [klen/peewee-aio](https://github.com/repolex-forx/klen--peewee-aio) | `18d3065576` | 2026-10-20 |
+| [asottile/watch-plz](https://github.com/repolex-forx/asottile--watch-plz) | `16c33861a7` | 2026-10-20 |
+| [asottile/rubyvenv](https://github.com/repolex-forx/asottile--rubyvenv) | `950bc54c9e` | 2026-10-20 |
+| [asottile/onigurumacffi](https://github.com/repolex-forx/asottile--onigurumacffi) | `601c9b1b56` | 2026-10-20 |
+| [asottile/ukkonen](https://github.com/repolex-forx/asottile--ukkonen) | `6a931aa21a` | 2026-10-20 |
+| [asottile/typing-derive](https://github.com/repolex-forx/asottile--typing-derive) | `67a8d5c2e9` | 2026-10-20 |
 | [coleifer/cysqlite](https://github.com/repolex-forx/coleifer--cysqlite) | `24fddb3bff` | 2026-10-20 |
 | [coleifer/sweepea](https://github.com/repolex-forx/coleifer--sweepea) | `8343c97aa1` | 2026-10-20 |
 | [asottile/setup-py-upgrade](https://github.com/repolex-forx/asottile--setup-py-upgrade) | `9d355848f5` | 2026-10-20 |
