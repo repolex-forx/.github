@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jd/fastcounter](https://github.com/repolex-forx/jd--fastcounter) | `b8c7a5333c` | 2026-10-20 |
+| [tox-dev/tox-venv](https://github.com/repolex-forx/tox-dev--tox-venv) | `dab94edb96` | 2026-10-20 |
+| [tox-dev/tox-pipenv](https://github.com/repolex-forx/tox-dev--tox-pipenv) | `fd9e3946b2` | 2026-10-20 |
+| [tox-dev/tox-external-wheels](https://github.com/repolex-forx/tox-dev--tox-external-wheels) | `ad1867878f` | 2026-10-20 |
+| [sdispater/pytzdata](https://github.com/repolex-forx/sdispater--pytzdata) | `11dda19bc5` | 2026-10-20 |
+| [sdispater/backpack](https://github.com/repolex-forx/sdispater--backpack) | `764e7f79fd` | 2026-10-20 |
+| [sdispater/flask-orator](https://github.com/repolex-forx/sdispater--flask-orator) | `f1d6e2a7a8` | 2026-10-20 |
+| [sdispater/orator-cache](https://github.com/repolex-forx/sdispater--orator-cache) | `e6d8053717` | 2026-10-20 |
+| [sdispater/mixology](https://github.com/repolex-forx/sdispater--mixology) | `067c5aef14` | 2026-10-20 |
+| [sdispater/pastel](https://github.com/repolex-forx/sdispater--pastel) | `760a8e52dd` | 2026-10-20 |
 | [coleifer/dot-theme](https://github.com/repolex-forx/coleifer--dot-theme) | `c8c9709067` | 2026-10-20 |
 | [klen/muffin-debugtoolbar](https://github.com/repolex-forx/klen--muffin-debugtoolbar) | `bce845f48a` | 2026-10-20 |
 | [klen/graphite-beacon](https://github.com/repolex-forx/klen--graphite-beacon) | `c1f071e9f5` | 2026-10-20 |
