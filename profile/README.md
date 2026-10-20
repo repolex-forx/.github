@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/pmxbot.webhooks](https://github.com/repolex-forx/jaraco--pmxbot.webhooks) | `593da6b75f` | 2026-10-20 |
+| [jaraco/jaraco.home](https://github.com/repolex-forx/jaraco--jaraco.home) | `394e968592` | 2026-10-20 |
+| [jaraco/jaraco.modb](https://github.com/repolex-forx/jaraco--jaraco.modb) | `66cebd9b31` | 2026-10-20 |
+| [jaraco/jaraco.geo](https://github.com/repolex-forx/jaraco--jaraco.geo) | `d1f8b597ed` | 2026-10-20 |
+| [jaraco/jaraco.nxt](https://github.com/repolex-forx/jaraco--jaraco.nxt) | `853d146891` | 2026-10-20 |
+| [jaraco/jaraco.pdf](https://github.com/repolex-forx/jaraco--jaraco.pdf) | `88532c45ae` | 2026-10-20 |
+| [jaraco/jaraco.pmxbot](https://github.com/repolex-forx/jaraco--jaraco.pmxbot) | `e36f87565a` | 2026-10-20 |
+| [jaraco/jaraco.tidelift](https://github.com/repolex-forx/jaraco--jaraco.tidelift) | `e137e26cee` | 2026-10-20 |
+| [jaraco/jaraco.util](https://github.com/repolex-forx/jaraco--jaraco.util) | `efe3cd1591` | 2026-10-20 |
+| [jaraco/jaraco.site](https://github.com/repolex-forx/jaraco--jaraco.site) | `fd2f5fff7d` | 2026-10-20 |
 | [jaraco/jaraco.zstd](https://github.com/repolex-forx/jaraco--jaraco.zstd) | `5acf7082a6` | 2026-10-20 |
 | [jaraco/librarypaste](https://github.com/repolex-forx/jaraco--librarypaste) | `c08f6b9bb5` | 2026-10-20 |
 | [jaraco/jaraco.xonsh](https://github.com/repolex-forx/jaraco--jaraco.xonsh) | `57681130fa` | 2026-10-20 |
