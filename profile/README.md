@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [coleifer/kvkit](https://github.com/repolex-forx/coleifer--kvkit) | `a3551c6fc6` | 2026-10-20 |
+| [klen/aiorest-client](https://github.com/repolex-forx/klen--aiorest-client) | `01ecced2be` | 2026-10-20 |
+| [klen/uss](https://github.com/repolex-forx/klen--uss) | `ca79487ea9` | 2026-10-20 |
+| [klen/aio-peewee](https://github.com/repolex-forx/klen--aio-peewee) | `a28e681b88` | 2026-10-20 |
+| [klen/inirama](https://github.com/repolex-forx/klen--inirama) | `3ec7c84b18` | 2026-10-20 |
+| [klen/aio-rest](https://github.com/repolex-forx/klen--aio-rest) | `d37bc4a43a` | 2026-10-20 |
+| [klen/starlette-views](https://github.com/repolex-forx/klen--starlette-views) | `d1447bdf08` | 2026-10-20 |
+| [klen/starlette-plugins](https://github.com/repolex-forx/klen--starlette-plugins) | `5ca24ddc1a` | 2026-10-20 |
+| [klen/pypika-orm](https://github.com/repolex-forx/klen--pypika-orm) | `2a07539ce2` | 2026-10-20 |
+| [klen/signalbus](https://github.com/repolex-forx/klen--signalbus) | `6cf2c99c07` | 2026-10-20 |
 | [klen/asgi-prometheus](https://github.com/repolex-forx/klen--asgi-prometheus) | `6eb6abf0f3` | 2026-10-20 |
 | [coleifer/irc](https://github.com/repolex-forx/coleifer--irc) | `bbc47e2bf4` | 2026-10-20 |
 | [klen/modconfig](https://github.com/repolex-forx/klen--modconfig) | `646ce7f5a1` | 2026-10-20 |
