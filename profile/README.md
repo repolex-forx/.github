@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [coleifer/python-lsm-db](https://github.com/repolex-forx/coleifer--python-lsm-db) | `c375670648` | 2026-10-20 |
+| [klen/aioauth-client](https://github.com/repolex-forx/klen--aioauth-client) | `6b4c3d6383` | 2026-10-20 |
+| [coleifer/pysqlite3](https://github.com/repolex-forx/coleifer--pysqlite3) | `2121dfb570` | 2026-10-20 |
+| [coleifer/django-relationships](https://github.com/repolex-forx/coleifer--django-relationships) | `3574799fe5` | 2026-10-20 |
+| [klen/peewee_migrate](https://github.com/repolex-forx/klen--peewee_migrate) | `1d089f5eee` | 2026-10-20 |
+| [coleifer/unqlite-python](https://github.com/repolex-forx/coleifer--unqlite-python) | `b42c6aa4e5` | 2026-10-20 |
+| [klen/muffin](https://github.com/repolex-forx/klen--muffin) | `26b0d1edb3` | 2026-10-20 |
+| [coleifer/flask-peewee](https://github.com/repolex-forx/coleifer--flask-peewee) | `3e39055bed` | 2026-10-20 |
+| [coleifer/sqlite-web](https://github.com/repolex-forx/coleifer--sqlite-web) | `974a910019` | 2026-10-20 |
+| [coleifer/vedis-python](https://github.com/repolex-forx/coleifer--vedis-python) | `cef7f6b804` | 2026-10-20 |
 | [asottile/scratch](https://github.com/repolex-forx/asottile--scratch) | `a6016c69db` | 2026-10-20 |
 | [pyeve/eve-requests](https://github.com/repolex-forx/pyeve--eve-requests) | `f04c8aa62c` | 2026-10-20 |
 | [asottile/set-delete-branch-on-merge](https://github.com/repolex-forx/asottile--set-delete-branch-on-merge) | `d8a1163e8f` | 2026-10-20 |
