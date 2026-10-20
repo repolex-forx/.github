@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [simonw/llm-meta-ai](https://github.com/repolex-forx/simonw--llm-meta-ai) | `01c0990973` | 2026-10-20 |
+| [simonw/llm-openrouter](https://github.com/repolex-forx/simonw--llm-openrouter) | `6de4963a76` | 2026-10-20 |
+| [simonw/llm-echo](https://github.com/repolex-forx/simonw--llm-echo) | `8378368799` | 2026-10-20 |
+| [simonw/condense-json](https://github.com/repolex-forx/simonw--condense-json) | `27e812f076` | 2026-10-20 |
+| [simonw/alchemy-utils](https://github.com/repolex-forx/simonw--alchemy-utils) | `c2432fb580` | 2026-10-20 |
+| [simonw/datasette-upload-dbs](https://github.com/repolex-forx/simonw--datasette-upload-dbs) | `563cb78962` | 2026-10-20 |
+| [simonw/datasette-json-html](https://github.com/repolex-forx/simonw--datasette-json-html) | `bb4c2ed953` | 2026-10-20 |
+| [simonw/datasette-cors](https://github.com/repolex-forx/simonw--datasette-cors) | `f22b38ff3c` | 2026-10-20 |
+| [simonw/datasette-leaflet](https://github.com/repolex-forx/simonw--datasette-leaflet) | `339d993132` | 2026-10-20 |
+| [simonw/datasette-media](https://github.com/repolex-forx/simonw--datasette-media) | `99714794a0` | 2026-10-20 |
 | [adamchainz/patchy](https://github.com/repolex-forx/adamchainz--patchy) | `8f3f9bf0c0` | 2026-10-20 |
 | [adamchainz/pytest-restrict](https://github.com/repolex-forx/adamchainz--pytest-restrict) | `4deef6fed1` | 2026-10-20 |
 | [adamchainz/pytest-reverse](https://github.com/repolex-forx/adamchainz--pytest-reverse) | `84670881ea` | 2026-10-20 |
