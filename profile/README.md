@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/jaraco.translate](https://github.com/repolex-forx/jaraco--jaraco.translate) | `1d484b44c2` | 2026-10-20 |
+| [jaraco/jaraco.ui](https://github.com/repolex-forx/jaraco--jaraco.ui) | `3e251f9967` | 2026-10-20 |
+| [jaraco/jaraco.postgres](https://github.com/repolex-forx/jaraco--jaraco.postgres) | `554ebbfc83` | 2026-10-20 |
+| [jaraco/lpaste](https://github.com/repolex-forx/jaraco--lpaste) | `b8664250f3` | 2026-10-20 |
+| [jaraco/oathtool](https://github.com/repolex-forx/jaraco--oathtool) | `848ad42903` | 2026-10-20 |
+| [jaraco/openpack](https://github.com/repolex-forx/jaraco--openpack) | `0ac21d13f6` | 2026-10-20 |
+| [jaraco/jaraco.versioning](https://github.com/repolex-forx/jaraco--jaraco.versioning) | `3034138592` | 2026-10-20 |
+| [jaraco/jaraco.xkcd](https://github.com/repolex-forx/jaraco--jaraco.xkcd) | `66c125f3c6` | 2026-10-20 |
+| [jaraco/jaraco.video](https://github.com/repolex-forx/jaraco--jaraco.video) | `d96997b1cb` | 2026-10-20 |
+| [jaraco/treehouse](https://github.com/repolex-forx/jaraco--treehouse) | `3f0319244e` | 2026-10-20 |
 | [jaraco/dropbox-index](https://github.com/repolex-forx/jaraco--dropbox-index) | `4a9fb37790` | 2026-10-20 |
 | [jaraco/paradocx](https://github.com/repolex-forx/jaraco--paradocx) | `68b1e2b1a7` | 2026-10-20 |
 | [jaraco/svg.charts](https://github.com/repolex-forx/jaraco--svg.charts) | `9032cb1a99` | 2026-10-20 |
