@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [coleifer/cysqlite](https://github.com/repolex-forx/coleifer--cysqlite) | `24fddb3bff` | 2026-10-20 |
+| [coleifer/sweepea](https://github.com/repolex-forx/coleifer--sweepea) | `8343c97aa1` | 2026-10-20 |
+| [asottile/setup-py-upgrade](https://github.com/repolex-forx/asottile--setup-py-upgrade) | `9d355848f5` | 2026-10-20 |
+| [coleifer/ukt](https://github.com/repolex-forx/coleifer--ukt) | `d31d5a4586` | 2026-10-20 |
+| [coleifer/sophy](https://github.com/repolex-forx/coleifer--sophy) | `6ba13fb5ee` | 2026-10-20 |
+| [coleifer/kt](https://github.com/repolex-forx/coleifer--kt) | `40b62f4686` | 2026-10-20 |
+| [coleifer/greendb](https://github.com/repolex-forx/coleifer--greendb) | `341ab7d196` | 2026-10-20 |
+| [coleifer/sqlite3-bloomfilter](https://github.com/repolex-forx/coleifer--sqlite3-bloomfilter) | `3b39d6eb86` | 2026-10-20 |
+| [klen/nvim-test](https://github.com/repolex-forx/klen--nvim-test) | `feb834cbc8` | 2026-10-20 |
+| [lepture/flask-oauthlib](https://github.com/repolex-forx/lepture--flask-oauthlib) | `260a1d5e60` | 2026-10-20 |
 | [spulec/uncurl](https://github.com/repolex-forx/spulec--uncurl) | `ee947f48b9` | 2026-10-20 |
 | [lepture/otpauth](https://github.com/repolex-forx/lepture--otpauth) | `72374ac815` | 2026-10-20 |
 | [coleifer/ucache](https://github.com/repolex-forx/coleifer--ucache) | `19a87f84a4` | 2026-10-20 |
