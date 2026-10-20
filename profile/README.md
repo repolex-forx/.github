@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pyeve/eve-requests](https://github.com/repolex-forx/pyeve--eve-requests) | `f04c8aa62c` | 2026-10-20 |
+| [asottile/set-delete-branch-on-merge](https://github.com/repolex-forx/asottile--set-delete-branch-on-merge) | `d8a1163e8f` | 2026-10-20 |
+| [asottile/wat](https://github.com/repolex-forx/asottile--wat) | `5157ec1e64` | 2026-10-20 |
+| [asottile/awshelp](https://github.com/repolex-forx/asottile--awshelp) | `313d3328e4` | 2026-10-20 |
+| [ionelmc/django-siruta](https://github.com/repolex-forx/ionelmc--django-siruta) | `3ec1db41d3` | 2026-10-20 |
+| [ionelmc/django-admin-utils](https://github.com/repolex-forx/ionelmc--django-admin-utils) | `11f1ab9603` | 2026-10-20 |
+| [ionelmc/python-tblib](https://github.com/repolex-forx/ionelmc--python-tblib) | `d88606aab3` | 2026-10-20 |
+| [ionelmc/python-redis-lock](https://github.com/repolex-forx/ionelmc--python-redis-lock) | `e448f12f49` | 2026-10-20 |
+| [agronholm/asphalt](https://github.com/repolex-forx/agronholm--asphalt) | `e1f4a17f03` | 2026-10-20 |
 | [asottile/dead](https://github.com/repolex-forx/asottile--dead) | `579345debb` | 2026-10-20 |
 | [lepture/authlib](https://github.com/repolex-forx/lepture--authlib) | `dbf2f5c4fc` | 2026-10-20 |
 | [ionelmc/python-hunter](https://github.com/repolex-forx/ionelmc--python-hunter) | `b29fb483a1` | 2026-10-20 |
