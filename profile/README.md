@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/jaraco.zstd](https://github.com/repolex-forx/jaraco--jaraco.zstd) | `5acf7082a6` | 2026-10-20 |
+| [jaraco/librarypaste](https://github.com/repolex-forx/jaraco--librarypaste) | `c08f6b9bb5` | 2026-10-20 |
+| [jaraco/jaraco.xonsh](https://github.com/repolex-forx/jaraco--jaraco.xonsh) | `57681130fa` | 2026-10-20 |
+| [jaraco/jaraco.windows](https://github.com/repolex-forx/jaraco--jaraco.windows) | `26c6311781` | 2026-10-20 |
+| [jaraco/jaraco.mongodb](https://github.com/repolex-forx/jaraco--jaraco.mongodb) | `079ca2b7b0` | 2026-10-20 |
+| [jaraco/jaraco.fabric](https://github.com/repolex-forx/jaraco--jaraco.fabric) | `e10c79238c` | 2026-10-20 |
+| [jaraco/jaraco.abode](https://github.com/repolex-forx/jaraco--jaraco.abode) | `9dab1fa53f` | 2026-10-20 |
+| [jaraco/jaraco.crypto](https://github.com/repolex-forx/jaraco--jaraco.crypto) | `0b2e3fde12` | 2026-10-20 |
+| [jaraco/jaraco.compat](https://github.com/repolex-forx/jaraco--jaraco.compat) | `fcab2338a9` | 2026-10-20 |
+| [jaraco/jaraco.structures](https://github.com/repolex-forx/jaraco--jaraco.structures) | `69ee251ec4` | 2026-10-20 |
 | [jaraco/jaraco.media](https://github.com/repolex-forx/jaraco--jaraco.media) | `ccdeff8971` | 2026-10-20 |
 | [jaraco/jaraco.financial](https://github.com/repolex-forx/jaraco--jaraco.financial) | `59615a2747` | 2026-10-20 |
 | [jaraco/jaraco.develop](https://github.com/repolex-forx/jaraco--jaraco.develop) | `ceeeeeb31b` | 2026-10-20 |
