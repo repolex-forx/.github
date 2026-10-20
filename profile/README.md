@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/jaraco.media](https://github.com/repolex-forx/jaraco--jaraco.media) | `ccdeff8971` | 2026-10-20 |
+| [jaraco/jaraco.financial](https://github.com/repolex-forx/jaraco--jaraco.financial) | `59615a2747` | 2026-10-20 |
+| [jaraco/jaraco.develop](https://github.com/repolex-forx/jaraco--jaraco.develop) | `ceeeeeb31b` | 2026-10-20 |
+| [jaraco/jaraco.packaging](https://github.com/repolex-forx/jaraco--jaraco.packaging) | `d38bddb85c` | 2026-10-20 |
+| [jaraco/jaraco.apt](https://github.com/repolex-forx/jaraco--jaraco.apt) | `3a525a7316` | 2026-10-20 |
+| [jaraco/jaraco.office](https://github.com/repolex-forx/jaraco--jaraco.office) | `cfce41767a` | 2026-10-20 |
+| [jaraco/jaraco.services](https://github.com/repolex-forx/jaraco--jaraco.services) | `4a2b87afec` | 2026-10-20 |
+| [jaraco/jaraco.test](https://github.com/repolex-forx/jaraco--jaraco.test) | `1cb060970a` | 2026-10-20 |
+| [jaraco/jaraco.logging](https://github.com/repolex-forx/jaraco--jaraco.logging) | `5674111d17` | 2026-10-20 |
+| [jaraco/jaraco.path](https://github.com/repolex-forx/jaraco--jaraco.path) | `4e85f28b8b` | 2026-10-20 |
 | [jaraco/jaraco.translate](https://github.com/repolex-forx/jaraco--jaraco.translate) | `1d484b44c2` | 2026-10-20 |
 | [jaraco/jaraco.ui](https://github.com/repolex-forx/jaraco--jaraco.ui) | `3e251f9967` | 2026-10-20 |
 | [jaraco/jaraco.postgres](https://github.com/repolex-forx/jaraco--jaraco.postgres) | `554ebbfc83` | 2026-10-20 |
