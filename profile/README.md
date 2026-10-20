@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [lepture/authlib](https://github.com/repolex-forx/lepture--authlib) | `dbf2f5c4fc` | 2026-10-20 |
+| [ionelmc/python-hunter](https://github.com/repolex-forx/ionelmc--python-hunter) | `b29fb483a1` | 2026-10-20 |
+| [hynek/first](https://github.com/repolex-forx/hynek--first) | `d18599541b` | 2026-10-20 |
+| [hynek/stamina](https://github.com/repolex-forx/hynek--stamina) | `5c13c8e0b4` | 2026-10-20 |
+| [pyeve/eve-swagger](https://github.com/repolex-forx/pyeve--eve-swagger) | `d28f917706` | 2026-10-20 |
+| [pyeve/eve-sqlalchemy](https://github.com/repolex-forx/pyeve--eve-sqlalchemy) | `0d5fda3d47` | 2026-10-20 |
+| [pyeve/flask-sentinel](https://github.com/repolex-forx/pyeve--flask-sentinel) | `05ddb184ac` | 2026-10-20 |
+| [pyeve/events](https://github.com/repolex-forx/pyeve--events) | `e8ec95bed9` | 2026-10-20 |
+| [pyeve/eve](https://github.com/repolex-forx/pyeve--eve) | `fe7d9c919b` | 2026-10-20 |
 | [asottile/setuptools-download](https://github.com/repolex-forx/asottile--setuptools-download) | `6379d3f20e` | 2026-10-20 |
 | [asottile/git-code-debt](https://github.com/repolex-forx/asottile--git-code-debt) | `e8f2f64389` | 2026-10-20 |
 | [asottile/lazy-static](https://github.com/repolex-forx/asottile--lazy-static) | `64447c5932` | 2026-10-20 |
