@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scverse/pandas-uuid](https://github.com/repolex-forx/scverse--pandas-uuid) | `b225a81cf6` | 2026-10-21 |
+| [scverse/prelude-runner](https://github.com/repolex-forx/scverse--prelude-runner) | `171ca463fd` | 2026-10-21 |
+| [scverse/scvi-colab](https://github.com/repolex-forx/scverse--scvi-colab) | `4bf7fcf938` | 2026-10-21 |
+| [scverse/cookiecutter-scverse](https://github.com/repolex-forx/scverse--cookiecutter-scverse) | `0bebb8fe6e` | 2026-10-21 |
+| [scverse/cookiecutter-scverse-instance](https://github.com/repolex-forx/scverse--cookiecutter-scverse-instance) | `1e6d88555a` | 2026-10-21 |
+| [scverse/annbatch](https://github.com/repolex-forx/scverse--annbatch) | `aa20094e6f` | 2026-10-21 |
+| [scverse/benchmark](https://github.com/repolex-forx/scverse--benchmark) | `8a802b2489` | 2026-10-21 |
+| [scverse/scverse-doc](https://github.com/repolex-forx/scverse--scverse-doc) | `11308278ec` | 2026-10-21 |
+| [astropy/astropy-project](https://github.com/repolex-forx/astropy--astropy-project) | `e5a10e691e` | 2026-10-21 |
+| [astropy/astropy-integration-testing](https://github.com/repolex-forx/astropy--astropy-integration-testing) | `53cc0065ff` | 2026-10-21 |
 | [scverse/integration-testing](https://github.com/repolex-forx/scverse--integration-testing) | `2672587322` | 2026-10-21 |
 | [astropy/.github](https://github.com/repolex-forx/astropy--.github) | `69b634e2eb` | 2026-10-21 |
 | [marshmallow-code/marshmallow-select](https://github.com/repolex-forx/marshmallow-code--marshmallow-select) | `ca00c071d0` | 2026-10-21 |
