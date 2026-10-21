@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-gallery/sample-project](https://github.com/repolex-forx/sphinx-gallery--sample-project) | `b978779991` | 2026-10-21 |
+| [glue-viz/qt-helpers](https://github.com/repolex-forx/glue-viz--qt-helpers) | `b437b2e79a` | 2026-10-21 |
+| [jupyterhub/nbgitpuller-downloader-googledrive](https://github.com/repolex-forx/jupyterhub--nbgitpuller-downloader-googledrive) | `4e3688f0ba` | 2026-10-21 |
+| [jupyterhub/nbgitpuller-downloader-dropbox](https://github.com/repolex-forx/jupyterhub--nbgitpuller-downloader-dropbox) | `d81fa98630` | 2026-10-21 |
+| [jupyterhub/nbgitpuller-downloader-generic-web](https://github.com/repolex-forx/jupyterhub--nbgitpuller-downloader-generic-web) | `3d6080c92a` | 2026-10-21 |
+| [jupyterhub/jupyterhub-sphinx-theme](https://github.com/repolex-forx/jupyterhub--jupyterhub-sphinx-theme) | `33139829eb` | 2026-10-21 |
+| [jupyterhub/pamela](https://github.com/repolex-forx/jupyterhub--pamela) | `0894fff266` | 2026-10-21 |
+| [jupyter/notebook_shim](https://github.com/repolex-forx/jupyter--notebook_shim) | `e1baccba8e` | 2026-10-21 |
+| [jupyter/sphinxcontrib_github_alt](https://github.com/repolex-forx/jupyter--sphinxcontrib_github_alt) | `d53e47dba5` | 2026-10-21 |
+| [jupyter/echo_kernel](https://github.com/repolex-forx/jupyter--echo_kernel) | `ad2ff4f47e` | 2026-10-21 |
 | [glue-viz/glue-benchmarks](https://github.com/repolex-forx/glue-viz--glue-benchmarks) | `5af97115b6` | 2026-10-21 |
 | [jupyterhub/autodoc-traits](https://github.com/repolex-forx/jupyterhub--autodoc-traits) | `339425f57a` | 2026-10-21 |
 | [jupyterhub/simpervisor](https://github.com/repolex-forx/jupyterhub--simpervisor) | `24730d8bf9` | 2026-10-21 |
