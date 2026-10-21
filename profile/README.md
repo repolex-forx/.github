@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pylint-dev/pylint-pytest](https://github.com/repolex-forx/pylint-dev--pylint-pytest) | `fefad1b9ac` | 2026-10-21 |
+| [jupyter-server/extension-cookiecutter](https://github.com/repolex-forx/jupyter-server--extension-cookiecutter) | `c03fda1fc8` | 2026-10-21 |
+| [scverse/repo-health](https://github.com/repolex-forx/scverse--repo-health) | `caf0ff21e9` | 2026-10-21 |
+| [executablebooks/sphinx-jupyterbook-latex](https://github.com/repolex-forx/executablebooks--sphinx-jupyterbook-latex) | `70c911c74e` | 2026-10-21 |
+| [scverse/scverse-backends](https://github.com/repolex-forx/scverse--scverse-backends) | `dcb5383413` | 2026-10-21 |
+| [jupyterhub/jupyter-rsession-proxy](https://github.com/repolex-forx/jupyterhub--jupyter-rsession-proxy) | `2bc193994d` | 2026-10-21 |
+| [jupyterhub/chartpress](https://github.com/repolex-forx/jupyterhub--chartpress) | `f7d727abcc` | 2026-10-21 |
+| [jupyterhub/docker-image-cleaner](https://github.com/repolex-forx/jupyterhub--docker-image-cleaner) | `b305d4fd0f` | 2026-10-21 |
+| [jupyterhub/pytest-jupyterhub](https://github.com/repolex-forx/jupyterhub--pytest-jupyterhub) | `0bc90cdd06` | 2026-10-21 |
+| [jupyterhub/jupyterhub-idle-culler](https://github.com/repolex-forx/jupyterhub--jupyterhub-idle-culler) | `0b92132cf9` | 2026-10-21 |
 | [executablebooks/python-pkg-cookiecutter](https://github.com/repolex-forx/executablebooks--python-pkg-cookiecutter) | `e8ee7a8c51` | 2026-10-21 |
 | [jupyter/github-data](https://github.com/repolex-forx/jupyter--github-data) | `6e358088ba` | 2026-10-21 |
 | [jupyter/team-compass-template](https://github.com/repolex-forx/jupyter--team-compass-template) | `c12f15423c` | 2026-10-21 |
