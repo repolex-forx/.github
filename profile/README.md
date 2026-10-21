@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scverse/integration-testing](https://github.com/repolex-forx/scverse--integration-testing) | `2672587322` | 2026-10-21 |
+| [astropy/.github](https://github.com/repolex-forx/astropy--.github) | `69b634e2eb` | 2026-10-21 |
 | [marshmallow-code/marshmallow-select](https://github.com/repolex-forx/marshmallow-code--marshmallow-select) | `ca00c071d0` | 2026-10-21 |
 | [marshmallow-code/marshmallow-validators](https://github.com/repolex-forx/marshmallow-code--marshmallow-validators) | `2985068c86` | 2026-10-21 |
 | [sympy/sympy-bot](https://github.com/repolex-forx/sympy--sympy-bot) | `497288b563` | 2026-10-21 |
