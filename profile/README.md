@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [joblib/threadpoolctl](https://github.com/repolex-forx/joblib--threadpoolctl) | `ca1677b525` | 2026-10-21 |
+| [ibis-project/better-pypi-stats](https://github.com/repolex-forx/ibis-project--better-pypi-stats) | `b85e3f5a7f` | 2026-10-21 |
+| [ibis-project/governance](https://github.com/repolex-forx/ibis-project--governance) | `f449f3f21d` | 2026-10-21 |
+| [ibis-project/ibis-sqlflite](https://github.com/repolex-forx/ibis-project--ibis-sqlflite) | `7868c53085` | 2026-10-21 |
+| [ibis-project/ibis-analytics](https://github.com/repolex-forx/ibis-project--ibis-analytics) | `cfbf6a2a23` | 2026-10-21 |
+| [ibis-project/ibis-ml](https://github.com/repolex-forx/ibis-project--ibis-ml) | `e4a3b55b15` | 2026-10-21 |
+| [ibis-project/book](https://github.com/repolex-forx/ibis-project--book) | `0dad1cd089` | 2026-10-21 |
+| [ibis-project/ibis-substrait](https://github.com/repolex-forx/ibis-project--ibis-substrait) | `2cf1e0769e` | 2026-10-21 |
+| [vispy/webgl-insights](https://github.com/repolex-forx/vispy--webgl-insights) | `80fbc1c558` | 2026-10-21 |
+| [vispy/vispy2-sandbox](https://github.com/repolex-forx/vispy--vispy2-sandbox) | `670269944b` | 2026-10-21 |
 | [vispy/test-data](https://github.com/repolex-forx/vispy--test-data) | `c324adbeb3` | 2026-10-21 |
 | [vispy/vispy-neuro](https://github.com/repolex-forx/vispy--vispy-neuro) | `b4d5a456f9` | 2026-10-21 |
 | [holoviz/hvsampledata](https://github.com/repolex-forx/holoviz--hvsampledata) | `4119603311` | 2026-10-21 |
