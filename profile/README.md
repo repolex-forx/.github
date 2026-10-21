@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [glue-viz/glue-geospatial](https://github.com/repolex-forx/glue-viz--glue-geospatial) | `952dafb0b9` | 2026-10-21 |
+| [glue-viz/glue-medical](https://github.com/repolex-forx/glue-viz--glue-medical) | `2cd61bf8d9` | 2026-10-21 |
+| [executablebooks/sphinx-multitoc-numbering](https://github.com/repolex-forx/executablebooks--sphinx-multitoc-numbering) | `c276df8f9e` | 2026-10-21 |
+| [executablebooks/sphinx-remove-toctrees](https://github.com/repolex-forx/executablebooks--sphinx-remove-toctrees) | `07a98640c0` | 2026-10-21 |
+| [executablebooks/web-compile](https://github.com/repolex-forx/executablebooks--web-compile) | `22218c3102` | 2026-10-21 |
+| [executablebooks/sphinx-comments](https://github.com/repolex-forx/executablebooks--sphinx-comments) | `28b946ea9d` | 2026-10-21 |
+| [executablebooks/sphinx-examples](https://github.com/repolex-forx/executablebooks--sphinx-examples) | `3a7a330093` | 2026-10-21 |
+| [glue-viz/glue-samp](https://github.com/repolex-forx/glue-viz--glue-samp) | `4843bcfdb3` | 2026-10-21 |
+| [glue-viz/glue-aladin](https://github.com/repolex-forx/glue-viz--glue-aladin) | `4c68a8ee46` | 2026-10-21 |
+| [pylint-dev/cookiecutter-pylint-plugin](https://github.com/repolex-forx/pylint-dev--cookiecutter-pylint-plugin) | `803422363d` | 2026-10-21 |
 | [glue-viz/glue-pyspeckit-plugin](https://github.com/repolex-forx/glue-viz--glue-pyspeckit-plugin) | `cf28d9e504` | 2026-10-21 |
 | [glue-viz/glue-yt](https://github.com/repolex-forx/glue-viz--glue-yt) | `a9f58814ac` | 2026-10-21 |
 | [executablebooks/sphinx-ext-autodoc](https://github.com/repolex-forx/executablebooks--sphinx-ext-autodoc) | `5f04a3b36a` | 2026-10-21 |
