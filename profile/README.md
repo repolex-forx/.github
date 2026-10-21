@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [tox-dev/release-creator](https://github.com/repolex-forx/tox-dev--release-creator) | `b3d8b06f3a` | 2026-10-20 |
+| [falconry/pygments-theme](https://github.com/repolex-forx/falconry--pygments-theme) | `ba5b169902` | 2026-10-20 |
+| [bokeh/bokehrs](https://github.com/repolex-forx/bokeh--bokehrs) | `7771574ca2` | 2026-10-20 |
+| [geopandas/pgpkg](https://github.com/repolex-forx/geopandas--pgpkg) | `f9d4c5efe7` | 2026-10-20 |
+| [geopandas/benchmarks](https://github.com/repolex-forx/geopandas--benchmarks) | `057a29b2a6` | 2026-10-20 |
+| [holoviz/jupyter-panel-proxy](https://github.com/repolex-forx/holoviz--jupyter-panel-proxy) | `d1a9299312` | 2026-10-20 |
+| [scikit-image/boilerplate-utils](https://github.com/repolex-forx/scikit-image--boilerplate-utils) | `61f29f6fee` | 2026-10-20 |
+| [bokeh/bokeh-fastapi](https://github.com/repolex-forx/bokeh--bokeh-fastapi) | `15c8ae0dda` | 2026-10-20 |
+| [bokeh/bokeh-django](https://github.com/repolex-forx/bokeh--bokeh-django) | `ce5cfca5a3` | 2026-10-20 |
+| [networkx/nx-pandas](https://github.com/repolex-forx/networkx--nx-pandas) | `07314429ab` | 2026-10-20 |
 | [scrapy/gsoc2014-integration-tests](https://github.com/repolex-forx/scrapy--gsoc2014-integration-tests) | `81ee2765ea` | 2026-10-20 |
 | [graphql-python/graphene-repository-template](https://github.com/repolex-forx/graphql-python--graphene-repository-template) | `35e17a7533` | 2026-10-20 |
 | [sanic-org/discord-bot](https://github.com/repolex-forx/sanic-org--discord-bot) | `2898bfd1e7` | 2026-10-20 |
