@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [networkx/networkx.github.io](https://github.com/repolex-forx/networkx--networkx.github.io) | `61e6b94222` | 2026-10-20 |
+| [networkx/branding](https://github.com/repolex-forx/networkx--branding) | `ae3bf51c7e` | 2026-10-20 |
+| [scikit-image/skimage-org](https://github.com/repolex-forx/scikit-image--skimage-org) | `fc1307b3c6` | 2026-10-20 |
+| [bokeh/conduct.bokeh.org](https://github.com/repolex-forx/bokeh--conduct.bokeh.org) | `23c805e46a` | 2026-10-20 |
+| [bokeh/slack-invite.bokeh.org](https://github.com/repolex-forx/bokeh--slack-invite.bokeh.org) | `4f2305a265` | 2026-10-20 |
+| [scikit-image/renaissance2026-skimage](https://github.com/repolex-forx/scikit-image--renaissance2026-skimage) | `190a122982` | 2026-10-20 |
+| [shapely/shapely-wheels](https://github.com/repolex-forx/shapely--shapely-wheels) | `33ad6aa77f` | 2026-10-20 |
+| [shapely/shapely-rfc](https://github.com/repolex-forx/shapely--shapely-rfc) | `0946328ec1` | 2026-10-20 |
+| [geopandas/governance](https://github.com/repolex-forx/geopandas--governance) | `0545dd6fe8` | 2026-10-20 |
 | [tox-dev/release-creator](https://github.com/repolex-forx/tox-dev--release-creator) | `b3d8b06f3a` | 2026-10-20 |
 | [falconry/pygments-theme](https://github.com/repolex-forx/falconry--pygments-theme) | `ba5b169902` | 2026-10-20 |
 | [bokeh/bokehrs](https://github.com/repolex-forx/bokeh--bokehrs) | `7771574ca2` | 2026-10-20 |
