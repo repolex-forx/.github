@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [piccolo-orm/piccolo_benchmarks](https://github.com/repolex-forx/piccolo-orm--piccolo_benchmarks) | `4f920cc18c` | 2026-10-20 |
 | [PyCQA/meta](https://github.com/repolex-forx/PyCQA--meta) | `c31221a4c7` | 2026-10-20 |
 | [PyCQA/oeuvre](https://github.com/repolex-forx/PyCQA--oeuvre) | `927deab355` | 2026-10-20 |
 | [graphql-python/graphene-python.org](https://github.com/repolex-forx/graphql-python--graphene-python.org) | `6e69799768` | 2026-10-20 |
