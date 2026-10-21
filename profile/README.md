@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [vispy/pythonjs](https://github.com/repolex-forx/vispy--pythonjs) | `e8f6357320` | 2026-10-21 |
+| [vispy/numpy.js](https://github.com/repolex-forx/vispy--numpy.js) | `1be4ea01af` | 2026-10-21 |
+| [scikit-image/skimage-media](https://github.com/repolex-forx/scikit-image--skimage-media) | `66ebbf6485` | 2026-10-21 |
+| [scikit-image/skimage-archive](https://github.com/repolex-forx/scikit-image--skimage-archive) | `cb41121dd3` | 2026-10-21 |
+| [bokeh/pm](https://github.com/repolex-forx/bokeh--pm) | `016a5bdf71` | 2026-10-21 |
+| [networkx/.github](https://github.com/repolex-forx/networkx--.github) | `627db82570` | 2026-10-21 |
+| [pyca/infra](https://github.com/repolex-forx/pyca--infra) | `137aa2e2b9` | 2026-10-21 |
+| [tox-dev/github-workflows](https://github.com/repolex-forx/tox-dev--github-workflows) | `aa039a0106` | 2026-10-21 |
+| [litestar-org/.github](https://github.com/repolex-forx/litestar-org--.github) | `0c0a5f01bb` | 2026-10-21 |
+| [litestar-org/project-template](https://github.com/repolex-forx/litestar-org--project-template) | `47f05bd5aa` | 2026-10-21 |
 | [geopandas/geopandas-user-surveys](https://github.com/repolex-forx/geopandas--geopandas-user-surveys) | `93ca04635b` | 2026-10-20 |
 | [py-pdf/py-pdf.github.io](https://github.com/repolex-forx/py-pdf--py-pdf.github.io) | `5aa20d2fcd` | 2026-10-20 |
 | [scikit-image/skimage-branding](https://github.com/repolex-forx/scikit-image--skimage-branding) | `4265eec74b` | 2026-10-20 |
