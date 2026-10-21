@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pandas-dev/pandas-dev-flaker](https://github.com/repolex-forx/pandas-dev--pandas-dev-flaker) | `7336459987` | 2026-10-21 |
+| [pandas-dev/pandas-benchmarks](https://github.com/repolex-forx/pandas-dev--pandas-benchmarks) | `6cceefa00d` | 2026-10-21 |
+| [astropy/astropy.github.com](https://github.com/repolex-forx/astropy--astropy.github.com) | `faa056f7d9` | 2026-10-21 |
+| [pydata/pydata2012](https://github.com/repolex-forx/pydata--pydata2012) | `a742181e0d` | 2026-10-21 |
+| [pydata/notebooks](https://github.com/repolex-forx/pydata--notebooks) | `f2b40f7c7a` | 2026-10-21 |
+| [pydata/compilers-webpage](https://github.com/repolex-forx/pydata--compilers-webpage) | `146432378f` | 2026-10-21 |
+| [pydata/duck-array-discussion](https://github.com/repolex-forx/pydata--duck-array-discussion) | `53b035afc8` | 2026-10-21 |
+| [pandas-dev/github-doc-previewer](https://github.com/repolex-forx/pandas-dev--github-doc-previewer) | `7a1ea7e96d` | 2026-10-21 |
+| [pandas-dev/pandas-governance](https://github.com/repolex-forx/pandas-dev--pandas-governance) | `fd14ad5cfe` | 2026-10-21 |
+| [pandas-dev/.github](https://github.com/repolex-forx/pandas-dev--.github) | `5680a17581` | 2026-10-21 |
 | [pydata/TownHall](https://github.com/repolex-forx/pydata--TownHall) | `8648b513db` | 2026-10-21 |
 | [pydata/PyDataNYC2013](https://github.com/repolex-forx/pydata--PyDataNYC2013) | `a259dd4579` | 2026-10-21 |
 | [pydata/parallel](https://github.com/repolex-forx/pydata--parallel) | `ebac6249c0` | 2026-10-21 |
