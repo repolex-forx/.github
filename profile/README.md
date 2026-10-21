@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [altair-viz/altair_matplotlib](https://github.com/repolex-forx/altair-viz--altair_matplotlib) | `531daf18cd` | 2026-10-21 |
+| [glue-viz/glue-networks](https://github.com/repolex-forx/glue-viz--glue-networks) | `a59cb1858e` | 2026-10-21 |
+| [glue-viz/glue-h5part](https://github.com/repolex-forx/glue-viz--glue-h5part) | `969aed7046` | 2026-10-21 |
+| [glue-viz/glue-vaex](https://github.com/repolex-forx/glue-viz--glue-vaex) | `6451a93419` | 2026-10-21 |
+| [executablebooks/jupyter-cache-upgrader](https://github.com/repolex-forx/executablebooks--jupyter-cache-upgrader) | `3cb4c7c80b` | 2026-10-21 |
+| [glue-viz/glue-noaodatalab](https://github.com/repolex-forx/glue-viz--glue-noaodatalab) | `2d920988e6` | 2026-10-21 |
+| [glue-viz/axescache](https://github.com/repolex-forx/glue-viz--axescache) | `c11fad7189` | 2026-10-21 |
+| [glue-viz/glue-dataverse](https://github.com/repolex-forx/glue-viz--glue-dataverse) | `5e98fb0d78` | 2026-10-21 |
+| [glue-viz/glue-cli](https://github.com/repolex-forx/glue-viz--glue-cli) | `cfae3786b9` | 2026-10-21 |
+| [altair-viz/altair_scale](https://github.com/repolex-forx/altair-viz--altair_scale) | `46fda7e2fd` | 2026-10-21 |
 | [astropy/astropy-APEs](https://github.com/repolex-forx/astropy--astropy-APEs) | `755aaa515e` | 2026-10-21 |
 | [astropy/photutils-benchmarks](https://github.com/repolex-forx/astropy--photutils-benchmarks) | `8a9ae29a4f` | 2026-10-21 |
 | [scverse/fast-array-utils](https://github.com/repolex-forx/scverse--fast-array-utils) | `dce1f85e9d` | 2026-10-21 |
