@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jupyter-server/pycrdt-websocket](https://github.com/repolex-forx/jupyter-server--pycrdt-websocket) | `0b9a09b0e4` | 2026-10-21 |
+| [jupyter/schema](https://github.com/repolex-forx/jupyter--schema) | `6ab0f1f8d8` | 2026-10-21 |
+| [glue-viz/state-based-viewer](https://github.com/repolex-forx/glue-viz--state-based-viewer) | `4a38f61903` | 2026-10-21 |
+| [jupyterhub/ltiauthenticator](https://github.com/repolex-forx/jupyterhub--ltiauthenticator) | `c0c3bf3a7a` | 2026-10-21 |
+| [executablebooks/multi-book-demo](https://github.com/repolex-forx/executablebooks--multi-book-demo) | `763fa31e4d` | 2026-10-21 |
+| [scverse/spatial-sample-aggregation](https://github.com/repolex-forx/scverse--spatial-sample-aggregation) | `5fff32e623` | 2026-10-21 |
+| [executablebooks/myst-parser.example-project](https://github.com/repolex-forx/executablebooks--myst-parser.example-project) | `da8e9f0a08` | 2026-10-21 |
+| [astropy/astropy-tools](https://github.com/repolex-forx/astropy--astropy-tools) | `73f458424a` | 2026-10-21 |
+| [executablebooks/sphinx-tomyst](https://github.com/repolex-forx/executablebooks--sphinx-tomyst) | `b0eeecc787` | 2026-10-21 |
+| [astropy/community_management](https://github.com/repolex-forx/astropy--community_management) | `9d0a37edd9` | 2026-10-21 |
 | [pylint-dev/pylint-pytest](https://github.com/repolex-forx/pylint-dev--pylint-pytest) | `fefad1b9ac` | 2026-10-21 |
 | [jupyter-server/extension-cookiecutter](https://github.com/repolex-forx/jupyter-server--extension-cookiecutter) | `c03fda1fc8` | 2026-10-21 |
 | [scverse/repo-health](https://github.com/repolex-forx/scverse--repo-health) | `caf0ff21e9` | 2026-10-21 |
