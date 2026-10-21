@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [geopandas/geopandas-user-surveys](https://github.com/repolex-forx/geopandas--geopandas-user-surveys) | `93ca04635b` | 2026-10-20 |
+| [py-pdf/py-pdf.github.io](https://github.com/repolex-forx/py-pdf--py-pdf.github.io) | `5aa20d2fcd` | 2026-10-20 |
+| [scikit-image/skimage-branding](https://github.com/repolex-forx/scikit-image--skimage-branding) | `4265eec74b` | 2026-10-20 |
+| [scikit-image/scikit-image.github.com](https://github.com/repolex-forx/scikit-image--scikit-image.github.com) | `cb9a4ad056` | 2026-10-20 |
+| [scikit-image/skimage-web](https://github.com/repolex-forx/scikit-image--skimage-web) | `6cfc7a586b` | 2026-10-20 |
+| [bokeh/jupyter_bokeh](https://github.com/repolex-forx/bokeh--jupyter_bokeh) | `475f4e96f9` | 2026-10-20 |
+| [bokeh/ipywidgets_bokeh](https://github.com/repolex-forx/bokeh--ipywidgets_bokeh) | `350a70e068` | 2026-10-20 |
+| [bokeh/demo.bokeh.org](https://github.com/repolex-forx/bokeh--demo.bokeh.org) | `c8d25bfb95` | 2026-10-20 |
+| [networkx/nx-parallel](https://github.com/repolex-forx/networkx--nx-parallel) | `cbddbd0fcd` | 2026-10-20 |
+| [networkx/website](https://github.com/repolex-forx/networkx--website) | `5205872c8e` | 2026-10-20 |
 | [Toblerity/fiona-rfc](https://github.com/repolex-forx/Toblerity--fiona-rfc) | `108b324edb` | 2026-10-20 |
 | [explosion/curated-tokenizers](https://github.com/repolex-forx/explosion--curated-tokenizers) | `e11413cfb5` | 2026-10-20 |
 | [explosion/radicli](https://github.com/repolex-forx/explosion--radicli) | `c472cf8093` | 2026-10-20 |
