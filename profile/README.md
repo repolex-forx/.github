@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [glue-viz/glue-benchmarks](https://github.com/repolex-forx/glue-viz--glue-benchmarks) | `5af97115b6` | 2026-10-21 |
+| [jupyterhub/autodoc-traits](https://github.com/repolex-forx/jupyterhub--autodoc-traits) | `339425f57a` | 2026-10-21 |
+| [jupyterhub/simpervisor](https://github.com/repolex-forx/jupyterhub--simpervisor) | `24730d8bf9` | 2026-10-21 |
+| [twisted/twisted-iocpsupport](https://github.com/repolex-forx/twisted--twisted-iocpsupport) | `e4d81ed027` | 2026-10-21 |
+| [twisted/python-info-action](https://github.com/repolex-forx/twisted--python-info-action) | `9b0e75d126` | 2026-10-21 |
+| [jupyterhub/kerberosauthenticator](https://github.com/repolex-forx/jupyterhub--kerberosauthenticator) | `3c5f60d084` | 2026-10-21 |
+| [executablebooks/mdformat-footnote](https://github.com/repolex-forx/executablebooks--mdformat-footnote) | `9a174e4cba` | 2026-10-21 |
+| [executablebooks/mdformat-myst](https://github.com/repolex-forx/executablebooks--mdformat-myst) | `888b07deb5` | 2026-10-21 |
+| [glue-viz/glue-openspace](https://github.com/repolex-forx/glue-viz--glue-openspace) | `c75fd25b24` | 2026-10-21 |
+| [glue-viz/glue-exp](https://github.com/repolex-forx/glue-viz--glue-exp) | `23914e7382` | 2026-10-21 |
 | [glue-viz/glue-geospatial](https://github.com/repolex-forx/glue-viz--glue-geospatial) | `952dafb0b9` | 2026-10-21 |
 | [glue-viz/glue-medical](https://github.com/repolex-forx/glue-viz--glue-medical) | `2cd61bf8d9` | 2026-10-21 |
 | [executablebooks/sphinx-multitoc-numbering](https://github.com/repolex-forx/executablebooks--sphinx-multitoc-numbering) | `c276df8f9e` | 2026-10-21 |
