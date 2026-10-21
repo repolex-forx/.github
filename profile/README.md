@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jupyterhub/gh-scoped-creds](https://github.com/repolex-forx/jupyterhub--gh-scoped-creds) | `fe538a4bbc` | 2026-10-21 |
+| [scverse/spatialdata-integration-testing](https://github.com/repolex-forx/scverse--spatialdata-integration-testing) | `4982079e51` | 2026-10-21 |
+| [glue-viz/glue-statistics](https://github.com/repolex-forx/glue-viz--glue-statistics) | `f0ab7f5a79` | 2026-10-21 |
+| [jupyterhub/jupyterhub-deploy-docker](https://github.com/repolex-forx/jupyterhub--jupyterhub-deploy-docker) | `e2b79700d3` | 2026-10-21 |
+| [glue-viz/bermuda](https://github.com/repolex-forx/glue-viz--bermuda) | `0bc26bac37` | 2026-10-21 |
+| [twisted/process-robot](https://github.com/repolex-forx/twisted--process-robot) | `9579eb3caa` | 2026-10-21 |
+| [twisted/pydoctor_primer](https://github.com/repolex-forx/twisted--pydoctor_primer) | `8f597cfad4` | 2026-10-21 |
+| [glue-viz/glue-bot](https://github.com/repolex-forx/glue-viz--glue-bot) | `a668d7ea11` | 2026-10-21 |
+| [glue-viz/glue-data-loaders](https://github.com/repolex-forx/glue-viz--glue-data-loaders) | `33b33f14db` | 2026-10-21 |
+| [glue-viz/glue-ci](https://github.com/repolex-forx/glue-viz--glue-ci) | `3226bd1b5f` | 2026-10-21 |
 | [jupyter-server/pycrdt-websocket](https://github.com/repolex-forx/jupyter-server--pycrdt-websocket) | `0b9a09b0e4` | 2026-10-21 |
 | [jupyter/schema](https://github.com/repolex-forx/jupyter--schema) | `6ab0f1f8d8` | 2026-10-21 |
 | [glue-viz/state-based-viewer](https://github.com/repolex-forx/glue-viz--state-based-viewer) | `4a38f61903` | 2026-10-21 |
