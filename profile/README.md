@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [joblib/joblib-spark](https://github.com/repolex-forx/joblib--joblib-spark) | `6e9931f7a1` | 2026-10-21 |
+| [joblib/loky](https://github.com/repolex-forx/joblib--loky) | `09f70d66b5` | 2026-10-21 |
+| [ibis-project/ibis-dask](https://github.com/repolex-forx/ibis-project--ibis-dask) | `30af5be5a2` | 2026-10-21 |
+| [ibis-project/ibis-bigquery](https://github.com/repolex-forx/ibis-project--ibis-bigquery) | `496f93556d` | 2026-10-21 |
+| [ibis-project/ibis-flink-tutorial](https://github.com/repolex-forx/ibis-project--ibis-flink-tutorial) | `08cfeef6da` | 2026-10-21 |
+| [ibis-project/talks](https://github.com/repolex-forx/ibis-project--talks) | `258cc49736` | 2026-10-21 |
+| [ibis-project/kedro-ibis-tutorial](https://github.com/repolex-forx/ibis-project--kedro-ibis-tutorial) | `79df705473` | 2026-10-21 |
+| [ibis-project/ibis-examples](https://github.com/repolex-forx/ibis-project--ibis-examples) | `0b4cbc3f74` | 2026-10-21 |
+| [ibis-project/ibis-tutorial](https://github.com/repolex-forx/ibis-project--ibis-tutorial) | `17696929a3` | 2026-10-21 |
+| [ibis-project/realtime-fraud-detection](https://github.com/repolex-forx/ibis-project--realtime-fraud-detection) | `f5ea8ea150` | 2026-10-21 |
 | [joblib/threadpoolctl](https://github.com/repolex-forx/joblib--threadpoolctl) | `ca1677b525` | 2026-10-21 |
 | [ibis-project/better-pypi-stats](https://github.com/repolex-forx/ibis-project--better-pypi-stats) | `b85e3f5a7f` | 2026-10-21 |
 | [ibis-project/governance](https://github.com/repolex-forx/ibis-project--governance) | `f449f3f21d` | 2026-10-21 |
