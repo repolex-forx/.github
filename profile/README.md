@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [executablebooks/python-pkg-cookiecutter](https://github.com/repolex-forx/executablebooks--python-pkg-cookiecutter) | `e8ee7a8c51` | 2026-10-21 |
+| [jupyter/github-data](https://github.com/repolex-forx/jupyter--github-data) | `6e358088ba` | 2026-10-21 |
+| [jupyter/team-compass-template](https://github.com/repolex-forx/jupyter--team-compass-template) | `c12f15423c` | 2026-10-21 |
+| [jupyterhub/nbgitpuller-downloader-plugins](https://github.com/repolex-forx/jupyterhub--nbgitpuller-downloader-plugins) | `646857507f` | 2026-10-21 |
+| [glue-viz/glue-plugin-template](https://github.com/repolex-forx/glue-viz--glue-plugin-template) | `c46742a3b3` | 2026-10-21 |
+| [glue-viz/samp-sandbox](https://github.com/repolex-forx/glue-viz--samp-sandbox) | `16600da6c8` | 2026-10-21 |
+| [twisted/cython-test-exception-raiser](https://github.com/repolex-forx/twisted--cython-test-exception-raiser) | `c0c28994d5` | 2026-10-21 |
+| [jupyterhub/jupyterhub-python-repo-template](https://github.com/repolex-forx/jupyterhub--jupyterhub-python-repo-template) | `3bcbc80551` | 2026-10-21 |
+| [astropy/astropy-mentoring](https://github.com/repolex-forx/astropy--astropy-mentoring) | `beb1965abd` | 2026-10-21 |
+| [jupyterhub/jupyterhub-deploy-hpc](https://github.com/repolex-forx/jupyterhub--jupyterhub-deploy-hpc) | `fbffef1aac` | 2026-10-21 |
 | [sphinx-gallery/sample-project](https://github.com/repolex-forx/sphinx-gallery--sample-project) | `b978779991` | 2026-10-21 |
 | [glue-viz/qt-helpers](https://github.com/repolex-forx/glue-viz--qt-helpers) | `b437b2e79a` | 2026-10-21 |
 | [jupyterhub/nbgitpuller-downloader-googledrive](https://github.com/repolex-forx/jupyterhub--nbgitpuller-downloader-googledrive) | `4e3688f0ba` | 2026-10-21 |
