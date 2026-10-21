@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [py-pdf/benchmarks](https://github.com/repolex-forx/py-pdf--benchmarks) | `5c7640adc0` | 2026-10-20 |
 | [aio-libs/aiohttp-admin](https://github.com/repolex-forx/aio-libs--aiohttp-admin) | `81ff53bcea` | 2026-10-20 |
 | [aio-libs/aiohttp-demos](https://github.com/repolex-forx/aio-libs--aiohttp-demos) | `7e2600701a` | 2026-10-20 |
 | [graphql-python/swapi-graphene](https://github.com/repolex-forx/graphql-python--swapi-graphene) | `5d92929640` | 2026-10-20 |
