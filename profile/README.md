@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [glue-viz/glue-pyspeckit-plugin](https://github.com/repolex-forx/glue-viz--glue-pyspeckit-plugin) | `cf28d9e504` | 2026-10-21 |
+| [glue-viz/glue-yt](https://github.com/repolex-forx/glue-viz--glue-yt) | `a9f58814ac` | 2026-10-21 |
+| [executablebooks/sphinx-ext-autodoc](https://github.com/repolex-forx/executablebooks--sphinx-ext-autodoc) | `5f04a3b36a` | 2026-10-21 |
+| [glue-viz/glueviz](https://github.com/repolex-forx/glue-viz--glueviz) | `7b3845a736` | 2026-10-21 |
+| [executablebooks/sphinx-conditional-asset](https://github.com/repolex-forx/executablebooks--sphinx-conditional-asset) | `0228a75ff0` | 2026-10-21 |
+| [executablebooks/mdformat-plugin](https://github.com/repolex-forx/executablebooks--mdformat-plugin) | `38530fd7fa` | 2026-10-21 |
+| [executablebooks/mdformat-deflist](https://github.com/repolex-forx/executablebooks--mdformat-deflist) | `83e4b1810c` | 2026-10-21 |
+| [glue-viz/glue-specviz](https://github.com/repolex-forx/glue-viz--glue-specviz) | `3fa33fda16` | 2026-10-21 |
+| [glue-viz/glue-regions](https://github.com/repolex-forx/glue-viz--glue-regions) | `52cbd0cf94` | 2026-10-21 |
+| [glue-viz/glue-qt-ai](https://github.com/repolex-forx/glue-viz--glue-qt-ai) | `90c3ae2ca7` | 2026-10-21 |
 | [altair-viz/altair_matplotlib](https://github.com/repolex-forx/altair-viz--altair_matplotlib) | `531daf18cd` | 2026-10-21 |
 | [glue-viz/glue-networks](https://github.com/repolex-forx/glue-viz--glue-networks) | `a59cb1858e` | 2026-10-21 |
 | [glue-viz/glue-h5part](https://github.com/repolex-forx/glue-viz--glue-h5part) | `969aed7046` | 2026-10-21 |
