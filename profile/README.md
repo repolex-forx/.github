@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scrapy/gsoc2014-integration-tests](https://github.com/repolex-forx/scrapy--gsoc2014-integration-tests) | `81ee2765ea` | 2026-10-20 |
+| [graphql-python/graphene-repository-template](https://github.com/repolex-forx/graphql-python--graphene-repository-template) | `35e17a7533` | 2026-10-20 |
+| [sanic-org/discord-bot](https://github.com/repolex-forx/sanic-org--discord-bot) | `2898bfd1e7` | 2026-10-20 |
+| [sanic-org/simple-tox-action](https://github.com/repolex-forx/sanic-org--simple-tox-action) | `645bfc92ce` | 2026-10-20 |
+| [scrapy/scrapy-lint](https://github.com/repolex-forx/scrapy--scrapy-lint) | `30a387279f` | 2026-10-20 |
+| [scrapy/sphinx-llm-friendly](https://github.com/repolex-forx/scrapy--sphinx-llm-friendly) | `2f5b77c315` | 2026-10-20 |
+| [sanic-org/sanic-assets](https://github.com/repolex-forx/sanic-org--sanic-assets) | `79af646b79` | 2026-10-20 |
+| [scrapy/unattended-pr-guard](https://github.com/repolex-forx/scrapy--unattended-pr-guard) | `1e3c311342` | 2026-10-20 |
+| [scrapy/scrapy-mcp-official](https://github.com/repolex-forx/scrapy--scrapy-mcp-official) | `5530c671a7` | 2026-10-20 |
+| [scrapy/scrapy-agent-plugin](https://github.com/repolex-forx/scrapy--scrapy-agent-plugin) | `d424e42a35` | 2026-10-20 |
 | [PyCQA/vscode-bandit](https://github.com/repolex-forx/PyCQA--vscode-bandit) | `d3210e1244` | 2026-10-20 |
 | [PyCQA/bandit-action](https://github.com/repolex-forx/PyCQA--bandit-action) | `044eb14cd9` | 2026-10-20 |
 | [scrapy/booksbot](https://github.com/repolex-forx/scrapy--booksbot) | `959a7dcdcf` | 2026-10-20 |
