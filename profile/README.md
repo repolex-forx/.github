@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [explosion/ml-datasets](https://github.com/repolex-forx/explosion--ml-datasets) | `ccdea9532c` | 2026-10-20 |
 | [networkx/networkx.github.io](https://github.com/repolex-forx/networkx--networkx.github.io) | `61e6b94222` | 2026-10-20 |
 | [networkx/branding](https://github.com/repolex-forx/networkx--branding) | `ae3bf51c7e` | 2026-10-20 |
 | [scikit-image/skimage-org](https://github.com/repolex-forx/scikit-image--skimage-org) | `fc1307b3c6` | 2026-10-20 |
