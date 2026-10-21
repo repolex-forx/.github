@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [astropy/quantity-2.0](https://github.com/repolex-forx/astropy--quantity-2.0) | `c0d69c7c32` | 2026-10-21 |
+| [astropy/repo_stats](https://github.com/repolex-forx/astropy--repo_stats) | `1fdecce153` | 2026-10-21 |
+| [scverse/spatialdata](https://github.com/repolex-forx/scverse--spatialdata) | `1d5dcbebcf` | 2026-10-21 |
+| [networkx/networkx-metis](https://github.com/repolex-forx/networkx--networkx-metis) | `26a51ddad5` | 2026-10-21 |
+| [pandas-dev/pandas-msgpack](https://github.com/repolex-forx/pandas-dev--pandas-msgpack) | `51e9ef0ace` | 2026-10-21 |
+| [scverse/anndataR](https://github.com/repolex-forx/scverse--anndataR) | `24f52ce320` | 2026-10-21 |
+| [scikit-image/multibuild](https://github.com/repolex-forx/scikit-image--multibuild) | `0623c58202` | 2026-10-21 |
+| [scikit-image/euroscipy24-tutorial](https://github.com/repolex-forx/scikit-image--euroscipy24-tutorial) | `8ece276bae` | 2026-10-21 |
+| [networkx/grave](https://github.com/repolex-forx/networkx--grave) | `944049f4fa` | 2026-10-21 |
+| [networkx/nx-benchmarks](https://github.com/repolex-forx/networkx--nx-benchmarks) | `25dccf0004` | 2026-10-21 |
 | [pandas-dev/pandas-dev-flaker](https://github.com/repolex-forx/pandas-dev--pandas-dev-flaker) | `7336459987` | 2026-10-21 |
 | [pandas-dev/pandas-benchmarks](https://github.com/repolex-forx/pandas-dev--pandas-benchmarks) | `6cceefa00d` | 2026-10-21 |
 | [astropy/astropy.github.com](https://github.com/repolex-forx/astropy--astropy.github.com) | `faa056f7d9` | 2026-10-21 |
