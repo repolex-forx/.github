@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [aio-libs/aiohttp-admin](https://github.com/repolex-forx/aio-libs--aiohttp-admin) | `81ff53bcea` | 2026-10-20 |
+| [aio-libs/aiohttp-demos](https://github.com/repolex-forx/aio-libs--aiohttp-demos) | `7e2600701a` | 2026-10-20 |
+| [graphql-python/swapi-graphene](https://github.com/repolex-forx/graphql-python--swapi-graphene) | `5d92929640` | 2026-10-20 |
+| [PyCQA/mccabe-console-script](https://github.com/repolex-forx/PyCQA--mccabe-console-script) | `148fc6755e` | 2026-10-20 |
+| [sanic-org/html5tagger](https://github.com/repolex-forx/sanic-org--html5tagger) | `e3e0c04478` | 2026-10-20 |
+| [sanic-org/tracerite](https://github.com/repolex-forx/sanic-org--tracerite) | `c4080c02d1` | 2026-10-20 |
+| [sanic-org/sanic](https://github.com/repolex-forx/sanic-org--sanic) | `5ffc7b3710` | 2026-10-20 |
+| [py-pdf/pypdf_table_extraction](https://github.com/repolex-forx/py-pdf--pypdf_table_extraction) | `3aa87032bf` | 2026-10-20 |
+| [py-pdf/fpdf2](https://github.com/repolex-forx/py-pdf--fpdf2) | `aee7cd1174` | 2026-10-20 |
 | [tortoise/orm-benchmarks](https://github.com/repolex-forx/tortoise--orm-benchmarks) | `6a5b4ebd43` | 2026-10-20 |
 | [webpy/webpy-examples](https://github.com/repolex-forx/webpy--webpy-examples) | `196ec74f12` | 2026-10-20 |
 | [graphql-python/gql-next](https://github.com/repolex-forx/graphql-python--gql-next) | `1e583a203d` | 2026-10-20 |
