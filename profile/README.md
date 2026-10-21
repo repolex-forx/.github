@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Toblerity/fiona-rfc](https://github.com/repolex-forx/Toblerity--fiona-rfc) | `108b324edb` | 2026-10-20 |
+| [explosion/curated-tokenizers](https://github.com/repolex-forx/explosion--curated-tokenizers) | `e11413cfb5` | 2026-10-20 |
+| [explosion/radicli](https://github.com/repolex-forx/explosion--radicli) | `c472cf8093` | 2026-10-20 |
+| [explosion/cymem](https://github.com/repolex-forx/explosion--cymem) | `ab7415bc36` | 2026-10-20 |
+| [explosion/preshed](https://github.com/repolex-forx/explosion--preshed) | `18eb82ba07` | 2026-10-20 |
+| [explosion/murmurhash](https://github.com/repolex-forx/explosion--murmurhash) | `58831632da` | 2026-10-20 |
+| [explosion/fastapi-explosion-extras](https://github.com/repolex-forx/explosion--fastapi-explosion-extras) | `b8cbf8c284` | 2026-10-20 |
+| [explosion/thinc-apple-ops](https://github.com/repolex-forx/explosion--thinc-apple-ops) | `ca926d94f6` | 2026-10-20 |
+| [litestar-org/awesome-litestar](https://github.com/repolex-forx/litestar-org--awesome-litestar) | `18a06dba3e` | 2026-10-20 |
+| [explosion/spacy-alignments](https://github.com/repolex-forx/explosion--spacy-alignments) | `67a902acfe` | 2026-10-20 |
 | [explosion/ml-datasets](https://github.com/repolex-forx/explosion--ml-datasets) | `ccdea9532c` | 2026-10-20 |
 | [networkx/networkx.github.io](https://github.com/repolex-forx/networkx--networkx.github.io) | `61e6b94222` | 2026-10-20 |
 | [networkx/branding](https://github.com/repolex-forx/networkx--branding) | `ae3bf51c7e` | 2026-10-20 |
