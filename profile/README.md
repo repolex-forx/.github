@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pydata/TownHall](https://github.com/repolex-forx/pydata--TownHall) | `8648b513db` | 2026-10-21 |
+| [pydata/PyDataNYC2013](https://github.com/repolex-forx/pydata--PyDataNYC2013) | `a259dd4579` | 2026-10-21 |
+| [pydata/parallel](https://github.com/repolex-forx/pydata--parallel) | `ebac6249c0` | 2026-10-21 |
+| [pydata/parallel-tutorial](https://github.com/repolex-forx/pydata--parallel-tutorial) | `0e7f564deb` | 2026-10-21 |
+| [pydata/pyrallel](https://github.com/repolex-forx/pydata--pyrallel) | `761cbf7783` | 2026-10-21 |
+| [pydata/pydata-google-auth](https://github.com/repolex-forx/pydata--pydata-google-auth) | `ab923498a4` | 2026-10-21 |
+| [scverse/session-info2](https://github.com/repolex-forx/scverse--session-info2) | `528efcdc76` | 2026-10-21 |
+| [scverse/acumen](https://github.com/repolex-forx/scverse--acumen) | `ee1ea4aa0f` | 2026-10-21 |
+| [scverse/sp-ops](https://github.com/repolex-forx/scverse--sp-ops) | `4444ac9d0c` | 2026-10-21 |
+| [scverse/ecosystem-packages](https://github.com/repolex-forx/scverse--ecosystem-packages) | `ae89b293ab` | 2026-10-21 |
 | [scverse/pandas-uuid](https://github.com/repolex-forx/scverse--pandas-uuid) | `b225a81cf6` | 2026-10-21 |
 | [scverse/prelude-runner](https://github.com/repolex-forx/scverse--prelude-runner) | `171ca463fd` | 2026-10-21 |
 | [scverse/scvi-colab](https://github.com/repolex-forx/scverse--scvi-colab) | `4bf7fcf938` | 2026-10-21 |
