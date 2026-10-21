@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [PyCQA/meta](https://github.com/repolex-forx/PyCQA--meta) | `c31221a4c7` | 2026-10-20 |
+| [PyCQA/oeuvre](https://github.com/repolex-forx/PyCQA--oeuvre) | `927deab355` | 2026-10-20 |
+| [graphql-python/graphene-python.org](https://github.com/repolex-forx/graphql-python--graphene-python.org) | `6e69799768` | 2026-10-20 |
+| [sanic-org/sanic-guide](https://github.com/repolex-forx/sanic-org--sanic-guide) | `2719a58b8c` | 2026-10-20 |
+| [sanic-org/sanic-docker](https://github.com/repolex-forx/sanic-org--sanic-docker) | `3406c70aeb` | 2026-10-20 |
+| [py-pdf/pdf-crawler](https://github.com/repolex-forx/py-pdf--pdf-crawler) | `8c9228a22f` | 2026-10-20 |
+| [py-pdf/sample-files](https://github.com/repolex-forx/py-pdf--sample-files) | `02b8203bf4` | 2026-10-20 |
+| [py-pdf/PyPDF-Builder](https://github.com/repolex-forx/py-pdf--PyPDF-Builder) | `5dce41b09a` | 2026-10-20 |
+| [py-pdf/awesome-pdf](https://github.com/repolex-forx/py-pdf--awesome-pdf) | `9f015f869e` | 2026-10-20 |
 | [py-pdf/benchmarks](https://github.com/repolex-forx/py-pdf--benchmarks) | `5c7640adc0` | 2026-10-20 |
 | [aio-libs/aiohttp-admin](https://github.com/repolex-forx/aio-libs--aiohttp-admin) | `81ff53bcea` | 2026-10-20 |
 | [aio-libs/aiohttp-demos](https://github.com/repolex-forx/aio-libs--aiohttp-demos) | `7e2600701a` | 2026-10-20 |
