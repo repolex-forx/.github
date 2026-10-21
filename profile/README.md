@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [astropy/astropy-APEs](https://github.com/repolex-forx/astropy--astropy-APEs) | `755aaa515e` | 2026-10-21 |
+| [astropy/photutils-benchmarks](https://github.com/repolex-forx/astropy--photutils-benchmarks) | `8a9ae29a4f` | 2026-10-21 |
+| [scverse/fast-array-utils](https://github.com/repolex-forx/scverse--fast-array-utils) | `dce1f85e9d` | 2026-10-21 |
+| [scverse/scverse-misc](https://github.com/repolex-forx/scverse--scverse-misc) | `abeb0bdc84` | 2026-10-21 |
+| [scverse/stats](https://github.com/repolex-forx/scverse--stats) | `c0a555b623` | 2026-10-21 |
+| [scverse/formulaic-contrasts](https://github.com/repolex-forx/scverse--formulaic-contrasts) | `180d601657` | 2026-10-21 |
+| [scverse/governance](https://github.com/repolex-forx/scverse--governance) | `74bd25edb8` | 2026-10-21 |
+| [astropy/pytest-filter-subpackage](https://github.com/repolex-forx/astropy--pytest-filter-subpackage) | `30737bed6b` | 2026-10-21 |
+| [scverse/simple-scvi](https://github.com/repolex-forx/scverse--simple-scvi) | `3841a763d6` | 2026-10-21 |
+| [scverse/gpu-ci-config](https://github.com/repolex-forx/scverse--gpu-ci-config) | `d877dcfddb` | 2026-10-21 |
 | [astropy/quantity-2.0](https://github.com/repolex-forx/astropy--quantity-2.0) | `c0d69c7c32` | 2026-10-21 |
 | [astropy/repo_stats](https://github.com/repolex-forx/astropy--repo_stats) | `1fdecce153` | 2026-10-21 |
 | [scverse/spatialdata](https://github.com/repolex-forx/scverse--spatialdata) | `1d5dcbebcf` | 2026-10-21 |
