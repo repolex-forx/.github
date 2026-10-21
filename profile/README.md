@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [marshmallow-code/marshmallow-select](https://github.com/repolex-forx/marshmallow-code--marshmallow-select) | `ca00c071d0` | 2026-10-21 |
+| [marshmallow-code/marshmallow-validators](https://github.com/repolex-forx/marshmallow-code--marshmallow-validators) | `2985068c86` | 2026-10-21 |
+| [sympy/sympy-bot](https://github.com/repolex-forx/sympy--sympy-bot) | `497288b563` | 2026-10-21 |
+| [sympy/SymPEPs](https://github.com/repolex-forx/sympy--SymPEPs) | `d8458b0fec` | 2026-10-21 |
+| [sympy/sympy-notebooks](https://github.com/repolex-forx/sympy--sympy-notebooks) | `1878319fce` | 2026-10-21 |
+| [sympy/sympy-live](https://github.com/repolex-forx/sympy--sympy-live) | `2f4e47c221` | 2026-10-21 |
+| [sympy/sphinx-math-dollar](https://github.com/repolex-forx/sympy--sphinx-math-dollar) | `7739ecb1ee` | 2026-10-21 |
+| [sympy/sympy.github.com](https://github.com/repolex-forx/sympy--sympy.github.com) | `03a7bc9460` | 2026-10-21 |
+| [joblib/pyreport](https://github.com/repolex-forx/joblib--pyreport) | `d91d19faa3` | 2026-10-21 |
+| [joblib/joblib-hadoop](https://github.com/repolex-forx/joblib--joblib-hadoop) | `5ab445b66f` | 2026-10-21 |
 | [joblib/joblib-spark](https://github.com/repolex-forx/joblib--joblib-spark) | `6e9931f7a1` | 2026-10-21 |
 | [joblib/loky](https://github.com/repolex-forx/joblib--loky) | `09f70d66b5` | 2026-10-21 |
 | [ibis-project/ibis-dask](https://github.com/repolex-forx/ibis-project--ibis-dask) | `30af5be5a2` | 2026-10-21 |
