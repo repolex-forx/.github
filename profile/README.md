@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [vispy/test-data](https://github.com/repolex-forx/vispy--test-data) | `c324adbeb3` | 2026-10-21 |
+| [vispy/vispy-neuro](https://github.com/repolex-forx/vispy--vispy-neuro) | `b4d5a456f9` | 2026-10-21 |
+| [holoviz/hvsampledata](https://github.com/repolex-forx/holoviz--hvsampledata) | `4119603311` | 2026-10-21 |
+| [holoviz/.github](https://github.com/repolex-forx/holoviz--.github) | `978014ce9e` | 2026-10-21 |
+| [falconry/falconry.github.io](https://github.com/repolex-forx/falconry--falconry.github.io) | `cef774f9b3` | 2026-10-21 |
+| [scrapy/url-chromium](https://github.com/repolex-forx/scrapy--url-chromium) | `d6fe9e95be` | 2026-10-21 |
+| [scikit-image/.github](https://github.com/repolex-forx/scikit-image--.github) | `0744c77082` | 2026-10-21 |
+| [networkx/redirect-rtd](https://github.com/repolex-forx/networkx--redirect-rtd) | `2c38b0a7c4` | 2026-10-21 |
+| [geopandas/community](https://github.com/repolex-forx/geopandas--community) | `3e38dc25cc` | 2026-10-21 |
+| [geopandas/.github](https://github.com/repolex-forx/geopandas--.github) | `38f51a49df` | 2026-10-21 |
 | [vispy/pythonjs](https://github.com/repolex-forx/vispy--pythonjs) | `e8f6357320` | 2026-10-21 |
 | [vispy/numpy.js](https://github.com/repolex-forx/vispy--numpy.js) | `1be4ea01af` | 2026-10-21 |
 | [scikit-image/skimage-media](https://github.com/repolex-forx/scikit-image--skimage-media) | `66ebbf6485` | 2026-10-21 |
