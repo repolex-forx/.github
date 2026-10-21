@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [PyCQA/vscode-bandit](https://github.com/repolex-forx/PyCQA--vscode-bandit) | `d3210e1244` | 2026-10-20 |
+| [PyCQA/bandit-action](https://github.com/repolex-forx/PyCQA--bandit-action) | `044eb14cd9` | 2026-10-20 |
+| [scrapy/booksbot](https://github.com/repolex-forx/scrapy--booksbot) | `959a7dcdcf` | 2026-10-20 |
+| [scrapy/sphinx-scrapy](https://github.com/repolex-forx/scrapy--sphinx-scrapy) | `9231605ac5` | 2026-10-20 |
+| [scrapy/frostwork](https://github.com/repolex-forx/scrapy--frostwork) | `d1e2d5c27f` | 2026-10-20 |
+| [sanic-org/sanic-frontend](https://github.com/repolex-forx/sanic-org--sanic-frontend) | `b66911dce6` | 2026-10-20 |
+| [tortoise/aiosqlite](https://github.com/repolex-forx/tortoise--aiosqlite) | `ed1861fe6f` | 2026-10-20 |
+| [piccolo-orm/piccolo_integration](https://github.com/repolex-forx/piccolo-orm--piccolo_integration) | `4fc45aded2` | 2026-10-20 |
+| [piccolo-orm/piccolo_videos](https://github.com/repolex-forx/piccolo-orm--piccolo_videos) | `1c96be8e65` | 2026-10-20 |
+| [piccolo-orm/piccolo_web](https://github.com/repolex-forx/piccolo-orm--piccolo_web) | `61318f462c` | 2026-10-20 |
 | [piccolo-orm/piccolo_benchmarks](https://github.com/repolex-forx/piccolo-orm--piccolo_benchmarks) | `4f920cc18c` | 2026-10-20 |
 | [PyCQA/meta](https://github.com/repolex-forx/PyCQA--meta) | `c31221a4c7` | 2026-10-20 |
 | [PyCQA/oeuvre](https://github.com/repolex-forx/PyCQA--oeuvre) | `927deab355` | 2026-10-20 |
