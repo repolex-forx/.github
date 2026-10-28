@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [napari/napari-resources](https://github.com/repolex-forx/napari--napari-resources) | `136b5004a4` | 2026-10-28 |
+| [python-hyper/certitude](https://github.com/repolex-forx/python-hyper--certitude) | `33845ae0a6` | 2026-10-28 |
+| [Textualize/textual-serve](https://github.com/repolex-forx/Textualize--textual-serve) | `fa5cf5f5b4` | 2026-10-28 |
+| [Textualize/textual-plotext](https://github.com/repolex-forx/Textualize--textual-plotext) | `9fa23e7c48` | 2026-10-28 |
+| [Textualize/textual-dev](https://github.com/repolex-forx/Textualize--textual-dev) | `e563f96f32` | 2026-10-28 |
+| [Textualize/textual-web](https://github.com/repolex-forx/Textualize--textual-web) | `7d6741c9f7` | 2026-10-28 |
+| [Textualize/textual-ganglion](https://github.com/repolex-forx/Textualize--textual-ganglion) | `85e1aad97e` | 2026-10-28 |
+| [Textualize/textual-key-recorder](https://github.com/repolex-forx/Textualize--textual-key-recorder) | `8c3176ca02` | 2026-10-28 |
+| [Textualize/textual-demo](https://github.com/repolex-forx/Textualize--textual-demo) | `babcbd1b74` | 2026-10-28 |
+| [Textualize/pytest-textual-snapshot](https://github.com/repolex-forx/Textualize--pytest-textual-snapshot) | `893f812d44` | 2026-10-28 |
 | [xarray-contrib/xwrf](https://github.com/repolex-forx/xarray-contrib--xwrf) | `a238d69560` | 2026-10-28 |
 | [explosion/prodigy-pdf](https://github.com/repolex-forx/explosion--prodigy-pdf) | `51a5848912` | 2026-10-28 |
 | [zarr-developers/VirtualiZarr](https://github.com/repolex-forx/zarr-developers--VirtualiZarr) | `4fc1bc54e6` | 2026-10-28 |
