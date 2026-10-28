@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [spatialaudio/sciospecgui](https://github.com/repolex-forx/spatialaudio--sciospecgui) | `eb73b83606` | 2026-10-28 |
+| [spatialaudio/audiometer](https://github.com/repolex-forx/spatialaudio--audiometer) | `e631daefa2` | 2026-10-28 |
+| [Kozea/log_colorizer](https://github.com/repolex-forx/Kozea--log_colorizer) | `93b7e34892` | 2026-10-28 |
+| [Kozea/passman](https://github.com/repolex-forx/Kozea--passman) | `565bf2a023` | 2026-10-28 |
+| [Kozea/pygal_maps_fr](https://github.com/repolex-forx/Kozea--pygal_maps_fr) | `273f6cea52` | 2026-10-28 |
+| [Kozea/pygal_maps_world](https://github.com/repolex-forx/Kozea--pygal_maps_world) | `0658e44fbc` | 2026-10-28 |
+| [Kozea/Flask-WeasyPrint](https://github.com/repolex-forx/Kozea--Flask-WeasyPrint) | `9c7b3f40f1` | 2026-10-28 |
+| [Kozea/cairocffi](https://github.com/repolex-forx/Kozea--cairocffi) | `9cea02daaf` | 2026-10-28 |
+| [Kozea/cssselect2](https://github.com/repolex-forx/Kozea--cssselect2) | `fc22accd5f` | 2026-10-28 |
+| [Kozea/tinycss2](https://github.com/repolex-forx/Kozea--tinycss2) | `2cab270515` | 2026-10-28 |
 | [spatialaudio/sfa-numpy](https://github.com/repolex-forx/spatialaudio--sfa-numpy) | `ea94d6af61` | 2026-10-28 |
 | [spatialaudio/magic_call](https://github.com/repolex-forx/spatialaudio--magic_call) | `bcbf1f3997` | 2026-10-28 |
 | [spatialaudio/python-pa-ringbuffer](https://github.com/repolex-forx/spatialaudio--python-pa-ringbuffer) | `3f5cae7470` | 2026-10-28 |
