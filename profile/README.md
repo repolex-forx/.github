@@ -34,6 +34,18 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [spatialaudio/sfa-numpy](https://github.com/repolex-forx/spatialaudio--sfa-numpy) | `ea94d6af61` | 2026-10-28 |
+| [spatialaudio/magic_call](https://github.com/repolex-forx/spatialaudio--magic_call) | `bcbf1f3997` | 2026-10-28 |
+| [spatialaudio/python-pa-ringbuffer](https://github.com/repolex-forx/spatialaudio--python-pa-ringbuffer) | `3f5cae7470` | 2026-10-28 |
+| [spatialaudio/jackclient-python](https://github.com/repolex-forx/spatialaudio--jackclient-python) | `1dc4598dbb` | 2026-10-28 |
+| [mne-tools/mne-dash](https://github.com/repolex-forx/mne-tools--mne-dash) | `087cb76a5b` | 2026-10-28 |
+| [mne-tools/mne-incubator](https://github.com/repolex-forx/mne-tools--mne-incubator) | `744480276d` | 2026-10-28 |
+| [mne-tools/mne-kit-gui](https://github.com/repolex-forx/mne-tools--mne-kit-gui) | `412f7939d1` | 2026-10-28 |
+| [mne-tools/mne-gui-addons](https://github.com/repolex-forx/mne-tools--mne-gui-addons) | `3c78042bbf` | 2026-10-28 |
+| [mne-tools/mne-tools](https://github.com/repolex-forx/mne-tools--mne-tools) | `de3c5489a6` | 2026-10-28 |
+| [scikit-learn-contrib/project-template](https://github.com/repolex-forx/scikit-learn-contrib--project-template) | `fc9f82eb6b` | 2026-10-28 |
+| [scikit-learn-contrib/skdag](https://github.com/repolex-forx/scikit-learn-contrib--skdag) | `a04f75f58b` | 2026-10-28 |
+| [scikit-learn-contrib/denmune-skl](https://github.com/repolex-forx/scikit-learn-contrib--denmune-skl) | `b06d026fb6` | 2026-10-28 |
 | [executablebooks/sphinx-design](https://github.com/repolex-forx/executablebooks--sphinx-design) | `4f66f32e16` | 2026-10-28 |
 | [scikit-hep/scikit-hep](https://github.com/repolex-forx/scikit-hep--scikit-hep) | `8d048d4df0` | 2026-10-28 |
 | [jupyterhub/nbgitpuller](https://github.com/repolex-forx/jupyterhub--nbgitpuller) | `f7dce43504` | 2026-10-28 |
