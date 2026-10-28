@@ -34,6 +34,17 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [PennyLaneAI/pennylane-orquestra](https://github.com/repolex-forx/PennyLaneAI--pennylane-orquestra) | `6a3d204bdf` | 2026-10-28 |
+| [PennyLaneAI/flagsynth](https://github.com/repolex-forx/PennyLaneAI--flagsynth) | `f117326f7b` | 2026-10-28 |
+| [PennyLaneAI/pennylane-sphinx-theme](https://github.com/repolex-forx/PennyLaneAI--pennylane-sphinx-theme) | `e9d5dcf0ff` | 2026-10-28 |
+| [PennyLaneAI/pennylane-honeywell](https://github.com/repolex-forx/PennyLaneAI--pennylane-honeywell) | `a1a6fb2b3e` | 2026-10-28 |
+| [PennyLaneAI/pennylane-sf](https://github.com/repolex-forx/PennyLaneAI--pennylane-sf) | `f1a3204669` | 2026-10-28 |
+| [PennyLaneAI/pennylane-aqt](https://github.com/repolex-forx/PennyLaneAI--pennylane-aqt) | `54951cad65` | 2026-10-28 |
+| [PennyLaneAI/PennyLane-qsharp](https://github.com/repolex-forx/PennyLaneAI--PennyLane-qsharp) | `cdbf79a946` | 2026-10-28 |
+| [PennyLaneAI/pennylane-cirq](https://github.com/repolex-forx/PennyLaneAI--pennylane-cirq) | `17b70f4098` | 2026-10-28 |
+| [PennyLaneAI/pennylane-qulacs](https://github.com/repolex-forx/PennyLaneAI--pennylane-qulacs) | `654594bd3f` | 2026-10-28 |
+| [PennyLaneAI/PennyLane-IonQ](https://github.com/repolex-forx/PennyLaneAI--PennyLane-IonQ) | `47a9a2d07e` | 2026-10-28 |
+| [PennyLaneAI/pennylane-qiskit](https://github.com/repolex-forx/PennyLaneAI--pennylane-qiskit) | `b03b52f855` | 2026-10-28 |
 | [huggingface/transformers-ci](https://github.com/repolex-forx/huggingface--transformers-ci) | `431b37bd41` | 2026-10-28 |
 | [Kozea/RadicaleStorageByIndex](https://github.com/repolex-forx/Kozea--RadicaleStorageByIndex) | `3325886e3e` | 2026-10-28 |
 | [Kozea/mandrill-api-python-3.7](https://github.com/repolex-forx/Kozea--mandrill-api-python-3.7) | `0ab4d9a992` | 2026-10-28 |
