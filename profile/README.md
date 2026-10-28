@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [explosion/spacymoji](https://github.com/repolex-forx/explosion--spacymoji) | `408d047e7a` | 2026-10-28 |
+| [explosion/spacy-loggers](https://github.com/repolex-forx/explosion--spacy-loggers) | `607fc89366` | 2026-10-28 |
+| [explosion/spacy-huggingface-hub](https://github.com/repolex-forx/explosion--spacy-huggingface-hub) | `1e27b866ff` | 2026-10-28 |
+| [explosion/spacy-legacy](https://github.com/repolex-forx/explosion--spacy-legacy) | `4ccfdb78d4` | 2026-10-28 |
+| [explosion/spacy-streamlit](https://github.com/repolex-forx/explosion--spacy-streamlit) | `715d463ff3` | 2026-10-28 |
+| [dask/dask-benchmarks](https://github.com/repolex-forx/dask--dask-benchmarks) | `9956e67abc` | 2026-10-28 |
+| [dask/dask-stories](https://github.com/repolex-forx/dask--dask-stories) | `880d9da9b1` | 2026-10-28 |
+| [zarr-developers/pydantic-zarr](https://github.com/repolex-forx/zarr-developers--pydantic-zarr) | `d11289a9f1` | 2026-10-28 |
+| [napari/napari-plugin-manager](https://github.com/repolex-forx/napari--napari-plugin-manager) | `97739a8ca9` | 2026-10-28 |
+| [napari/napari-graph](https://github.com/repolex-forx/napari--napari-graph) | `ee3f31cb15` | 2026-10-28 |
 | [napari/npe2](https://github.com/repolex-forx/napari--npe2) | `45215167b5` | 2026-10-28 |
 | [napari/update-checker](https://github.com/repolex-forx/napari--update-checker) | `8e406192a2` | 2026-10-28 |
 | [dask/dask-jobqueue](https://github.com/repolex-forx/dask--dask-jobqueue) | `55b972741f` | 2026-10-28 |
