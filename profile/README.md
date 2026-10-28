@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [xarray-contrib/xwrf](https://github.com/repolex-forx/xarray-contrib--xwrf) | `a238d69560` | 2026-10-28 |
+| [explosion/prodigy-pdf](https://github.com/repolex-forx/explosion--prodigy-pdf) | `51a5848912` | 2026-10-28 |
+| [zarr-developers/VirtualiZarr](https://github.com/repolex-forx/zarr-developers--VirtualiZarr) | `4fc1bc54e6` | 2026-10-28 |
+| [explosion/spacy-layout](https://github.com/repolex-forx/explosion--spacy-layout) | `c458ab37ba` | 2026-10-28 |
+| [explosion/spacy-llm](https://github.com/repolex-forx/explosion--spacy-llm) | `c62a9614f4` | 2026-10-28 |
+| [explosion/prodigy-evaluate](https://github.com/repolex-forx/explosion--prodigy-evaluate) | `f7408b8be9` | 2026-10-28 |
+| [explosion/spacy-experimental](https://github.com/repolex-forx/explosion--spacy-experimental) | `66c4be536d` | 2026-10-28 |
+| [explosion/prodigy-whisper](https://github.com/repolex-forx/explosion--prodigy-whisper) | `2b6179e8c3` | 2026-10-28 |
+| [xarray-contrib/xarray_leaflet](https://github.com/repolex-forx/xarray-contrib--xarray_leaflet) | `e3f9c5d569` | 2026-10-28 |
+| [explosion/spacy-transformers](https://github.com/repolex-forx/explosion--spacy-transformers) | `2442e8c151` | 2026-10-28 |
 | [napari/napari-animation](https://github.com/repolex-forx/napari--napari-animation) | `1404817ac5` | 2026-10-28 |
 | [explosion/sense2vec](https://github.com/repolex-forx/explosion--sense2vec) | `72129b83ea` | 2026-10-28 |
 | [explosion/prodigy-hf](https://github.com/repolex-forx/explosion--prodigy-hf) | `cef6257d29` | 2026-10-28 |
