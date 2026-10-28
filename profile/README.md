@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [huggingface/transformers-ci](https://github.com/repolex-forx/huggingface--transformers-ci) | `431b37bd41` | 2026-10-28 |
+| [Kozea/RadicaleStorageByIndex](https://github.com/repolex-forx/Kozea--RadicaleStorageByIndex) | `3325886e3e` | 2026-10-28 |
+| [Kozea/mandrill-api-python-3.7](https://github.com/repolex-forx/Kozea--mandrill-api-python-3.7) | `0ab4d9a992` | 2026-10-28 |
+| [Kozea/brigit](https://github.com/repolex-forx/Kozea--brigit) | `247482e49e` | 2026-10-28 |
+| [Kozea/WeasySuite](https://github.com/repolex-forx/Kozea--WeasySuite) | `246a9ca0ca` | 2026-10-28 |
+| [Kozea/bobslide](https://github.com/repolex-forx/Kozea--bobslide) | `f567ce388d` | 2026-10-28 |
+| [Kozea/misfile](https://github.com/repolex-forx/Kozea--misfile) | `b2c71b4369` | 2026-10-28 |
+| [Kozea/sqlalchemy_fdw](https://github.com/repolex-forx/Kozea--sqlalchemy_fdw) | `eaa57336a8` | 2026-10-28 |
+| [Kozea/flask-alcool](https://github.com/repolex-forx/Kozea--flask-alcool) | `507a7556f5` | 2026-10-28 |
 | [spatialaudio/sciospecgui](https://github.com/repolex-forx/spatialaudio--sciospecgui) | `eb73b83606` | 2026-10-28 |
 | [spatialaudio/audiometer](https://github.com/repolex-forx/spatialaudio--audiometer) | `e631daefa2` | 2026-10-28 |
 | [Kozea/log_colorizer](https://github.com/repolex-forx/Kozea--log_colorizer) | `93b7e34892` | 2026-10-28 |
