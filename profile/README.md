@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [napari/napari-geojson](https://github.com/repolex-forx/napari--napari-geojson) | `9afb835059` | 2026-10-28 |
+| [napari/shared-workflows](https://github.com/repolex-forx/napari--shared-workflows) | `85fe6fae34` | 2026-10-28 |
+| [python-hyper/documentation](https://github.com/repolex-forx/python-hyper--documentation) | `64c346d582` | 2026-10-28 |
+| [python-hyper/branchmgr](https://github.com/repolex-forx/python-hyper--branchmgr) | `574dc8dc90` | 2026-10-28 |
+| [python-hyper/pep543](https://github.com/repolex-forx/python-hyper--pep543) | `a7c5089119` | 2026-10-28 |
+| [databrickslabs/lsql](https://github.com/repolex-forx/databrickslabs--lsql) | `1c2eb7a185` | 2026-10-28 |
+| [databrickslabs/databricks-network-policy-helper](https://github.com/repolex-forx/databrickslabs--databricks-network-policy-helper) | `cc4d847a80` | 2026-10-28 |
+| [databrickslabs/migrate](https://github.com/repolex-forx/databrickslabs--migrate) | `6dc7bce355` | 2026-10-28 |
+| [databrickslabs/pytester](https://github.com/repolex-forx/databrickslabs--pytester) | `cbcb0635de` | 2026-10-28 |
+| [databrickslabs/access-insights](https://github.com/repolex-forx/databrickslabs--access-insights) | `cec80229e8` | 2026-10-28 |
 | [sdispater/eloquent](https://github.com/repolex-forx/sdispater--eloquent) | `0638b688d5` | 2026-10-28 |
 | [sdispater/populous](https://github.com/repolex-forx/sdispater--populous) | `292fe8b91f` | 2026-10-28 |
 | [sdispater/lampwick](https://github.com/repolex-forx/sdispater--lampwick) | `af8e85390a` | 2026-10-28 |
