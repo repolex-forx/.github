@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [napari/napari-metadata](https://github.com/repolex-forx/napari--napari-metadata) | `031f26c87c` | 2026-10-28 |
+| [xarray-contrib/xdggs](https://github.com/repolex-forx/xarray-contrib--xdggs) | `2995840a62` | 2026-10-28 |
+| [xarray-contrib/xarray-dataclass](https://github.com/repolex-forx/xarray-contrib--xarray-dataclass) | `a489091623` | 2026-10-28 |
+| [xarray-contrib/xvec](https://github.com/repolex-forx/xarray-contrib--xvec) | `6379e7bd21` | 2026-10-28 |
+| [databrickslabs/databricks-sync](https://github.com/repolex-forx/databrickslabs--databricks-sync) | `25405c7b77` | 2026-10-28 |
+| [databrickslabs/blueprint](https://github.com/repolex-forx/databrickslabs--blueprint) | `bb6f3c9f4c` | 2026-10-28 |
+| [optuna/optuna-examples](https://github.com/repolex-forx/optuna--optuna-examples) | `e96f65e01d` | 2026-10-28 |
+| [optuna/optunahub](https://github.com/repolex-forx/optuna--optunahub) | `1b12bdbcca` | 2026-10-28 |
+| [cookiecutter/cookiecutter](https://github.com/repolex-forx/cookiecutter--cookiecutter) | `c88fbe921c` | 2026-10-28 |
 | [databrickslabs/dbx](https://github.com/repolex-forx/databrickslabs--dbx) | `07a2368904` | 2026-10-28 |
 | [encode/hip](https://github.com/repolex-forx/encode--hip) | `fe053e6c38` | 2026-10-28 |
 | [optuna/optuna-integration](https://github.com/repolex-forx/optuna--optuna-integration) | `92f0ceeb23` | 2026-10-28 |
