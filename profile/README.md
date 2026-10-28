@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dask/dask-mpi](https://github.com/repolex-forx/dask--dask-mpi) | `66080ec0dd` | 2026-10-28 |
+| [dask/zict](https://github.com/repolex-forx/dask--zict) | `7e5dafedcf` | 2026-10-28 |
+| [napari/napari-svg](https://github.com/repolex-forx/napari--napari-svg) | `e41542add2` | 2026-10-28 |
+| [xarray-contrib/xproj](https://github.com/repolex-forx/xarray-contrib--xproj) | `033e141509` | 2026-10-28 |
+| [napari/napari-console](https://github.com/repolex-forx/napari--napari-console) | `38503f8b2a` | 2026-10-28 |
+| [zarr-developers/cookiecutter-zarr-store](https://github.com/repolex-forx/zarr-developers--cookiecutter-zarr-store) | `d8f692940f` | 2026-10-28 |
+| [zarr-developers/perfcapture](https://github.com/repolex-forx/zarr-developers--perfcapture) | `ad7f11d536` | 2026-10-28 |
+| [xarray-contrib/xarray-array-testing](https://github.com/repolex-forx/xarray-contrib--xarray-array-testing) | `8e076665d3` | 2026-10-28 |
+| [dask/cachey](https://github.com/repolex-forx/dask--cachey) | `789e03dbc6` | 2026-10-28 |
+| [napari/napari-plugin-checks](https://github.com/repolex-forx/napari--napari-plugin-checks) | `7775fdda30` | 2026-10-28 |
 | [scverse/PyDESeq2](https://github.com/repolex-forx/scverse--PyDESeq2) | `2ca3b74c9b` | 2026-10-28 |
 | [jupyter/jupyter-sphinx](https://github.com/repolex-forx/jupyter--jupyter-sphinx) | `bd4c85dc8c` | 2026-10-28 |
 | [jupyter/nbmanager](https://github.com/repolex-forx/jupyter--nbmanager) | `dd26a71c0b` | 2026-10-28 |
