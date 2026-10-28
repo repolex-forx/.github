@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sdispater/eloquent](https://github.com/repolex-forx/sdispater--eloquent) | `0638b688d5` | 2026-10-28 |
+| [sdispater/populous](https://github.com/repolex-forx/sdispater--populous) | `292fe8b91f` | 2026-10-28 |
+| [sdispater/lampwick](https://github.com/repolex-forx/sdispater--lampwick) | `af8e85390a` | 2026-10-28 |
+| [databrickslabs/mcp](https://github.com/repolex-forx/databrickslabs--mcp) | `dc8ba768c5` | 2026-10-28 |
+| [databrickslabs/doc-qa](https://github.com/repolex-forx/databrickslabs--doc-qa) | `9580a59f80` | 2026-10-28 |
+| [databrickslabs/discoverx](https://github.com/repolex-forx/databrickslabs--discoverx) | `176ae3351b` | 2026-10-28 |
+| [databrickslabs/pylint-plugin](https://github.com/repolex-forx/databrickslabs--pylint-plugin) | `b1be1a3970` | 2026-10-28 |
+| [databrickslabs/migrate-ip-acls](https://github.com/repolex-forx/databrickslabs--migrate-ip-acls) | `f07a21a57b` | 2026-10-28 |
+| [databrickslabs/chatx](https://github.com/repolex-forx/databrickslabs--chatx) | `13266d340c` | 2026-10-28 |
+| [databrickslabs/dolly](https://github.com/repolex-forx/databrickslabs--dolly) | `e2d664ddf0` | 2026-10-28 |
 | [napari/napari-resources](https://github.com/repolex-forx/napari--napari-resources) | `136b5004a4` | 2026-10-28 |
 | [python-hyper/certitude](https://github.com/repolex-forx/python-hyper--certitude) | `33845ae0a6` | 2026-10-28 |
 | [Textualize/textual-serve](https://github.com/repolex-forx/Textualize--textual-serve) | `fa5cf5f5b4` | 2026-10-28 |
