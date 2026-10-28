@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [napari/npe2](https://github.com/repolex-forx/napari--npe2) | `45215167b5` | 2026-10-28 |
+| [napari/update-checker](https://github.com/repolex-forx/napari--update-checker) | `8e406192a2` | 2026-10-28 |
+| [dask/dask-jobqueue](https://github.com/repolex-forx/dask--dask-jobqueue) | `55b972741f` | 2026-10-28 |
+| [zarr-developers/codecs-registry](https://github.com/repolex-forx/zarr-developers--codecs-registry) | `419b97c12e` | 2026-10-28 |
+| [dask/dask-pyspy](https://github.com/repolex-forx/dask--dask-pyspy) | `e75b2377ea` | 2026-10-28 |
+| [napari/napari-tiff](https://github.com/repolex-forx/napari--napari-tiff) | `3223b3ba2a` | 2026-10-28 |
+| [zarr-developers/ndsel](https://github.com/repolex-forx/zarr-developers--ndsel) | `49b9e1db1c` | 2026-10-28 |
+| [dask/dask-sphinx-theme](https://github.com/repolex-forx/dask--dask-sphinx-theme) | `0ac5a5fc37` | 2026-10-28 |
+| [xarray-contrib/sphinx-autosummary-accessors](https://github.com/repolex-forx/xarray-contrib--sphinx-autosummary-accessors) | `80a4897964` | 2026-10-28 |
+| [xarray-contrib/minimum-dependency-versions](https://github.com/repolex-forx/xarray-contrib--minimum-dependency-versions) | `300e3abc7e` | 2026-10-28 |
 | [dask/dask-mpi](https://github.com/repolex-forx/dask--dask-mpi) | `66080ec0dd` | 2026-10-28 |
 | [dask/zict](https://github.com/repolex-forx/dask--zict) | `7e5dafedcf` | 2026-10-28 |
 | [napari/napari-svg](https://github.com/repolex-forx/napari--napari-svg) | `e41542add2` | 2026-10-28 |
