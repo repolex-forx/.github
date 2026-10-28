@@ -34,6 +34,17 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scikit-hep/numba-stats](https://github.com/repolex-forx/scikit-hep--numba-stats) | `5a97575a44` | 2026-10-28 |
+| [huggingface/upskill](https://github.com/repolex-forx/huggingface--upskill) | `eec8ab46f9` | 2026-10-28 |
+| [huggingface/hf-discover](https://github.com/repolex-forx/huggingface--hf-discover) | `7f17fe8662` | 2026-10-28 |
+| [scikit-hep/histserv](https://github.com/repolex-forx/scikit-hep--histserv) | `e7f0db9f9c` | 2026-10-28 |
+| [huggingface/optimum-executorch](https://github.com/repolex-forx/huggingface--optimum-executorch) | `dc779b7fb1` | 2026-10-28 |
+| [scikit-hep/ragged](https://github.com/repolex-forx/scikit-hep--ragged) | `14d45af4b9` | 2026-10-28 |
+| [huggingface/aokit](https://github.com/repolex-forx/huggingface--aokit) | `66b74bef60` | 2026-10-28 |
+| [huggingface/ipython-harness](https://github.com/repolex-forx/huggingface--ipython-harness) | `33e4bb042a` | 2026-10-28 |
+| [huggingface/kernels-test](https://github.com/repolex-forx/huggingface--kernels-test) | `143c283508` | 2026-10-28 |
+| [huggingface/ipyh-optimization](https://github.com/repolex-forx/huggingface--ipyh-optimization) | `029fbbf6e5` | 2026-10-28 |
+| [huggingface/trl-jobs](https://github.com/repolex-forx/huggingface--trl-jobs) | `07d3ebec30` | 2026-10-28 |
 | [napari/napari-metadata](https://github.com/repolex-forx/napari--napari-metadata) | `031f26c87c` | 2026-10-28 |
 | [xarray-contrib/xdggs](https://github.com/repolex-forx/xarray-contrib--xdggs) | `2995840a62` | 2026-10-28 |
 | [xarray-contrib/xarray-dataclass](https://github.com/repolex-forx/xarray-contrib--xarray-dataclass) | `a489091623` | 2026-10-28 |
