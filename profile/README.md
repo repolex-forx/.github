@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [napari/constructor-manager](https://github.com/repolex-forx/napari--constructor-manager) | `67d9e29c04` | 2026-10-28 |
+| [explosion/span-labeling-datasets](https://github.com/repolex-forx/explosion--span-labeling-datasets) | `a35c3948d0` | 2026-10-28 |
+| [explosion/ellf-recipes](https://github.com/repolex-forx/explosion--ellf-recipes) | `4d7b28a576` | 2026-10-28 |
+| [explosion/spacy-ray](https://github.com/repolex-forx/explosion--spacy-ray) | `09ffba5baa` | 2026-10-28 |
+| [explosion/spacy-biaffine-parser](https://github.com/repolex-forx/explosion--spacy-biaffine-parser) | `feb1382560` | 2026-10-28 |
+| [explosion/spacy-vectors-builder](https://github.com/repolex-forx/explosion--spacy-vectors-builder) | `f5247248d7` | 2026-10-28 |
+| [explosion/spacy-stanza](https://github.com/repolex-forx/explosion--spacy-stanza) | `b57f348258` | 2026-10-28 |
+| [explosion/spacy-huggingface-pipelines](https://github.com/repolex-forx/explosion--spacy-huggingface-pipelines) | `c7bb7a74d5` | 2026-10-28 |
+| [explosion/ec2buildwheel](https://github.com/repolex-forx/explosion--ec2buildwheel) | `0d71d8d2e0` | 2026-10-28 |
+| [explosion/curated-transformers-addons](https://github.com/repolex-forx/explosion--curated-transformers-addons) | `62578a013e` | 2026-10-28 |
 | [explosion/spacymoji](https://github.com/repolex-forx/explosion--spacymoji) | `408d047e7a` | 2026-10-28 |
 | [explosion/spacy-loggers](https://github.com/repolex-forx/explosion--spacy-loggers) | `607fc89366` | 2026-10-28 |
 | [explosion/spacy-huggingface-hub](https://github.com/repolex-forx/explosion--spacy-huggingface-hub) | `1e27b866ff` | 2026-10-28 |
