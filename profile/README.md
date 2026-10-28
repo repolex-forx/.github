@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [PennyLaneAI/diastatic-malt](https://github.com/repolex-forx/PennyLaneAI--diastatic-malt) | `37d629ea93` | 2026-10-28 |
+| [jaraco/recapturedocs](https://github.com/repolex-forx/jaraco--recapturedocs) | `3b49b41d9e` | 2026-10-28 |
+| [spatialaudio/group-delay-of-filters](https://github.com/repolex-forx/spatialaudio--group-delay-of-filters) | `59fc4858d4` | 2026-10-28 |
+| [spatialaudio/iir-model-sma](https://github.com/repolex-forx/spatialaudio--iir-model-sma) | `fa67a2c355` | 2026-10-28 |
+| [spatialaudio/cookiecutter_oer_jupyter](https://github.com/repolex-forx/spatialaudio--cookiecutter_oer_jupyter) | `4a808575cc` | 2026-10-28 |
+| [simonw/scrape-hacker-news-by-domain](https://github.com/repolex-forx/simonw--scrape-hacker-news-by-domain) | `9ee51d78f7` | 2026-10-28 |
+| [simonw/claude-system-prompts](https://github.com/repolex-forx/simonw--claude-system-prompts) | `1f401657b3` | 2026-10-28 |
+| [simonw/sqlite-chronicle](https://github.com/repolex-forx/simonw--sqlite-chronicle) | `ee8d2a1db5` | 2026-10-28 |
+| [PennyLaneAI/plugin-test-matrix](https://github.com/repolex-forx/PennyLaneAI--plugin-test-matrix) | `9185332f5c` | 2026-10-28 |
+| [PennyLaneAI/pennylane-pq](https://github.com/repolex-forx/PennyLaneAI--pennylane-pq) | `854f103f0c` | 2026-10-28 |
 | [PennyLaneAI/pennylane-orquestra](https://github.com/repolex-forx/PennyLaneAI--pennylane-orquestra) | `6a3d204bdf` | 2026-10-28 |
 | [PennyLaneAI/flagsynth](https://github.com/repolex-forx/PennyLaneAI--flagsynth) | `f117326f7b` | 2026-10-28 |
 | [PennyLaneAI/pennylane-sphinx-theme](https://github.com/repolex-forx/PennyLaneAI--pennylane-sphinx-theme) | `e9d5dcf0ff` | 2026-10-28 |
