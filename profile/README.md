@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [napari/napari-animation](https://github.com/repolex-forx/napari--napari-animation) | `1404817ac5` | 2026-10-28 |
+| [explosion/sense2vec](https://github.com/repolex-forx/explosion--sense2vec) | `72129b83ea` | 2026-10-28 |
+| [explosion/prodigy-hf](https://github.com/repolex-forx/explosion--prodigy-hf) | `cef6257d29` | 2026-10-28 |
+| [napari/packaging](https://github.com/repolex-forx/napari--packaging) | `d175b4834f` | 2026-10-28 |
+| [zarr-developers/zarr-python-planning](https://github.com/repolex-forx/zarr-developers--zarr-python-planning) | `9dc53de99a` | 2026-10-28 |
+| [napari/midi-app-controller](https://github.com/repolex-forx/napari--midi-app-controller) | `2f650d9cd4` | 2026-10-28 |
+| [explosion/wheelwright](https://github.com/repolex-forx/explosion--wheelwright) | `5fcf8ccd20` | 2026-10-28 |
+| [explosion/spacy-curated-transformers](https://github.com/repolex-forx/explosion--spacy-curated-transformers) | `be9875be64` | 2026-10-28 |
+| [explosion/prodigy-lunr](https://github.com/repolex-forx/explosion--prodigy-lunr) | `d5bcb91d5b` | 2026-10-28 |
+| [explosion/wikid](https://github.com/repolex-forx/explosion--wikid) | `72d702cb6b` | 2026-10-28 |
 | [napari/constructor-manager](https://github.com/repolex-forx/napari--constructor-manager) | `67d9e29c04` | 2026-10-28 |
 | [explosion/span-labeling-datasets](https://github.com/repolex-forx/explosion--span-labeling-datasets) | `a35c3948d0` | 2026-10-28 |
 | [explosion/ellf-recipes](https://github.com/repolex-forx/explosion--ellf-recipes) | `4d7b28a576` | 2026-10-28 |
