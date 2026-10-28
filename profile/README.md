@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scikit-hep/pyhepmc](https://github.com/repolex-forx/scikit-hep--pyhepmc) | `a7586c1878` | 2026-10-28 |
+| [huggingface/transformers-mlinter](https://github.com/repolex-forx/huggingface--transformers-mlinter) | `5a85da7c52` | 2026-10-28 |
+| [scikit-hep/vegascope](https://github.com/repolex-forx/scikit-hep--vegascope) | `774b2a0fc4` | 2026-10-28 |
+| [huggingface/ioi](https://github.com/repolex-forx/huggingface--ioi) | `f4f055b812` | 2026-10-28 |
+| [scikit-hep/fastjet](https://github.com/repolex-forx/scikit-hep--fastjet) | `46100f9b29` | 2026-10-28 |
+| [scikit-hep/uproot-browser](https://github.com/repolex-forx/scikit-hep--uproot-browser) | `99a0e2106e` | 2026-10-28 |
+| [scikit-hep/histoprint](https://github.com/repolex-forx/scikit-hep--histoprint) | `1539fb05c5` | 2026-10-28 |
+| [huggingface/pwc-cli](https://github.com/repolex-forx/huggingface--pwc-cli) | `125ffe07aa` | 2026-10-28 |
+| [huggingface/open-tts-leaderboard](https://github.com/repolex-forx/huggingface--open-tts-leaderboard) | `9dd06fb9bf` | 2026-10-28 |
+| [scikit-hep/cuda-histogram](https://github.com/repolex-forx/scikit-hep--cuda-histogram) | `35a3585ddb` | 2026-10-28 |
 | [scikit-hep/numba-stats](https://github.com/repolex-forx/scikit-hep--numba-stats) | `5a97575a44` | 2026-10-28 |
 | [huggingface/upskill](https://github.com/repolex-forx/huggingface--upskill) | `eec8ab46f9` | 2026-10-28 |
 | [huggingface/hf-discover](https://github.com/repolex-forx/huggingface--hf-discover) | `7f17fe8662` | 2026-10-28 |
