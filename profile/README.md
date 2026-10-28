@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [databrickslabs/dbx](https://github.com/repolex-forx/databrickslabs--dbx) | `07a2368904` | 2026-10-28 |
+| [encode/hip](https://github.com/repolex-forx/encode--hip) | `fe053e6c38` | 2026-10-28 |
+| [optuna/optuna-integration](https://github.com/repolex-forx/optuna--optuna-integration) | `92f0ceeb23` | 2026-10-28 |
+| [pyecharts/pyecharts-extras](https://github.com/repolex-forx/pyecharts--pyecharts-extras) | `a3a67417aa` | 2026-10-28 |
+| [modin-project/unidist](https://github.com/repolex-forx/modin-project--unidist) | `84dd28ba26` | 2026-10-28 |
+| [optuna/kurobako-py](https://github.com/repolex-forx/optuna--kurobako-py) | `bd1d6448dd` | 2026-10-28 |
+| [pyecharts/snapshot-phantomjs](https://github.com/repolex-forx/pyecharts--snapshot-phantomjs) | `5fc4d76969` | 2026-10-28 |
+| [pyecharts/snapshot-pyppeteer](https://github.com/repolex-forx/pyecharts--snapshot-pyppeteer) | `c8548d598a` | 2026-10-28 |
+| [pyecharts/snapshot-selenium](https://github.com/repolex-forx/pyecharts--snapshot-selenium) | `19b281ce89` | 2026-10-28 |
+| [cookiecutter/whichcraft](https://github.com/repolex-forx/cookiecutter--whichcraft) | `226393eca8` | 2026-10-28 |
 | [napari/napari-geojson](https://github.com/repolex-forx/napari--napari-geojson) | `9afb835059` | 2026-10-28 |
 | [napari/shared-workflows](https://github.com/repolex-forx/napari--shared-workflows) | `85fe6fae34` | 2026-10-28 |
 | [python-hyper/documentation](https://github.com/repolex-forx/python-hyper--documentation) | `64c346d582` | 2026-10-28 |
