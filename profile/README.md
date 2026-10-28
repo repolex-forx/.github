@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scverse/PyDESeq2](https://github.com/repolex-forx/scverse--PyDESeq2) | `2ca3b74c9b` | 2026-10-28 |
+| [jupyter/jupyter-sphinx](https://github.com/repolex-forx/jupyter--jupyter-sphinx) | `bd4c85dc8c` | 2026-10-28 |
+| [jupyter/nbmanager](https://github.com/repolex-forx/jupyter--nbmanager) | `dd26a71c0b` | 2026-10-28 |
+| [jupyter/nbclient](https://github.com/repolex-forx/jupyter--nbclient) | `0811ff44c6` | 2026-10-28 |
+| [jupyter/jupyter_events](https://github.com/repolex-forx/jupyter--jupyter_events) | `deb61b4924` | 2026-10-28 |
+| [jupyter/jupyter-packaging](https://github.com/repolex-forx/jupyter--jupyter-packaging) | `4915fc8e36` | 2026-10-28 |
+| [jupyter/cookiecutter-docker-stacks](https://github.com/repolex-forx/jupyter--cookiecutter-docker-stacks) | `68410a7827` | 2026-10-28 |
+| [jupyter/nbviewer.org-deploy](https://github.com/repolex-forx/jupyter--nbviewer.org-deploy) | `46d27d0538` | 2026-10-28 |
+| [jupyter/telemetry](https://github.com/repolex-forx/jupyter--telemetry) | `2975fcac06` | 2026-10-28 |
+| [scverse/cupy-stubs](https://github.com/repolex-forx/scverse--cupy-stubs) | `08f2b8ab6b` | 2026-10-28 |
 | [jupyterhub/gh-scoped-creds](https://github.com/repolex-forx/jupyterhub--gh-scoped-creds) | `fe538a4bbc` | 2026-10-21 |
 | [scverse/spatialdata-integration-testing](https://github.com/repolex-forx/scverse--spatialdata-integration-testing) | `4982079e51` | 2026-10-21 |
 | [glue-viz/glue-statistics](https://github.com/repolex-forx/glue-viz--glue-statistics) | `f0ab7f5a79` | 2026-10-21 |
