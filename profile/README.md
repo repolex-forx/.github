@@ -34,6 +34,14 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [executablebooks/sphinx-design](https://github.com/repolex-forx/executablebooks--sphinx-design) | `4f66f32e16` | 2026-10-28 |
+| [scikit-hep/scikit-hep](https://github.com/repolex-forx/scikit-hep--scikit-hep) | `8d048d4df0` | 2026-10-28 |
+| [jupyterhub/nbgitpuller](https://github.com/repolex-forx/jupyterhub--nbgitpuller) | `f7dce43504` | 2026-10-28 |
+| [jupyterlab/jupyterlab_pygments](https://github.com/repolex-forx/jupyterlab--jupyterlab_pygments) | `c3380f5c97` | 2026-10-28 |
+| [jupyterlab/jupyterlab_server](https://github.com/repolex-forx/jupyterlab--jupyterlab_server) | `475cfc19e0` | 2026-10-28 |
+| [jupyterlab/hatch-jupyter-builder](https://github.com/repolex-forx/jupyterlab--hatch-jupyter-builder) | `fedc855da7` | 2026-10-28 |
+| [jupyterlab/pytest-check-links](https://github.com/repolex-forx/jupyterlab--pytest-check-links) | `92c89c079d` | 2026-10-28 |
+| [jupyterlab/hatch-nodejs-version](https://github.com/repolex-forx/jupyterlab--hatch-nodejs-version) | `81c4612da1` | 2026-10-28 |
 | [scikit-hep/pyhepmc](https://github.com/repolex-forx/scikit-hep--pyhepmc) | `a7586c1878` | 2026-10-28 |
 | [huggingface/transformers-mlinter](https://github.com/repolex-forx/huggingface--transformers-mlinter) | `5a85da7c52` | 2026-10-28 |
 | [scikit-hep/vegascope](https://github.com/repolex-forx/scikit-hep--vegascope) | `774b2a0fc4` | 2026-10-28 |
