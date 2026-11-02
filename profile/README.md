@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.contenttype](https://github.com/repolex-forx/zopefoundation--zope.contenttype) | `057f50a48d` | 2026-11-02 |
+| [zopefoundation/zope.contentprovider](https://github.com/repolex-forx/zopefoundation--zope.contentprovider) | `ff95a43e80` | 2026-11-02 |
+| [zopefoundation/zope.container](https://github.com/repolex-forx/zopefoundation--zope.container) | `324e87e9ca` | 2026-11-02 |
+| [zopefoundation/zope.configuration](https://github.com/repolex-forx/zopefoundation--zope.configuration) | `dba7d8f1dc` | 2026-11-02 |
+| [zopefoundation/zope.component](https://github.com/repolex-forx/zopefoundation--zope.component) | `bb12836f35` | 2026-11-02 |
+| [zopefoundation/zope.browserresource](https://github.com/repolex-forx/zopefoundation--zope.browserresource) | `5449860657` | 2026-11-02 |
+| [zopefoundation/zope.browserpage](https://github.com/repolex-forx/zopefoundation--zope.browserpage) | `c71bcd592c` | 2026-11-02 |
+| [zopefoundation/zope.browsermenu](https://github.com/repolex-forx/zopefoundation--zope.browsermenu) | `42a38908d1` | 2026-11-02 |
+| [zopefoundation/zExceptions](https://github.com/repolex-forx/zopefoundation--zExceptions) | `0da83f1f96` | 2026-11-02 |
+| [zopefoundation/z3c.pt](https://github.com/repolex-forx/zopefoundation--z3c.pt) | `33396926cb` | 2026-11-02 |
 | [zopefoundation/transaction](https://github.com/repolex-forx/zopefoundation--transaction) | `5c0e211b90` | 2026-11-02 |
 | [zopefoundation/ZODB](https://github.com/repolex-forx/zopefoundation--ZODB) | `c50a0941d4` | 2026-11-02 |
 | [zopefoundation/ZConfig](https://github.com/repolex-forx/zopefoundation--ZConfig) | `8536bf5541` | 2026-11-02 |
