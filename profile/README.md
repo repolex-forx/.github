@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [django-commons/django-formtools](https://github.com/repolex-forx/django-commons--django-formtools) | `93d2de6587` | 2026-11-02 |
+| [django-commons/django-hosts](https://github.com/repolex-forx/django-commons--django-hosts) | `e538c46a9f` | 2026-11-02 |
+| [django-commons/django-smart-selects](https://github.com/repolex-forx/django-commons--django-smart-selects) | `30e0149d4c` | 2026-11-02 |
+| [django-commons/django-cookie-consent](https://github.com/repolex-forx/django-commons--django-cookie-consent) | `e5e009edea` | 2026-11-02 |
+| [django-commons/django-simple-menu](https://github.com/repolex-forx/django-commons--django-simple-menu) | `d925835540` | 2026-11-02 |
+| [django-commons/django-robots](https://github.com/repolex-forx/django-commons--django-robots) | `3976432fbb` | 2026-11-02 |
+| [django-commons/django-constance](https://github.com/repolex-forx/django-commons--django-constance) | `1b54273af1` | 2026-11-02 |
+| [django-commons/django-auditlog](https://github.com/repolex-forx/django-commons--django-auditlog) | `a6c5cb5d76` | 2026-11-02 |
+| [django-commons/django-prometheus](https://github.com/repolex-forx/django-commons--django-prometheus) | `5093c6366d` | 2026-11-02 |
+| [django-commons/dj-database-url](https://github.com/repolex-forx/django-commons--dj-database-url) | `9e2eab2465` | 2026-11-02 |
 | [PennyLaneAI/diastatic-malt](https://github.com/repolex-forx/PennyLaneAI--diastatic-malt) | `37d629ea93` | 2026-10-28 |
 | [jaraco/recapturedocs](https://github.com/repolex-forx/jaraco--recapturedocs) | `3b49b41d9e` | 2026-10-28 |
 | [spatialaudio/group-delay-of-filters](https://github.com/repolex-forx/spatialaudio--group-delay-of-filters) | `59fc4858d4` | 2026-10-28 |
