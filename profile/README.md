@@ -34,6 +34,17 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [joerick/pyinstrument](https://github.com/repolex-forx/joerick--pyinstrument) | `c5a518ca90` | 2026-11-02 |
+| [shibukawa/imagesize_py](https://github.com/repolex-forx/shibukawa--imagesize_py) | `cf87fc06d5` | 2026-11-02 |
+| [rbarrois/python-semanticversion](https://github.com/repolex-forx/rbarrois--python-semanticversion) | `2cbbee3154` | 2026-11-02 |
+| [eliben/pycparser](https://github.com/repolex-forx/eliben--pycparser) | `3ec766b7cd` | 2026-11-02 |
+| [jaraco/tempora](https://github.com/repolex-forx/jaraco--tempora) | `af7ee2dccd` | 2026-11-02 |
+| [workhorsy/py-cpuinfo](https://github.com/repolex-forx/workhorsy--py-cpuinfo) | `f3f0fec583` | 2026-11-02 |
+| [enthought/pywin32-ctypes](https://github.com/repolex-forx/enthought--pywin32-ctypes) | `06a3514d2f` | 2026-11-02 |
+| [samypr100/backports.asyncio.runner](https://github.com/repolex-forx/samypr100--backports.asyncio.runner) | `1d691044f4` | 2026-11-02 |
+| [sean2077/jsonpath-python](https://github.com/repolex-forx/sean2077--jsonpath-python) | `03c547cccb` | 2026-11-02 |
+| [alexmojaki/eval_type_backport](https://github.com/repolex-forx/alexmojaki--eval_type_backport) | `154aa07f56` | 2026-11-02 |
+| [lixxu/flask-paginate](https://github.com/repolex-forx/lixxu--flask-paginate) | `f51a23a625` | 2026-11-02 |
 | [django-commons/drf-excel](https://github.com/repolex-forx/django-commons--drf-excel) |  | 2026-11-02 |
 | [django-commons/axe-selenium-python](https://github.com/repolex-forx/django-commons--axe-selenium-python) |  | 2026-11-02 |
 | [django-commons/django-unicorn](https://github.com/repolex-forx/django-commons--django-unicorn) |  | 2026-11-02 |
