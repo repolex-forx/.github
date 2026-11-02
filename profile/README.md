@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/RestrictedPython](https://github.com/repolex-forx/zopefoundation--RestrictedPython) | `c5066f7d5b` | 2026-11-02 |
+| [zopefoundation/Persistence](https://github.com/repolex-forx/zopefoundation--Persistence) | `dd314e753b` | 2026-11-02 |
+| [zopefoundation/MultiMapping](https://github.com/repolex-forx/zopefoundation--MultiMapping) | `9f92fade66` | 2026-11-02 |
+| [zopefoundation/ExtensionClass](https://github.com/repolex-forx/zopefoundation--ExtensionClass) | `b923a04758` | 2026-11-02 |
+| [zopefoundation/DocumentTemplate](https://github.com/repolex-forx/zopefoundation--DocumentTemplate) | `7a5f477e3c` | 2026-11-02 |
+| [zopefoundation/DateTime](https://github.com/repolex-forx/zopefoundation--DateTime) | `b157397e21` | 2026-11-02 |
+| [zopefoundation/BTrees](https://github.com/repolex-forx/zopefoundation--BTrees) | `8b46803be1` | 2026-11-02 |
+| [zopefoundation/Acquisition](https://github.com/repolex-forx/zopefoundation--Acquisition) | `206990050d` | 2026-11-02 |
+| [zopefoundation/AccessControl](https://github.com/repolex-forx/zopefoundation--AccessControl) | `5746fe6228` | 2026-11-02 |
+| [apple/ml-cross-entropy](https://github.com/repolex-forx/apple--ml-cross-entropy) | `3de376c106` | 2026-11-02 |
 | [joerick/pyinstrument](https://github.com/repolex-forx/joerick--pyinstrument) | `c5a518ca90` | 2026-11-02 |
 | [shibukawa/imagesize_py](https://github.com/repolex-forx/shibukawa--imagesize_py) | `cf87fc06d5` | 2026-11-02 |
 | [rbarrois/python-semanticversion](https://github.com/repolex-forx/rbarrois--python-semanticversion) | `2cbbee3154` | 2026-11-02 |
