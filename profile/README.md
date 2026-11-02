@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [django-commons/drf-excel](https://github.com/repolex-forx/django-commons--drf-excel) |  | 2026-11-02 |
+| [django-commons/axe-selenium-python](https://github.com/repolex-forx/django-commons--axe-selenium-python) |  | 2026-11-02 |
+| [django-commons/django-unicorn](https://github.com/repolex-forx/django-commons--django-unicorn) |  | 2026-11-02 |
+| [django-commons/django-click](https://github.com/repolex-forx/django-commons--django-click) |  | 2026-11-02 |
+| [django-commons/django-widget-tweaks](https://github.com/repolex-forx/django-commons--django-widget-tweaks) |  | 2026-11-02 |
+| [django-commons/django-valkey](https://github.com/repolex-forx/django-commons--django-valkey) |  | 2026-11-02 |
+| [django-commons/django-fsm-2](https://github.com/repolex-forx/django-commons--django-fsm-2) |  | 2026-11-02 |
+| [django-commons/django-tailwind-cli](https://github.com/repolex-forx/django-commons--django-tailwind-cli) |  | 2026-11-02 |
+| [django-commons/django-axes](https://github.com/repolex-forx/django-commons--django-axes) |  | 2026-11-02 |
 | [django-commons/django-formtools](https://github.com/repolex-forx/django-commons--django-formtools) | `93d2de6587` | 2026-11-02 |
 | [django-commons/django-hosts](https://github.com/repolex-forx/django-commons--django-hosts) | `e538c46a9f` | 2026-11-02 |
 | [django-commons/django-smart-selects](https://github.com/repolex-forx/django-commons--django-smart-selects) | `30e0149d4c` | 2026-11-02 |
