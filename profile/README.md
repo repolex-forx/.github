@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/transaction](https://github.com/repolex-forx/zopefoundation--transaction) | `5c0e211b90` | 2026-11-02 |
+| [zopefoundation/ZODB](https://github.com/repolex-forx/zopefoundation--ZODB) | `c50a0941d4` | 2026-11-02 |
+| [zopefoundation/ZConfig](https://github.com/repolex-forx/zopefoundation--ZConfig) | `8536bf5541` | 2026-11-02 |
+| [ActiveState/appdirs](https://github.com/repolex-forx/ActiveState--appdirs) | `8734277956` | 2026-11-02 |
+| [scikit-build/ninja-python-distributions](https://github.com/repolex-forx/scikit-build--ninja-python-distributions) | `0288ae7cb3` | 2026-11-02 |
+| [opencv/opencv-python](https://github.com/repolex-forx/opencv--opencv-python) | `031876bd46` | 2026-11-02 |
+| [python-distro/distro](https://github.com/repolex-forx/python-distro--distro) | `3fba7d3e19` | 2026-11-02 |
+| [anthropics/redis-py](https://github.com/repolex-forx/anthropics--redis-py) | `04589d47d6` | 2026-11-02 |
+| [NousResearch/torchtitan_tests](https://github.com/repolex-forx/NousResearch--torchtitan_tests) | `3513c4305b` | 2026-11-02 |
+| [NousResearch/infini-attention](https://github.com/repolex-forx/NousResearch--infini-attention) | `9387ae1cf7` | 2026-11-02 |
 | [zopefoundation/RestrictedPython](https://github.com/repolex-forx/zopefoundation--RestrictedPython) | `c5066f7d5b` | 2026-11-02 |
 | [zopefoundation/Persistence](https://github.com/repolex-forx/zopefoundation--Persistence) | `dd314e753b` | 2026-11-02 |
 | [zopefoundation/MultiMapping](https://github.com/repolex-forx/zopefoundation--MultiMapping) | `9f92fade66` | 2026-11-02 |
