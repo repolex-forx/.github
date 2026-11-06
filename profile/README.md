@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jupyterhub/nativeauthenticator](https://github.com/repolex-forx/jupyterhub--nativeauthenticator) | `67acaf6a1a` | 2026-11-06 |
+| [jupyterhub/the-littlest-jupyterhub](https://github.com/repolex-forx/jupyterhub--the-littlest-jupyterhub) | `4ad828943d` | 2026-11-06 |
+| [ansible-community/antsibull-docs-loader](https://github.com/repolex-forx/ansible-community--antsibull-docs-loader) | `f6f58f89cb` | 2026-11-06 |
+| [ansible-community/antsibull-tool](https://github.com/repolex-forx/ansible-community--antsibull-tool) | `bad7f03f9c` | 2026-11-06 |
+| [ansible-community/antsibull-fileutils](https://github.com/repolex-forx/ansible-community--antsibull-fileutils) | `c98c55b82a` | 2026-11-06 |
+| [ansible-community/awx-tui](https://github.com/repolex-forx/ansible-community--awx-tui) | `7875fc3b72` | 2026-11-06 |
+| [ansible-community/ansible-docsite](https://github.com/repolex-forx/ansible-community--ansible-docsite) | `cb4337efca` | 2026-11-06 |
+| [ansible-community/antsibull-nox](https://github.com/repolex-forx/ansible-community--antsibull-nox) | `4e731b2fc8` | 2026-11-06 |
+| [ansible-community/antsibull-docutils](https://github.com/repolex-forx/ansible-community--antsibull-docutils) | `df2d6e9d73` | 2026-11-06 |
+| [ansible-community/ai-forge](https://github.com/repolex-forx/ansible-community--ai-forge) | `a0ef94bd3e` | 2026-11-06 |
 | [sphinx-contrib/sqltable](https://github.com/repolex-forx/sphinx-contrib--sqltable) | `24f68db562` | 2026-11-06 |
 | [sphinx-contrib/kroki](https://github.com/repolex-forx/sphinx-contrib--kroki) | `2665ddf784` | 2026-11-06 |
 | [sphinx-contrib/sphinxcontrib-del-marker](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-del-marker) | `e9a327e2b9` | 2026-11-06 |
