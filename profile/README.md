@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/inlinesyntaxhighlight](https://github.com/repolex-forx/sphinx-contrib--inlinesyntaxhighlight) | `216b874c1f` | 2026-11-06 |
+| [sphinx-contrib/gnuplot](https://github.com/repolex-forx/sphinx-contrib--gnuplot) | `0375f74b5d` | 2026-11-06 |
+| [sphinx-contrib/findanything](https://github.com/repolex-forx/sphinx-contrib--findanything) | `3ee1369ffd` | 2026-11-06 |
+| [sphinx-contrib/context](https://github.com/repolex-forx/sphinx-contrib--context) | `4b185aa3d2` | 2026-11-06 |
+| [sphinx-contrib/codeio](https://github.com/repolex-forx/sphinx-contrib--codeio) | `281c0a752a` | 2026-11-06 |
+| [sphinx-contrib/coffeedomain](https://github.com/repolex-forx/sphinx-contrib--coffeedomain) | `1b0cbda761` | 2026-11-06 |
+| [sphinx-contrib/exceltable](https://github.com/repolex-forx/sphinx-contrib--exceltable) | `d8c05cf49a` | 2026-11-06 |
+| [sphinx-contrib/examplecode](https://github.com/repolex-forx/sphinx-contrib--examplecode) | `a4d9028857` | 2026-11-06 |
+| [sphinx-contrib/erlangdomain](https://github.com/repolex-forx/sphinx-contrib--erlangdomain) | `ae7f7a2195` | 2026-11-06 |
+| [sphinx-contrib/doxylink](https://github.com/repolex-forx/sphinx-contrib--doxylink) | `8e80469080` | 2026-11-06 |
 | [sphinx-contrib/cmakedomain](https://github.com/repolex-forx/sphinx-contrib--cmakedomain) | `df970be527` | 2026-11-06 |
 | [sphinx-contrib/cheader](https://github.com/repolex-forx/sphinx-contrib--cheader) | `f05c8c6efa` | 2026-11-06 |
 | [sphinx-contrib/cf3domain](https://github.com/repolex-forx/sphinx-contrib--cf3domain) | `6b0797ba82` | 2026-11-06 |
