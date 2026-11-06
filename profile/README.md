@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ansible-community/antsibull-docs-parser](https://github.com/repolex-forx/ansible-community--antsibull-docs-parser) | `897ec1d914` | 2026-11-06 |
+| [ansible-community/ansible-pygments](https://github.com/repolex-forx/ansible-community--ansible-pygments) | `1a68878ae8` | 2026-11-06 |
+| [ansible-community/ppa](https://github.com/repolex-forx/ansible-community--ppa) | `1e60de5624` | 2026-11-06 |
+| [ansible-community/ansible.content_builder](https://github.com/repolex-forx/ansible-community--ansible.content_builder) | `80ad207031` | 2026-11-06 |
+| [ansible-community/antsichaut](https://github.com/repolex-forx/ansible-community--antsichaut) | `5930d6c87c` | 2026-11-06 |
+| [ansible-community/molecule-kubevirt](https://github.com/repolex-forx/ansible-community--molecule-kubevirt) | `7987e80be1` | 2026-11-06 |
+| [ansible-community/role2collection](https://github.com/repolex-forx/ansible-community--role2collection) | `d324fe9c4c` | 2026-11-06 |
+| [ansible-community/meetings](https://github.com/repolex-forx/ansible-community--meetings) | `450a3328a3` | 2026-11-06 |
+| [ansible-community/lightspeed-analysis-framework](https://github.com/repolex-forx/ansible-community--lightspeed-analysis-framework) | `27c76f2f89` | 2026-11-06 |
+| [ansible-community/stats-data](https://github.com/repolex-forx/ansible-community--stats-data) | `3dc4e8ca23` | 2026-11-06 |
 | [facebookresearch/kbc](https://github.com/repolex-forx/facebookresearch--kbc) | `248e931364` | 2026-11-06 |
 | [sympy/sympy_benchmarks](https://github.com/repolex-forx/sympy--sympy_benchmarks) | `3a6f8897c0` | 2026-11-06 |
 | [sympy/kamke-test-suite](https://github.com/repolex-forx/sympy--kamke-test-suite) | `4a23fb7db2` | 2026-11-06 |
