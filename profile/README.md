@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ansible-community/antsibull-docs](https://github.com/repolex-forx/ansible-community--antsibull-docs) | `389734f265` | 2026-11-06 |
+| [ansible-community/antsibull-build](https://github.com/repolex-forx/ansible-community--antsibull-build) | `07cf159abd` | 2026-11-06 |
+| [sympy/sympy_gamma](https://github.com/repolex-forx/sympy--sympy_gamma) | `3da0b1756d` | 2026-11-06 |
+| [sympy/sympy-bot-old](https://github.com/repolex-forx/sympy--sympy-bot-old) | `7abf6b1690` | 2026-11-06 |
+| [scipy/scipy.org](https://github.com/repolex-forx/scipy--scipy.org) | `2f177bcdb7` | 2026-11-06 |
+| [scikit-image/skimage-workbooks](https://github.com/repolex-forx/scikit-image--skimage-workbooks) | `f0e3c1575f` | 2026-11-06 |
+| [google-deepmind/optax](https://github.com/repolex-forx/google-deepmind--optax) | `85d06ce267` | 2026-11-06 |
+| [google-deepmind/acme](https://github.com/repolex-forx/google-deepmind--acme) | `2e09e3ddec` | 2026-11-06 |
+| [google-deepmind/multi_object_datasets](https://github.com/repolex-forx/google-deepmind--multi_object_datasets) | `a32c3bcbb4` | 2026-11-06 |
 | [jupyterhub/mybinder.org-user-guide](https://github.com/repolex-forx/jupyterhub--mybinder.org-user-guide) | `1a4084931e` | 2026-11-06 |
 | [jupyterhub/jupyterhub.github.io](https://github.com/repolex-forx/jupyterhub--jupyterhub.github.io) | `12fcc920d1` | 2026-11-06 |
 | [aio-libs/aiohttp-mcp](https://github.com/repolex-forx/aio-libs--aiohttp-mcp) | `9783c7bb7b` | 2026-11-06 |
