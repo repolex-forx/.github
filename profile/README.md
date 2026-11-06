@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/documentedlist](https://github.com/repolex-forx/sphinx-contrib--documentedlist) | `73fa4df717` | 2026-11-06 |
+| [sphinx-contrib/yasfb](https://github.com/repolex-forx/sphinx-contrib--yasfb) | `328b4c55b2` | 2026-11-06 |
+| [sphinx-contrib/pecanwsme](https://github.com/repolex-forx/sphinx-contrib--pecanwsme) | `e247815547` | 2026-11-06 |
+| [sphinx-contrib/googlechart](https://github.com/repolex-forx/sphinx-contrib--googlechart) | `9299aa6cff` | 2026-11-06 |
+| [sphinx-contrib/libreoffice](https://github.com/repolex-forx/sphinx-contrib--libreoffice) | `f99a23bdf4` | 2026-11-06 |
+| [sphinx-contrib/autorun](https://github.com/repolex-forx/sphinx-contrib--autorun) | `be1cbd304c` | 2026-11-06 |
+| [sphinx-contrib/slide](https://github.com/repolex-forx/sphinx-contrib--slide) | `d4356365c6` | 2026-11-06 |
+| [sphinx-contrib/traclinks](https://github.com/repolex-forx/sphinx-contrib--traclinks) | `590ef6c137` | 2026-11-06 |
+| [sphinx-contrib/cheeseshop](https://github.com/repolex-forx/sphinx-contrib--cheeseshop) | `70b7023e8d` | 2026-11-06 |
+| [sphinx-contrib/sadisplay](https://github.com/repolex-forx/sphinx-contrib--sadisplay) | `ad93a567f7` | 2026-11-06 |
 | [sphinx-contrib/zopeext](https://github.com/repolex-forx/sphinx-contrib--zopeext) | `08c983e2df` | 2026-11-06 |
 | [sphinx-contrib/feed](https://github.com/repolex-forx/sphinx-contrib--feed) | `e6668841bc` | 2026-11-06 |
 | [sphinx-contrib/domaintools](https://github.com/repolex-forx/sphinx-contrib--domaintools) | `cc6a5dcb32` | 2026-11-06 |
