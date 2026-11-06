@@ -34,6 +34,17 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ansible-community/ara](https://github.com/repolex-forx/ansible-community--ara) | `8aa994d1e5` | 2026-11-06 |
+| [ansible-community/ansible-bender](https://github.com/repolex-forx/ansible-community--ansible-bender) | `e3f3a26b7d` | 2026-11-06 |
+| [sympy/integration-test-suites](https://github.com/repolex-forx/sympy--integration-test-suites) | `871364f292` | 2026-11-06 |
+| [sympy/planet-sympy](https://github.com/repolex-forx/sympy--planet-sympy) | `a7c1a79387` | 2026-11-06 |
+| [scipy/scipy-stubs](https://github.com/repolex-forx/scipy--scipy-stubs) | `1cd8e53887` | 2026-11-06 |
+| [google-deepmind/dqn_zoo](https://github.com/repolex-forx/google-deepmind--dqn_zoo) | `45061f4bbb` | 2026-11-06 |
+| [google-deepmind/dm_hard_eight](https://github.com/repolex-forx/google-deepmind--dm_hard_eight) | `9e58b6f01d` | 2026-11-06 |
+| [google-deepmind/pysc2](https://github.com/repolex-forx/google-deepmind--pysc2) | `0df53d38c1` | 2026-11-06 |
+| [google-deepmind/sonnet](https://github.com/repolex-forx/google-deepmind--sonnet) | `1c3b3e4dad` | 2026-11-06 |
+| [sphinx-contrib/paverutils](https://github.com/repolex-forx/sphinx-contrib--paverutils) | `5e94ec59ff` | 2026-11-06 |
+| [sphinx-contrib/matlabdomain](https://github.com/repolex-forx/sphinx-contrib--matlabdomain) | `b40265b8a1` | 2026-11-06 |
 | [ansible-community/antsibull-docs](https://github.com/repolex-forx/ansible-community--antsibull-docs) | `389734f265` | 2026-11-06 |
 | [ansible-community/antsibull-build](https://github.com/repolex-forx/ansible-community--antsibull-build) | `07cf159abd` | 2026-11-06 |
 | [sympy/sympy_gamma](https://github.com/repolex-forx/sympy--sympy_gamma) | `3da0b1756d` | 2026-11-06 |
