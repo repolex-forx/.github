@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/zopeext](https://github.com/repolex-forx/sphinx-contrib--zopeext) | `08c983e2df` | 2026-11-06 |
+| [sphinx-contrib/feed](https://github.com/repolex-forx/sphinx-contrib--feed) | `e6668841bc` | 2026-11-06 |
+| [sphinx-contrib/domaintools](https://github.com/repolex-forx/sphinx-contrib--domaintools) | `cc6a5dcb32` | 2026-11-06 |
+| [sphinx-contrib/googleanalytics](https://github.com/repolex-forx/sphinx-contrib--googleanalytics) | `bd8c6cc410` | 2026-11-06 |
+| [sphinx-contrib/plantuml](https://github.com/repolex-forx/sphinx-contrib--plantuml) | `42bf035f32` | 2026-11-06 |
+| [sphinx-contrib/youtube](https://github.com/repolex-forx/sphinx-contrib--youtube) | `5238c05773` | 2026-11-06 |
+| [sphinx-contrib/napoleon](https://github.com/repolex-forx/sphinx-contrib--napoleon) | `dce30797b7` | 2026-11-06 |
+| [google-deepmind/gqn-datasets](https://github.com/repolex-forx/google-deepmind--gqn-datasets) | `cf2ff94768` | 2026-11-06 |
+| [google-deepmind/dm_env_rpc](https://github.com/repolex-forx/google-deepmind--dm_env_rpc) | `7037e319d7` | 2026-11-06 |
+| [google-deepmind/dm_memorytasks](https://github.com/repolex-forx/google-deepmind--dm_memorytasks) | `47d4546185` | 2026-11-06 |
 | [google-deepmind/deep-verify](https://github.com/repolex-forx/google-deepmind--deep-verify) | `ad74b938b2` | 2026-11-06 |
 | [google-deepmind/spriteworld](https://github.com/repolex-forx/google-deepmind--spriteworld) | `ace9e186ee` | 2026-11-06 |
 | [google-deepmind/wasserstein_fairness](https://github.com/repolex-forx/google-deepmind--wasserstein_fairness) | `eb4483a2e7` | 2026-11-06 |
