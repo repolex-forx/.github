@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/cmakedomain](https://github.com/repolex-forx/sphinx-contrib--cmakedomain) | `df970be527` | 2026-11-06 |
+| [sphinx-contrib/cheader](https://github.com/repolex-forx/sphinx-contrib--cheader) | `f05c8c6efa` | 2026-11-06 |
+| [sphinx-contrib/cf3domain](https://github.com/repolex-forx/sphinx-contrib--cf3domain) | `6b0797ba82` | 2026-11-06 |
+| [sphinx-contrib/cacoo](https://github.com/repolex-forx/sphinx-contrib--cacoo) | `0821dbe969` | 2026-11-06 |
+| [sphinx-contrib/autoanysrc](https://github.com/repolex-forx/sphinx-contrib--autoanysrc) | `481f1285f0` | 2026-11-06 |
+| [sphinx-contrib/argdoc](https://github.com/repolex-forx/sphinx-contrib--argdoc) | `09a8388249` | 2026-11-06 |
+| [sphinx-contrib/redirects](https://github.com/repolex-forx/sphinx-contrib--redirects) | `0706edbce3` | 2026-11-06 |
+| [sphinx-contrib/cookiecutter](https://github.com/repolex-forx/sphinx-contrib--cookiecutter) | `aa221237cf` | 2026-11-06 |
+| [sphinx-contrib/aafig](https://github.com/repolex-forx/sphinx-contrib--aafig) | `4b192aa8d6` | 2026-11-06 |
+| [sphinx-contrib/sqlalchemyviz](https://github.com/repolex-forx/sphinx-contrib--sqlalchemyviz) | `0abac04599` | 2026-11-06 |
 | [sphinx-contrib/documentedlist](https://github.com/repolex-forx/sphinx-contrib--documentedlist) | `73fa4df717` | 2026-11-06 |
 | [sphinx-contrib/yasfb](https://github.com/repolex-forx/sphinx-contrib--yasfb) | `328b4c55b2` | 2026-11-06 |
 | [sphinx-contrib/pecanwsme](https://github.com/repolex-forx/sphinx-contrib--pecanwsme) | `e247815547` | 2026-11-06 |
