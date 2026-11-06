@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [mayeut/pybase64](https://github.com/repolex-forx/mayeut--pybase64) | `10639d9232` | 2026-11-05 |
+| [open-dingtalk/dingtalk-stream-sdk-python](https://github.com/repolex-forx/open-dingtalk--dingtalk-stream-sdk-python) | `8d8bb1c630` | 2026-11-05 |
+| [larksuite/oapi-sdk-python](https://github.com/repolex-forx/larksuite--oapi-sdk-python) | `0d9749a472` | 2026-11-05 |
+| [parallel-web/parallel-sdk-python](https://github.com/repolex-forx/parallel-web--parallel-sdk-python) | `ee81aa4490` | 2026-11-05 |
+| [chrisjsewell/markdown-it-pyrs](https://github.com/repolex-forx/chrisjsewell--markdown-it-pyrs) | `86cf6f4c87` | 2026-11-05 |
+| [facelessuser/pymdown-extensions](https://github.com/repolex-forx/facelessuser--pymdown-extensions) | `7a3f1715c6` | 2026-11-05 |
+| [youtype/mypy_boto3_builder](https://github.com/repolex-forx/youtype--mypy_boto3_builder) | `d6226a0121` | 2026-11-05 |
+| [darvid/python-hyperscan](https://github.com/repolex-forx/darvid--python-hyperscan) | `64201bb150` | 2026-11-05 |
+| [tinylibs/tinyspy](https://github.com/repolex-forx/tinylibs--tinyspy) | `3d2c9c8550` | 2026-11-05 |
+| [coherent-oss/pytest-ignore-flaky](https://github.com/repolex-forx/coherent-oss--pytest-ignore-flaky) | `be6428645c` | 2026-11-05 |
 | [sphinx-contrib/emojicodes](https://github.com/repolex-forx/sphinx-contrib--emojicodes) | `63444cf58c` | 2026-11-05 |
 | [carsongee/pytest-pylint](https://github.com/repolex-forx/carsongee--pytest-pylint) | `35ffa7124a` | 2026-11-05 |
 | [wolph/portalocker](https://github.com/repolex-forx/wolph--portalocker) | `6dbcbb2b3e` | 2026-11-05 |
