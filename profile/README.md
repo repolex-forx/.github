@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [anthropics/blobfile](https://github.com/repolex-forx/anthropics--blobfile) | `e8d35f07e4` | 2026-11-05 |
+| [apple/ml-hypersim](https://github.com/repolex-forx/apple--ml-hypersim) | `3463c5c4a7` | 2026-11-05 |
+| [apple/ml-neuman](https://github.com/repolex-forx/apple--ml-neuman) | `15d64ac218` | 2026-11-05 |
+| [apple/ml-aim](https://github.com/repolex-forx/apple--ml-aim) | `a018ae3208` | 2026-11-05 |
+| [pytorch/audio](https://github.com/repolex-forx/pytorch--audio) | `9b19155e6f` | 2026-11-05 |
+| [pydanny/cached-property](https://github.com/repolex-forx/pydanny--cached-property) | `c032196d9a` | 2026-11-05 |
+| [mongodb/mongo-python-driver](https://github.com/repolex-forx/mongodb--mongo-python-driver) | `039144e9ef` | 2026-11-05 |
+| [PyYoshi/cChardet](https://github.com/repolex-forx/PyYoshi--cChardet) | `be7279b765` | 2026-11-05 |
+| [facebookresearch/pytorchvideo](https://github.com/repolex-forx/facebookresearch--pytorchvideo) | `2ac6ed3613` | 2026-11-05 |
+| [pytorch/text](https://github.com/repolex-forx/pytorch--text) | `a5e610638e` | 2026-11-05 |
 | [pytorch/data](https://github.com/repolex-forx/pytorch--data) | `ee79a399d3` | 2026-11-05 |
 | [block/deplock](https://github.com/repolex-forx/block--deplock) | `1772173ed5` | 2026-11-05 |
 | [python-telegram-bot/python-telegram-bot](https://github.com/repolex-forx/python-telegram-bot--python-telegram-bot) | `8dec234225` | 2026-11-05 |
