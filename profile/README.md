@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/svgbob](https://github.com/repolex-forx/sphinx-contrib--svgbob) | `039500b61e` | 2026-11-06 |
+| [sphinx-contrib/btn](https://github.com/repolex-forx/sphinx-contrib--btn) | `9efc194841` | 2026-11-06 |
+| [sphinx-contrib/autofile](https://github.com/repolex-forx/sphinx-contrib--autofile) | `bf04c27133` | 2026-11-06 |
+| [sphinx-contrib/eval](https://github.com/repolex-forx/sphinx-contrib--eval) | `b19de8e74a` | 2026-11-06 |
+| [sphinx-contrib/multiversion](https://github.com/repolex-forx/sphinx-contrib--multiversion) | `cd4c0db664` | 2026-11-06 |
+| [sphinx-contrib/prettyspecialmethods](https://github.com/repolex-forx/sphinx-contrib--prettyspecialmethods) | `38fb1b784a` | 2026-11-06 |
+| [sphinx-contrib/requirements-txt](https://github.com/repolex-forx/sphinx-contrib--requirements-txt) | `c72576cd0d` | 2026-11-06 |
+| [sphinx-contrib/syntax](https://github.com/repolex-forx/sphinx-contrib--syntax) | `fed3d9137d` | 2026-11-06 |
+| [sphinx-contrib/icon](https://github.com/repolex-forx/sphinx-contrib--icon) | `02dca689ed` | 2026-11-06 |
+| [sphinx-contrib/scm](https://github.com/repolex-forx/sphinx-contrib--scm) | `375af7656b` | 2026-11-06 |
 | [sphinx-contrib/sphinxcontrib-termynal](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-termynal) | `853621b2a0` | 2026-11-06 |
 | [sphinx-contrib/sphinxcontrib-skeleton](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-skeleton) | `f59056109f` | 2026-11-06 |
 | [sphinx-contrib/stuffcounter](https://github.com/repolex-forx/sphinx-contrib--stuffcounter) | `ffb2ac71d4` | 2026-11-06 |
