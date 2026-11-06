@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [facebookresearch/slowfast](https://github.com/repolex-forx/facebookresearch--slowfast) | `287ec00768` | 2026-11-06 |
+| [facebookresearch/mmf](https://github.com/repolex-forx/facebookresearch--mmf) | `72f898ec35` | 2026-11-06 |
+| [facebookresearch/fairscale](https://github.com/repolex-forx/facebookresearch--fairscale) | `146f160241` | 2026-11-06 |
+| [facebookresearch/recipes](https://github.com/repolex-forx/facebookresearch--recipes) | `0e70491af3` | 2026-11-06 |
+| [apple/ml-fastvit](https://github.com/repolex-forx/apple--ml-fastvit) | `441ad35437` | 2026-11-06 |
+| [apple/ml-depth-pro](https://github.com/repolex-forx/apple--ml-depth-pro) | `9e65e4dbe9` | 2026-11-06 |
+| [apple/ml-mobileone](https://github.com/repolex-forx/apple--ml-mobileone) | `3cebdf04a1` | 2026-11-06 |
+| [openai/evals](https://github.com/repolex-forx/openai--evals) | `8eac7a7de5` | 2026-11-06 |
+| [openai/swarm](https://github.com/repolex-forx/openai--swarm) | `6af0b4caf3` | 2026-11-06 |
 | [google-deepmind/scalable_agent](https://github.com/repolex-forx/google-deepmind--scalable_agent) | `6c0c8a7019` | 2026-11-05 |
 | [google-deepmind/dnc](https://github.com/repolex-forx/google-deepmind--dnc) | `f5981c66ac` | 2026-11-05 |
 | [google-deepmind/learning-to-learn](https://github.com/repolex-forx/google-deepmind--learning-to-learn) | `f3c1a8d176` | 2026-11-05 |
