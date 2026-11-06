@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [huggingface/math-verify](https://github.com/repolex-forx/huggingface--math-verify) | `ba3d3aaff2` | 2026-11-05 |
+| [pyparsing/pyparsing](https://github.com/repolex-forx/pyparsing--pyparsing) | `810199f89b` | 2026-11-05 |
+| [AbstractUmbra/audioop](https://github.com/repolex-forx/AbstractUmbra--audioop) | `14e6553f7a` | 2026-11-05 |
+| [kennethreitz/omnijson](https://github.com/repolex-forx/kennethreitz--omnijson) | `a5890a51a5` | 2026-11-05 |
+| [regebro/pyroma](https://github.com/repolex-forx/regebro--pyroma) | `3062c977fa` | 2026-11-05 |
+| [stefankoegl/python-json-pointer](https://github.com/repolex-forx/stefankoegl--python-json-pointer) | `fc5603b445` | 2026-11-05 |
+| [ionelmc/python-process-tests](https://github.com/repolex-forx/ionelmc--python-process-tests) | `f92208195f` | 2026-11-05 |
+| [dvarrazzo/py-setproctitle](https://github.com/repolex-forx/dvarrazzo--py-setproctitle) | `2e7124295e` | 2026-11-05 |
+| [trentm/python-markdown2](https://github.com/repolex-forx/trentm--python-markdown2) | `0ea342a56b` | 2026-11-05 |
+| [JoshData/python-email-validator](https://github.com/repolex-forx/JoshData--python-email-validator) | `4ac100ec9a` | 2026-11-05 |
 | [mgedmin/check-manifest](https://github.com/repolex-forx/mgedmin--check-manifest) | `5073ecd69f` | 2026-11-05 |
 | [realpython/pytest-mypy](https://github.com/repolex-forx/realpython--pytest-mypy) | `b578993c4c` | 2026-11-05 |
 | [businho/pytest-ruff](https://github.com/repolex-forx/businho--pytest-ruff) | `eb815de1fc` | 2026-11-05 |
