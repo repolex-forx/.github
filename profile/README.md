@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [mrabarnett/mrab-regex](https://github.com/repolex-forx/mrabarnett--mrab-regex) | `0e8cb0596b` | 2026-11-05 |
+| [apple/ccs-pykerberos](https://github.com/repolex-forx/apple--ccs-pykerberos) | `32ff1211fc` | 2026-11-05 |
+| [microsoft/debugpy](https://github.com/repolex-forx/microsoft--debugpy) | `54af3783b1` | 2026-11-05 |
+| [sdispater/pendulum](https://github.com/repolex-forx/sdispater--pendulum) | `e06dacedc4` | 2026-11-05 |
+| [daviddrysdale/python-phonenumbers](https://github.com/repolex-forx/daviddrysdale--python-phonenumbers) | `e738f6f872` | 2026-11-05 |
+| [pandas-dev/pandas-stubs](https://github.com/repolex-forx/pandas-dev--pandas-stubs) | `96c49cbe89` | 2026-11-05 |
+| [pygobject/pygobject-stubs](https://github.com/repolex-forx/pygobject--pygobject-stubs) | `16af78ff1a` | 2026-11-05 |
+| [zen-xu/pyarrow-stubs](https://github.com/repolex-forx/zen-xu--pyarrow-stubs) | `d92217fe71` | 2026-11-05 |
+| [deedy5/primp](https://github.com/repolex-forx/deedy5--primp) | `84c1c45d61` | 2026-11-05 |
+| [h5py/h5py](https://github.com/repolex-forx/h5py--h5py) | `f5918a1cf8` | 2026-11-05 |
 | [mayeut/pybase64](https://github.com/repolex-forx/mayeut--pybase64) | `10639d9232` | 2026-11-05 |
 | [open-dingtalk/dingtalk-stream-sdk-python](https://github.com/repolex-forx/open-dingtalk--dingtalk-stream-sdk-python) | `8d8bb1c630` | 2026-11-05 |
 | [larksuite/oapi-sdk-python](https://github.com/repolex-forx/larksuite--oapi-sdk-python) | `0d9749a472` | 2026-11-05 |
