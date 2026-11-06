@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pytorch/data](https://github.com/repolex-forx/pytorch--data) | `ee79a399d3` | 2026-11-05 |
+| [block/deplock](https://github.com/repolex-forx/block--deplock) | `1772173ed5` | 2026-11-05 |
+| [python-telegram-bot/python-telegram-bot](https://github.com/repolex-forx/python-telegram-bot--python-telegram-bot) | `8dec234225` | 2026-11-05 |
+| [lxml/lxml-stubs](https://github.com/repolex-forx/lxml--lxml-stubs) | `c6246a1ae5` | 2026-11-05 |
+| [ifduyue/python-xxhash](https://github.com/repolex-forx/ifduyue--python-xxhash) | `54c863576b` | 2026-11-05 |
+| [huggingface/optimum-onnx](https://github.com/repolex-forx/huggingface--optimum-onnx) | `46533fb665` | 2026-11-05 |
+| [apache/datafusion-python](https://github.com/repolex-forx/apache--datafusion-python) | `878e5d3b8d` | 2026-11-05 |
+| [googleapis/python-bigquery](https://github.com/repolex-forx/googleapis--python-bigquery) | `ca965f25fa` | 2026-11-05 |
+| [Blosc/python-blosc2](https://github.com/repolex-forx/Blosc--python-blosc2) | `d3bca9e53d` | 2026-11-05 |
+| [NousResearch/lm-eval-harness](https://github.com/repolex-forx/NousResearch--lm-eval-harness) | `44840ee3d3` | 2026-11-05 |
 | [mrabarnett/mrab-regex](https://github.com/repolex-forx/mrabarnett--mrab-regex) | `0e8cb0596b` | 2026-11-05 |
 | [apple/ccs-pykerberos](https://github.com/repolex-forx/apple--ccs-pykerberos) | `32ff1211fc` | 2026-11-05 |
 | [microsoft/debugpy](https://github.com/repolex-forx/microsoft--debugpy) | `54af3783b1` | 2026-11-05 |
