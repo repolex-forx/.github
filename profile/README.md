@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/emojicodes](https://github.com/repolex-forx/sphinx-contrib--emojicodes) | `63444cf58c` | 2026-11-05 |
+| [carsongee/pytest-pylint](https://github.com/repolex-forx/carsongee--pytest-pylint) | `35ffa7124a` | 2026-11-05 |
+| [wolph/portalocker](https://github.com/repolex-forx/wolph--portalocker) | `6dbcbb2b3e` | 2026-11-05 |
+| [davidfritzsche/pytest-mypy-testing](https://github.com/repolex-forx/davidfritzsche--pytest-mypy-testing) | `0e300ba48c` | 2026-11-05 |
+| [waylan/pyyaml-env-tag](https://github.com/repolex-forx/waylan--pyyaml-env-tag) | `8f43568693` | 2026-11-05 |
+| [stub42/pytz](https://github.com/repolex-forx/stub42--pytz) | `e3c6fe223a` | 2026-11-05 |
+| [tsutsu3/linkify-it-py](https://github.com/repolex-forx/tsutsu3--linkify-it-py) | `84af472a80` | 2026-11-05 |
+| [jaraco/jaraco.envs](https://github.com/repolex-forx/jaraco--jaraco.envs) | `3da05f2509` | 2026-11-05 |
+| [documatt/sphinx-reredirects](https://github.com/repolex-forx/documatt--sphinx-reredirects) | `114983d43f` | 2026-11-05 |
+| [aklajnert/pytest-subprocess](https://github.com/repolex-forx/aklajnert--pytest-subprocess) | `c24b26cb0b` | 2026-11-05 |
 | [liluo/pygments-github-lexers](https://github.com/repolex-forx/liluo--pygments-github-lexers) | `02df3a52c2` | 2026-11-05 |
 | [tcmetzger/sphinx-favicon](https://github.com/repolex-forx/tcmetzger--sphinx-favicon) | `95a723a0fe` | 2026-11-05 |
 | [exa-labs/exa-py](https://github.com/repolex-forx/exa-labs--exa-py) | `8ca7b446a1` | 2026-11-05 |
