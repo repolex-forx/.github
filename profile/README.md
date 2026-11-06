@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [google-deepmind/fancyflags](https://github.com/repolex-forx/google-deepmind--fancyflags) | `154f0d0290` | 2026-11-06 |
+| [google-deepmind/jaxline](https://github.com/repolex-forx/google-deepmind--jaxline) | `a2308d6219` | 2026-11-06 |
+| [google-deepmind/dm_fast_mapping](https://github.com/repolex-forx/google-deepmind--dm_fast_mapping) | `6045a1d450` | 2026-11-06 |
+| [google-deepmind/jmp](https://github.com/repolex-forx/google-deepmind--jmp) | `df92d9ed22` | 2026-11-06 |
+| [sphinx-contrib/rubydomain](https://github.com/repolex-forx/sphinx-contrib--rubydomain) | `3f54660918` | 2026-11-06 |
+| [sphinx-contrib/requirements](https://github.com/repolex-forx/sphinx-contrib--requirements) | `70906a63d3` | 2026-11-06 |
+| [sphinx-contrib/phpdomain](https://github.com/repolex-forx/sphinx-contrib--phpdomain) | `8a9860b49b` | 2026-11-06 |
+| [sphinx-contrib/nicovideo](https://github.com/repolex-forx/sphinx-contrib--nicovideo) | `445356bd36` | 2026-11-06 |
+| [sphinx-contrib/mscgen](https://github.com/repolex-forx/sphinx-contrib--mscgen) | `4dfa974b8b` | 2026-11-06 |
+| [sphinx-contrib/mockautodoc](https://github.com/repolex-forx/sphinx-contrib--mockautodoc) | `9503134d02` | 2026-11-06 |
 | [sphinx-contrib/inlinesyntaxhighlight](https://github.com/repolex-forx/sphinx-contrib--inlinesyntaxhighlight) | `216b874c1f` | 2026-11-06 |
 | [sphinx-contrib/gnuplot](https://github.com/repolex-forx/sphinx-contrib--gnuplot) | `0375f74b5d` | 2026-11-06 |
 | [sphinx-contrib/findanything](https://github.com/repolex-forx/sphinx-contrib--findanything) | `3ee1369ffd` | 2026-11-06 |
