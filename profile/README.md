@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/sphinxcontrib-termynal](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-termynal) | `853621b2a0` | 2026-11-06 |
+| [sphinx-contrib/sphinxcontrib-skeleton](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-skeleton) | `f59056109f` | 2026-11-06 |
+| [sphinx-contrib/stuffcounter](https://github.com/repolex-forx/sphinx-contrib--stuffcounter) | `ffb2ac71d4` | 2026-11-06 |
+| [sphinx-contrib/apidoc](https://github.com/repolex-forx/sphinx-contrib--apidoc) | `d47f8b3120` | 2026-11-06 |
+| [sphinx-contrib/jinja-autodoc](https://github.com/repolex-forx/sphinx-contrib--jinja-autodoc) | `b2aaf9fc0e` | 2026-11-06 |
+| [sphinx-contrib/repl](https://github.com/repolex-forx/sphinx-contrib--repl) | `6a07f80dc5` | 2026-11-06 |
+| [sphinx-contrib/vhs](https://github.com/repolex-forx/sphinx-contrib--vhs) | `5cc9b26664` | 2026-11-06 |
+| [sphinx-contrib/proof](https://github.com/repolex-forx/sphinx-contrib--proof) | `4ec61dc59d` | 2026-11-06 |
+| [sphinx-contrib/packages](https://github.com/repolex-forx/sphinx-contrib--packages) | `eda29dca96` | 2026-11-06 |
+| [sphinx-contrib/mcp](https://github.com/repolex-forx/sphinx-contrib--mcp) | `9a78614722` | 2026-11-06 |
 | [ansible-community/ara](https://github.com/repolex-forx/ansible-community--ara) | `8aa994d1e5` | 2026-11-06 |
 | [ansible-community/ansible-bender](https://github.com/repolex-forx/ansible-community--ansible-bender) | `e3f3a26b7d` | 2026-11-06 |
 | [sympy/integration-test-suites](https://github.com/repolex-forx/sympy--integration-test-suites) | `871364f292` | 2026-11-06 |
