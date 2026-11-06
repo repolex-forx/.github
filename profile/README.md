@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [google-deepmind/scalable_agent](https://github.com/repolex-forx/google-deepmind--scalable_agent) | `6c0c8a7019` | 2026-11-05 |
+| [google-deepmind/dnc](https://github.com/repolex-forx/google-deepmind--dnc) | `f5981c66ac` | 2026-11-05 |
+| [google-deepmind/learning-to-learn](https://github.com/repolex-forx/google-deepmind--learning-to-learn) | `f3c1a8d176` | 2026-11-05 |
+| [google-deepmind/graph_nets](https://github.com/repolex-forx/google-deepmind--graph_nets) | `adf25162ba` | 2026-11-05 |
+| [google-deepmind/trfl](https://github.com/repolex-forx/google-deepmind--trfl) | `ed6eff5b79` | 2026-11-05 |
+| [google-deepmind/bsuite](https://github.com/repolex-forx/google-deepmind--bsuite) | `8109eb2329` | 2026-11-05 |
+| [google-deepmind/dm_env](https://github.com/repolex-forx/google-deepmind--dm_env) | `91b46797fe` | 2026-11-05 |
+| [google-deepmind/tree](https://github.com/repolex-forx/google-deepmind--tree) | `1728f97edd` | 2026-11-05 |
+| [google-deepmind/rlax](https://github.com/repolex-forx/google-deepmind--rlax) | `036c859d6b` | 2026-11-05 |
+| [google-deepmind/dm-haiku](https://github.com/repolex-forx/google-deepmind--dm-haiku) | `4ec60bb587` | 2026-11-05 |
 | [anthropics/blobfile](https://github.com/repolex-forx/anthropics--blobfile) | `e8d35f07e4` | 2026-11-05 |
 | [apple/ml-hypersim](https://github.com/repolex-forx/apple--ml-hypersim) | `3463c5c4a7` | 2026-11-05 |
 | [apple/ml-neuman](https://github.com/repolex-forx/apple--ml-neuman) | `15d64ac218` | 2026-11-05 |
