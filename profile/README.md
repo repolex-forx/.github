@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [facebookresearch/kbc](https://github.com/repolex-forx/facebookresearch--kbc) | `248e931364` | 2026-11-06 |
+| [sympy/sympy_benchmarks](https://github.com/repolex-forx/sympy--sympy_benchmarks) | `3a6f8897c0` | 2026-11-06 |
+| [sympy/kamke-test-suite](https://github.com/repolex-forx/sympy--kamke-test-suite) | `4a23fb7db2` | 2026-11-06 |
+| [scipy/scipy_doctest](https://github.com/repolex-forx/scipy--scipy_doctest) | `1bcadb1d88` | 2026-11-06 |
+| [scipy/scipy-release](https://github.com/repolex-forx/scipy--scipy-release) | `924bf365cc` | 2026-11-06 |
+| [scipy/oldest-supported-numpy](https://github.com/repolex-forx/scipy--oldest-supported-numpy) | `687ffc2f57` | 2026-11-06 |
+| [google-deepmind/distrax](https://github.com/repolex-forx/google-deepmind--distrax) | `33cb7b5a2b` | 2026-11-06 |
+| [google-deepmind/ferminet](https://github.com/repolex-forx/google-deepmind--ferminet) | `e9d5a604d1` | 2026-11-06 |
+| [google-deepmind/chex](https://github.com/repolex-forx/google-deepmind--chex) | `02bfaa7856` | 2026-11-06 |
+| [google-deepmind/dmvr](https://github.com/repolex-forx/google-deepmind--dmvr) | `77ccedaa08` | 2026-11-06 |
 | [google-deepmind/fancyflags](https://github.com/repolex-forx/google-deepmind--fancyflags) | `154f0d0290` | 2026-11-06 |
 | [google-deepmind/jaxline](https://github.com/repolex-forx/google-deepmind--jaxline) | `a2308d6219` | 2026-11-06 |
 | [google-deepmind/dm_fast_mapping](https://github.com/repolex-forx/google-deepmind--dm_fast_mapping) | `6045a1d450` | 2026-11-06 |
