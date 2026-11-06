@@ -34,6 +34,17 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [google-deepmind/deep-verify](https://github.com/repolex-forx/google-deepmind--deep-verify) | `ad74b938b2` | 2026-11-06 |
+| [google-deepmind/spriteworld](https://github.com/repolex-forx/google-deepmind--spriteworld) | `ace9e186ee` | 2026-11-06 |
+| [google-deepmind/wasserstein_fairness](https://github.com/repolex-forx/google-deepmind--wasserstein_fairness) | `eb4483a2e7` | 2026-11-06 |
+| [google-deepmind/Temporal-3D-Pose-Kinetics](https://github.com/repolex-forx/google-deepmind--Temporal-3D-Pose-Kinetics) | `a8369cd9d6` | 2026-11-06 |
+| [google-deepmind/mathematics_dataset](https://github.com/repolex-forx/google-deepmind--mathematics_dataset) | `427f45075f` | 2026-11-06 |
+| [google-deepmind/leo](https://github.com/repolex-forx/google-deepmind--leo) | `de9a0c2a77` | 2026-11-06 |
+| [google-deepmind/grid-cells](https://github.com/repolex-forx/google-deepmind--grid-cells) | `d1a2304d9a` | 2026-11-06 |
+| [google-deepmind/interval-bound-propagation](https://github.com/repolex-forx/google-deepmind--interval-bound-propagation) | `217a14d126` | 2026-11-06 |
+| [google-deepmind/dynamic-kanerva-machines](https://github.com/repolex-forx/google-deepmind--dynamic-kanerva-machines) | `49e7a0d98c` | 2026-11-06 |
+| [google-deepmind/surface-distance](https://github.com/repolex-forx/google-deepmind--surface-distance) | `1f805cea44` | 2026-11-06 |
+| [google-deepmind/pycolab](https://github.com/repolex-forx/google-deepmind--pycolab) | `6504c8065d` | 2026-11-06 |
 | [facebookresearch/slowfast](https://github.com/repolex-forx/facebookresearch--slowfast) | `287ec00768` | 2026-11-06 |
 | [facebookresearch/mmf](https://github.com/repolex-forx/facebookresearch--mmf) | `72f898ec35` | 2026-11-06 |
 | [facebookresearch/fairscale](https://github.com/repolex-forx/facebookresearch--fairscale) | `146f160241` | 2026-11-06 |
