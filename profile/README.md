@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/sqltable](https://github.com/repolex-forx/sphinx-contrib--sqltable) | `24f68db562` | 2026-11-06 |
+| [sphinx-contrib/kroki](https://github.com/repolex-forx/sphinx-contrib--kroki) | `2665ddf784` | 2026-11-06 |
+| [sphinx-contrib/sphinxcontrib-del-marker](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-del-marker) | `e9a327e2b9` | 2026-11-06 |
+| [sphinx-contrib/tikz](https://github.com/repolex-forx/sphinx-contrib--tikz) | `a6ba7fad8b` | 2026-11-06 |
+| [sphinx-contrib/sphinx-contrib-rapidoc](https://github.com/repolex-forx/sphinx-contrib--sphinx-contrib-rapidoc) | `b1ece327c2` | 2026-11-06 |
+| [sphinx-contrib/rawfiles](https://github.com/repolex-forx/sphinx-contrib--rawfiles) | `4289d66723` | 2026-11-06 |
+| [sphinx-contrib/restbuilder](https://github.com/repolex-forx/sphinx-contrib--restbuilder) | `86c294f2b1` | 2026-11-06 |
+| [sphinx-contrib/sphinxcontrib-run](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-run) | `d6e0e5ceea` | 2026-11-06 |
+| [sphinx-contrib/sphinx-rdme](https://github.com/repolex-forx/sphinx-contrib--sphinx-rdme) | `d1614380cc` | 2026-11-06 |
+| [sphinx-contrib/sphinxcontrib-details-directive](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-details-directive) | `eaa929e41a` | 2026-11-06 |
 | [sphinx-contrib/svgbob](https://github.com/repolex-forx/sphinx-contrib--svgbob) | `039500b61e` | 2026-11-06 |
 | [sphinx-contrib/btn](https://github.com/repolex-forx/sphinx-contrib--btn) | `9efc194841` | 2026-11-06 |
 | [sphinx-contrib/autofile](https://github.com/repolex-forx/sphinx-contrib--autofile) | `bf04c27133` | 2026-11-06 |
