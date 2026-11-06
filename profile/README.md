@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pycqa/flake8](https://github.com/repolex-forx/pycqa--flake8) | `1a50f8923b` | 2026-11-05 |
+| [tusharsadhwani/pytokens](https://github.com/repolex-forx/tusharsadhwani--pytokens) | `e087823ddf` | 2026-11-05 |
+| [jaraco/backports.functools_lru_cache](https://github.com/repolex-forx/jaraco--backports.functools_lru_cache) | `22ad4cd0ec` | 2026-11-05 |
+| [google/python-subprocess32](https://github.com/repolex-forx/google--python-subprocess32) | `b63954f561` | 2026-11-05 |
+| [python/mypy_extensions](https://github.com/repolex-forx/python--mypy_extensions) | `df7b7054e3` | 2026-11-05 |
+| [zopefoundation/zope.viewlet](https://github.com/repolex-forx/zopefoundation--zope.viewlet) | `e2b8d28559` | 2026-11-05 |
+| [zopefoundation/zope.traversing](https://github.com/repolex-forx/zopefoundation--zope.traversing) | `eea8b7a651` | 2026-11-05 |
+| [zopefoundation/zope.testing](https://github.com/repolex-forx/zopefoundation--zope.testing) | `66b408d90c` | 2026-11-05 |
+| [zopefoundation/zope.testbrowser](https://github.com/repolex-forx/zopefoundation--zope.testbrowser) | `c4936bb343` | 2026-11-05 |
+| [zopefoundation/zope.tales](https://github.com/repolex-forx/zopefoundation--zope.tales) | `24559529fa` | 2026-11-05 |
 | [zopefoundation/zope.tal](https://github.com/repolex-forx/zopefoundation--zope.tal) | `b9ed2eebff` | 2026-11-05 |
 | [zopefoundation/zope.size](https://github.com/repolex-forx/zopefoundation--zope.size) | `a7914d7957` | 2026-11-05 |
 | [zopefoundation/zope.sequencesort](https://github.com/repolex-forx/zopefoundation--zope.sequencesort) | `7c6ae9042b` | 2026-11-05 |
