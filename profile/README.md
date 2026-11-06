@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jupyterhub/mybinder.org-user-guide](https://github.com/repolex-forx/jupyterhub--mybinder.org-user-guide) | `1a4084931e` | 2026-11-06 |
+| [jupyterhub/jupyterhub.github.io](https://github.com/repolex-forx/jupyterhub--jupyterhub.github.io) | `12fcc920d1` | 2026-11-06 |
+| [aio-libs/aiohttp-mcp](https://github.com/repolex-forx/aio-libs--aiohttp-mcp) | `9783c7bb7b` | 2026-11-06 |
+| [google-deepmind/xmanager](https://github.com/repolex-forx/google-deepmind--xmanager) | `25ea8d54a9` | 2026-11-06 |
+| [ansible-community/molecule-plugins](https://github.com/repolex-forx/ansible-community--molecule-plugins) | `0da93314c4` | 2026-11-06 |
+| [ansible-community/antsibull-changelog](https://github.com/repolex-forx/ansible-community--antsibull-changelog) | `e2a251de92` | 2026-11-06 |
+| [ansible-community/meetup](https://github.com/repolex-forx/ansible-community--meetup) | `0dfed587b7` | 2026-11-06 |
+| [ansible-community/molecule-hetznercloud](https://github.com/repolex-forx/ansible-community--molecule-hetznercloud) | `3c8444a346` | 2026-11-06 |
+| [ansible-community/antsibull-core](https://github.com/repolex-forx/ansible-community--antsibull-core) | `3e98c82aed` | 2026-11-06 |
+| [ansible-community/ansible-test-gh-action](https://github.com/repolex-forx/ansible-community--ansible-test-gh-action) | `dc5c5bfa02` | 2026-11-06 |
 | [ansible-community/antsibull-docs-parser](https://github.com/repolex-forx/ansible-community--antsibull-docs-parser) | `897ec1d914` | 2026-11-06 |
 | [ansible-community/ansible-pygments](https://github.com/repolex-forx/ansible-community--ansible-pygments) | `1a68878ae8` | 2026-11-06 |
 | [ansible-community/ppa](https://github.com/repolex-forx/ansible-community--ppa) | `1e60de5624` | 2026-11-06 |
