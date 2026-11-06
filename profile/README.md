@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.tal](https://github.com/repolex-forx/zopefoundation--zope.tal) | `b9ed2eebff` | 2026-11-05 |
+| [zopefoundation/zope.size](https://github.com/repolex-forx/zopefoundation--zope.size) | `a7914d7957` | 2026-11-05 |
+| [zopefoundation/zope.sequencesort](https://github.com/repolex-forx/zopefoundation--zope.sequencesort) | `7c6ae9042b` | 2026-11-05 |
+| [zopefoundation/zope.security](https://github.com/repolex-forx/zopefoundation--zope.security) | `45225e1816` | 2026-11-05 |
+| [zopefoundation/zope.schema](https://github.com/repolex-forx/zopefoundation--zope.schema) | `bc283a143a` | 2026-11-05 |
+| [zopefoundation/zope.ptresource](https://github.com/repolex-forx/zopefoundation--zope.ptresource) | `1ca955c954` | 2026-11-05 |
+| [zopefoundation/zope.processlifetime](https://github.com/repolex-forx/zopefoundation--zope.processlifetime) | `d8906386d6` | 2026-11-05 |
+| [zopefoundation/zope.pagetemplate](https://github.com/repolex-forx/zopefoundation--zope.pagetemplate) | `f0915eb8e0` | 2026-11-05 |
+| [zopefoundation/zope.interface](https://github.com/repolex-forx/zopefoundation--zope.interface) | `c220969089` | 2026-11-05 |
+| [zopefoundation/zope.i18n](https://github.com/repolex-forx/zopefoundation--zope.i18n) | `a95fa6bf49` | 2026-11-05 |
 | [zopefoundation/zope.publisher](https://github.com/repolex-forx/zopefoundation--zope.publisher) | `0938c82334` | 2026-11-05 |
 | [zopefoundation/zope.proxy](https://github.com/repolex-forx/zopefoundation--zope.proxy) | `2a8e64eec8` | 2026-11-05 |
 | [zopefoundation/zope.location](https://github.com/repolex-forx/zopefoundation--zope.location) | `049b80b8f8` | 2026-11-05 |
