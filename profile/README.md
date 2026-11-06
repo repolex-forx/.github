@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [liluo/pygments-github-lexers](https://github.com/repolex-forx/liluo--pygments-github-lexers) | `02df3a52c2` | 2026-11-05 |
+| [tcmetzger/sphinx-favicon](https://github.com/repolex-forx/tcmetzger--sphinx-favicon) | `95a723a0fe` | 2026-11-05 |
+| [exa-labs/exa-py](https://github.com/repolex-forx/exa-labs--exa-py) | `8ca7b446a1` | 2026-11-05 |
+| [elevenlabs/elevenlabs-python](https://github.com/repolex-forx/elevenlabs--elevenlabs-python) | `152f737d51` | 2026-11-05 |
+| [agentclientprotocol/python-sdk](https://github.com/repolex-forx/agentclientprotocol--python-sdk) | `9853d8b514` | 2026-11-05 |
+| [slackapi/bolt-python](https://github.com/repolex-forx/slackapi--bolt-python) | `efc36b1f38` | 2026-11-05 |
+| [slackapi/python-slack-sdk](https://github.com/repolex-forx/slackapi--python-slack-sdk) | `d9618f86e9` | 2026-11-05 |
+| [danielfm/pybreaker](https://github.com/repolex-forx/danielfm--pybreaker) | `2b0b965fcf` | 2026-11-05 |
+| [rogdham/backports.zstd](https://github.com/repolex-forx/rogdham--backports.zstd) | `2372ea098b` | 2026-11-05 |
+| [pyenchant/pyenchant](https://github.com/repolex-forx/pyenchant--pyenchant) | `c145b62454` | 2026-11-05 |
 | [huggingface/math-verify](https://github.com/repolex-forx/huggingface--math-verify) | `ba3d3aaff2` | 2026-11-05 |
 | [pyparsing/pyparsing](https://github.com/repolex-forx/pyparsing--pyparsing) | `810199f89b` | 2026-11-05 |
 | [AbstractUmbra/audioop](https://github.com/repolex-forx/AbstractUmbra--audioop) | `14e6553f7a` | 2026-11-05 |
