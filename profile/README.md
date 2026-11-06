@@ -34,6 +34,17 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [mgedmin/check-manifest](https://github.com/repolex-forx/mgedmin--check-manifest) | `5073ecd69f` | 2026-11-05 |
+| [realpython/pytest-mypy](https://github.com/repolex-forx/realpython--pytest-mypy) | `b578993c4c` | 2026-11-05 |
+| [businho/pytest-ruff](https://github.com/repolex-forx/businho--pytest-ruff) | `eb815de1fc` | 2026-11-05 |
+| [intake/python-snappy](https://github.com/repolex-forx/intake--python-snappy) | `ff09d429fc` | 2026-11-05 |
+| [pradyunsg/sphinx-inline-tabs](https://github.com/repolex-forx/pradyunsg--sphinx-inline-tabs) | `7ee04d209d` | 2026-11-05 |
+| [oprypin/mkdocs-gen-files](https://github.com/repolex-forx/oprypin--mkdocs-gen-files) | `d13bd16bdf` | 2026-11-05 |
+| [Python-Markdown/github-links](https://github.com/repolex-forx/Python-Markdown--github-links) | `b2bd505164` | 2026-11-05 |
+| [oprypin/mkdocs-section-index](https://github.com/repolex-forx/oprypin--mkdocs-section-index) | `5b710e75cb` | 2026-11-05 |
+| [oprypin/mkdocs-literate-nav](https://github.com/repolex-forx/oprypin--mkdocs-literate-nav) | `b15147038b` | 2026-11-05 |
+| [karpetrosyan/httpx-aiohttp](https://github.com/repolex-forx/karpetrosyan--httpx-aiohttp) | `22a58c5376` | 2026-11-05 |
+| [mpkocher/pydantic-cli](https://github.com/repolex-forx/mpkocher--pydantic-cli) | `c319c2cdbc` | 2026-11-05 |
 | [pycqa/flake8](https://github.com/repolex-forx/pycqa--flake8) | `1a50f8923b` | 2026-11-05 |
 | [tusharsadhwani/pytokens](https://github.com/repolex-forx/tusharsadhwani--pytokens) | `e087823ddf` | 2026-11-05 |
 | [jaraco/backports.functools_lru_cache](https://github.com/repolex-forx/jaraco--backports.functools_lru_cache) | `22ad4cd0ec` | 2026-11-05 |
