@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.publisher](https://github.com/repolex-forx/zopefoundation--zope.publisher) | `0938c82334` | 2026-11-05 |
+| [zopefoundation/zope.proxy](https://github.com/repolex-forx/zopefoundation--zope.proxy) | `2a8e64eec8` | 2026-11-05 |
+| [zopefoundation/zope.location](https://github.com/repolex-forx/zopefoundation--zope.location) | `049b80b8f8` | 2026-11-05 |
+| [zopefoundation/zope.lifecycleevent](https://github.com/repolex-forx/zopefoundation--zope.lifecycleevent) | `92cd18ce99` | 2026-11-05 |
+| [zopefoundation/zope.i18nmessageid](https://github.com/repolex-forx/zopefoundation--zope.i18nmessageid) | `f4639e2995` | 2026-11-05 |
+| [zopefoundation/zope.globalrequest](https://github.com/repolex-forx/zopefoundation--zope.globalrequest) | `200ba7e70d` | 2026-11-05 |
+| [zopefoundation/zope.exceptions](https://github.com/repolex-forx/zopefoundation--zope.exceptions) | `dc273c2b61` | 2026-11-05 |
+| [zopefoundation/zope.event](https://github.com/repolex-forx/zopefoundation--zope.event) | `88722ea6df` | 2026-11-05 |
+| [zopefoundation/zope.deferredimport](https://github.com/repolex-forx/zopefoundation--zope.deferredimport) | `89517da3bd` | 2026-11-05 |
+| [zopefoundation/zope.datetime](https://github.com/repolex-forx/zopefoundation--zope.datetime) | `c92c139492` | 2026-11-05 |
 | [zopefoundation/zope.contenttype](https://github.com/repolex-forx/zopefoundation--zope.contenttype) | `057f50a48d` | 2026-11-02 |
 | [zopefoundation/zope.contentprovider](https://github.com/repolex-forx/zopefoundation--zope.contentprovider) | `ff95a43e80` | 2026-11-02 |
 | [zopefoundation/zope.container](https://github.com/repolex-forx/zopefoundation--zope.container) | `324e87e9ca` | 2026-11-02 |
