@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/ogp](https://github.com/repolex-forx/sphinx-contrib--ogp) | `a591bf8cb1` | 2026-11-06 |
+| [sphinx-contrib/gravizo](https://github.com/repolex-forx/sphinx-contrib--gravizo) | `f248b433e5` | 2026-11-06 |
+| [sphinx-contrib/prefecttask](https://github.com/repolex-forx/sphinx-contrib--prefecttask) | `44112bca2d` | 2026-11-06 |
+| [sphinx-contrib/prefectviz](https://github.com/repolex-forx/sphinx-contrib--prefectviz) | `5b1dad0788` | 2026-11-06 |
+| [sphinx-contrib/imageembed](https://github.com/repolex-forx/sphinx-contrib--imageembed) | `cf890a5c31` | 2026-11-06 |
+| [sphinx-contrib/sphinx-pretty-searchresults](https://github.com/repolex-forx/sphinx-contrib--sphinx-pretty-searchresults) | `65fc8133f0` | 2026-11-06 |
+| [sphinx-contrib/makedomain](https://github.com/repolex-forx/sphinx-contrib--makedomain) | `e455f5ad95` | 2026-11-06 |
+| [sphinx-contrib/vimbuilder](https://github.com/repolex-forx/sphinx-contrib--vimbuilder) | `c2c1e17206` | 2026-11-06 |
+| [jupyterhub/jupyter-remote-desktop-proxy](https://github.com/repolex-forx/jupyterhub--jupyter-remote-desktop-proxy) | `390c824aeb` | 2026-11-06 |
+| [jupyterhub/mybinder.org-deploy](https://github.com/repolex-forx/jupyterhub--mybinder.org-deploy) | `6b57625db7` | 2026-11-06 |
 | [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/repolex-forx/jupyterhub--zero-to-jupyterhub-k8s) | `c7b0d2884d` | 2026-11-06 |
 | [ansible-community/collection_bot](https://github.com/repolex-forx/ansible-community--collection_bot) | `eed09ff73e` | 2026-11-06 |
 | [ansible-community/eercheck](https://github.com/repolex-forx/ansible-community--eercheck) | `0c7064bd86` | 2026-11-06 |
