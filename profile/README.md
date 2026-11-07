@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [certbot/josepy](https://github.com/repolex-forx/certbot--josepy) | `7069e07e20` | 2026-11-07 |
+| [certbot/certbot](https://github.com/repolex-forx/certbot--certbot) | `138defe9c7` | 2026-11-07 |
+| [ansible-collections/community.clickhouse](https://github.com/repolex-forx/ansible-collections--community.clickhouse) | `ba35a0b3c3` | 2026-11-07 |
+| [ansible-collections/community.vmware](https://github.com/repolex-forx/ansible-collections--community.vmware) | `d554084c30` | 2026-11-07 |
+| [ansible-collections/ansible.mcp](https://github.com/repolex-forx/ansible-collections--ansible.mcp) | `903eea71f1` | 2026-11-07 |
+| [ansible-collections/ansible.mariadb](https://github.com/repolex-forx/ansible-collections--ansible.mariadb) | `c6ac673bba` | 2026-11-07 |
+| [ansible-collections/ibm_eda_zos](https://github.com/repolex-forx/ansible-collections--ibm_eda_zos) | `f23538894a` | 2026-11-07 |
+| [ansible-collections/ansible.mysql](https://github.com/repolex-forx/ansible-collections--ansible.mysql) | `7c033ca1cc` | 2026-11-07 |
+| [ansible-collections/ibm.ds8000](https://github.com/repolex-forx/ansible-collections--ibm.ds8000) | `bda9d9c358` | 2026-11-07 |
+| [ansible-collections/kubernetes.core](https://github.com/repolex-forx/ansible-collections--kubernetes.core) | `782672d2fd` | 2026-11-07 |
 | [ansible-collections/ansible.posix](https://github.com/repolex-forx/ansible-collections--ansible.posix) | `0f4453f85e` | 2026-11-07 |
 | [ansible-collections/community.routeros](https://github.com/repolex-forx/ansible-collections--community.routeros) | `82fd0bbe8a` | 2026-11-07 |
 | [ansible-collections/community.elastic](https://github.com/repolex-forx/ansible-collections--community.elastic) | `4f0e87f22e` | 2026-11-07 |
