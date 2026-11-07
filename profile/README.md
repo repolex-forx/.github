@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,309**
+- **Total Indexed Repositories**: **4,319**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`scrapinghub/scrapy-frontera`](https://github.com/scrapinghub/scrapy-frontera) | `56ea2e1e` | Completed ✅ |
-| [`scrapinghub/hcf-backend`](https://github.com/scrapinghub/hcf-backend) | `bbdc50cd` | Completed ✅ |
-| [`scrapinghub/splash`](https://github.com/scrapinghub/splash) | `ab28b023` | Completed ✅ |
-| [`scrapinghub/varanus`](https://github.com/scrapinghub/varanus) | `383ef738` | Completed ✅ |
-| [`scrapinghub/pastebin`](https://github.com/scrapinghub/pastebin) | `a712e603` | Completed ✅ |
-| [`allenai/agent-eval`](https://github.com/allenai/agent-eval) | `28fb1751` | Completed ✅ |
-| [`allenai/tutormoments`](https://github.com/allenai/tutormoments) | `f62fce98` | Completed ✅ |
-| [`allenai/curobo`](https://github.com/allenai/curobo) | `87e857d4` | Completed ✅ |
-| [`allenai/agentic_robotics`](https://github.com/allenai/agentic_robotics) | `340731d9` | Completed ✅ |
-| [`allenai/XYBench`](https://github.com/allenai/XYBench) | `e39eb25a` | Completed ✅ |
+| [`allenai/miles-olmo-core`](https://github.com/allenai/miles-olmo-core) | `1be18d63` | Completed ✅ |
+| [`allenai/infinigram-api`](https://github.com/allenai/infinigram-api) | `d1e8b09e` | Completed ✅ |
+| [`allenai/asta-autodiscovery`](https://github.com/allenai/asta-autodiscovery) | `30e080f4` | Completed ✅ |
+| [`allenai/maniflow-tb`](https://github.com/allenai/maniflow-tb) | `c04eab7f` | Completed ✅ |
+| [`allenai/olmoearth_pretrain_minimal`](https://github.com/allenai/olmoearth_pretrain_minimal) | `8d5aa7c8` | Completed ✅ |
+| [`allenai/pier`](https://github.com/allenai/pier) | `cadf0491` | Completed ✅ |
+| [`allenai/asta-bench`](https://github.com/allenai/asta-bench) | `ce758d29` | Completed ✅ |
+| [`allenai/S2AND`](https://github.com/allenai/S2AND) | `fe0081df` | Completed ✅ |
+| [`allenai/peS2o`](https://github.com/allenai/peS2o) | `cc4800ff` | Completed ✅ |
+| [`allenai/S2AFF`](https://github.com/allenai/S2AFF) | `87dce9fd` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
