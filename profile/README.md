@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ansible-collections/community.crypto](https://github.com/repolex-forx/ansible-collections--community.crypto) | `00d193fd38` | 2026-11-07 |
+| [ansible-collections/community.sonic](https://github.com/repolex-forx/ansible-collections--community.sonic) | `59d2dcaa25` | 2026-11-07 |
+| [ansible-collections/community.hrobot](https://github.com/repolex-forx/ansible-collections--community.hrobot) | `c6406c3c23` | 2026-11-07 |
+| [ansible-collections/azure](https://github.com/repolex-forx/ansible-collections--azure) | `7de0d8a6f0` | 2026-11-07 |
+| [ansible-collections/netapp.ontap](https://github.com/repolex-forx/ansible-collections--netapp.ontap) | `c64438a27b` | 2026-11-07 |
+| [ansible-collections/community.sops](https://github.com/repolex-forx/ansible-collections--community.sops) | `3c2d6f9c84` | 2026-11-07 |
+| [ansible-collections/community.docker](https://github.com/repolex-forx/ansible-collections--community.docker) | `0e35b1ef28` | 2026-11-07 |
+| [ansible-collections/ibm.csm](https://github.com/repolex-forx/ansible-collections--ibm.csm) | `2df0ff8039` | 2026-11-07 |
+| [ansible-collections/community.general](https://github.com/repolex-forx/ansible-collections--community.general) | `b405909e51` | 2026-11-07 |
+| [ansible-collections/amazon.aws](https://github.com/repolex-forx/ansible-collections--amazon.aws) | `df3b9079f1` | 2026-11-07 |
 | [holoviz/holonote](https://github.com/repolex-forx/holoviz--holonote) | `9928494bc2` | 2026-11-07 |
 | [holoviz/panel](https://github.com/repolex-forx/holoviz--panel) | `d417056d8f` | 2026-11-07 |
 | [allenai/dolma](https://github.com/repolex-forx/allenai--dolma) | `669f534823` | 2026-11-07 |
