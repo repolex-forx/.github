@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ansible-collections/community.postgresql](https://github.com/repolex-forx/ansible-collections--community.postgresql) | `dfe50fce6c` | 2026-11-07 |
+| [ansible-collections/servicenow.itsm](https://github.com/repolex-forx/ansible-collections--servicenow.itsm) | `d7d387abbd` | 2026-11-07 |
+| [ansible-collections/hashicorp.vault](https://github.com/repolex-forx/ansible-collections--hashicorp.vault) | `d5f9deee0d` | 2026-11-07 |
+| [ansible-collections/aap-snapshot-collection](https://github.com/repolex-forx/ansible-collections--aap-snapshot-collection) | `b9e211f686` | 2026-11-07 |
+| [ansible-collections/ansible.netcommon](https://github.com/repolex-forx/ansible-collections--ansible.netcommon) | `6b21bb8b9e` | 2026-11-07 |
+| [ansible-collections/ansible.proxmox](https://github.com/repolex-forx/ansible-collections--ansible.proxmox) | `efa0d5bd4e` | 2026-11-07 |
+| [ansible-collections/vmware.vmware_rest](https://github.com/repolex-forx/ansible-collections--vmware.vmware_rest) | `2974a1f34c` | 2026-11-07 |
+| [ansible-collections/ansible.oci](https://github.com/repolex-forx/ansible-collections--ansible.oci) | `4bb571838b` | 2026-11-07 |
+| [ansible-collections/community.aws](https://github.com/repolex-forx/ansible-collections--community.aws) | `0b09b16b65` | 2026-11-07 |
+| [ansible-collections/ibm_zos_core](https://github.com/repolex-forx/ansible-collections--ibm_zos_core) | `46ec35e41b` | 2026-11-07 |
 | [ansible-collections/google.cloud](https://github.com/repolex-forx/ansible-collections--google.cloud) | `db65ab6d6f` | 2026-11-07 |
 | [allenai/olmo-eval](https://github.com/repolex-forx/allenai--olmo-eval) | `ef703a1ec8` | 2026-11-07 |
 | [allenai/Olmo-core](https://github.com/repolex-forx/allenai--Olmo-core) | `ccf4ef4b5f` | 2026-11-07 |
