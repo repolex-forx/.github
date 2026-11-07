@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,319**
+- **Total Indexed Repositories**: **4,329**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`allenai/miles-olmo-core`](https://github.com/allenai/miles-olmo-core) | `1be18d63` | Completed ✅ |
-| [`allenai/infinigram-api`](https://github.com/allenai/infinigram-api) | `d1e8b09e` | Completed ✅ |
-| [`allenai/asta-autodiscovery`](https://github.com/allenai/asta-autodiscovery) | `30e080f4` | Completed ✅ |
-| [`allenai/maniflow-tb`](https://github.com/allenai/maniflow-tb) | `c04eab7f` | Completed ✅ |
-| [`allenai/olmoearth_pretrain_minimal`](https://github.com/allenai/olmoearth_pretrain_minimal) | `8d5aa7c8` | Completed ✅ |
-| [`allenai/pier`](https://github.com/allenai/pier) | `cadf0491` | Completed ✅ |
-| [`allenai/asta-bench`](https://github.com/allenai/asta-bench) | `ce758d29` | Completed ✅ |
-| [`allenai/S2AND`](https://github.com/allenai/S2AND) | `fe0081df` | Completed ✅ |
-| [`allenai/peS2o`](https://github.com/allenai/peS2o) | `cc4800ff` | Completed ✅ |
-| [`allenai/S2AFF`](https://github.com/allenai/S2AFF) | `87dce9fd` | Completed ✅ |
+| [`allenai/asta-bench-leaderboard`](https://github.com/allenai/asta-bench-leaderboard) | `4afafd37` | Completed ✅ |
+| [`allenai/vla-evaluation-harness`](https://github.com/allenai/vla-evaluation-harness) | `cc260841` | Completed ✅ |
+| [`allenai/rslearn`](https://github.com/allenai/rslearn) | `f08900ab` | Completed ✅ |
+| [`allenai/sinonym`](https://github.com/allenai/sinonym) | `3fdad803` | Completed ✅ |
+| [`allenai/IFBench`](https://github.com/allenai/IFBench) | `cd189a9c` | Completed ✅ |
+| [`allenai/atlantes`](https://github.com/allenai/atlantes) | `7258902e` | Completed ✅ |
+| [`allenai/vampire`](https://github.com/allenai/vampire) | `cf5c2fe1` | Completed ✅ |
+| [`allenai/olmo-sglang`](https://github.com/allenai/olmo-sglang) | `069dc0a3` | Completed ✅ |
+| [`allenai/nora_lib`](https://github.com/allenai/nora_lib) | `45b630a1` | Completed ✅ |
+| [`allenai/asta-paper-finder`](https://github.com/allenai/asta-paper-finder) | `6eb51383` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
