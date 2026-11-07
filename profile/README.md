@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,369**
+- **Total Indexed Repositories**: **4,379**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`allenai/WildDet3D`](https://github.com/allenai/WildDet3D) | `1b8aa52b` | Completed ✅ |
-| [`allenai/ir_datasets`](https://github.com/allenai/ir_datasets) | `76d107e3` | Completed ✅ |
-| [`allenai/olmix`](https://github.com/allenai/olmix) | `95869779` | Completed ✅ |
-| [`allenai/SERA`](https://github.com/allenai/SERA) | `1ca8673b` | Completed ✅ |
-| [`allenai/allenact`](https://github.com/allenai/allenact) | `d055fc9d` | Completed ✅ |
-| [`scverse/scvi-tools`](https://github.com/scverse/scvi-tools) | `a83b4d09` | Completed ✅ |
-| [`allenai/scirepeval`](https://github.com/allenai/scirepeval) | `e04594e6` | Completed ✅ |
-| [`allenai/olmpool`](https://github.com/allenai/olmpool) | `aa8a3a8b` | Completed ✅ |
-| [`allenai/cached_path`](https://github.com/allenai/cached_path) | `54c53d7e` | Completed ✅ |
-| [`allenai/FlexOlmo`](https://github.com/allenai/FlexOlmo) | `65e9b46b` | Completed ✅ |
+| [`huggingface/transformers-mic`](https://github.com/huggingface/transformers-mic) | `fa648220` | Completed ✅ |
+| [`huggingface/atif-scan`](https://github.com/huggingface/atif-scan) | `400cb9d7` | Completed ✅ |
+| [`huggingface/paperswithcode`](https://github.com/huggingface/paperswithcode) | `87501415` | Completed ✅ |
+| [`huggingface/diffusers`](https://github.com/huggingface/diffusers) | `84532a05` | Completed ✅ |
+| [`huggingface/speech-to-speech`](https://github.com/huggingface/speech-to-speech) | `327a8c19` | Completed ✅ |
+| [`huggingface/kernels`](https://github.com/huggingface/kernels) | `32b3dc8c` | Completed ✅ |
+| [`huggingface/open_asr_leaderboard`](https://github.com/huggingface/open_asr_leaderboard) | `a768a2c7` | Completed ✅ |
+| [`huggingface/dataset-viewer`](https://github.com/huggingface/dataset-viewer) | `fb279f65` | Completed ✅ |
+| [`huggingface/tau`](https://github.com/huggingface/tau) | `47610d3e` | Completed ✅ |
+| [`huggingface/traj2envs`](https://github.com/huggingface/traj2envs) | `a09204ed` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
