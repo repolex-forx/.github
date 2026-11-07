@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ansible-collections/ansible.posix](https://github.com/repolex-forx/ansible-collections--ansible.posix) | `0f4453f85e` | 2026-11-07 |
+| [ansible-collections/community.routeros](https://github.com/repolex-forx/ansible-collections--community.routeros) | `82fd0bbe8a` | 2026-11-07 |
+| [ansible-collections/community.elastic](https://github.com/repolex-forx/ansible-collections--community.elastic) | `4f0e87f22e` | 2026-11-07 |
+| [ansible-collections/community.vagrant](https://github.com/repolex-forx/ansible-collections--community.vagrant) | `84af372cc0` | 2026-11-07 |
+| [ansible-collections/community.zabbix](https://github.com/repolex-forx/ansible-collections--community.zabbix) | `71f6e6ae55` | 2026-11-07 |
+| [ansible-collections/community.libvirt](https://github.com/repolex-forx/ansible-collections--community.libvirt) | `a820e65d21` | 2026-11-07 |
+| [ansible-collections/community.hashi_vault](https://github.com/repolex-forx/ansible-collections--community.hashi_vault) | `2a0b75ce88` | 2026-11-07 |
+| [ansible-collections/community.mongodb](https://github.com/repolex-forx/ansible-collections--community.mongodb) | `395a0c27e4` | 2026-11-07 |
+| [ansible-collections/community.healthchecksio](https://github.com/repolex-forx/ansible-collections--community.healthchecksio) | `46035ace3e` | 2026-11-07 |
+| [ansible-collections/community.proxmox](https://github.com/repolex-forx/ansible-collections--community.proxmox) | `eae7bfb00e` | 2026-11-07 |
 | [ansible-collections/ansible.snmp](https://github.com/repolex-forx/ansible-collections--ansible.snmp) | `cb63215fda` | 2026-11-07 |
 | [ansible-collections/openvswitch.openvswitch](https://github.com/repolex-forx/ansible-collections--openvswitch.openvswitch) | `a1adb384d6` | 2026-11-07 |
 | [ansible-collections/splunk.itsi](https://github.com/repolex-forx/ansible-collections--splunk.itsi) | `09107efc6e` | 2026-11-07 |
