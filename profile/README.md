@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [beeware/colosseum](https://github.com/repolex-forx/beeware--colosseum) | `191d742dae` | 2026-11-07 |
+| [beeware/rubicon-objc](https://github.com/repolex-forx/beeware--rubicon-objc) | `7f9d972a5a` | 2026-11-07 |
+| [beeware/toga](https://github.com/repolex-forx/beeware--toga) | `c7d1d4e755` | 2026-11-07 |
+| [beeware/briefcase](https://github.com/repolex-forx/beeware--briefcase) | `d94b1eb06d` | 2026-11-07 |
+| [kivy/kivy-ios](https://github.com/repolex-forx/kivy--kivy-ios) | `fd363d49ed` | 2026-11-07 |
+| [kivy/python-for-android](https://github.com/repolex-forx/kivy--python-for-android) | `1c9a4b4f81` | 2026-11-07 |
+| [kivy/kivy-sdk-packager](https://github.com/repolex-forx/kivy--kivy-sdk-packager) | `8c7b6d2c8f` | 2026-11-07 |
+| [kivy/audiostream](https://github.com/repolex-forx/kivy--audiostream) | `69f6b100f1` | 2026-11-07 |
+| [kivy/pyjnius](https://github.com/repolex-forx/kivy--pyjnius) | `24a3285001` | 2026-11-07 |
+| [kivy/plyer](https://github.com/repolex-forx/kivy--plyer) | `4853b3a92a` | 2026-11-07 |
 | [sanic-org/sanic-openapi](https://github.com/repolex-forx/sanic-org--sanic-openapi) | `872d38f259` | 2026-11-07 |
 | [borgbackup/borg-mcp](https://github.com/repolex-forx/borgbackup--borg-mcp) | `78b9269f9f` | 2026-11-07 |
 | [borgbackup/borgstore](https://github.com/repolex-forx/borgbackup--borgstore) | `f6e41c191a` | 2026-11-07 |
