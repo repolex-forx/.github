@@ -33,24 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,359**
+- **Total Indexed Repositories**: **4,369**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`allenai/autodiscovery-neurips`](https://github.com/allenai/autodiscovery-neurips) | `66aa2d51` | Completed ✅ |
-| [`allenai/intent-aware-lfqa`](https://github.com/allenai/intent-aware-lfqa) | `7c75aa23` | Completed ✅ |
-| [`allenai/autodiscovery-continual-beliefs`](https://github.com/allenai/autodiscovery-continual-beliefs) | `7962443f` | Completed ✅ |
-| [`allenai/genesys`](https://github.com/allenai/genesys) | `a38edfd0` | Completed ✅ |
-| [`allenai/olmo-cookbook`](https://github.com/allenai/olmo-cookbook) | `c226eb6a` | Completed ✅ |
-| [`allenai/beaker-gantry`](https://github.com/allenai/beaker-gantry) | `30fa3a74` | Completed ✅ |
-| [`allenai/artifact-linker`](https://github.com/allenai/artifact-linker) | `ad29148b` | Completed ✅ |
-| [`allenai/S2APLER`](https://github.com/allenai/S2APLER) | `bb4bfbce` | Completed ✅ |
-| [`allenai/asta-resource-repo`](https://github.com/allenai/asta-resource-repo) | `8ab06f1e` | Completed ✅ |
-| [`allenai/molmospaces_policy_zoo`](https://github.com/allenai/molmospaces_policy_zoo) | `dc54f532` | Completed ✅ |
-| [`scverse/scirpy`](https://github.com/scverse/scirpy) | `8496483d` | Completed ✅ |
+| [`allenai/WildDet3D`](https://github.com/allenai/WildDet3D) | `1b8aa52b` | Completed ✅ |
+| [`allenai/ir_datasets`](https://github.com/allenai/ir_datasets) | `76d107e3` | Completed ✅ |
+| [`allenai/olmix`](https://github.com/allenai/olmix) | `95869779` | Completed ✅ |
+| [`allenai/SERA`](https://github.com/allenai/SERA) | `1ca8673b` | Completed ✅ |
+| [`allenai/allenact`](https://github.com/allenai/allenact) | `d055fc9d` | Completed ✅ |
+| [`scverse/scvi-tools`](https://github.com/scverse/scvi-tools) | `a83b4d09` | Completed ✅ |
+| [`allenai/scirepeval`](https://github.com/allenai/scirepeval) | `e04594e6` | Completed ✅ |
+| [`allenai/olmpool`](https://github.com/allenai/olmpool) | `aa8a3a8b` | Completed ✅ |
+| [`allenai/cached_path`](https://github.com/allenai/cached_path) | `54c53d7e` | Completed ✅ |
+| [`allenai/FlexOlmo`](https://github.com/allenai/FlexOlmo) | `65e9b46b` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
