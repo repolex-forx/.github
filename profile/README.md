@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [plotly/tutorial-nanodash](https://github.com/repolex-forx/plotly--tutorial-nanodash) | `4a53766b01` | 2026-11-07 |
+| [plotly/DataframesBenchmark](https://github.com/repolex-forx/plotly--DataframesBenchmark) | `6beefb4887` | 2026-11-07 |
+| [plotly/dash-ai-chat-tutorial](https://github.com/repolex-forx/plotly--dash-ai-chat-tutorial) | `9dea428e9d` | 2026-11-07 |
+| [plotly/dash-stylish-header](https://github.com/repolex-forx/plotly--dash-stylish-header) | `86f4faaa93` | 2026-11-07 |
+| [plotly/dash-ag-grid-AI-example](https://github.com/repolex-forx/plotly--dash-ag-grid-AI-example) | `3e16de6812` | 2026-11-07 |
+| [plotly/dash-hugging-face-spaces](https://github.com/repolex-forx/plotly--dash-hugging-face-spaces) | `dddd5a69c7` | 2026-11-07 |
+| [plotly/dash-stripe-tutorial](https://github.com/repolex-forx/plotly--dash-stripe-tutorial) | `172277bbd6` | 2026-11-07 |
+| [plotly/tutorial-code](https://github.com/repolex-forx/plotly--tutorial-code) | `b4d81b4fb5` | 2026-11-07 |
+| [plotly/all-in-ai-demo-app](https://github.com/repolex-forx/plotly--all-in-ai-demo-app) | `95bd667a65` | 2026-11-07 |
+| [plotly/chart-studio-dash-template](https://github.com/repolex-forx/plotly--chart-studio-dash-template) | `f6d92a3d4f` | 2026-11-07 |
 | [sunpy/sunpy-vcr-cassettes](https://github.com/repolex-forx/sunpy--sunpy-vcr-cassettes) | `11e3639bfc` | 2026-11-06 |
 | [sunpy/sunpy-dashboard](https://github.com/repolex-forx/sunpy--sunpy-dashboard) | `589a2e5a93` | 2026-11-06 |
 | [fastai/ulms](https://github.com/repolex-forx/fastai--ulms) | `d349777284` | 2026-11-06 |
