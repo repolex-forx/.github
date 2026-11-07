@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scrapinghub/andi](https://github.com/repolex-forx/scrapinghub--andi) | `5b7f1094a5` | 2026-11-07 |
+| [scrapinghub/shub-workflow](https://github.com/repolex-forx/scrapinghub--shub-workflow) | `7d6bb9a260` | 2026-11-07 |
+| [kivy/aprofiler](https://github.com/repolex-forx/kivy--aprofiler) | `4edbd15503` | 2026-11-07 |
+| [kivy/pythonar](https://github.com/repolex-forx/kivy--pythonar) | `77bc28363f` | 2026-11-07 |
+| [kivy/ncis-python](https://github.com/repolex-forx/kivy--ncis-python) | `e70e138cd3` | 2026-11-07 |
+| [kivy/ncis](https://github.com/repolex-forx/kivy--ncis) | `44641bf9b5` | 2026-11-07 |
+| [cookiecutter/cookiecutter-django](https://github.com/repolex-forx/cookiecutter--cookiecutter-django) | `e0c7d45a6b` | 2026-11-07 |
+| [beeware/Python-support-testbed](https://github.com/repolex-forx/beeware--Python-support-testbed) | `461766ffb5` | 2026-11-07 |
+| [beeware/dotnet-WebView2.WinForms](https://github.com/repolex-forx/beeware--dotnet-WebView2.WinForms) | `f3c1a18615` | 2026-11-07 |
+| [beeware/toga-console](https://github.com/repolex-forx/beeware--toga-console) | `d2cdd49ff8` | 2026-11-07 |
 | [beeware/toga-chart](https://github.com/repolex-forx/beeware--toga-chart) | `896f19373a` | 2026-11-07 |
 | [beeware/std-nslog](https://github.com/repolex-forx/beeware--std-nslog) | `39328076ec` | 2026-11-07 |
 | [kivy/ncis-kivy](https://github.com/repolex-forx/kivy--ncis-kivy) | `b40a96ad00` | 2026-11-07 |
