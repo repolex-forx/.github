@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [holoviz/holonote](https://github.com/repolex-forx/holoviz--holonote) | `9928494bc2` | 2026-11-07 |
+| [holoviz/panel](https://github.com/repolex-forx/holoviz--panel) | `d417056d8f` | 2026-11-07 |
+| [allenai/dolma](https://github.com/repolex-forx/allenai--dolma) | `669f534823` | 2026-11-07 |
+| [allenai/rslearn_projects](https://github.com/repolex-forx/allenai--rslearn_projects) | `836ac8034d` | 2026-11-07 |
+| [ansible-collections/junipernetworks.junos](https://github.com/repolex-forx/ansible-collections--junipernetworks.junos) | `440c1dc9a6` | 2026-11-07 |
+| [ansible-collections/arista.eos](https://github.com/repolex-forx/ansible-collections--arista.eos) | `adc333e92e` | 2026-11-07 |
+| [ansible-collections/vmware.vmware](https://github.com/repolex-forx/ansible-collections--vmware.vmware) | `96594d9e36` | 2026-11-07 |
+| [ansible-collections/cisco.nxos](https://github.com/repolex-forx/ansible-collections--cisco.nxos) | `6395a31970` | 2026-11-07 |
+| [ansible-collections/cisco.ios](https://github.com/repolex-forx/ansible-collections--cisco.ios) | `c6a98dc166` | 2026-11-07 |
+| [ansible-collections/amazon.ai](https://github.com/repolex-forx/ansible-collections--amazon.ai) | `8440f6b928` | 2026-11-07 |
 | [ansible-collections/community.postgresql](https://github.com/repolex-forx/ansible-collections--community.postgresql) | `dfe50fce6c` | 2026-11-07 |
 | [ansible-collections/servicenow.itsm](https://github.com/repolex-forx/ansible-collections--servicenow.itsm) | `d7d387abbd` | 2026-11-07 |
 | [ansible-collections/hashicorp.vault](https://github.com/repolex-forx/ansible-collections--hashicorp.vault) | `d5f9deee0d` | 2026-11-07 |
