@@ -33,22 +33,24 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,348**
+- **Total Indexed Repositories**: **4,359**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`allenai/bolmo-core`](https://github.com/allenai/bolmo-core) | `2d8178b1` | Completed ✅ |
-| [`allenai/agent-baselines`](https://github.com/allenai/agent-baselines) | `2d426dea` | Completed ✅ |
-| [`allenai/prescience`](https://github.com/allenai/prescience) | `47384ed7` | Completed ✅ |
-| [`allenai/kernel-fun`](https://github.com/allenai/kernel-fun) | `662db70b` | Completed ✅ |
-| [`allenai/MolmoBot`](https://github.com/allenai/MolmoBot) | `33c0ca77` | Completed ✅ |
-| [`allenai/molmospaces-resources`](https://github.com/allenai/molmospaces-resources) | `55b3c508` | Completed ✅ |
-| [`allenai/molmoweb`](https://github.com/allenai/molmoweb) | `bab3fc3f` | Completed ✅ |
-| [`allenai/BenchMIRT`](https://github.com/allenai/BenchMIRT) | `faceefdb` | Completed ✅ |
-| [`allenai/safety-eval`](https://github.com/allenai/safety-eval) | `060cc903` | Completed ✅ |
+| [`allenai/autodiscovery-neurips`](https://github.com/allenai/autodiscovery-neurips) | `66aa2d51` | Completed ✅ |
+| [`allenai/intent-aware-lfqa`](https://github.com/allenai/intent-aware-lfqa) | `7c75aa23` | Completed ✅ |
+| [`allenai/autodiscovery-continual-beliefs`](https://github.com/allenai/autodiscovery-continual-beliefs) | `7962443f` | Completed ✅ |
+| [`allenai/genesys`](https://github.com/allenai/genesys) | `a38edfd0` | Completed ✅ |
+| [`allenai/olmo-cookbook`](https://github.com/allenai/olmo-cookbook) | `c226eb6a` | Completed ✅ |
+| [`allenai/beaker-gantry`](https://github.com/allenai/beaker-gantry) | `30fa3a74` | Completed ✅ |
+| [`allenai/artifact-linker`](https://github.com/allenai/artifact-linker) | `ad29148b` | Completed ✅ |
+| [`allenai/S2APLER`](https://github.com/allenai/S2APLER) | `bb4bfbce` | Completed ✅ |
+| [`allenai/asta-resource-repo`](https://github.com/allenai/asta-resource-repo) | `8ab06f1e` | Completed ✅ |
+| [`allenai/molmospaces_policy_zoo`](https://github.com/allenai/molmospaces_policy_zoo) | `dc54f532` | Completed ✅ |
+| [`scverse/scirpy`](https://github.com/scverse/scirpy) | `8496483d` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
