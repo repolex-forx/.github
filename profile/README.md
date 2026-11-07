@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ansible-collections/frr.frr](https://github.com/repolex-forx/ansible-collections--frr.frr) | `5c9f81e119` | 2026-11-07 |
+| [ansible-collections/ansible.scm](https://github.com/repolex-forx/ansible-collections--ansible.scm) | `5389892b95` | 2026-11-07 |
+| [ansible-collections/ibm.qradar](https://github.com/repolex-forx/ansible-collections--ibm.qradar) | `68d3791f6c` | 2026-11-07 |
+| [ansible-collections/splunk.enterprise](https://github.com/repolex-forx/ansible-collections--splunk.enterprise) | `70df46791d` | 2026-11-07 |
+| [ansible-collections/community.ioscm](https://github.com/repolex-forx/ansible-collections--community.ioscm) | `2f46bc70c7` | 2026-11-07 |
+| [ansible-collections/splunk.es](https://github.com/repolex-forx/ansible-collections--splunk.es) | `d72a10b4e9` | 2026-11-07 |
+| [ansible-collections/trendmicro.deepsec](https://github.com/repolex-forx/ansible-collections--trendmicro.deepsec) | `81535aac15` | 2026-11-07 |
+| [ansible-collections/hetzner.hcloud](https://github.com/repolex-forx/ansible-collections--hetzner.hcloud) | `c4375bb34a` | 2026-11-07 |
+| [ansible-collections/community.beszel](https://github.com/repolex-forx/ansible-collections--community.beszel) | `c793c29e1e` | 2026-11-07 |
+| [ansible-collections/community.dns](https://github.com/repolex-forx/ansible-collections--community.dns) | `81b2f7d9ef` | 2026-11-07 |
 | [ansible-collections/community.crypto](https://github.com/repolex-forx/ansible-collections--community.crypto) | `00d193fd38` | 2026-11-07 |
 | [ansible-collections/community.sonic](https://github.com/repolex-forx/ansible-collections--community.sonic) | `59d2dcaa25` | 2026-11-07 |
 | [ansible-collections/community.hrobot](https://github.com/repolex-forx/ansible-collections--community.hrobot) | `c6406c3c23` | 2026-11-07 |
