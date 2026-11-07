@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,379**
+- **Total Indexed Repositories**: **4,389**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`huggingface/transformers-mic`](https://github.com/huggingface/transformers-mic) | `fa648220` | Completed ✅ |
-| [`huggingface/atif-scan`](https://github.com/huggingface/atif-scan) | `400cb9d7` | Completed ✅ |
-| [`huggingface/paperswithcode`](https://github.com/huggingface/paperswithcode) | `87501415` | Completed ✅ |
-| [`huggingface/diffusers`](https://github.com/huggingface/diffusers) | `84532a05` | Completed ✅ |
-| [`huggingface/speech-to-speech`](https://github.com/huggingface/speech-to-speech) | `327a8c19` | Completed ✅ |
-| [`huggingface/kernels`](https://github.com/huggingface/kernels) | `32b3dc8c` | Completed ✅ |
-| [`huggingface/open_asr_leaderboard`](https://github.com/huggingface/open_asr_leaderboard) | `a768a2c7` | Completed ✅ |
-| [`huggingface/dataset-viewer`](https://github.com/huggingface/dataset-viewer) | `fb279f65` | Completed ✅ |
-| [`huggingface/tau`](https://github.com/huggingface/tau) | `47610d3e` | Completed ✅ |
-| [`huggingface/traj2envs`](https://github.com/huggingface/traj2envs) | `a09204ed` | Completed ✅ |
+| [`huggingface/safeagents`](https://github.com/huggingface/safeagents) | `0de8e22d` | Completed ✅ |
+| [`huggingface/datatrove`](https://github.com/huggingface/datatrove) | `384d81c0` | Completed ✅ |
+| [`huggingface/serge`](https://github.com/huggingface/serge) | `6668325d` | Completed ✅ |
+| [`huggingface/relore`](https://github.com/huggingface/relore) | `06a1c99c` | Completed ✅ |
+| [`huggingface/Repo2RLEnv`](https://github.com/huggingface/Repo2RLEnv) | `9d8b1557` | Completed ✅ |
+| [`huggingface/jobs-actions`](https://github.com/huggingface/jobs-actions) | `10aa428c` | Completed ✅ |
+| [`huggingface/research-agent`](https://github.com/huggingface/research-agent) | `d840fa46` | Completed ✅ |
+| [`huggingface/pytorch-image-models`](https://github.com/huggingface/pytorch-image-models) | `43b549bf` | Completed ✅ |
+| [`huggingface/hf-serve`](https://github.com/huggingface/hf-serve) | `b3ec9755` | Completed ✅ |
+| [`huggingface/new-model-addition-cwm`](https://github.com/huggingface/new-model-addition-cwm) | `5baf598d` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
