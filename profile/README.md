@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [kivy/oscpy](https://github.com/repolex-forx/kivy--oscpy) | `9d6e1213d4` | 2026-11-07 |
+| [kivy/kivy-remote-shell](https://github.com/repolex-forx/kivy--kivy-remote-shell) | `e5d27ed151` | 2026-11-07 |
+| [kivy/templates](https://github.com/repolex-forx/kivy--templates) | `935165910a` | 2026-11-07 |
+| [kivy/pyobjus](https://github.com/repolex-forx/kivy--pyobjus) | `0c204ada4a` | 2026-11-07 |
+| [beeware/briefcase-macOS-app-template](https://github.com/repolex-forx/beeware--briefcase-macOS-app-template) | `140848a955` | 2026-11-07 |
+| [beeware/setuptools_dynamic_dependencies](https://github.com/repolex-forx/beeware--setuptools_dynamic_dependencies) | `20c622b695` | 2026-11-07 |
+| [beeware/mobile-forge](https://github.com/repolex-forx/beeware--mobile-forge) | `7917b1591d` | 2026-11-07 |
+| [beeware/briefcase-template](https://github.com/repolex-forx/beeware--briefcase-template) | `d82abb8833` | 2026-11-07 |
+| [beeware/xbuild](https://github.com/repolex-forx/beeware--xbuild) | `e4b51709bd` | 2026-11-07 |
+| [beeware/mobile-wheels](https://github.com/repolex-forx/beeware--mobile-wheels) | `c4027f3f25` | 2026-11-07 |
 | [kivy/kivy-designer](https://github.com/repolex-forx/kivy--kivy-designer) | `20343184a2` | 2026-11-07 |
 | [kivy/buildozer](https://github.com/repolex-forx/kivy--buildozer) | `76bac28545` | 2026-11-07 |
 | [locustio/k8s-operator](https://github.com/repolex-forx/locustio--k8s-operator) | `ef9f2b726a` | 2026-11-07 |
