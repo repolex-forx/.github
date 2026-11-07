@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/repolex-forx/jupyterhub--zero-to-jupyterhub-k8s) | `c7b0d2884d` | 2026-11-06 |
+| [ansible-community/collection_bot](https://github.com/repolex-forx/ansible-community--collection_bot) | `eed09ff73e` | 2026-11-06 |
+| [ansible-community/eercheck](https://github.com/repolex-forx/ansible-community--eercheck) | `0c7064bd86` | 2026-11-06 |
+| [ansible-community/stats-container-meetups](https://github.com/repolex-forx/ansible-community--stats-container-meetups) | `557442414e` | 2026-11-06 |
+| [ansible-community/content-plugin-finder](https://github.com/repolex-forx/ansible-community--content-plugin-finder) | `671352e136` | 2026-11-06 |
+| [ansible-community/meetup-pretix-discourse-auth](https://github.com/repolex-forx/ansible-community--meetup-pretix-discourse-auth) | `dac1e5ea2e` | 2026-11-06 |
+| [ansible-community/github-action-run-nox](https://github.com/repolex-forx/ansible-community--github-action-run-nox) | `d67fa677ce` | 2026-11-06 |
+| [ansible-community/package-test-results](https://github.com/repolex-forx/ansible-community--package-test-results) | `ec3a08f494` | 2026-11-06 |
+| [ansible-community/ansible-build-data](https://github.com/repolex-forx/ansible-community--ansible-build-data) | `1db43b29dd` | 2026-11-06 |
+| [ansible-community/images](https://github.com/repolex-forx/ansible-community--images) | `4202d8e9e3` | 2026-11-06 |
 | [jupyterhub/nativeauthenticator](https://github.com/repolex-forx/jupyterhub--nativeauthenticator) | `67acaf6a1a` | 2026-11-06 |
 | [jupyterhub/the-littlest-jupyterhub](https://github.com/repolex-forx/jupyterhub--the-littlest-jupyterhub) | `4ad828943d` | 2026-11-06 |
 | [ansible-community/antsibull-docs-loader](https://github.com/repolex-forx/ansible-community--antsibull-docs-loader) | `f6f58f89cb` | 2026-11-06 |
