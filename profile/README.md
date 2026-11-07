@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ansible-collections/google.cloud](https://github.com/repolex-forx/ansible-collections--google.cloud) | `db65ab6d6f` | 2026-11-07 |
+| [allenai/olmo-eval](https://github.com/repolex-forx/allenai--olmo-eval) | `ef703a1ec8` | 2026-11-07 |
+| [allenai/Olmo-core](https://github.com/repolex-forx/allenai--Olmo-core) | `ccf4ef4b5f` | 2026-11-07 |
+| [allenai/asta-plugins](https://github.com/repolex-forx/allenai--asta-plugins) | `b0d41db14b` | 2026-11-07 |
+| [allenai/open-instruct](https://github.com/repolex-forx/allenai--open-instruct) | `d39e4247c8` | 2026-11-07 |
+| [pysal/spml](https://github.com/repolex-forx/pysal--spml) | `19b13365a9` | 2026-11-07 |
+| [pysal/tobler](https://github.com/repolex-forx/pysal--tobler) | `8b456ebffd` | 2026-11-07 |
+| [pysal/libpysal](https://github.com/repolex-forx/pysal--libpysal) | `c74c2fdc21` | 2026-11-07 |
+| [scrapinghub/scrapyrt](https://github.com/repolex-forx/scrapinghub--scrapyrt) | `066cdafb9d` | 2026-11-07 |
+| [scrapinghub/python-scrapinghub](https://github.com/repolex-forx/scrapinghub--python-scrapinghub) | `c60ab4620f` | 2026-11-07 |
 | [scrapinghub/andi](https://github.com/repolex-forx/scrapinghub--andi) | `5b7f1094a5` | 2026-11-07 |
 | [scrapinghub/shub-workflow](https://github.com/repolex-forx/scrapinghub--shub-workflow) | `7d6bb9a260` | 2026-11-07 |
 | [kivy/aprofiler](https://github.com/repolex-forx/kivy--aprofiler) | `4edbd15503` | 2026-11-07 |
