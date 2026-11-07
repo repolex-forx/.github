@@ -33,23 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,339**
+- **Total Indexed Repositories**: **4,348**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`allenai/scholarphi`](https://github.com/allenai/scholarphi) | `2fc30ed4` | Completed ✅ |
-| [`allenai/pawls`](https://github.com/allenai/pawls) | `1a201c6c` | Completed ✅ |
-| [`allenai/ai2-scholarqa-lib`](https://github.com/allenai/ai2-scholarqa-lib) | `19e6827b` | Completed ✅ |
-| [`allenai/novelty-eval`](https://github.com/allenai/novelty-eval) | `9b2e69f3` | Completed ✅ |
-| [`allenai/state-bench`](https://github.com/allenai/state-bench) | `5b333b8d` | Completed ✅ |
-| [`allenai/planteur-benchmark`](https://github.com/allenai/planteur-benchmark) | `9f860eef` | Completed ✅ |
-| [`allenai/molmo-motion`](https://github.com/allenai/molmo-motion) | `ab7c5f4e` | Completed ✅ |
-| [`allenai/reward-bench`](https://github.com/allenai/reward-bench) | `59f6ff70` | Completed ✅ |
-| [`allenai/state-tracking-evals`](https://github.com/allenai/state-tracking-evals) | `6ffbc01a` | Completed ✅ |
-| [`allenai/sensitivity-estimate`](https://github.com/allenai/sensitivity-estimate) | `4fb0d6e5` | Completed ✅ |
+| [`allenai/bolmo-core`](https://github.com/allenai/bolmo-core) | `2d8178b1` | Completed ✅ |
+| [`allenai/agent-baselines`](https://github.com/allenai/agent-baselines) | `2d426dea` | Completed ✅ |
+| [`allenai/prescience`](https://github.com/allenai/prescience) | `47384ed7` | Completed ✅ |
+| [`allenai/kernel-fun`](https://github.com/allenai/kernel-fun) | `662db70b` | Completed ✅ |
+| [`allenai/MolmoBot`](https://github.com/allenai/MolmoBot) | `33c0ca77` | Completed ✅ |
+| [`allenai/molmospaces-resources`](https://github.com/allenai/molmospaces-resources) | `55b3c508` | Completed ✅ |
+| [`allenai/molmoweb`](https://github.com/allenai/molmoweb) | `bab3fc3f` | Completed ✅ |
+| [`allenai/BenchMIRT`](https://github.com/allenai/BenchMIRT) | `faceefdb` | Completed ✅ |
+| [`allenai/safety-eval`](https://github.com/allenai/safety-eval) | `060cc903` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
