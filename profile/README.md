@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sunpy/sunkit-spex](https://github.com/repolex-forx/sunpy--sunkit-spex) | `92782fb80d` | 2026-11-06 |
+| [sunpy/sunkit-magex](https://github.com/repolex-forx/sunpy--sunkit-magex) | `963ebfc121` | 2026-11-06 |
+| [sunpy/sunkit-pyvista](https://github.com/repolex-forx/sunpy--sunkit-pyvista) | `0e9de86652` | 2026-11-06 |
+| [sunpy/streamtracer](https://github.com/repolex-forx/sunpy--streamtracer) | `fdd618e518` | 2026-11-06 |
+| [sphinx-contrib/py_directive](https://github.com/repolex-forx/sphinx-contrib--py_directive) | `14b44920c0` | 2026-11-06 |
+| [sphinx-contrib/sdedit](https://github.com/repolex-forx/sphinx-contrib--sdedit) | `0f8da02c72` | 2026-11-06 |
+| [sphinx-contrib/swf](https://github.com/repolex-forx/sphinx-contrib--swf) | `f4a83901a6` | 2026-11-06 |
+| [sphinx-contrib/sword](https://github.com/repolex-forx/sphinx-contrib--sword) | `4d304290ae` | 2026-11-06 |
+| [sphinx-contrib/whooshindex](https://github.com/repolex-forx/sphinx-contrib--whooshindex) | `c53faf2ece` | 2026-11-06 |
+| [sphinx-contrib/sphinxcontrib-versioning](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-versioning) | `0b56210959` | 2026-11-06 |
 | [sphinx-contrib/ogp](https://github.com/repolex-forx/sphinx-contrib--ogp) | `a591bf8cb1` | 2026-11-06 |
 | [sphinx-contrib/gravizo](https://github.com/repolex-forx/sphinx-contrib--gravizo) | `f248b433e5` | 2026-11-06 |
 | [sphinx-contrib/prefecttask](https://github.com/repolex-forx/sphinx-contrib--prefecttask) | `44112bca2d` | 2026-11-06 |
