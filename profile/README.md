@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [fastai/fastdownload](https://github.com/repolex-forx/fastai--fastdownload) | `2c90ed8ef4` | 2026-11-06 |
+| [pre-commit/mirrors-autopep8](https://github.com/repolex-forx/pre-commit--mirrors-autopep8) | `ff31678cfc` | 2026-11-06 |
+| [litestar-org/litestar-fullstack](https://github.com/repolex-forx/litestar-org--litestar-fullstack) | `90e074e123` | 2026-11-06 |
+| [litestar-org/sqlspec](https://github.com/repolex-forx/litestar-org--sqlspec) | `78a00b9b89` | 2026-11-06 |
+| [astropy/pyregion](https://github.com/repolex-forx/astropy--pyregion) | `cbfe54945d` | 2026-11-06 |
+| [astropy/astropy-benchmarks](https://github.com/repolex-forx/astropy--astropy-benchmarks) | `c76f9d7405` | 2026-11-06 |
+| [astropy/astropy-roadmap](https://github.com/repolex-forx/astropy--astropy-roadmap) | `a529bb2dfc` | 2026-11-06 |
+| [sunpy/sunpy-integration-testing](https://github.com/repolex-forx/sunpy--sunpy-integration-testing) | `8f39d77fd7` | 2026-11-06 |
+| [sunpy/package-template](https://github.com/repolex-forx/sunpy--package-template) | `983c9114fb` | 2026-11-06 |
+| [sunpy/sunpy-soar](https://github.com/repolex-forx/sunpy--sunpy-soar) | `6932a91e9e` | 2026-11-06 |
 | [sunpy/sunkit-spex](https://github.com/repolex-forx/sunpy--sunkit-spex) | `92782fb80d` | 2026-11-06 |
 | [sunpy/sunkit-magex](https://github.com/repolex-forx/sunpy--sunkit-magex) | `963ebfc121` | 2026-11-06 |
 | [sunpy/sunkit-pyvista](https://github.com/repolex-forx/sunpy--sunkit-pyvista) | `0e9de86652` | 2026-11-06 |
