@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ansible-collections/amazon.cloud](https://github.com/repolex-forx/ansible-collections--amazon.cloud) | `4765d82b8d` | 2026-11-07 |
+| [ansible-collections/community.rabbitmq](https://github.com/repolex-forx/ansible-collections--community.rabbitmq) | `4c5ceeee34` | 2026-11-07 |
+| [ansible-collections/ibm_zos_cics](https://github.com/repolex-forx/ansible-collections--ibm_zos_cics) | `99ab69ddd6` | 2026-11-07 |
+| [ansible-collections/community.grafana](https://github.com/repolex-forx/ansible-collections--community.grafana) | `d7ae4090f2` | 2026-11-07 |
+| [ansible-collections/ibm_zos_ims](https://github.com/repolex-forx/ansible-collections--ibm_zos_ims) | `a3d1dc9110` | 2026-11-07 |
+| [ansible-collections/community.proxysql](https://github.com/repolex-forx/ansible-collections--community.proxysql) | `4513f9d657` | 2026-11-07 |
+| [ansible-collections/dellemc.sfss](https://github.com/repolex-forx/ansible-collections--dellemc.sfss) | `13e797d874` | 2026-11-07 |
+| [ansible-collections/community.eda](https://github.com/repolex-forx/ansible-collections--community.eda) | `6341cc8d54` | 2026-11-07 |
+| [ansible-collections/dellemc.enterprise_sonic](https://github.com/repolex-forx/ansible-collections--dellemc.enterprise_sonic) | `46eba3b9b5` | 2026-11-07 |
+| [ansible-collections/netapp.storagegrid](https://github.com/repolex-forx/ansible-collections--netapp.storagegrid) | `5f8478771f` | 2026-11-07 |
 | [certbot/josepy](https://github.com/repolex-forx/certbot--josepy) | `7069e07e20` | 2026-11-07 |
 | [certbot/certbot](https://github.com/repolex-forx/certbot--certbot) | `138defe9c7` | 2026-11-07 |
 | [ansible-collections/community.clickhouse](https://github.com/repolex-forx/ansible-collections--community.clickhouse) | `ba35a0b3c3` | 2026-11-07 |
