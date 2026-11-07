@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sunpy/sunpy-contribution-statistics](https://github.com/repolex-forx/sunpy--sunpy-contribution-statistics) | `aef818ebe5` | 2026-11-06 |
+| [astropy/coordinates-benchmark](https://github.com/repolex-forx/astropy--coordinates-benchmark) | `34ee5cd04d` | 2026-11-06 |
+| [plotly/plotly-navigation](https://github.com/repolex-forx/plotly--plotly-navigation) | `cbc6e56b9f` | 2026-11-06 |
+| [plotly/dash-cytoscape](https://github.com/repolex-forx/plotly--dash-cytoscape) | `f96e760f3b` | 2026-11-06 |
+| [plotly/dash-canvas](https://github.com/repolex-forx/plotly--dash-canvas) | `4f4df65b43` | 2026-11-06 |
+| [plotly/dash-slicer](https://github.com/repolex-forx/plotly--dash-slicer) | `4b1223dcd2` | 2026-11-06 |
+| [plotly/dash-dangerously-set-inner-html](https://github.com/repolex-forx/plotly--dash-dangerously-set-inner-html) | `15f7dc7fc4` | 2026-11-06 |
+| [plotly/dash-deck](https://github.com/repolex-forx/plotly--dash-deck) | `a4821cb46f` | 2026-11-06 |
+| [plotly/dash-table-experiments](https://github.com/repolex-forx/plotly--dash-table-experiments) | `c3ecb3b1a7` | 2026-11-06 |
+| [networkx/nx-guides](https://github.com/repolex-forx/networkx--nx-guides) | `c76026a272` | 2026-11-06 |
 | [litestar-org/api-performance-tests](https://github.com/repolex-forx/litestar-org--api-performance-tests) | `956b96c0ce` | 2026-11-06 |
 | [litestar-org/polyfactory-docs-preview](https://github.com/repolex-forx/litestar-org--polyfactory-docs-preview) | `b0f98d70e0` | 2026-11-06 |
 | [litestar-org/advanced-alchemy-docs-preview](https://github.com/repolex-forx/litestar-org--advanced-alchemy-docs-preview) | `5f5be51873` | 2026-11-06 |
