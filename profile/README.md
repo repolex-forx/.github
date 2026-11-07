@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sanic-org/sanic-openapi](https://github.com/repolex-forx/sanic-org--sanic-openapi) | `872d38f259` | 2026-11-07 |
+| [borgbackup/borg-mcp](https://github.com/repolex-forx/borgbackup--borg-mcp) | `78b9269f9f` | 2026-11-07 |
+| [borgbackup/borgstore](https://github.com/repolex-forx/borgbackup--borgstore) | `f6e41c191a` | 2026-11-07 |
+| [locustio/aiolocust](https://github.com/repolex-forx/locustio--aiolocust) | `9b5eb4721c` | 2026-11-07 |
+| [mitmproxy/android-unpinner](https://github.com/repolex-forx/mitmproxy--android-unpinner) | `60cbfee4d4` | 2026-11-07 |
+| [mitmproxy/pdoc](https://github.com/repolex-forx/mitmproxy--pdoc) | `00e18eb12a` | 2026-11-07 |
+| [plotly/dash-recipes](https://github.com/repolex-forx/plotly--dash-recipes) | `707c225a15` | 2026-11-07 |
+| [plotly/dash-sample-apps](https://github.com/repolex-forx/plotly--dash-sample-apps) | `ebabf377d3` | 2026-11-07 |
+| [plotly/dash-pivottable](https://github.com/repolex-forx/plotly--dash-pivottable) | `3440a26ce9` | 2026-11-07 |
+| [plotly/dash-vtk](https://github.com/repolex-forx/plotly--dash-vtk) | `3219591565` | 2026-11-07 |
 | [plotly/tutorial-nanodash](https://github.com/repolex-forx/plotly--tutorial-nanodash) | `4a53766b01` | 2026-11-07 |
 | [plotly/DataframesBenchmark](https://github.com/repolex-forx/plotly--DataframesBenchmark) | `6beefb4887` | 2026-11-07 |
 | [plotly/dash-ai-chat-tutorial](https://github.com/repolex-forx/plotly--dash-ai-chat-tutorial) | `9dea428e9d` | 2026-11-07 |
