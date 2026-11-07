@@ -34,6 +34,15 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sunpy/sunpy-vcr-cassettes](https://github.com/repolex-forx/sunpy--sunpy-vcr-cassettes) | `11e3639bfc` | 2026-11-06 |
+| [sunpy/sunpy-dashboard](https://github.com/repolex-forx/sunpy--sunpy-dashboard) | `589a2e5a93` | 2026-11-06 |
+| [fastai/ulms](https://github.com/repolex-forx/fastai--ulms) | `d349777284` | 2026-11-06 |
+| [fastai/fastec2](https://github.com/repolex-forx/fastai--fastec2) | `6b47aa0235` | 2026-11-06 |
+| [fastai/nbdev-hello-world](https://github.com/repolex-forx/fastai--nbdev-hello-world) | `da3c08d0ff` | 2026-11-06 |
+| [plotly/dash-enterprise-auth](https://github.com/repolex-forx/plotly--dash-enterprise-auth) | `71f00ab5cc` | 2026-11-06 |
+| [plotly/dash-component-boilerplate](https://github.com/repolex-forx/plotly--dash-component-boilerplate) | `78b6c964e4` | 2026-11-06 |
+| [plotly/dash-ws-demo](https://github.com/repolex-forx/plotly--dash-ws-demo) | `8c0f0352eb` | 2026-11-06 |
+| [plotly/dash-ag-grid](https://github.com/repolex-forx/plotly--dash-ag-grid) | `13eef10e8d` | 2026-11-06 |
 | [sunpy/sunpy-contribution-statistics](https://github.com/repolex-forx/sunpy--sunpy-contribution-statistics) | `aef818ebe5` | 2026-11-06 |
 | [astropy/coordinates-benchmark](https://github.com/repolex-forx/astropy--coordinates-benchmark) | `34ee5cd04d` | 2026-11-06 |
 | [plotly/plotly-navigation](https://github.com/repolex-forx/plotly--plotly-navigation) | `cbc6e56b9f` | 2026-11-06 |
