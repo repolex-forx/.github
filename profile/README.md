@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,289**
+- **Total Indexed Repositories**: **4,299**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`ansible-collections/community.library_inventory_filtering`](https://github.com/ansible-collections/community.library_inventory_filtering) | `90cd245b` | Completed ✅ |
-| [`ansible-collections/ibm.storage_virtualize`](https://github.com/ansible-collections/ibm.storage_virtualize) | `217f5425` | Completed ✅ |
-| [`ansible-collections/netapp.aws`](https://github.com/ansible-collections/netapp.aws) | `435befc5` | Completed ✅ |
-| [`ansible-collections/community.cip`](https://github.com/ansible-collections/community.cip) | `c90a6a67` | Completed ✅ |
-| [`ansible-collections/ibm.cloud`](https://github.com/ansible-collections/ibm.cloud) | `5d94fa34` | Completed ✅ |
-| [`ansible-collections/netapp.um_info`](https://github.com/ansible-collections/netapp.um_info) | `e9dc2329` | Completed ✅ |
-| [`ansible-collections/skydive`](https://github.com/ansible-collections/skydive) | `21d837f1` | Completed ✅ |
-| [`ansible-collections/community.google`](https://github.com/ansible-collections/community.google) | `44bae7c5` | Completed ✅ |
-| [`ansible-collections/community.pacemaker`](https://github.com/ansible-collections/community.pacemaker) | `9868faf2` | Completed ✅ |
-| [`ansible-collections/netapp.azure`](https://github.com/ansible-collections/netapp.azure) | `825651a2` | Completed ✅ |
+| [`ansible-collections/community.kubevirt`](https://github.com/ansible-collections/community.kubevirt) | `f36232c3` | Completed ✅ |
+| [`ansible-collections/community.sap`](https://github.com/ansible-collections/community.sap) | `9f06d335` | Completed ✅ |
+| [`ansible-collections/dellemc.os6`](https://github.com/ansible-collections/dellemc.os6) | `eb8fee1d` | Completed ✅ |
+| [`ansible-collections/mellanox.onyx`](https://github.com/ansible-collections/mellanox.onyx) | `895d3a20` | Completed ✅ |
+| [`ansible-collections/dellemc.sfs`](https://github.com/ansible-collections/dellemc.sfs) | `9f2a0892` | Completed ✅ |
+| [`ansible-collections/community.fortios`](https://github.com/ansible-collections/community.fortios) | `472b2885` | Completed ✅ |
+| [`ansible-collections/ansible.drill`](https://github.com/ansible-collections/ansible.drill) | `b4f8cb77` | Completed ✅ |
+| [`scrapinghub/python-crfsuite`](https://github.com/scrapinghub/python-crfsuite) | `d3ee2eba` | Completed ✅ |
+| [`scrapinghub/scrapinghub-entrypoint-scrapy`](https://github.com/scrapinghub/scrapinghub-entrypoint-scrapy) | `bf9632c7` | Completed ✅ |
+| [`scrapinghub/number-parser`](https://github.com/scrapinghub/number-parser) | `a1263578` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
