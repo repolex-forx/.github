@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,329**
+- **Total Indexed Repositories**: **4,339**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`allenai/asta-bench-leaderboard`](https://github.com/allenai/asta-bench-leaderboard) | `4afafd37` | Completed ✅ |
-| [`allenai/vla-evaluation-harness`](https://github.com/allenai/vla-evaluation-harness) | `cc260841` | Completed ✅ |
-| [`allenai/rslearn`](https://github.com/allenai/rslearn) | `f08900ab` | Completed ✅ |
-| [`allenai/sinonym`](https://github.com/allenai/sinonym) | `3fdad803` | Completed ✅ |
-| [`allenai/IFBench`](https://github.com/allenai/IFBench) | `cd189a9c` | Completed ✅ |
-| [`allenai/atlantes`](https://github.com/allenai/atlantes) | `7258902e` | Completed ✅ |
-| [`allenai/vampire`](https://github.com/allenai/vampire) | `cf5c2fe1` | Completed ✅ |
-| [`allenai/olmo-sglang`](https://github.com/allenai/olmo-sglang) | `069dc0a3` | Completed ✅ |
-| [`allenai/nora_lib`](https://github.com/allenai/nora_lib) | `45b630a1` | Completed ✅ |
-| [`allenai/asta-paper-finder`](https://github.com/allenai/asta-paper-finder) | `6eb51383` | Completed ✅ |
+| [`allenai/scholarphi`](https://github.com/allenai/scholarphi) | `2fc30ed4` | Completed ✅ |
+| [`allenai/pawls`](https://github.com/allenai/pawls) | `1a201c6c` | Completed ✅ |
+| [`allenai/ai2-scholarqa-lib`](https://github.com/allenai/ai2-scholarqa-lib) | `19e6827b` | Completed ✅ |
+| [`allenai/novelty-eval`](https://github.com/allenai/novelty-eval) | `9b2e69f3` | Completed ✅ |
+| [`allenai/state-bench`](https://github.com/allenai/state-bench) | `5b333b8d` | Completed ✅ |
+| [`allenai/planteur-benchmark`](https://github.com/allenai/planteur-benchmark) | `9f860eef` | Completed ✅ |
+| [`allenai/molmo-motion`](https://github.com/allenai/molmo-motion) | `ab7c5f4e` | Completed ✅ |
+| [`allenai/reward-bench`](https://github.com/allenai/reward-bench) | `59f6ff70` | Completed ✅ |
+| [`allenai/state-tracking-evals`](https://github.com/allenai/state-tracking-evals) | `6ffbc01a` | Completed ✅ |
+| [`allenai/sensitivity-estimate`](https://github.com/allenai/sensitivity-estimate) | `4fb0d6e5` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
