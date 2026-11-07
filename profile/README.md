@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,299**
+- **Total Indexed Repositories**: **4,309**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`ansible-collections/community.kubevirt`](https://github.com/ansible-collections/community.kubevirt) | `f36232c3` | Completed ✅ |
-| [`ansible-collections/community.sap`](https://github.com/ansible-collections/community.sap) | `9f06d335` | Completed ✅ |
-| [`ansible-collections/dellemc.os6`](https://github.com/ansible-collections/dellemc.os6) | `eb8fee1d` | Completed ✅ |
-| [`ansible-collections/mellanox.onyx`](https://github.com/ansible-collections/mellanox.onyx) | `895d3a20` | Completed ✅ |
-| [`ansible-collections/dellemc.sfs`](https://github.com/ansible-collections/dellemc.sfs) | `9f2a0892` | Completed ✅ |
-| [`ansible-collections/community.fortios`](https://github.com/ansible-collections/community.fortios) | `472b2885` | Completed ✅ |
-| [`ansible-collections/ansible.drill`](https://github.com/ansible-collections/ansible.drill) | `b4f8cb77` | Completed ✅ |
-| [`scrapinghub/python-crfsuite`](https://github.com/scrapinghub/python-crfsuite) | `d3ee2eba` | Completed ✅ |
-| [`scrapinghub/scrapinghub-entrypoint-scrapy`](https://github.com/scrapinghub/scrapinghub-entrypoint-scrapy) | `bf9632c7` | Completed ✅ |
-| [`scrapinghub/number-parser`](https://github.com/scrapinghub/number-parser) | `a1263578` | Completed ✅ |
+| [`scrapinghub/scrapy-frontera`](https://github.com/scrapinghub/scrapy-frontera) | `56ea2e1e` | Completed ✅ |
+| [`scrapinghub/hcf-backend`](https://github.com/scrapinghub/hcf-backend) | `bbdc50cd` | Completed ✅ |
+| [`scrapinghub/splash`](https://github.com/scrapinghub/splash) | `ab28b023` | Completed ✅ |
+| [`scrapinghub/varanus`](https://github.com/scrapinghub/varanus) | `383ef738` | Completed ✅ |
+| [`scrapinghub/pastebin`](https://github.com/scrapinghub/pastebin) | `a712e603` | Completed ✅ |
+| [`allenai/agent-eval`](https://github.com/allenai/agent-eval) | `28fb1751` | Completed ✅ |
+| [`allenai/tutormoments`](https://github.com/allenai/tutormoments) | `f62fce98` | Completed ✅ |
+| [`allenai/curobo`](https://github.com/allenai/curobo) | `87e857d4` | Completed ✅ |
+| [`allenai/agentic_robotics`](https://github.com/allenai/agentic_robotics) | `340731d9` | Completed ✅ |
+| [`allenai/XYBench`](https://github.com/allenai/XYBench) | `e39eb25a` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
