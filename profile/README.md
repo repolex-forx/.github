@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [kivy/kivy-designer](https://github.com/repolex-forx/kivy--kivy-designer) | `20343184a2` | 2026-11-07 |
+| [kivy/buildozer](https://github.com/repolex-forx/kivy--buildozer) | `76bac28545` | 2026-11-07 |
+| [locustio/k8s-operator](https://github.com/repolex-forx/locustio--k8s-operator) | `ef9f2b726a` | 2026-11-07 |
+| [beeware/toga-code-editor](https://github.com/repolex-forx/beeware--toga-code-editor) | `d5bd0d2bbe` | 2026-11-07 |
+| [beeware/beeware-docs-tools](https://github.com/repolex-forx/beeware--beeware-docs-tools) | `40147a4ba2` | 2026-11-07 |
+| [beeware/podium](https://github.com/repolex-forx/beeware--podium) | `d41d4d9ea4` | 2026-11-07 |
+| [beeware/galley](https://github.com/repolex-forx/beeware--galley) | `f56c310ce2` | 2026-11-07 |
+| [beeware/duvet](https://github.com/repolex-forx/beeware--duvet) | `b2058f3623` | 2026-11-07 |
+| [beeware/cricket](https://github.com/repolex-forx/beeware--cricket) | `0aa8e6a7ff` | 2026-11-07 |
+| [beeware/travertino](https://github.com/repolex-forx/beeware--travertino) | `4371d7586e` | 2026-11-07 |
 | [beeware/colosseum](https://github.com/repolex-forx/beeware--colosseum) | `191d742dae` | 2026-11-07 |
 | [beeware/rubicon-objc](https://github.com/repolex-forx/beeware--rubicon-objc) | `7f9d972a5a` | 2026-11-07 |
 | [beeware/toga](https://github.com/repolex-forx/beeware--toga) | `c7d1d4e755` | 2026-11-07 |
