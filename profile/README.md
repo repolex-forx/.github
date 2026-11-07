@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ansible-collections/ansible.snmp](https://github.com/repolex-forx/ansible-collections--ansible.snmp) | `cb63215fda` | 2026-11-07 |
+| [ansible-collections/openvswitch.openvswitch](https://github.com/repolex-forx/ansible-collections--openvswitch.openvswitch) | `a1adb384d6` | 2026-11-07 |
+| [ansible-collections/splunk.itsi](https://github.com/repolex-forx/ansible-collections--splunk.itsi) | `09107efc6e` | 2026-11-07 |
+| [ansible-collections/ansible.utils](https://github.com/repolex-forx/ansible-collections--ansible.utils) | `1f3e1bdfe2` | 2026-11-07 |
+| [ansible-collections/cisco.iosxr](https://github.com/repolex-forx/ansible-collections--cisco.iosxr) | `bf4c479053` | 2026-11-07 |
+| [allenai/olmoearth_projects](https://github.com/repolex-forx/allenai--olmoearth_projects) | `a628d1a5fa` | 2026-11-07 |
+| [allenai/olmoearth_pretrain](https://github.com/repolex-forx/allenai--olmoearth_pretrain) | `13ca06ffaf` | 2026-11-07 |
+| [allenai/molmospaces](https://github.com/repolex-forx/allenai--molmospaces) | `1c2d511e22` | 2026-11-07 |
+| [allenai/ToyBlocks](https://github.com/repolex-forx/allenai--ToyBlocks) | `931fd7aab1` | 2026-11-07 |
+| [ansible-collections/cisco.asa](https://github.com/repolex-forx/ansible-collections--cisco.asa) | `c467f33a84` | 2026-11-07 |
 | [ansible-collections/frr.frr](https://github.com/repolex-forx/ansible-collections--frr.frr) | `5c9f81e119` | 2026-11-07 |
 | [ansible-collections/ansible.scm](https://github.com/repolex-forx/ansible-collections--ansible.scm) | `5389892b95` | 2026-11-07 |
 | [ansible-collections/ibm.qradar](https://github.com/repolex-forx/ansible-collections--ibm.qradar) | `68d3791f6c` | 2026-11-07 |
