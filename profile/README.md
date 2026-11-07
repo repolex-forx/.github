@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [beeware/toga-chart](https://github.com/repolex-forx/beeware--toga-chart) | `896f19373a` | 2026-11-07 |
+| [beeware/std-nslog](https://github.com/repolex-forx/beeware--std-nslog) | `39328076ec` | 2026-11-07 |
+| [kivy/ncis-kivy](https://github.com/repolex-forx/kivy--ncis-kivy) | `b40a96ad00` | 2026-11-07 |
+| [kivy/ncis-inspector](https://github.com/repolex-forx/kivy--ncis-inspector) | `61a0182a0e` | 2026-11-07 |
+| [kivy/plyer_demo](https://github.com/repolex-forx/kivy--plyer_demo) | `cddd68a687` | 2026-11-07 |
+| [kivy/condiment](https://github.com/repolex-forx/kivy--condiment) | `64727710ae` | 2026-11-07 |
+| [kivy/telenium](https://github.com/repolex-forx/kivy--telenium) | `92300fbf6b` | 2026-11-07 |
+| [kivy/kivy_pong_demo](https://github.com/repolex-forx/kivy--kivy_pong_demo) | `be21a8d0e2` | 2026-11-07 |
+| [kivy/kivy-launcher](https://github.com/repolex-forx/kivy--kivy-launcher) | `a2f223f145` | 2026-11-07 |
+| [kivy/angle-builder](https://github.com/repolex-forx/kivy--angle-builder) | `2e0cffee9d` | 2026-11-07 |
 | [kivy/oscpy](https://github.com/repolex-forx/kivy--oscpy) | `9d6e1213d4` | 2026-11-07 |
 | [kivy/kivy-remote-shell](https://github.com/repolex-forx/kivy--kivy-remote-shell) | `e5d27ed151` | 2026-11-07 |
 | [kivy/templates](https://github.com/repolex-forx/kivy--templates) | `935165910a` | 2026-11-07 |
