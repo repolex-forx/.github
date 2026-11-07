@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ansible-collections/ansible_hub](https://github.com/repolex-forx/ansible-collections--ansible_hub) | `3c113cfa92` | 2026-11-07 |
+| [ansible-collections/netapp.cloudmanager](https://github.com/repolex-forx/ansible-collections--netapp.cloudmanager) | `250596d19e` | 2026-11-07 |
+| [ansible-collections/cloud.terraform](https://github.com/repolex-forx/ansible-collections--cloud.terraform) | `e3bc5e9be7` | 2026-11-07 |
+| [ansible-collections/redhat.ai](https://github.com/repolex-forx/ansible-collections--redhat.ai) | `5a132d0010` | 2026-11-07 |
+| [ansible-collections/community.yang](https://github.com/repolex-forx/ansible-collections--community.yang) | `c63c615535` | 2026-11-07 |
+| [ansible-collections/cloud.common](https://github.com/repolex-forx/ansible-collections--cloud.common) | `223144df28` | 2026-11-07 |
+| [ansible-collections/ansible.yang](https://github.com/repolex-forx/ansible-collections--ansible.yang) | `4bca06af5d` | 2026-11-07 |
+| [ansible-collections/infra.ai](https://github.com/repolex-forx/ansible-collections--infra.ai) | `eedca04c5a` | 2026-11-07 |
+| [ansible-collections/logicmonitor](https://github.com/repolex-forx/ansible-collections--logicmonitor) | `fd569007bc` | 2026-11-07 |
+| [ansible-collections/community.ciscosmb](https://github.com/repolex-forx/ansible-collections--community.ciscosmb) | `5279c83902` | 2026-11-07 |
 | [ansible-collections/amazon.cloud](https://github.com/repolex-forx/ansible-collections--amazon.cloud) | `4765d82b8d` | 2026-11-07 |
 | [ansible-collections/community.rabbitmq](https://github.com/repolex-forx/ansible-collections--community.rabbitmq) | `4c5ceeee34` | 2026-11-07 |
 | [ansible-collections/ibm_zos_cics](https://github.com/repolex-forx/ansible-collections--ibm_zos_cics) | `99ab69ddd6` | 2026-11-07 |
