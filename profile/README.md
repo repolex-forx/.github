@@ -34,6 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [litestar-org/api-performance-tests](https://github.com/repolex-forx/litestar-org--api-performance-tests) | `956b96c0ce` | 2026-11-06 |
+| [litestar-org/polyfactory-docs-preview](https://github.com/repolex-forx/litestar-org--polyfactory-docs-preview) | `b0f98d70e0` | 2026-11-06 |
+| [litestar-org/advanced-alchemy-docs-preview](https://github.com/repolex-forx/litestar-org--advanced-alchemy-docs-preview) | `5f5be51873` | 2026-11-06 |
+| [litestar-org/litestar-docs-preview](https://github.com/repolex-forx/litestar-org--litestar-docs-preview) | `fe3e255ba4` | 2026-11-06 |
+| [plotly/dash-auth](https://github.com/repolex-forx/plotly--dash-auth) | `a78a757c40` | 2026-11-06 |
+| [plotly/dash-player](https://github.com/repolex-forx/plotly--dash-player) | `d663df9ccb` | 2026-11-06 |
+| [plotly/choreographer](https://github.com/repolex-forx/plotly--choreographer) | `7ee8504227` | 2026-11-06 |
+| [pydantic/bump-pydantic](https://github.com/repolex-forx/pydantic--bump-pydantic) | `a111d41774` | 2026-11-06 |
+| [fastai/fastrelease](https://github.com/repolex-forx/fastai--fastrelease) | `21425882c1` | 2026-11-06 |
+| [fastai/fastprogress](https://github.com/repolex-forx/fastai--fastprogress) | `4e87543afa` | 2026-11-06 |
 | [fastai/fastdownload](https://github.com/repolex-forx/fastai--fastdownload) | `2c90ed8ef4` | 2026-11-06 |
 | [pre-commit/mirrors-autopep8](https://github.com/repolex-forx/pre-commit--mirrors-autopep8) | `ff31678cfc` | 2026-11-06 |
 | [litestar-org/litestar-fullstack](https://github.com/repolex-forx/litestar-org--litestar-fullstack) | `90e074e123` | 2026-11-06 |
