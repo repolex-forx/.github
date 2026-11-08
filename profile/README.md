@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,611**
+- **Total Indexed Repositories**: **4,621**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`modal-labs/vhost`](https://github.com/modal-labs/vhost) | `e50f1d8a` | Completed ✅ |
-| [`modal-labs/vprox`](https://github.com/modal-labs/vprox) | `4d5a397c` | Completed ✅ |
-| [`cohere-ai/melody`](https://github.com/cohere-ai/melody) | `92b4073b` | Completed ✅ |
-| [`cohere-ai/htn-2026-multi-agent-demo`](https://github.com/cohere-ai/htn-2026-multi-agent-demo) | `fd5c16c4` | Completed ✅ |
-| [`cohere-ai/cvm-measure`](https://github.com/cohere-ai/cvm-measure) | `4f1303e2` | Completed ✅ |
-| [`cohere-ai/cohere-megakernel`](https://github.com/cohere-ai/cohere-megakernel) | `67d0b9ca` | Completed ✅ |
-| [`cohere-ai/north-mcp-python-sdk`](https://github.com/cohere-ai/north-mcp-python-sdk) | `06948969` | Completed ✅ |
-| [`cohere-ai/vllm-skills`](https://github.com/cohere-ai/vllm-skills) | `2a9ed1ff` | Completed ✅ |
-| [`explosion/ellf-templates`](https://github.com/explosion/ellf-templates) | `da035be1` | Completed ✅ |
-| [`google-deepmind/reaf-sim`](https://github.com/google-deepmind/reaf-sim) | `80aa17f7` | Completed ✅ |
+| [`google-deepmind/fusion_surrogates`](https://github.com/google-deepmind/fusion_surrogates) | `f9266968` | Completed ✅ |
+| [`google-deepmind/tapnet`](https://github.com/google-deepmind/tapnet) | `ceedd60b` | Completed ✅ |
+| [`predibase/lora_bakeoff`](https://github.com/predibase/lora_bakeoff) | `2ac88b95` | Completed ✅ |
+| [`cohere-ai/cohere-security-toolkit`](https://github.com/cohere-ai/cohere-security-toolkit) | `fb385ad2` | Completed ✅ |
+| [`cohere-ai/htn-2025-techtalk`](https://github.com/cohere-ai/htn-2025-techtalk) | `9cbf9068` | Completed ✅ |
+| [`cohere-ai/cohere-go`](https://github.com/cohere-ai/cohere-go) | `63f3b380` | Completed ✅ |
+| [`explosion/gha-cibuildwheel`](https://github.com/explosion/gha-cibuildwheel) | `2ade48ac` | Completed ✅ |
+| [`explosion/cython-blis`](https://github.com/explosion/cython-blis) | `44dd5910` | Completed ✅ |
+| [`explosion/ellf-terraform-cluster`](https://github.com/explosion/ellf-terraform-cluster) | `14633726` | Completed ✅ |
+| [`explosion/ellf-helm-cluster`](https://github.com/explosion/ellf-helm-cluster) | `cafcdd3e` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
