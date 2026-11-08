@@ -33,22 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,536**
+- **Total Indexed Repositories**: **4,545**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`zenml-io/trmnl-zenml`](https://github.com/zenml-io/trmnl-zenml) | `b3460ce1` | Completed ✅ |
-| [`zenml-io/zenml-wrapped`](https://github.com/zenml-io/zenml-wrapped) | `967aeed5` | Completed ✅ |
-| [`zenml-io/template-e2e-batch`](https://github.com/zenml-io/template-e2e-batch) | `b6d727e6` | Completed ✅ |
-| [`zenml-io/zenml-agentic-workshop`](https://github.com/zenml-io/zenml-agentic-workshop) | `259ed015` | Completed ✅ |
-| [`qdrant/migration`](https://github.com/qdrant/migration) | `9256b227` | Completed ✅ |
-| [`qdrant/api-reference`](https://github.com/qdrant/api-reference) | `fae554bd` | Completed ✅ |
-| [`qdrant/skills`](https://github.com/qdrant/skills) | `9f55f6a7` | Completed ✅ |
-| [`qdrant/landing_page`](https://github.com/qdrant/landing_page) | `84bc96c8` | Completed ✅ |
-| [`qdrant/vector-db-benchmark`](https://github.com/qdrant/vector-db-benchmark) | `acedefda` | Completed ✅ |
+| [`qdrant/examples`](https://github.com/qdrant/examples) | `25c7c2bc` | Completed ✅ |
+| [`bentoml/rag-tutorials`](https://github.com/bentoml/rag-tutorials) | `f241f888` | Completed ✅ |
+| [`bentoml/quickstart`](https://github.com/bentoml/quickstart) | `436b9034` | Completed ✅ |
+| [`bentoml/openai_emulator`](https://github.com/bentoml/openai_emulator) | `ee306ddf` | Completed ✅ |
+| [`bentoml/llm-router`](https://github.com/bentoml/llm-router) | `322dcbb7` | Completed ✅ |
+| [`bentoml/LLMGateway`](https://github.com/bentoml/LLMGateway) | `c4537e75` | Completed ✅ |
+| [`deepset-ai/n8n-hayhooks-gmail-trigger`](https://github.com/deepset-ai/n8n-hayhooks-gmail-trigger) | `4f7b2d76` | Completed ✅ |
+| [`deepset-ai/dc-custom-component-template`](https://github.com/deepset-ai/dc-custom-component-template) | `f94b192b` | Completed ✅ |
+| [`deepset-ai/itinerary-agent`](https://github.com/deepset-ai/itinerary-agent) | `c65f7e45` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
