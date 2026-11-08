@@ -33,22 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,545**
+- **Total Indexed Repositories**: **4,555**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`qdrant/examples`](https://github.com/qdrant/examples) | `25c7c2bc` | Completed ✅ |
-| [`bentoml/rag-tutorials`](https://github.com/bentoml/rag-tutorials) | `f241f888` | Completed ✅ |
-| [`bentoml/quickstart`](https://github.com/bentoml/quickstart) | `436b9034` | Completed ✅ |
-| [`bentoml/openai_emulator`](https://github.com/bentoml/openai_emulator) | `ee306ddf` | Completed ✅ |
-| [`bentoml/llm-router`](https://github.com/bentoml/llm-router) | `322dcbb7` | Completed ✅ |
-| [`bentoml/LLMGateway`](https://github.com/bentoml/LLMGateway) | `c4537e75` | Completed ✅ |
-| [`deepset-ai/n8n-hayhooks-gmail-trigger`](https://github.com/deepset-ai/n8n-hayhooks-gmail-trigger) | `4f7b2d76` | Completed ✅ |
-| [`deepset-ai/dc-custom-component-template`](https://github.com/deepset-ai/dc-custom-component-template) | `f94b192b` | Completed ✅ |
-| [`deepset-ai/itinerary-agent`](https://github.com/deepset-ai/itinerary-agent) | `c65f7e45` | Completed ✅ |
+| [`deepset-ai/spring-into-haystack`](https://github.com/deepset-ai/spring-into-haystack) | `33743038` | Completed ✅ |
+| [`deepset-ai/dap-github-agent-template`](https://github.com/deepset-ai/dap-github-agent-template) | `0ee0930a` | Completed ✅ |
+| [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) | `405a2fa7` | Completed ✅ |
+| [`vllm-project/compressed-tensors`](https://github.com/vllm-project/compressed-tensors) | `11489fea` | Completed ✅ |
+| [`argilla-io/argilla-server`](https://github.com/argilla-io/argilla-server) | `6130c634` | Completed ✅ |
+| [`PrefectHQ/prefect-recipes`](https://github.com/PrefectHQ/prefect-recipes) | `ebc974b2` | Completed ✅ |
+| [`cohere-ai/notebooks`](https://github.com/cohere-ai/notebooks) | `62cfb71b` | Completed ✅ |
+| [`cohere-ai/sandbox-toy-semantic-search`](https://github.com/cohere-ai/sandbox-toy-semantic-search) | `c27c9174` | Completed ✅ |
+| [`chroma-core/docs`](https://github.com/chroma-core/docs) | `e83a441e` | Completed ✅ |
+| [`EleutherAI/cookbook`](https://github.com/EleutherAI/cookbook) | `827ee3b2` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
