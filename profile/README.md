@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,449**
+- **Total Indexed Repositories**: **4,459**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`argilla-io/argilla-direct-poc`](https://github.com/argilla-io/argilla-direct-poc) | `72c97abc` | Completed ✅ |
-| [`deepset-ai/haystack-core-integrations`](https://github.com/deepset-ai/haystack-core-integrations) | `d88734f7` | Completed ✅ |
-| [`deepset-ai/haystack-integrations`](https://github.com/deepset-ai/haystack-integrations) | `d96d7d38` | Completed ✅ |
-| [`deepset-ai/haystack`](https://github.com/deepset-ai/haystack) | `0ad74747` | Completed ✅ |
-| [`deepset-ai/deepset-mcp-server`](https://github.com/deepset-ai/deepset-mcp-server) | `af059c05` | Completed ✅ |
-| [`deepset-ai/haystack-enterprise-sdk`](https://github.com/deepset-ai/haystack-enterprise-sdk) | `ba7c53bf` | Completed ✅ |
-| [`deepset-ai/hayhooks`](https://github.com/deepset-ai/hayhooks) | `3c574973` | Completed ✅ |
-| [`deepset-ai/evolve-within-bounds`](https://github.com/deepset-ai/evolve-within-bounds) | `4a7c23ac` | Completed ✅ |
-| [`deepset-ai/hacknight`](https://github.com/deepset-ai/hacknight) | `f4f62a2e` | Completed ✅ |
-| [`deepset-ai/fastapi-openai-compat`](https://github.com/deepset-ai/fastapi-openai-compat) | `e8069f3f` | Completed ✅ |
+| [`PrefectHQ/fastmcp`](https://github.com/PrefectHQ/fastmcp) | `936a9659` | Completed ✅ |
+| [`PrefectHQ/prefect-collection-registry`](https://github.com/PrefectHQ/prefect-collection-registry) | `6be8519e` | Completed ✅ |
+| [`PrefectHQ/prefect-mcp-server`](https://github.com/PrefectHQ/prefect-mcp-server) | `48efd289` | Completed ✅ |
+| [`PrefectHQ/is-your-mcp-server-good`](https://github.com/PrefectHQ/is-your-mcp-server-good) | `a08e8bd8` | Completed ✅ |
+| [`PrefectHQ/prometheus-prefect-exporter`](https://github.com/PrefectHQ/prometheus-prefect-exporter) | `1ce3beaa` | Completed ✅ |
+| [`PrefectHQ/actions-prefect-deploy`](https://github.com/PrefectHQ/actions-prefect-deploy) | `154d891c` | Completed ✅ |
+| [`PrefectHQ/marvin`](https://github.com/PrefectHQ/marvin) | `be92af1d` | Completed ✅ |
+| [`PrefectHQ/prefect-cloud`](https://github.com/PrefectHQ/prefect-cloud) | `dd3c8da4` | Completed ✅ |
+| [`PrefectHQ/compat-tests`](https://github.com/PrefectHQ/compat-tests) | `6e159c6f` | Completed ✅ |
+| [`PrefectHQ/examples`](https://github.com/PrefectHQ/examples) | `de372af0` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
