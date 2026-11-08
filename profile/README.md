@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,732**
+- **Total Indexed Repositories**: **4,742**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`canonical/hydra-operator`](https://github.com/canonical/hydra-operator) | `da50d480` | Completed ✅ |
-| [`canonical/kratos-operator`](https://github.com/canonical/kratos-operator) | `f68a7740` | Completed ✅ |
-| [`canonical/glauth-k8s-operator`](https://github.com/canonical/glauth-k8s-operator) | `c001d5fd` | Completed ✅ |
-| [`canonical/parca-k8s-operator`](https://github.com/canonical/parca-k8s-operator) | `89fe873c` | Completed ✅ |
-| [`canonical/s3-integrator`](https://github.com/canonical/s3-integrator) | `64daa19f` | Completed ✅ |
-| [`qdrant/qdrant-client`](https://github.com/qdrant/qdrant-client) | `1b5bb858` | Completed ✅ |
-| [`pyg-team/pyg-lib`](https://github.com/pyg-team/pyg-lib) | `d13e2066` | Completed ✅ |
-| [`canonical/postgresql-operator`](https://github.com/canonical/postgresql-operator) | `009abbb6` | Completed ✅ |
-| [`canonical/mysql-router-k8s-operator`](https://github.com/canonical/mysql-router-k8s-operator) | `1a5bea73` | Completed ✅ |
-| [`canonical/opensearch-operator`](https://github.com/canonical/opensearch-operator) | `3148defe` | Completed ✅ |
+| [`canonical/kafka-k8s-operator`](https://github.com/canonical/kafka-k8s-operator) | `a35dc739` | Completed ✅ |
+| [`canonical/zookeeper-k8s-operator`](https://github.com/canonical/zookeeper-k8s-operator) | `b2692794` | Completed ✅ |
+| [`canonical/mongodb-k8s-operator`](https://github.com/canonical/mongodb-k8s-operator) | `5150013a` | Completed ✅ |
+| [`canonical/redis-k8s-operator`](https://github.com/canonical/redis-k8s-operator) | `06916763` | Completed ✅ |
+| [`canonical/cassandra-k8s-operator`](https://github.com/canonical/cassandra-k8s-operator) | `871c3695` | Completed ✅ |
+| [`canonical/grafana-k8s-operator`](https://github.com/canonical/grafana-k8s-operator) | `4a94c6df` | Completed ✅ |
+| [`canonical/prometheus-scrape-config-k8s-operator`](https://github.com/canonical/prometheus-scrape-config-k8s-operator) | `ab458e76` | Completed ✅ |
+| [`canonical/cos-tool`](https://github.com/canonical/cos-tool) | `3cbc09cb` | Completed ✅ |
+| [`canonical/bundle-kubeflow`](https://github.com/canonical/bundle-kubeflow) | `81078875` | Completed ✅ |
+| [`canonical/charmed-kubeflow-solutions`](https://github.com/canonical/charmed-kubeflow-solutions) | `099687b7` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
