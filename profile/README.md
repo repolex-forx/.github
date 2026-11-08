@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,517**
+- **Total Indexed Repositories**: **4,527**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`zenml-io/zenml`](https://github.com/zenml-io/zenml) | `2babcd8c` | Completed ✅ |
-| [`zenml-io/kitaru`](https://github.com/zenml-io/kitaru) | `9b33e757` | Completed ✅ |
-| [`zenml-io/mcp-zenml`](https://github.com/zenml-io/mcp-zenml) | `3de0643d` | Completed ✅ |
-| [`zenml-io/zenml-changelog`](https://github.com/zenml-io/zenml-changelog) | `fc98ce9c` | Completed ✅ |
-| [`zenml-io/zenml-io-v2`](https://github.com/zenml-io/zenml-io-v2) | `c8371c37` | Completed ✅ |
-| [`zenml-io/gpudoctor`](https://github.com/zenml-io/gpudoctor) | `858554cd` | Completed ✅ |
-| [`zenml-io/kitaru-skills`](https://github.com/zenml-io/kitaru-skills) | `777cd41e` | Completed ✅ |
-| [`zenml-io/agent-benchmarks`](https://github.com/zenml-io/agent-benchmarks) | `d971fbe6` | Completed ✅ |
-| [`zenml-io/vscode-zenml`](https://github.com/zenml-io/vscode-zenml) | `e43dcca1` | Completed ✅ |
-| [`zenml-io/zenml-bench`](https://github.com/zenml-io/zenml-bench) | `3a5c89b2` | Completed ✅ |
+| [`zenml-io/kitaru-workshop`](https://github.com/zenml-io/kitaru-workshop) | `92dfd17a` | Completed ✅ |
+| [`zenml-io/zenml-projects`](https://github.com/zenml-io/zenml-projects) | `544862bd` | Completed ✅ |
+| [`zenml-io/zenml-product-engineer-challenge`](https://github.com/zenml-io/zenml-product-engineer-challenge) | `ae6d7799` | Completed ✅ |
+| [`zenml-io/deep-research`](https://github.com/zenml-io/deep-research) | `b98b6c0a` | Completed ✅ |
+| [`zenml-io/zenml-platform-engineer-challenge`](https://github.com/zenml-io/zenml-platform-engineer-challenge) | `d419c3f1` | Completed ✅ |
+| [`zenml-io/zenml-enterprise-mlops`](https://github.com/zenml-io/zenml-enterprise-mlops) | `6c13ccf0` | Completed ✅ |
+| [`zenml-io/zenml-solution-engineering-challenge`](https://github.com/zenml-io/zenml-solution-engineering-challenge) | `86152e0e` | Completed ✅ |
+| [`zenml-io/rust-pipeline`](https://github.com/zenml-io/rust-pipeline) | `c7e8ed50` | Completed ✅ |
+| [`zenml-io/template-starter`](https://github.com/zenml-io/template-starter) | `3cdcd74d` | Completed ✅ |
+| [`zenml-io/zenml-gitflow`](https://github.com/zenml-io/zenml-gitflow) | `9d832d02` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
