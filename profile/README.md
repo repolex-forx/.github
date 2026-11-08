@@ -33,21 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,487**
+- **Total Indexed Repositories**: **4,497**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`modal-labs/parallel-evals-workshop`](https://github.com/modal-labs/parallel-evals-workshop) | `e1bd3047` | Completed ✅ |
-| [`modal-labs/overeasy`](https://github.com/modal-labs/overeasy) | `85885c6c` | Completed ✅ |
-| [`bokeh/bokeh_sampledata`](https://github.com/bokeh/bokeh_sampledata) | `c0ccb5fa` | Completed ✅ |
-| [`bokeh/discourse.bokeh.org`](https://github.com/bokeh/discourse.bokeh.org) | `c88b5cf4` | Completed ✅ |
-| [`scverse/rapids-singlecell`](https://github.com/scverse/rapids-singlecell) | `a948cc20` | Completed ✅ |
-| [`scverse/gatac`](https://github.com/scverse/gatac) | `87575e86` | Completed ✅ |
-| [`scverse/gatac-reproducibility`](https://github.com/scverse/gatac-reproducibility) | `834b0bf8` | Completed ✅ |
-| [`scverse/zarr-kvikio`](https://github.com/scverse/zarr-kvikio) | `d10d27a7` | Completed ✅ |
+| [`canonical/pollen-operator`](https://github.com/canonical/pollen-operator) | `f62eef4f` | Completed ✅ |
+| [`canonical/tmate-ssh-server-operator`](https://github.com/canonical/tmate-ssh-server-operator) | `7fedfcfb` | Completed ✅ |
+| [`canonical/wordpress-k8s-operator`](https://github.com/canonical/wordpress-k8s-operator) | `b93fa19e` | Completed ✅ |
+| [`canonical/cn.ubuntu.com`](https://github.com/canonical/cn.ubuntu.com) | `fa84caa7` | Completed ✅ |
+| [`canonical/postgresql-k8s-operator`](https://github.com/canonical/postgresql-k8s-operator) | `b682ac1b` | Completed ✅ |
+| [`canonical/mysql-router-operators`](https://github.com/canonical/mysql-router-operators) | `5dd83236` | Completed ✅ |
+| [`canonical/pgbouncer-operator`](https://github.com/canonical/pgbouncer-operator) | `68d38442` | Completed ✅ |
+| [`canonical/prometheus-k8s-operator`](https://github.com/canonical/prometheus-k8s-operator) | `6e45243f` | Completed ✅ |
+| [`canonical/wazuh-server-operator`](https://github.com/canonical/wazuh-server-operator) | `61c27ce6` | Completed ✅ |
+| [`canonical/indico-operator`](https://github.com/canonical/indico-operator) | `9bc81f9c` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
