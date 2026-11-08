@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,631**
+- **Total Indexed Repositories**: **4,641**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`allenai/asta-theorizer`](https://github.com/allenai/asta-theorizer) | `c4802aa9` | Completed ✅ |
-| [`UKPLab/emnlp2026-claim-flow`](https://github.com/UKPLab/emnlp2026-claim-flow) | `181e5778` | Completed ✅ |
-| [`UKPLab/eacl2026-GritHopper`](https://github.com/UKPLab/eacl2026-GritHopper) | `e1c89abc` | Completed ✅ |
-| [`UKPLab/PeerQA`](https://github.com/UKPLab/PeerQA) | `d6d4170a` | Completed ✅ |
-| [`UKPLab/arxiv2026-hierarchical-latent-structures`](https://github.com/UKPLab/arxiv2026-hierarchical-latent-structures) | `ce7bc085` | Completed ✅ |
-| [`UKPLab/naacl2019-argument-annotations`](https://github.com/UKPLab/naacl2019-argument-annotations) | `67dfa69e` | Completed ✅ |
-| [`google-deepmind/multiscope`](https://github.com/google-deepmind/multiscope) | `ea9bc902` | Completed ✅ |
-| [`google-deepmind/tf2jax`](https://github.com/google-deepmind/tf2jax) | `11046e58` | Completed ✅ |
-| [`google-deepmind/mishax`](https://github.com/google-deepmind/mishax) | `1547dfc2` | Completed ✅ |
-| [`google-deepmind/gbench`](https://github.com/google-deepmind/gbench) | `d3e42831` | Completed ✅ |
+| [`google-deepmind/cryptids`](https://github.com/google-deepmind/cryptids) | `1f9ffee2` | Completed ✅ |
+| [`google-deepmind/mujoco_warp`](https://github.com/google-deepmind/mujoco_warp) | `4d1c64bc` | Completed ✅ |
+| [`google-deepmind/mujoco_playground`](https://github.com/google-deepmind/mujoco_playground) | `24a07134` | Completed ✅ |
+| [`UKPLab/CARE`](https://github.com/UKPLab/CARE) | `b46d9a4b` | Completed ✅ |
+| [`UKPLab/murano`](https://github.com/UKPLab/murano) | `f5a958b4` | Completed ✅ |
+| [`UKPLab/GroundInc`](https://github.com/UKPLab/GroundInc) | `d0b0f201` | Completed ✅ |
+| [`scverse/zarr-convention-dataframe`](https://github.com/scverse/zarr-convention-dataframe) | `0a4bb801` | Completed ✅ |
+| [`scverse/spatialdata-spec`](https://github.com/scverse/spatialdata-spec) | `f4e4fb41` | Completed ✅ |
+| [`NousResearch/hermes-official-plugins`](https://github.com/NousResearch/hermes-official-plugins) | `13b2c1c9` | Completed ✅ |
+| [`NousResearch/hermes-toolperf-evals`](https://github.com/NousResearch/hermes-toolperf-evals) | `4e13ec24` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
