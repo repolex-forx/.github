@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,507**
+- **Total Indexed Repositories**: **4,517**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`canonical/penpot-operator`](https://github.com/canonical/penpot-operator) | `bc092888` | Completed ✅ |
-| [`canonical/jenkins-k8s-operator`](https://github.com/canonical/jenkins-k8s-operator) | `bae70e43` | Completed ✅ |
-| [`canonical/hockeypuck-k8s-operator`](https://github.com/canonical/hockeypuck-k8s-operator) | `dba7df50` | Completed ✅ |
-| [`canonical/maubot-operator`](https://github.com/canonical/maubot-operator) | `0242cf19` | Completed ✅ |
-| [`canonical/synapse-operator`](https://github.com/canonical/synapse-operator) | `97e2d8dc` | Completed ✅ |
-| [`canonical/mattermost-k8s-operator`](https://github.com/canonical/mattermost-k8s-operator) | `8711e2a7` | Completed ✅ |
-| [`canonical/discourse-k8s-operator`](https://github.com/canonical/discourse-k8s-operator) | `d351212f` | Completed ✅ |
-| [`canonical/nginx-ingress-integrator-operator`](https://github.com/canonical/nginx-ingress-integrator-operator) | `4d73fd27` | Completed ✅ |
-| [`canonical/mysql-operators`](https://github.com/canonical/mysql-operators) | `268e6159` | Completed ✅ |
-| [`canonical/haproxy-operator`](https://github.com/canonical/haproxy-operator) | `df7db2c3` | Completed ✅ |
+| [`zenml-io/zenml`](https://github.com/zenml-io/zenml) | `2babcd8c` | Completed ✅ |
+| [`zenml-io/kitaru`](https://github.com/zenml-io/kitaru) | `9b33e757` | Completed ✅ |
+| [`zenml-io/mcp-zenml`](https://github.com/zenml-io/mcp-zenml) | `3de0643d` | Completed ✅ |
+| [`zenml-io/zenml-changelog`](https://github.com/zenml-io/zenml-changelog) | `fc98ce9c` | Completed ✅ |
+| [`zenml-io/zenml-io-v2`](https://github.com/zenml-io/zenml-io-v2) | `c8371c37` | Completed ✅ |
+| [`zenml-io/gpudoctor`](https://github.com/zenml-io/gpudoctor) | `858554cd` | Completed ✅ |
+| [`zenml-io/kitaru-skills`](https://github.com/zenml-io/kitaru-skills) | `777cd41e` | Completed ✅ |
+| [`zenml-io/agent-benchmarks`](https://github.com/zenml-io/agent-benchmarks) | `d971fbe6` | Completed ✅ |
+| [`zenml-io/vscode-zenml`](https://github.com/zenml-io/vscode-zenml) | `e43dcca1` | Completed ✅ |
+| [`zenml-io/zenml-bench`](https://github.com/zenml-io/zenml-bench) | `3a5c89b2` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
