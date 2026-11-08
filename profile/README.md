@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,601**
+- **Total Indexed Repositories**: **4,611**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`google-deepmind/treescope`](https://github.com/google-deepmind/treescope) | `7a9f0e82` | Completed ✅ |
-| [`google-deepmind/dm_pix`](https://github.com/google-deepmind/dm_pix) | `7abc22eb` | Completed ✅ |
-| [`google-deepmind/agentic_ecology`](https://github.com/google-deepmind/agentic_ecology) | `15d21654` | Completed ✅ |
-| [`google-deepmind/reaf`](https://github.com/google-deepmind/reaf) | `159ec838` | Completed ✅ |
-| [`google-deepmind/pluralistic_agents`](https://github.com/google-deepmind/pluralistic_agents) | `35d332f9` | Completed ✅ |
-| [`google-deepmind/videoprism`](https://github.com/google-deepmind/videoprism) | `4f831e33` | Completed ✅ |
-| [`google-deepmind/iris`](https://github.com/google-deepmind/iris) | `f98f9f75` | Completed ✅ |
-| [`google-deepmind/amplio`](https://github.com/google-deepmind/amplio) | `5476089b` | Completed ✅ |
-| [`predibase/json-mode-benchmark`](https://github.com/predibase/json-mode-benchmark) | `01fe4708` | Completed ✅ |
-| [`mosaicml/streaming`](https://github.com/mosaicml/streaming) | `1381ca12` | Completed ✅ |
+| [`modal-labs/vhost`](https://github.com/modal-labs/vhost) | `e50f1d8a` | Completed ✅ |
+| [`modal-labs/vprox`](https://github.com/modal-labs/vprox) | `4d5a397c` | Completed ✅ |
+| [`cohere-ai/melody`](https://github.com/cohere-ai/melody) | `92b4073b` | Completed ✅ |
+| [`cohere-ai/htn-2026-multi-agent-demo`](https://github.com/cohere-ai/htn-2026-multi-agent-demo) | `fd5c16c4` | Completed ✅ |
+| [`cohere-ai/cvm-measure`](https://github.com/cohere-ai/cvm-measure) | `4f1303e2` | Completed ✅ |
+| [`cohere-ai/cohere-megakernel`](https://github.com/cohere-ai/cohere-megakernel) | `67d0b9ca` | Completed ✅ |
+| [`cohere-ai/north-mcp-python-sdk`](https://github.com/cohere-ai/north-mcp-python-sdk) | `06948969` | Completed ✅ |
+| [`cohere-ai/vllm-skills`](https://github.com/cohere-ai/vllm-skills) | `2a9ed1ff` | Completed ✅ |
+| [`explosion/ellf-templates`](https://github.com/explosion/ellf-templates) | `da035be1` | Completed ✅ |
+| [`google-deepmind/reaf-sim`](https://github.com/google-deepmind/reaf-sim) | `80aa17f7` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
