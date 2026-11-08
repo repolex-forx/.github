@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,641**
+- **Total Indexed Repositories**: **4,651**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`google-deepmind/cryptids`](https://github.com/google-deepmind/cryptids) | `1f9ffee2` | Completed ✅ |
-| [`google-deepmind/mujoco_warp`](https://github.com/google-deepmind/mujoco_warp) | `4d1c64bc` | Completed ✅ |
-| [`google-deepmind/mujoco_playground`](https://github.com/google-deepmind/mujoco_playground) | `24a07134` | Completed ✅ |
-| [`UKPLab/CARE`](https://github.com/UKPLab/CARE) | `b46d9a4b` | Completed ✅ |
-| [`UKPLab/murano`](https://github.com/UKPLab/murano) | `f5a958b4` | Completed ✅ |
-| [`UKPLab/GroundInc`](https://github.com/UKPLab/GroundInc) | `d0b0f201` | Completed ✅ |
-| [`scverse/zarr-convention-dataframe`](https://github.com/scverse/zarr-convention-dataframe) | `0a4bb801` | Completed ✅ |
-| [`scverse/spatialdata-spec`](https://github.com/scverse/spatialdata-spec) | `f4e4fb41` | Completed ✅ |
-| [`NousResearch/hermes-official-plugins`](https://github.com/NousResearch/hermes-official-plugins) | `13b2c1c9` | Completed ✅ |
-| [`NousResearch/hermes-toolperf-evals`](https://github.com/NousResearch/hermes-toolperf-evals) | `4e13ec24` | Completed ✅ |
+| [`UKPLab/scicoqa`](https://github.com/UKPLab/scicoqa) | `46316290` | Completed ✅ |
+| [`UKPLab/arxiv2026-mic`](https://github.com/UKPLab/arxiv2026-mic) | `53ae2d45` | Completed ✅ |
+| [`UKPLab/acl2026-misviz`](https://github.com/UKPLab/acl2026-misviz) | `6a6612b4` | Completed ✅ |
+| [`UKPLab/acl2025-rupta`](https://github.com/UKPLab/acl2025-rupta) | `6fe68085` | Completed ✅ |
+| [`UKPLab/emnlp2026-magnet`](https://github.com/UKPLab/emnlp2026-magnet) | `4030e4e5` | Completed ✅ |
+| [`argilla-io/active-learning-with-rubrix`](https://github.com/argilla-io/active-learning-with-rubrix) | `ef7f7ac2` | Completed ✅ |
+| [`argilla-io/coset`](https://github.com/argilla-io/coset) | `f7e56e79` | Completed ✅ |
+| [`deepset-ai/haystack-home`](https://github.com/deepset-ai/haystack-home) | `f7981485` | Completed ✅ |
+| [`bentoml/chatgpt-lite`](https://github.com/bentoml/chatgpt-lite) | `e4b4d641` | Completed ✅ |
+| [`modal-labs/deven-martian-sentry`](https://github.com/modal-labs/deven-martian-sentry) | `2f1e6fe2` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
