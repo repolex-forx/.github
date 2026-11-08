@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,571**
+- **Total Indexed Repositories**: **4,581**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`mne-tools/mne-installers`](https://github.com/mne-tools/mne-installers) | `cc232046` | Completed ✅ |
-| [`mne-tools/mne-rsa`](https://github.com/mne-tools/mne-rsa) | `808ff4bb` | Completed ✅ |
-| [`mne-tools/mne-qt-browser`](https://github.com/mne-tools/mne-qt-browser) | `766a1bb9` | Completed ✅ |
-| [`nipy/heudiconv`](https://github.com/nipy/heudiconv) | `fb8161b6` | Completed ✅ |
-| [`nipy/nitime`](https://github.com/nipy/nitime) | `a014ce0a` | Completed ✅ |
-| [`modal-labs/llm-voice-chat`](https://github.com/modal-labs/llm-voice-chat) | `43f75329` | Completed ✅ |
-| [`modal-labs/pytest-markdown-docs`](https://github.com/modal-labs/pytest-markdown-docs) | `a11a013c` | Completed ✅ |
-| [`modal-labs/synchronicity`](https://github.com/modal-labs/synchronicity) | `452d8753` | Completed ✅ |
-| [`modal-labs/modal-openai`](https://github.com/modal-labs/modal-openai) | `b72516cb` | Completed ✅ |
-| [`modal-labs/modal-devin`](https://github.com/modal-labs/modal-devin) | `d6753c40` | Completed ✅ |
+| [`NousResearch/hermes-labs-plugins`](https://github.com/NousResearch/hermes-labs-plugins) | `51ede1f0` | Completed ✅ |
+| [`NousResearch/hermes-collective-wisdom`](https://github.com/NousResearch/hermes-collective-wisdom) | `c443c14d` | Completed ✅ |
+| [`NousResearch/hermes-plugin-solstice`](https://github.com/NousResearch/hermes-plugin-solstice) | `fecdeb10` | Completed ✅ |
+| [`allenai/decon`](https://github.com/allenai/decon) | `4cdcc569` | Completed ✅ |
+| [`allenai/duplodocus`](https://github.com/allenai/duplodocus) | `02cf2f74` | Completed ✅ |
+| [`UKPLab/emnlp2026-core-t`](https://github.com/UKPLab/emnlp2026-core-t) | `93b7f01e` | Completed ✅ |
+| [`UKPLab/arxiv2026-ProReviewer`](https://github.com/UKPLab/arxiv2026-ProReviewer) | `9aa7bc45` | Completed ✅ |
+| [`UKPLab/awesome-misleading-visualizations`](https://github.com/UKPLab/awesome-misleading-visualizations) | `a203de98` | Completed ✅ |
+| [`UKPLab/acl2025-modular-sentence-encoders`](https://github.com/UKPLab/acl2025-modular-sentence-encoders) | `2c73b307` | Completed ✅ |
+| [`UKPLab/emnlp2026-zoom-in`](https://github.com/UKPLab/emnlp2026-zoom-in) | `0e68db59` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
