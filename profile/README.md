@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,439**
+- **Total Indexed Repositories**: **4,449**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`argilla-io/synthetic-data-generator`](https://github.com/argilla-io/synthetic-data-generator) | `771d5d78` | Completed ✅ |
-| [`argilla-io/mlflow-inference`](https://github.com/argilla-io/mlflow-inference) | `83aa0246` | Completed ✅ |
-| [`argilla-io/spacy-wordnet`](https://github.com/argilla-io/spacy-wordnet) | `fddfb6f1` | Completed ✅ |
-| [`argilla-io/selectra`](https://github.com/argilla-io/selectra) | `e903cce1` | Completed ✅ |
-| [`argilla-io/services`](https://github.com/argilla-io/services) | `16b0c95c` | Completed ✅ |
-| [`argilla-io/argilla-haystack`](https://github.com/argilla-io/argilla-haystack) | `358f4294` | Completed ✅ |
-| [`argilla-io/open-human-feedback-chat`](https://github.com/argilla-io/open-human-feedback-chat) | `d8dddd15` | Completed ✅ |
-| [`argilla-io/argilla-llama-index`](https://github.com/argilla-io/argilla-llama-index) | `7bd3aaae` | Completed ✅ |
-| [`argilla-io/argilla-hf-dataset-sync`](https://github.com/argilla-io/argilla-hf-dataset-sync) | `8fd06190` | Completed ✅ |
-| [`argilla-io/dataset-cron-refresh`](https://github.com/argilla-io/dataset-cron-refresh) | `b8b61ad2` | Completed ✅ |
+| [`argilla-io/argilla-direct-poc`](https://github.com/argilla-io/argilla-direct-poc) | `72c97abc` | Completed ✅ |
+| [`deepset-ai/haystack-core-integrations`](https://github.com/deepset-ai/haystack-core-integrations) | `d88734f7` | Completed ✅ |
+| [`deepset-ai/haystack-integrations`](https://github.com/deepset-ai/haystack-integrations) | `d96d7d38` | Completed ✅ |
+| [`deepset-ai/haystack`](https://github.com/deepset-ai/haystack) | `0ad74747` | Completed ✅ |
+| [`deepset-ai/deepset-mcp-server`](https://github.com/deepset-ai/deepset-mcp-server) | `af059c05` | Completed ✅ |
+| [`deepset-ai/haystack-enterprise-sdk`](https://github.com/deepset-ai/haystack-enterprise-sdk) | `ba7c53bf` | Completed ✅ |
+| [`deepset-ai/hayhooks`](https://github.com/deepset-ai/hayhooks) | `3c574973` | Completed ✅ |
+| [`deepset-ai/evolve-within-bounds`](https://github.com/deepset-ai/evolve-within-bounds) | `4a7c23ac` | Completed ✅ |
+| [`deepset-ai/hacknight`](https://github.com/deepset-ai/hacknight) | `f4f62a2e` | Completed ✅ |
+| [`deepset-ai/fastapi-openai-compat`](https://github.com/deepset-ai/fastapi-openai-compat) | `e8069f3f` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
