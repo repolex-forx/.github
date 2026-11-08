@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,581**
+- **Total Indexed Repositories**: **4,591**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`NousResearch/hermes-labs-plugins`](https://github.com/NousResearch/hermes-labs-plugins) | `51ede1f0` | Completed ✅ |
-| [`NousResearch/hermes-collective-wisdom`](https://github.com/NousResearch/hermes-collective-wisdom) | `c443c14d` | Completed ✅ |
-| [`NousResearch/hermes-plugin-solstice`](https://github.com/NousResearch/hermes-plugin-solstice) | `fecdeb10` | Completed ✅ |
-| [`allenai/decon`](https://github.com/allenai/decon) | `4cdcc569` | Completed ✅ |
-| [`allenai/duplodocus`](https://github.com/allenai/duplodocus) | `02cf2f74` | Completed ✅ |
-| [`UKPLab/emnlp2026-core-t`](https://github.com/UKPLab/emnlp2026-core-t) | `93b7f01e` | Completed ✅ |
-| [`UKPLab/arxiv2026-ProReviewer`](https://github.com/UKPLab/arxiv2026-ProReviewer) | `9aa7bc45` | Completed ✅ |
-| [`UKPLab/awesome-misleading-visualizations`](https://github.com/UKPLab/awesome-misleading-visualizations) | `a203de98` | Completed ✅ |
-| [`UKPLab/acl2025-modular-sentence-encoders`](https://github.com/UKPLab/acl2025-modular-sentence-encoders) | `2c73b307` | Completed ✅ |
-| [`UKPLab/emnlp2026-zoom-in`](https://github.com/UKPLab/emnlp2026-zoom-in) | `0e68db59` | Completed ✅ |
+| [`UKPLab/emnlp2026-reviewfeedbackagent`](https://github.com/UKPLab/emnlp2026-reviewfeedbackagent) | `847fcb70` | Completed ✅ |
+| [`UKPLab/emnlp2026-review-quality-estimation`](https://github.com/UKPLab/emnlp2026-review-quality-estimation) | `e434df47` | Completed ✅ |
+| [`UKPLab/Anonymous-Recursive-Dense-Retrieval`](https://github.com/UKPLab/Anonymous-Recursive-Dense-Retrieval) | `e7f40408` | Completed ✅ |
+| [`UKPLab/arxiv2026-prefertripplan`](https://github.com/UKPLab/arxiv2026-prefertripplan) | `d4b7f0cf` | Completed ✅ |
+| [`UKPLab/emnlp2026-graph2counsel`](https://github.com/UKPLab/emnlp2026-graph2counsel) | `698b8cba` | Completed ✅ |
+| [`UKPLab/emnlp2026-private-reasoning`](https://github.com/UKPLab/emnlp2026-private-reasoning) | `09c42f9f` | Completed ✅ |
+| [`UKPLab/acl2026-instruction-vectors`](https://github.com/UKPLab/acl2026-instruction-vectors) | `fd390c7b` | Completed ✅ |
+| [`stanford-crfm/fmti`](https://github.com/stanford-crfm/fmti) | `f4500c5f` | Completed ✅ |
+| [`stanford-crfm/ecosystem-graphs`](https://github.com/stanford-crfm/ecosystem-graphs) | `576655a5` | Completed ✅ |
+| [`stanford-crfm/EUAIActJune15`](https://github.com/stanford-crfm/EUAIActJune15) | `2adeb78e` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
