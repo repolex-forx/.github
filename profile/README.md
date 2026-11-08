@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,661**
+- **Total Indexed Repositories**: **4,671**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`PrefectHQ/prefect-operator`](https://github.com/PrefectHQ/prefect-operator) | `a8ab74c3` | Completed ✅ |
-| [`PrefectHQ/prefect-helm`](https://github.com/PrefectHQ/prefect-helm) | `84e22f66` | Completed ✅ |
-| [`PrefectHQ/fastmcp-ts`](https://github.com/PrefectHQ/fastmcp-ts) | `daaf443f` | Completed ✅ |
-| [`bentoml/yatai-deployment`](https://github.com/bentoml/yatai-deployment) | `60877e2d` | Completed ✅ |
-| [`bentoml/helm-charts`](https://github.com/bentoml/helm-charts) | `34abbcb4` | Completed ✅ |
-| [`deepset-ai/n8n-nodes-haystack-enterprise`](https://github.com/deepset-ai/n8n-nodes-haystack-enterprise) | `c680d36e` | Completed ✅ |
-| [`deepset-ai/n8n-nodes-haystack-enterprise-mcp`](https://github.com/deepset-ai/n8n-nodes-haystack-enterprise-mcp) | `8abb74b3` | Completed ✅ |
-| [`argilla-io/python-elasticsearch-runner`](https://github.com/argilla-io/python-elasticsearch-runner) | `5a6537c5` | Completed ✅ |
-| [`modal-labs/OSWorld`](https://github.com/modal-labs/OSWorld) | `b138d348` | Completed ✅ |
-| [`modal-labs/pingora`](https://github.com/modal-labs/pingora) | `82342e13` | Completed ✅ |
+| [`UKPLab/FEGA`](https://github.com/UKPLab/FEGA) | `c4938c33` | Completed ✅ |
+| [`UKPLab/M4FC`](https://github.com/UKPLab/M4FC) | `185dcd9c` | Completed ✅ |
+| [`UKPLab/supervised-multidimensional-scaling`](https://github.com/UKPLab/supervised-multidimensional-scaling) | `272f3acc` | Completed ✅ |
+| [`UKPLab/arxiv2026-aitdna`](https://github.com/UKPLab/arxiv2026-aitdna) | `28e37766` | Completed ✅ |
+| [`UKPLab/arXiv2026-uncertainty-aware`](https://github.com/UKPLab/arXiv2026-uncertainty-aware) | `ab400614` | Completed ✅ |
+| [`UKPLab/icml2026-svrg-and-beyond`](https://github.com/UKPLab/icml2026-svrg-and-beyond) | `ae0fc095` | Completed ✅ |
+| [`UKPLab/emnlp2026-agentcibench`](https://github.com/UKPLab/emnlp2026-agentcibench) | `7b3fad42` | Completed ✅ |
+| [`UKPLab/acl2026-expert-rm`](https://github.com/UKPLab/acl2026-expert-rm) | `65bcee55` | Completed ✅ |
+| [`UKPLab/arxiv2026-co-fact-checker`](https://github.com/UKPLab/arxiv2026-co-fact-checker) | `00a2dda0` | Completed ✅ |
+| [`UKPLab/semeval26_valence_arousal_from_text`](https://github.com/UKPLab/semeval26_valence_arousal_from_text) | `e1a4440a` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
