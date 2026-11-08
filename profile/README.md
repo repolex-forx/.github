@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,419**
+- **Total Indexed Repositories**: **4,429**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`langchain-ai/paid-media-agent`](https://github.com/langchain-ai/paid-media-agent) | `3cd7a0e0` | Completed ✅ |
-| [`langchain-ai/langchain-mongodb`](https://github.com/langchain-ai/langchain-mongodb) | `3cad5ec4` | Completed ✅ |
-| [`langchain-ai/langchain-google`](https://github.com/langchain-ai/langchain-google) | `4d0b2142` | Completed ✅ |
-| [`langchain-ai/langchain-cohere`](https://github.com/langchain-ai/langchain-cohere) | `28e67ec8` | Completed ✅ |
-| [`langchain-ai/fleet-deepagents-export`](https://github.com/langchain-ai/fleet-deepagents-export) | `9fb264ca` | Completed ✅ |
-| [`langchain-ai/langchain-litellm`](https://github.com/langchain-ai/langchain-litellm) | `77cacd9a` | Completed ✅ |
-| [`langchain-ai/gen-ui-workflow`](https://github.com/langchain-ai/gen-ui-workflow) | `addec0c5` | Completed ✅ |
-| [`langchain-ai/new-langgraph-project`](https://github.com/langchain-ai/new-langgraph-project) | `6d3f4229` | Completed ✅ |
-| [`langchain-ai/open-swe`](https://github.com/langchain-ai/open-swe) | `54be3670` | Completed ✅ |
-| [`langchain-ai/simple-agent-template`](https://github.com/langchain-ai/simple-agent-template) | `bc464b5a` | Completed ✅ |
+| [`run-llama/llama-parse-py`](https://github.com/run-llama/llama-parse-py) | `b0f2e7b5` | Completed ✅ |
+| [`run-llama/llamacloud-admin-python`](https://github.com/run-llama/llamacloud-admin-python) | `7444b53c` | Completed ✅ |
+| [`run-llama/llama_deploy`](https://github.com/run-llama/llama_deploy) | `c0ce080c` | Completed ✅ |
+| [`run-llama/ParseBench`](https://github.com/run-llama/ParseBench) | `f9e58e74` | Completed ✅ |
+| [`run-llama/llama-agents`](https://github.com/run-llama/llama-agents) | `6019e810` | Completed ✅ |
+| [`run-llama/template-workflow-extract-reconcile-invoice`](https://github.com/run-llama/template-workflow-extract-reconcile-invoice) | `74792fc1` | Completed ✅ |
+| [`run-llama/template-workflow-extract-basic`](https://github.com/run-llama/template-workflow-extract-basic) | `b4aad4f8` | Completed ✅ |
+| [`run-llama/template-workflow-classify-extract-sec`](https://github.com/run-llama/template-workflow-classify-extract-sec) | `bc83c573` | Completed ✅ |
+| [`argilla-io/distilabel`](https://github.com/argilla-io/distilabel) | `313fac85` | Completed ✅ |
+| [`argilla-io/argilla`](https://github.com/argilla-io/argilla) | `5338519a` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
