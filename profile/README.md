@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,651**
+- **Total Indexed Repositories**: **4,661**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`UKPLab/scicoqa`](https://github.com/UKPLab/scicoqa) | `46316290` | Completed ✅ |
-| [`UKPLab/arxiv2026-mic`](https://github.com/UKPLab/arxiv2026-mic) | `53ae2d45` | Completed ✅ |
-| [`UKPLab/acl2026-misviz`](https://github.com/UKPLab/acl2026-misviz) | `6a6612b4` | Completed ✅ |
-| [`UKPLab/acl2025-rupta`](https://github.com/UKPLab/acl2025-rupta) | `6fe68085` | Completed ✅ |
-| [`UKPLab/emnlp2026-magnet`](https://github.com/UKPLab/emnlp2026-magnet) | `4030e4e5` | Completed ✅ |
-| [`argilla-io/active-learning-with-rubrix`](https://github.com/argilla-io/active-learning-with-rubrix) | `ef7f7ac2` | Completed ✅ |
-| [`argilla-io/coset`](https://github.com/argilla-io/coset) | `f7e56e79` | Completed ✅ |
-| [`deepset-ai/haystack-home`](https://github.com/deepset-ai/haystack-home) | `f7981485` | Completed ✅ |
-| [`bentoml/chatgpt-lite`](https://github.com/bentoml/chatgpt-lite) | `e4b4d641` | Completed ✅ |
-| [`modal-labs/deven-martian-sentry`](https://github.com/modal-labs/deven-martian-sentry) | `2f1e6fe2` | Completed ✅ |
+| [`PrefectHQ/prefect-operator`](https://github.com/PrefectHQ/prefect-operator) | `a8ab74c3` | Completed ✅ |
+| [`PrefectHQ/prefect-helm`](https://github.com/PrefectHQ/prefect-helm) | `84e22f66` | Completed ✅ |
+| [`PrefectHQ/fastmcp-ts`](https://github.com/PrefectHQ/fastmcp-ts) | `daaf443f` | Completed ✅ |
+| [`bentoml/yatai-deployment`](https://github.com/bentoml/yatai-deployment) | `60877e2d` | Completed ✅ |
+| [`bentoml/helm-charts`](https://github.com/bentoml/helm-charts) | `34abbcb4` | Completed ✅ |
+| [`deepset-ai/n8n-nodes-haystack-enterprise`](https://github.com/deepset-ai/n8n-nodes-haystack-enterprise) | `c680d36e` | Completed ✅ |
+| [`deepset-ai/n8n-nodes-haystack-enterprise-mcp`](https://github.com/deepset-ai/n8n-nodes-haystack-enterprise-mcp) | `8abb74b3` | Completed ✅ |
+| [`argilla-io/python-elasticsearch-runner`](https://github.com/argilla-io/python-elasticsearch-runner) | `5a6537c5` | Completed ✅ |
+| [`modal-labs/OSWorld`](https://github.com/modal-labs/OSWorld) | `b138d348` | Completed ✅ |
+| [`modal-labs/pingora`](https://github.com/modal-labs/pingora) | `82342e13` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
