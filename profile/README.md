@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,469**
+- **Total Indexed Repositories**: **4,479**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`PrefectHQ/colin`](https://github.com/PrefectHQ/colin) | `827969f8` | Completed ✅ |
-| [`bentoml/OpenLLM`](https://github.com/bentoml/OpenLLM) | `200b37fb` | Completed ✅ |
-| [`bentoml/BentoDiffusion`](https://github.com/bentoml/BentoDiffusion) | `41a42d60` | Completed ✅ |
-| [`bentoml/BentoSpacy`](https://github.com/bentoml/BentoSpacy) | `b17cc50f` | Completed ✅ |
-| [`bentoml/Pneumonia-Detection-Demo`](https://github.com/bentoml/Pneumonia-Detection-Demo) | `6e5efd64` | Completed ✅ |
-| [`bentoml/simple_di`](https://github.com/bentoml/simple_di) | `427b7f53` | Completed ✅ |
-| [`bentoml/bentocloud-cicd-example`](https://github.com/bentoml/bentocloud-cicd-example) | `fc2f6060` | Completed ✅ |
-| [`bentoml/BentoCrewAI`](https://github.com/bentoml/BentoCrewAI) | `9ceb8976` | Completed ✅ |
-| [`bentoml/BentoMoshi`](https://github.com/bentoml/BentoMoshi) | `1e7c91fb` | Completed ✅ |
-| [`bentoml/BentoOCR`](https://github.com/bentoml/BentoOCR) | `20c5da0a` | Completed ✅ |
+| [`bentoml/llm-optimizer`](https://github.com/bentoml/llm-optimizer) | `7be87d77` | Completed ✅ |
+| [`bentoml/BentoVLLM`](https://github.com/bentoml/BentoVLLM) | `fbad5d08` | Completed ✅ |
+| [`bentoml/XGBoostDemo`](https://github.com/bentoml/XGBoostDemo) | `27bf18a2` | Completed ✅ |
+| [`modal-labs/modal-examples`](https://github.com/modal-labs/modal-examples) | `a590d8b6` | Completed ✅ |
+| [`modal-labs/pytest-markdown-docs`](https://github.com/modal-labs/pytest-markdown-docs) | `a11a013c` | Completed ✅ |
+| [`modal-labs/synchronicity`](https://github.com/modal-labs/synchronicity) | `452d8753` | Completed ✅ |
+| [`modal-labs/modal-openai`](https://github.com/modal-labs/modal-openai) | `b72516cb` | Completed ✅ |
+| [`modal-labs/modal-devin`](https://github.com/modal-labs/modal-devin) | `d6753c40` | Completed ✅ |
+| [`modal-labs/modal-cursor`](https://github.com/modal-labs/modal-cursor) | `954c0123` | Completed ✅ |
+| [`modal-labs/quillman`](https://github.com/modal-labs/quillman) | `43f75329` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
