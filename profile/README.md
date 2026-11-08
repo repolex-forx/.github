@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,621**
+- **Total Indexed Repositories**: **4,631**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`google-deepmind/fusion_surrogates`](https://github.com/google-deepmind/fusion_surrogates) | `f9266968` | Completed ✅ |
-| [`google-deepmind/tapnet`](https://github.com/google-deepmind/tapnet) | `ceedd60b` | Completed ✅ |
-| [`predibase/lora_bakeoff`](https://github.com/predibase/lora_bakeoff) | `2ac88b95` | Completed ✅ |
-| [`cohere-ai/cohere-security-toolkit`](https://github.com/cohere-ai/cohere-security-toolkit) | `fb385ad2` | Completed ✅ |
-| [`cohere-ai/htn-2025-techtalk`](https://github.com/cohere-ai/htn-2025-techtalk) | `9cbf9068` | Completed ✅ |
-| [`cohere-ai/cohere-go`](https://github.com/cohere-ai/cohere-go) | `63f3b380` | Completed ✅ |
-| [`explosion/gha-cibuildwheel`](https://github.com/explosion/gha-cibuildwheel) | `2ade48ac` | Completed ✅ |
-| [`explosion/cython-blis`](https://github.com/explosion/cython-blis) | `44dd5910` | Completed ✅ |
-| [`explosion/ellf-terraform-cluster`](https://github.com/explosion/ellf-terraform-cluster) | `14633726` | Completed ✅ |
-| [`explosion/ellf-helm-cluster`](https://github.com/explosion/ellf-helm-cluster) | `cafcdd3e` | Completed ✅ |
+| [`allenai/asta-theorizer`](https://github.com/allenai/asta-theorizer) | `c4802aa9` | Completed ✅ |
+| [`UKPLab/emnlp2026-claim-flow`](https://github.com/UKPLab/emnlp2026-claim-flow) | `181e5778` | Completed ✅ |
+| [`UKPLab/eacl2026-GritHopper`](https://github.com/UKPLab/eacl2026-GritHopper) | `e1c89abc` | Completed ✅ |
+| [`UKPLab/PeerQA`](https://github.com/UKPLab/PeerQA) | `d6d4170a` | Completed ✅ |
+| [`UKPLab/arxiv2026-hierarchical-latent-structures`](https://github.com/UKPLab/arxiv2026-hierarchical-latent-structures) | `ce7bc085` | Completed ✅ |
+| [`UKPLab/naacl2019-argument-annotations`](https://github.com/UKPLab/naacl2019-argument-annotations) | `67dfa69e` | Completed ✅ |
+| [`google-deepmind/multiscope`](https://github.com/google-deepmind/multiscope) | `ea9bc902` | Completed ✅ |
+| [`google-deepmind/tf2jax`](https://github.com/google-deepmind/tf2jax) | `11046e58` | Completed ✅ |
+| [`google-deepmind/mishax`](https://github.com/google-deepmind/mishax) | `1547dfc2` | Completed ✅ |
+| [`google-deepmind/gbench`](https://github.com/google-deepmind/gbench) | `d3e42831` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
