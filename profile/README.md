@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,565**
+- **Total Indexed Repositories**: **4,571**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`EleutherAI/polyglot`](https://github.com/EleutherAI/polyglot) | `59238131` | Completed ✅ |
-| [`explosion/spacy-course`](https://github.com/explosion/spacy-course) | `77d8ee16` | Completed ✅ |
-| [`cohere-ai/integritee`](https://github.com/cohere-ai/integritee) | `7a458b3b` | Completed ✅ |
-| [`skypilot-org/airflow-provider-skypilot`](https://github.com/skypilot-org/airflow-provider-skypilot) | `aedad847` | Completed ✅ |
-| [`skypilot-org/new-cloud-skeleton`](https://github.com/skypilot-org/new-cloud-skeleton) | `94409bea` | Completed ✅ |
-| [`skypilot-org/sky-llama`](https://github.com/skypilot-org/sky-llama) | `b2d8e2f0` | Completed ✅ |
-| [`ray-project/travis-tracker-v2`](https://github.com/ray-project/travis-tracker-v2) | `a2e4a6f2` | Completed ✅ |
-| [`ray-project/serve_workloads`](https://github.com/ray-project/serve_workloads) | `9594a6db` | Completed ✅ |
-| [`nipy/nilabels`](https://github.com/nipy/nilabels) | `4a61cd95` | Completed ✅ |
-| [`nipy/PyLocator`](https://github.com/nipy/PyLocator) | `a8561fbd` | Completed ✅ |
+| [`mne-tools/mne-installers`](https://github.com/mne-tools/mne-installers) | `cc232046` | Completed ✅ |
+| [`mne-tools/mne-rsa`](https://github.com/mne-tools/mne-rsa) | `808ff4bb` | Completed ✅ |
+| [`mne-tools/mne-qt-browser`](https://github.com/mne-tools/mne-qt-browser) | `766a1bb9` | Completed ✅ |
+| [`nipy/heudiconv`](https://github.com/nipy/heudiconv) | `fb8161b6` | Completed ✅ |
+| [`nipy/nitime`](https://github.com/nipy/nitime) | `a014ce0a` | Completed ✅ |
+| [`modal-labs/llm-voice-chat`](https://github.com/modal-labs/llm-voice-chat) | `43f75329` | Completed ✅ |
+| [`modal-labs/pytest-markdown-docs`](https://github.com/modal-labs/pytest-markdown-docs) | `a11a013c` | Completed ✅ |
+| [`modal-labs/synchronicity`](https://github.com/modal-labs/synchronicity) | `452d8753` | Completed ✅ |
+| [`modal-labs/modal-openai`](https://github.com/modal-labs/modal-openai) | `b72516cb` | Completed ✅ |
+| [`modal-labs/modal-devin`](https://github.com/modal-labs/modal-devin) | `d6753c40` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
