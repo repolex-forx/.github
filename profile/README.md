@@ -33,23 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,527**
+- **Total Indexed Repositories**: **4,536**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`zenml-io/kitaru-workshop`](https://github.com/zenml-io/kitaru-workshop) | `92dfd17a` | Completed ✅ |
-| [`zenml-io/zenml-projects`](https://github.com/zenml-io/zenml-projects) | `544862bd` | Completed ✅ |
-| [`zenml-io/zenml-product-engineer-challenge`](https://github.com/zenml-io/zenml-product-engineer-challenge) | `ae6d7799` | Completed ✅ |
-| [`zenml-io/deep-research`](https://github.com/zenml-io/deep-research) | `b98b6c0a` | Completed ✅ |
-| [`zenml-io/zenml-platform-engineer-challenge`](https://github.com/zenml-io/zenml-platform-engineer-challenge) | `d419c3f1` | Completed ✅ |
-| [`zenml-io/zenml-enterprise-mlops`](https://github.com/zenml-io/zenml-enterprise-mlops) | `6c13ccf0` | Completed ✅ |
-| [`zenml-io/zenml-solution-engineering-challenge`](https://github.com/zenml-io/zenml-solution-engineering-challenge) | `86152e0e` | Completed ✅ |
-| [`zenml-io/rust-pipeline`](https://github.com/zenml-io/rust-pipeline) | `c7e8ed50` | Completed ✅ |
-| [`zenml-io/template-starter`](https://github.com/zenml-io/template-starter) | `3cdcd74d` | Completed ✅ |
-| [`zenml-io/zenml-gitflow`](https://github.com/zenml-io/zenml-gitflow) | `9d832d02` | Completed ✅ |
+| [`zenml-io/trmnl-zenml`](https://github.com/zenml-io/trmnl-zenml) | `b3460ce1` | Completed ✅ |
+| [`zenml-io/zenml-wrapped`](https://github.com/zenml-io/zenml-wrapped) | `967aeed5` | Completed ✅ |
+| [`zenml-io/template-e2e-batch`](https://github.com/zenml-io/template-e2e-batch) | `b6d727e6` | Completed ✅ |
+| [`zenml-io/zenml-agentic-workshop`](https://github.com/zenml-io/zenml-agentic-workshop) | `259ed015` | Completed ✅ |
+| [`qdrant/migration`](https://github.com/qdrant/migration) | `9256b227` | Completed ✅ |
+| [`qdrant/api-reference`](https://github.com/qdrant/api-reference) | `fae554bd` | Completed ✅ |
+| [`qdrant/skills`](https://github.com/qdrant/skills) | `9f55f6a7` | Completed ✅ |
+| [`qdrant/landing_page`](https://github.com/qdrant/landing_page) | `84bc96c8` | Completed ✅ |
+| [`qdrant/vector-db-benchmark`](https://github.com/qdrant/vector-db-benchmark) | `acedefda` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
