@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,722**
+- **Total Indexed Repositories**: **4,732**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`canonical/cos-configuration-k8s-operator`](https://github.com/canonical/cos-configuration-k8s-operator) | `9364ce7e` | Completed ✅ |
-| [`canonical/cos-proxy-operator`](https://github.com/canonical/cos-proxy-operator) | `621c314d` | Completed ✅ |
-| [`canonical/loki-k8s-operator`](https://github.com/canonical/loki-k8s-operator) | `b26f8963` | Completed ✅ |
-| [`canonical/tempo-k8s-operator`](https://github.com/canonical/tempo-k8s-operator) | `16d9d066` | Completed ✅ |
-| [`canonical/alertmanager-k8s-operator`](https://github.com/canonical/alertmanager-k8s-operator) | `4f77240c` | Completed ✅ |
-| [`canonical/grafana-agent-k8s-operator`](https://github.com/canonical/grafana-agent-k8s-operator) | `1b88dc61` | Completed ✅ |
-| [`canonical/karma-k8s-operator`](https://github.com/canonical/karma-k8s-operator) | `695cabcc` | Completed ✅ |
-| [`canonical/catalogue-k8s-operator`](https://github.com/canonical/catalogue-k8s-operator) | `86343dfa` | Completed ✅ |
-| [`canonical/saml-integrator-operator`](https://github.com/canonical/saml-integrator-operator) | `651358e8` | Completed ✅ |
-| [`canonical/oauth2-proxy-k8s-operator`](https://github.com/canonical/oauth2-proxy-k8s-operator) | `933570c2` | Completed ✅ |
+| [`canonical/hydra-operator`](https://github.com/canonical/hydra-operator) | `da50d480` | Completed ✅ |
+| [`canonical/kratos-operator`](https://github.com/canonical/kratos-operator) | `f68a7740` | Completed ✅ |
+| [`canonical/glauth-k8s-operator`](https://github.com/canonical/glauth-k8s-operator) | `c001d5fd` | Completed ✅ |
+| [`canonical/parca-k8s-operator`](https://github.com/canonical/parca-k8s-operator) | `89fe873c` | Completed ✅ |
+| [`canonical/s3-integrator`](https://github.com/canonical/s3-integrator) | `64daa19f` | Completed ✅ |
+| [`qdrant/qdrant-client`](https://github.com/qdrant/qdrant-client) | `1b5bb858` | Completed ✅ |
+| [`pyg-team/pyg-lib`](https://github.com/pyg-team/pyg-lib) | `d13e2066` | Completed ✅ |
+| [`canonical/postgresql-operator`](https://github.com/canonical/postgresql-operator) | `009abbb6` | Completed ✅ |
+| [`canonical/mysql-router-k8s-operator`](https://github.com/canonical/mysql-router-k8s-operator) | `1a5bea73` | Completed ✅ |
+| [`canonical/opensearch-operator`](https://github.com/canonical/opensearch-operator) | `3148defe` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
