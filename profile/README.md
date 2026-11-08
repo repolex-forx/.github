@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,591**
+- **Total Indexed Repositories**: **4,601**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`UKPLab/emnlp2026-reviewfeedbackagent`](https://github.com/UKPLab/emnlp2026-reviewfeedbackagent) | `847fcb70` | Completed ✅ |
-| [`UKPLab/emnlp2026-review-quality-estimation`](https://github.com/UKPLab/emnlp2026-review-quality-estimation) | `e434df47` | Completed ✅ |
-| [`UKPLab/Anonymous-Recursive-Dense-Retrieval`](https://github.com/UKPLab/Anonymous-Recursive-Dense-Retrieval) | `e7f40408` | Completed ✅ |
-| [`UKPLab/arxiv2026-prefertripplan`](https://github.com/UKPLab/arxiv2026-prefertripplan) | `d4b7f0cf` | Completed ✅ |
-| [`UKPLab/emnlp2026-graph2counsel`](https://github.com/UKPLab/emnlp2026-graph2counsel) | `698b8cba` | Completed ✅ |
-| [`UKPLab/emnlp2026-private-reasoning`](https://github.com/UKPLab/emnlp2026-private-reasoning) | `09c42f9f` | Completed ✅ |
-| [`UKPLab/acl2026-instruction-vectors`](https://github.com/UKPLab/acl2026-instruction-vectors) | `fd390c7b` | Completed ✅ |
-| [`stanford-crfm/fmti`](https://github.com/stanford-crfm/fmti) | `f4500c5f` | Completed ✅ |
-| [`stanford-crfm/ecosystem-graphs`](https://github.com/stanford-crfm/ecosystem-graphs) | `576655a5` | Completed ✅ |
-| [`stanford-crfm/EUAIActJune15`](https://github.com/stanford-crfm/EUAIActJune15) | `2adeb78e` | Completed ✅ |
+| [`google-deepmind/treescope`](https://github.com/google-deepmind/treescope) | `7a9f0e82` | Completed ✅ |
+| [`google-deepmind/dm_pix`](https://github.com/google-deepmind/dm_pix) | `7abc22eb` | Completed ✅ |
+| [`google-deepmind/agentic_ecology`](https://github.com/google-deepmind/agentic_ecology) | `15d21654` | Completed ✅ |
+| [`google-deepmind/reaf`](https://github.com/google-deepmind/reaf) | `159ec838` | Completed ✅ |
+| [`google-deepmind/pluralistic_agents`](https://github.com/google-deepmind/pluralistic_agents) | `35d332f9` | Completed ✅ |
+| [`google-deepmind/videoprism`](https://github.com/google-deepmind/videoprism) | `4f831e33` | Completed ✅ |
+| [`google-deepmind/iris`](https://github.com/google-deepmind/iris) | `f98f9f75` | Completed ✅ |
+| [`google-deepmind/amplio`](https://github.com/google-deepmind/amplio) | `5476089b` | Completed ✅ |
+| [`predibase/json-mode-benchmark`](https://github.com/predibase/json-mode-benchmark) | `01fe4708` | Completed ✅ |
+| [`mosaicml/streaming`](https://github.com/mosaicml/streaming) | `1381ca12` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
