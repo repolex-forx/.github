@@ -33,22 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,751**
+- **Total Indexed Repositories**: **4,760**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`vllm-project/vllm-torchtpu`](https://github.com/vllm-project/vllm-torchtpu) | `b08f10fd` | Completed ✅ |
-| [`vllm-project/vllm-omni`](https://github.com/vllm-project/vllm-omni) | `62876f40` | Completed ✅ |
-| [`vllm-project/vllm-ascend`](https://github.com/vllm-project/vllm-ascend) | `28e9e97b` | Completed ✅ |
-| [`vllm-project/vllm-gaudi`](https://github.com/vllm-project/vllm-gaudi) | `8fe21d1a` | Completed ✅ |
-| [`scverse/scverse.github.io`](https://github.com/scverse/scverse.github.io) | `68262eae` | Completed ✅ |
-| [`allenai/EMO`](https://github.com/allenai/EMO) | `246fdec7` | Completed ✅ |
-| [`allenai/omnigent`](https://github.com/allenai/omnigent) | `7dd85cfd` | Completed ✅ |
-| [`allenai/design`](https://github.com/allenai/design) | `064c76af` | Completed ✅ |
-| [`allenai/scitldr`](https://github.com/allenai/scitldr) | `5ccad9c0` | Completed ✅ |
+| [`UKPLab/Anonymous-LatentGraphRag`](https://github.com/UKPLab/Anonymous-LatentGraphRag) | `6d3fcb4e` | Completed ✅ |
+| [`UKPLab/tmlr2026-phantom-specialization`](https://github.com/UKPLab/tmlr2026-phantom-specialization) | `1db9d331` | Completed ✅ |
+| [`UKPLab/emnlp2026-reground`](https://github.com/UKPLab/emnlp2026-reground) | `36c2942f` | Completed ✅ |
+| [`UKPLab/eacl2026-culturecare`](https://github.com/UKPLab/eacl2026-culturecare) | `ad950b84` | Completed ✅ |
+| [`UKPLab/aaai2026-spare-prm`](https://github.com/UKPLab/aaai2026-spare-prm) | `d1076e02` | Completed ✅ |
+| [`UKPLab/incorporating-relevance`](https://github.com/UKPLab/incorporating-relevance) | `454a5c75` | Completed ✅ |
+| [`UKPLab/eacl2026-meta-review-as-dialog`](https://github.com/UKPLab/eacl2026-meta-review-as-dialog) | `94e80d92` | Completed ✅ |
+| [`UKPLab/tacl2026-counter-review-logic`](https://github.com/UKPLab/tacl2026-counter-review-logic) | `47c8efa7` | Completed ✅ |
+| [`UKPLab/tmlr2026-manifold-analysis`](https://github.com/UKPLab/tmlr2026-manifold-analysis) | `b2ac1d3a` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
