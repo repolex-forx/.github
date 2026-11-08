@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,671**
+- **Total Indexed Repositories**: **4,681**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`UKPLab/FEGA`](https://github.com/UKPLab/FEGA) | `c4938c33` | Completed ✅ |
-| [`UKPLab/M4FC`](https://github.com/UKPLab/M4FC) | `185dcd9c` | Completed ✅ |
-| [`UKPLab/supervised-multidimensional-scaling`](https://github.com/UKPLab/supervised-multidimensional-scaling) | `272f3acc` | Completed ✅ |
-| [`UKPLab/arxiv2026-aitdna`](https://github.com/UKPLab/arxiv2026-aitdna) | `28e37766` | Completed ✅ |
-| [`UKPLab/arXiv2026-uncertainty-aware`](https://github.com/UKPLab/arXiv2026-uncertainty-aware) | `ab400614` | Completed ✅ |
-| [`UKPLab/icml2026-svrg-and-beyond`](https://github.com/UKPLab/icml2026-svrg-and-beyond) | `ae0fc095` | Completed ✅ |
-| [`UKPLab/emnlp2026-agentcibench`](https://github.com/UKPLab/emnlp2026-agentcibench) | `7b3fad42` | Completed ✅ |
-| [`UKPLab/acl2026-expert-rm`](https://github.com/UKPLab/acl2026-expert-rm) | `65bcee55` | Completed ✅ |
-| [`UKPLab/arxiv2026-co-fact-checker`](https://github.com/UKPLab/arxiv2026-co-fact-checker) | `00a2dda0` | Completed ✅ |
-| [`UKPLab/semeval26_valence_arousal_from_text`](https://github.com/UKPLab/semeval26_valence_arousal_from_text) | `e1a4440a` | Completed ✅ |
+| [`UKPLab/nlp-mh-evals`](https://github.com/UKPLab/nlp-mh-evals) | `8930c5e6` | Completed ✅ |
+| [`UKPLab/tacl2026-citation-failure`](https://github.com/UKPLab/tacl2026-citation-failure) | `14fcd764` | Completed ✅ |
+| [`UKPLab/acl2026-misleading-visualizations`](https://github.com/UKPLab/acl2026-misleading-visualizations) | `8ecb6e1f` | Completed ✅ |
+| [`UKPLab/arxiv2025-expert-eval-rw`](https://github.com/UKPLab/arxiv2025-expert-eval-rw) | `c591ebaf` | Completed ✅ |
+| [`UKPLab/acl2019-ctest-difficulty-manipulation`](https://github.com/UKPLab/acl2019-ctest-difficulty-manipulation) | `ce4f368f` | Completed ✅ |
+| [`UKPLab/acl2020-empowering-active-learning`](https://github.com/UKPLab/acl2020-empowering-active-learning) | `13159f2a` | Completed ✅ |
+| [`UKPLab/acl2026-respgen-respeval`](https://github.com/UKPLab/acl2026-respgen-respeval) | `0e1a3cbc` | Completed ✅ |
+| [`UKPLab/acl2026-generating-impact-summaries`](https://github.com/UKPLab/acl2026-generating-impact-summaries) | `2ef0c424` | Completed ✅ |
+| [`google-deepmind/graphcast`](https://github.com/google-deepmind/graphcast) | `f2f2c511` | Completed ✅ |
+| [`scverse/scverse-tutorials`](https://github.com/scverse/scverse-tutorials) | `0e95d8db` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
