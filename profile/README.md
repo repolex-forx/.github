@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,429**
+- **Total Indexed Repositories**: **4,439**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`run-llama/llama-parse-py`](https://github.com/run-llama/llama-parse-py) | `b0f2e7b5` | Completed ✅ |
-| [`run-llama/llamacloud-admin-python`](https://github.com/run-llama/llamacloud-admin-python) | `7444b53c` | Completed ✅ |
-| [`run-llama/llama_deploy`](https://github.com/run-llama/llama_deploy) | `c0ce080c` | Completed ✅ |
-| [`run-llama/ParseBench`](https://github.com/run-llama/ParseBench) | `f9e58e74` | Completed ✅ |
-| [`run-llama/llama-agents`](https://github.com/run-llama/llama-agents) | `6019e810` | Completed ✅ |
-| [`run-llama/template-workflow-extract-reconcile-invoice`](https://github.com/run-llama/template-workflow-extract-reconcile-invoice) | `74792fc1` | Completed ✅ |
-| [`run-llama/template-workflow-extract-basic`](https://github.com/run-llama/template-workflow-extract-basic) | `b4aad4f8` | Completed ✅ |
-| [`run-llama/template-workflow-classify-extract-sec`](https://github.com/run-llama/template-workflow-classify-extract-sec) | `bc83c573` | Completed ✅ |
-| [`argilla-io/distilabel`](https://github.com/argilla-io/distilabel) | `313fac85` | Completed ✅ |
-| [`argilla-io/argilla`](https://github.com/argilla-io/argilla) | `5338519a` | Completed ✅ |
+| [`argilla-io/synthetic-data-generator`](https://github.com/argilla-io/synthetic-data-generator) | `771d5d78` | Completed ✅ |
+| [`argilla-io/mlflow-inference`](https://github.com/argilla-io/mlflow-inference) | `83aa0246` | Completed ✅ |
+| [`argilla-io/spacy-wordnet`](https://github.com/argilla-io/spacy-wordnet) | `fddfb6f1` | Completed ✅ |
+| [`argilla-io/selectra`](https://github.com/argilla-io/selectra) | `e903cce1` | Completed ✅ |
+| [`argilla-io/services`](https://github.com/argilla-io/services) | `16b0c95c` | Completed ✅ |
+| [`argilla-io/argilla-haystack`](https://github.com/argilla-io/argilla-haystack) | `358f4294` | Completed ✅ |
+| [`argilla-io/open-human-feedback-chat`](https://github.com/argilla-io/open-human-feedback-chat) | `d8dddd15` | Completed ✅ |
+| [`argilla-io/argilla-llama-index`](https://github.com/argilla-io/argilla-llama-index) | `7bd3aaae` | Completed ✅ |
+| [`argilla-io/argilla-hf-dataset-sync`](https://github.com/argilla-io/argilla-hf-dataset-sync) | `8fd06190` | Completed ✅ |
+| [`argilla-io/dataset-cron-refresh`](https://github.com/argilla-io/dataset-cron-refresh) | `b8b61ad2` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
