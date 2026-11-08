@@ -33,23 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,681**
+- **Total Indexed Repositories**: **4,690**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`UKPLab/nlp-mh-evals`](https://github.com/UKPLab/nlp-mh-evals) | `8930c5e6` | Completed ✅ |
-| [`UKPLab/tacl2026-citation-failure`](https://github.com/UKPLab/tacl2026-citation-failure) | `14fcd764` | Completed ✅ |
-| [`UKPLab/acl2026-misleading-visualizations`](https://github.com/UKPLab/acl2026-misleading-visualizations) | `8ecb6e1f` | Completed ✅ |
-| [`UKPLab/arxiv2025-expert-eval-rw`](https://github.com/UKPLab/arxiv2025-expert-eval-rw) | `c591ebaf` | Completed ✅ |
-| [`UKPLab/acl2019-ctest-difficulty-manipulation`](https://github.com/UKPLab/acl2019-ctest-difficulty-manipulation) | `ce4f368f` | Completed ✅ |
-| [`UKPLab/acl2020-empowering-active-learning`](https://github.com/UKPLab/acl2020-empowering-active-learning) | `13159f2a` | Completed ✅ |
-| [`UKPLab/acl2026-respgen-respeval`](https://github.com/UKPLab/acl2026-respgen-respeval) | `0e1a3cbc` | Completed ✅ |
-| [`UKPLab/acl2026-generating-impact-summaries`](https://github.com/UKPLab/acl2026-generating-impact-summaries) | `2ef0c424` | Completed ✅ |
-| [`google-deepmind/graphcast`](https://github.com/google-deepmind/graphcast) | `f2f2c511` | Completed ✅ |
-| [`scverse/scverse-tutorials`](https://github.com/scverse/scverse-tutorials) | `0e95d8db` | Completed ✅ |
+| [`scverse/spatialdata-plot`](https://github.com/scverse/spatialdata-plot) | `6c8b76d3` | Completed ✅ |
+| [`scverse/spatialdata-io`](https://github.com/scverse/spatialdata-io) | `95486860` | Completed ✅ |
+| [`canonical/charm-relation-interfaces`](https://github.com/canonical/charm-relation-interfaces) | `4cf84d19` | Completed ✅ |
+| [`canonical/charmcraftcache`](https://github.com/canonical/charmcraftcache) | `b9e5fce8` | Completed ✅ |
+| [`canonical/microk8s-core-addons`](https://github.com/canonical/microk8s-core-addons) | `0f192230` | Completed ✅ |
+| [`canonical/snap-openstack`](https://github.com/canonical/snap-openstack) | `06c3597a` | Completed ✅ |
+| [`canonical/charmed-kubeflow-chisme`](https://github.com/canonical/charmed-kubeflow-chisme) | `a22f1a15` | Completed ✅ |
+| [`canonical/traefik-k8s-operator`](https://github.com/canonical/traefik-k8s-operator) | `51e1593c` | Completed ✅ |
+| [`canonical/vault-k8s-operator`](https://github.com/canonical/vault-k8s-operator) | `1e34b07b` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
