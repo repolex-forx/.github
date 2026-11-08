@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,780**
+- **Total Indexed Repositories**: **4,790**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`UKPLab/gumbel-softmax-layer-skipping-2024`](https://github.com/UKPLab/gumbel-softmax-layer-skipping-2024) | `3f5eb5ce` | Completed ✅ |
-| [`UKPLab/conspired`](https://github.com/UKPLab/conspired) | `7388d896` | Completed ✅ |
-| [`UKPLab/iclr2025-obscura-coder`](https://github.com/UKPLab/iclr2025-obscura-coder) | `e7ae88a7` | Completed ✅ |
-| [`UKPLab/acl2025-con-instruction`](https://github.com/UKPLab/acl2025-con-instruction) | `43124193` | Completed ✅ |
-| [`UKPLab/eacl2026-abcd-link`](https://github.com/UKPLab/eacl2026-abcd-link) | `93296424` | Completed ✅ |
-| [`UKPLab/emnlp2025-aspects-in-reviews`](https://github.com/UKPLab/emnlp2025-aspects-in-reviews) | `39076968` | Completed ✅ |
-| [`UKPLab/emnlp2025-inferact`](https://github.com/UKPLab/emnlp2025-inferact) | `980b72d5` | Completed ✅ |
-| [`UKPLab/argotario`](https://github.com/UKPLab/argotario) | `8f4bbf08` | Completed ✅ |
-| [`UKPLab/qnlpai2025-ham-classifier`](https://github.com/UKPLab/qnlpai2025-ham-classifier) | `40720adc` | Completed ✅ |
-| [`UKPLab/emnlp2025-poate-attack`](https://github.com/UKPLab/emnlp2025-poate-attack) | `010067ef` | Completed ✅ |
+| [`UKPLab/emnlp2025-automatic-error-discovery`](https://github.com/UKPLab/emnlp2025-automatic-error-discovery) | `556dcf1c` | Completed ✅ |
+| [`UKPLab/llm-roleplay`](https://github.com/UKPLab/llm-roleplay) | `92b3950d` | Completed ✅ |
+| [`UKPLab/acl2025-lazy-review`](https://github.com/UKPLab/acl2025-lazy-review) | `08b01465` | Completed ✅ |
+| [`UKPLab/acl25-nlp-contributions`](https://github.com/UKPLab/acl25-nlp-contributions) | `553cdcca` | Completed ✅ |
+| [`UKPLab/acl2025-clca`](https://github.com/UKPLab/acl2025-clca) | `f77a266b` | Completed ✅ |
+| [`UKPLab/naacl2025-missciplus`](https://github.com/UKPLab/naacl2025-missciplus) | `09d51e7c` | Completed ✅ |
+| [`UKPLab/tacl2025-ood-eval-self-rationalization`](https://github.com/UKPLab/tacl2025-ood-eval-self-rationalization) | `ff791547` | Completed ✅ |
+| [`UKPLab/acl2025-diverse-cot`](https://github.com/UKPLab/acl2025-diverse-cot) | `f1fa7e8e` | Completed ✅ |
+| [`UKPLab/clpsych2025-questmf`](https://github.com/UKPLab/clpsych2025-questmf) | `3776a2bb` | Completed ✅ |
+| [`UKPLab/naacl2025-token-weighting`](https://github.com/UKPLab/naacl2025-token-weighting) | `0b244549` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
