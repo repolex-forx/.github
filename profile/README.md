@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,770**
+- **Total Indexed Repositories**: **4,780**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`UKPLab/ukp-project-template`](https://github.com/UKPLab/ukp-project-template) | `0784f169` | Completed ✅ |
-| [`UKPLab/eacl2026-assessing-paper-novelty`](https://github.com/UKPLab/eacl2026-assessing-paper-novelty) | `11887f3f` | Completed ✅ |
-| [`UKPLab/eacl2026-auditing-unlearning`](https://github.com/UKPLab/eacl2026-auditing-unlearning) | `eba33614` | Completed ✅ |
-| [`UKPLab/BrokerIO`](https://github.com/UKPLab/BrokerIO) | `50638fc4` | Completed ✅ |
-| [`UKPLab/naacl2025-cove`](https://github.com/UKPLab/naacl2025-cove) | `4f76e18d` | Completed ✅ |
-| [`UKPLab/5pils`](https://github.com/UKPLab/5pils) | `acf672a2` | Completed ✅ |
-| [`UKPLab/acl2025-stricta`](https://github.com/UKPLab/acl2025-stricta) | `1c74d73f` | Completed ✅ |
-| [`canonical/accountsservice-snap`](https://github.com/canonical/accountsservice-snap) | `333550cf` | Completed ✅ |
-| [`canonical/ubuntu-desktop-session-snap`](https://github.com/canonical/ubuntu-desktop-session-snap) | `f8ff55e5` | Completed ✅ |
-| [`canonical/transition-tracker-operator`](https://github.com/canonical/transition-tracker-operator) | `be0bd9af` | Completed ✅ |
+| [`UKPLab/gumbel-softmax-layer-skipping-2024`](https://github.com/UKPLab/gumbel-softmax-layer-skipping-2024) | `3f5eb5ce` | Completed ✅ |
+| [`UKPLab/conspired`](https://github.com/UKPLab/conspired) | `7388d896` | Completed ✅ |
+| [`UKPLab/iclr2025-obscura-coder`](https://github.com/UKPLab/iclr2025-obscura-coder) | `e7ae88a7` | Completed ✅ |
+| [`UKPLab/acl2025-con-instruction`](https://github.com/UKPLab/acl2025-con-instruction) | `43124193` | Completed ✅ |
+| [`UKPLab/eacl2026-abcd-link`](https://github.com/UKPLab/eacl2026-abcd-link) | `93296424` | Completed ✅ |
+| [`UKPLab/emnlp2025-aspects-in-reviews`](https://github.com/UKPLab/emnlp2025-aspects-in-reviews) | `39076968` | Completed ✅ |
+| [`UKPLab/emnlp2025-inferact`](https://github.com/UKPLab/emnlp2025-inferact) | `980b72d5` | Completed ✅ |
+| [`UKPLab/argotario`](https://github.com/UKPLab/argotario) | `8f4bbf08` | Completed ✅ |
+| [`UKPLab/qnlpai2025-ham-classifier`](https://github.com/UKPLab/qnlpai2025-ham-classifier) | `40720adc` | Completed ✅ |
+| [`UKPLab/emnlp2025-poate-attack`](https://github.com/UKPLab/emnlp2025-poate-attack) | `010067ef` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
