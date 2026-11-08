@@ -33,22 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,760**
+- **Total Indexed Repositories**: **4,770**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`UKPLab/Anonymous-LatentGraphRag`](https://github.com/UKPLab/Anonymous-LatentGraphRag) | `6d3fcb4e` | Completed ✅ |
-| [`UKPLab/tmlr2026-phantom-specialization`](https://github.com/UKPLab/tmlr2026-phantom-specialization) | `1db9d331` | Completed ✅ |
-| [`UKPLab/emnlp2026-reground`](https://github.com/UKPLab/emnlp2026-reground) | `36c2942f` | Completed ✅ |
-| [`UKPLab/eacl2026-culturecare`](https://github.com/UKPLab/eacl2026-culturecare) | `ad950b84` | Completed ✅ |
-| [`UKPLab/aaai2026-spare-prm`](https://github.com/UKPLab/aaai2026-spare-prm) | `d1076e02` | Completed ✅ |
-| [`UKPLab/incorporating-relevance`](https://github.com/UKPLab/incorporating-relevance) | `454a5c75` | Completed ✅ |
-| [`UKPLab/eacl2026-meta-review-as-dialog`](https://github.com/UKPLab/eacl2026-meta-review-as-dialog) | `94e80d92` | Completed ✅ |
-| [`UKPLab/tacl2026-counter-review-logic`](https://github.com/UKPLab/tacl2026-counter-review-logic) | `47c8efa7` | Completed ✅ |
-| [`UKPLab/tmlr2026-manifold-analysis`](https://github.com/UKPLab/tmlr2026-manifold-analysis) | `b2ac1d3a` | Completed ✅ |
+| [`UKPLab/ukp-project-template`](https://github.com/UKPLab/ukp-project-template) | `0784f169` | Completed ✅ |
+| [`UKPLab/eacl2026-assessing-paper-novelty`](https://github.com/UKPLab/eacl2026-assessing-paper-novelty) | `11887f3f` | Completed ✅ |
+| [`UKPLab/eacl2026-auditing-unlearning`](https://github.com/UKPLab/eacl2026-auditing-unlearning) | `eba33614` | Completed ✅ |
+| [`UKPLab/BrokerIO`](https://github.com/UKPLab/BrokerIO) | `50638fc4` | Completed ✅ |
+| [`UKPLab/naacl2025-cove`](https://github.com/UKPLab/naacl2025-cove) | `4f76e18d` | Completed ✅ |
+| [`UKPLab/5pils`](https://github.com/UKPLab/5pils) | `acf672a2` | Completed ✅ |
+| [`UKPLab/acl2025-stricta`](https://github.com/UKPLab/acl2025-stricta) | `1c74d73f` | Completed ✅ |
+| [`canonical/accountsservice-snap`](https://github.com/canonical/accountsservice-snap) | `333550cf` | Completed ✅ |
+| [`canonical/ubuntu-desktop-session-snap`](https://github.com/canonical/ubuntu-desktop-session-snap) | `f8ff55e5` | Completed ✅ |
+| [`canonical/transition-tracker-operator`](https://github.com/canonical/transition-tracker-operator) | `be0bd9af` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
