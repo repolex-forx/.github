@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,389**
+- **Total Indexed Repositories**: **4,399**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`huggingface/safeagents`](https://github.com/huggingface/safeagents) | `0de8e22d` | Completed ✅ |
-| [`huggingface/datatrove`](https://github.com/huggingface/datatrove) | `384d81c0` | Completed ✅ |
-| [`huggingface/serge`](https://github.com/huggingface/serge) | `6668325d` | Completed ✅ |
-| [`huggingface/relore`](https://github.com/huggingface/relore) | `06a1c99c` | Completed ✅ |
-| [`huggingface/Repo2RLEnv`](https://github.com/huggingface/Repo2RLEnv) | `9d8b1557` | Completed ✅ |
-| [`huggingface/jobs-actions`](https://github.com/huggingface/jobs-actions) | `10aa428c` | Completed ✅ |
-| [`huggingface/research-agent`](https://github.com/huggingface/research-agent) | `d840fa46` | Completed ✅ |
-| [`huggingface/pytorch-image-models`](https://github.com/huggingface/pytorch-image-models) | `43b549bf` | Completed ✅ |
-| [`huggingface/hf-serve`](https://github.com/huggingface/hf-serve) | `b3ec9755` | Completed ✅ |
-| [`huggingface/new-model-addition-cwm`](https://github.com/huggingface/new-model-addition-cwm) | `5baf598d` | Completed ✅ |
+| [`huggingface/dell-ai`](https://github.com/huggingface/dell-ai) | `eead83fd` | Completed ✅ |
+| [`huggingface/optimum-habana`](https://github.com/huggingface/optimum-habana) | `65a8255b` | Completed ✅ |
+| [`huggingface/carbon`](https://github.com/huggingface/carbon) | `4ca3ce3e` | Completed ✅ |
+| [`huggingface/skills`](https://github.com/huggingface/skills) | `25910b3d` | Completed ✅ |
+| [`huggingface/pr-search-cli`](https://github.com/huggingface/pr-search-cli) | `3906344c` | Completed ✅ |
+| [`huggingface/lighteval`](https://github.com/huggingface/lighteval) | `b97a6533` | Completed ✅ |
+| [`huggingface/autotrain-advanced`](https://github.com/huggingface/autotrain-advanced) | `552dfe8c` | Completed ✅ |
+| [`huggingface/context-course`](https://github.com/huggingface/context-course) | `e4fefaec` | Completed ✅ |
+| [`huggingface/faceberg`](https://github.com/huggingface/faceberg) | `18e2e0ef` | Completed ✅ |
+| [`pysal/notebooks`](https://github.com/pysal/notebooks) | `55a07304` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
