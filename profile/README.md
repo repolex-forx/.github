@@ -33,23 +33,21 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,479**
+- **Total Indexed Repositories**: **4,487**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`bentoml/llm-optimizer`](https://github.com/bentoml/llm-optimizer) | `7be87d77` | Completed ✅ |
-| [`bentoml/BentoVLLM`](https://github.com/bentoml/BentoVLLM) | `fbad5d08` | Completed ✅ |
-| [`bentoml/XGBoostDemo`](https://github.com/bentoml/XGBoostDemo) | `27bf18a2` | Completed ✅ |
-| [`modal-labs/modal-examples`](https://github.com/modal-labs/modal-examples) | `a590d8b6` | Completed ✅ |
-| [`modal-labs/pytest-markdown-docs`](https://github.com/modal-labs/pytest-markdown-docs) | `a11a013c` | Completed ✅ |
-| [`modal-labs/synchronicity`](https://github.com/modal-labs/synchronicity) | `452d8753` | Completed ✅ |
-| [`modal-labs/modal-openai`](https://github.com/modal-labs/modal-openai) | `b72516cb` | Completed ✅ |
-| [`modal-labs/modal-devin`](https://github.com/modal-labs/modal-devin) | `d6753c40` | Completed ✅ |
-| [`modal-labs/modal-cursor`](https://github.com/modal-labs/modal-cursor) | `954c0123` | Completed ✅ |
-| [`modal-labs/quillman`](https://github.com/modal-labs/quillman) | `43f75329` | Completed ✅ |
+| [`modal-labs/parallel-evals-workshop`](https://github.com/modal-labs/parallel-evals-workshop) | `e1bd3047` | Completed ✅ |
+| [`modal-labs/overeasy`](https://github.com/modal-labs/overeasy) | `85885c6c` | Completed ✅ |
+| [`bokeh/bokeh_sampledata`](https://github.com/bokeh/bokeh_sampledata) | `c0ccb5fa` | Completed ✅ |
+| [`bokeh/discourse.bokeh.org`](https://github.com/bokeh/discourse.bokeh.org) | `c88b5cf4` | Completed ✅ |
+| [`scverse/rapids-singlecell`](https://github.com/scverse/rapids-singlecell) | `a948cc20` | Completed ✅ |
+| [`scverse/gatac`](https://github.com/scverse/gatac) | `87575e86` | Completed ✅ |
+| [`scverse/gatac-reproducibility`](https://github.com/scverse/gatac-reproducibility) | `834b0bf8` | Completed ✅ |
+| [`scverse/zarr-kvikio`](https://github.com/scverse/zarr-kvikio) | `d10d27a7` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
