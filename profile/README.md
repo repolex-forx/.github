@@ -33,22 +33,25 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,690**
+- **Total Indexed Repositories**: **4,702**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`scverse/spatialdata-plot`](https://github.com/scverse/spatialdata-plot) | `6c8b76d3` | Completed ✅ |
-| [`scverse/spatialdata-io`](https://github.com/scverse/spatialdata-io) | `95486860` | Completed ✅ |
-| [`canonical/charm-relation-interfaces`](https://github.com/canonical/charm-relation-interfaces) | `4cf84d19` | Completed ✅ |
-| [`canonical/charmcraftcache`](https://github.com/canonical/charmcraftcache) | `b9e5fce8` | Completed ✅ |
-| [`canonical/microk8s-core-addons`](https://github.com/canonical/microk8s-core-addons) | `0f192230` | Completed ✅ |
-| [`canonical/snap-openstack`](https://github.com/canonical/snap-openstack) | `06c3597a` | Completed ✅ |
-| [`canonical/charmed-kubeflow-chisme`](https://github.com/canonical/charmed-kubeflow-chisme) | `a22f1a15` | Completed ✅ |
-| [`canonical/traefik-k8s-operator`](https://github.com/canonical/traefik-k8s-operator) | `51e1593c` | Completed ✅ |
-| [`canonical/vault-k8s-operator`](https://github.com/canonical/vault-k8s-operator) | `1e34b07b` | Completed ✅ |
+| [`canonical/self-signed-certificates-operator`](https://github.com/canonical/self-signed-certificates-operator) | `782770e0` | Completed ✅ |
+| [`canonical/tls-certificates-operator`](https://github.com/canonical/tls-certificates-operator) | `12f4ccde` | Completed ✅ |
+| [`canonical/sdcore-upf-operator`](https://github.com/canonical/sdcore-upf-operator) | `bfaaa490` | Completed ✅ |
+| [`canonical/sdcore-amf-operator`](https://github.com/canonical/sdcore-amf-operator) | `3646c47b` | Completed ✅ |
+| [`canonical/sdcore-smf-operator`](https://github.com/canonical/sdcore-smf-operator) | `fbd23c36` | Completed ✅ |
+| [`canonical/sdcore-nrf-operator`](https://github.com/canonical/sdcore-nrf-operator) | `09413b5b` | Completed ✅ |
+| [`canonical/sdcore-ausf-operator`](https://github.com/canonical/sdcore-ausf-operator) | `36c38567` | Completed ✅ |
+| [`canonical/sdcore-udr-operator`](https://github.com/canonical/sdcore-udr-operator) | `2405e4e9` | Completed ✅ |
+| [`canonical/sdcore-udm-operator`](https://github.com/canonical/sdcore-udm-operator) | `5b405fc2` | Completed ✅ |
+| [`canonical/sdcore-pcf-operator`](https://github.com/canonical/sdcore-pcf-operator) | `fc84499e` | Completed ✅ |
+| [`canonical/sdcore-nssf-operator`](https://github.com/canonical/sdcore-nssf-operator) | `589823f4` | Completed ✅ |
+| [`canonical/sdcore-webui-operator`](https://github.com/canonical/sdcore-webui-operator) | `46a73493` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
