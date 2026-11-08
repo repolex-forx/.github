@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,497**
+- **Total Indexed Repositories**: **4,507**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`canonical/pollen-operator`](https://github.com/canonical/pollen-operator) | `f62eef4f` | Completed ✅ |
-| [`canonical/tmate-ssh-server-operator`](https://github.com/canonical/tmate-ssh-server-operator) | `7fedfcfb` | Completed ✅ |
-| [`canonical/wordpress-k8s-operator`](https://github.com/canonical/wordpress-k8s-operator) | `b93fa19e` | Completed ✅ |
-| [`canonical/cn.ubuntu.com`](https://github.com/canonical/cn.ubuntu.com) | `fa84caa7` | Completed ✅ |
-| [`canonical/postgresql-k8s-operator`](https://github.com/canonical/postgresql-k8s-operator) | `b682ac1b` | Completed ✅ |
-| [`canonical/mysql-router-operators`](https://github.com/canonical/mysql-router-operators) | `5dd83236` | Completed ✅ |
-| [`canonical/pgbouncer-operator`](https://github.com/canonical/pgbouncer-operator) | `68d38442` | Completed ✅ |
-| [`canonical/prometheus-k8s-operator`](https://github.com/canonical/prometheus-k8s-operator) | `6e45243f` | Completed ✅ |
-| [`canonical/wazuh-server-operator`](https://github.com/canonical/wazuh-server-operator) | `61c27ce6` | Completed ✅ |
-| [`canonical/indico-operator`](https://github.com/canonical/indico-operator) | `9bc81f9c` | Completed ✅ |
+| [`canonical/penpot-operator`](https://github.com/canonical/penpot-operator) | `bc092888` | Completed ✅ |
+| [`canonical/jenkins-k8s-operator`](https://github.com/canonical/jenkins-k8s-operator) | `bae70e43` | Completed ✅ |
+| [`canonical/hockeypuck-k8s-operator`](https://github.com/canonical/hockeypuck-k8s-operator) | `dba7df50` | Completed ✅ |
+| [`canonical/maubot-operator`](https://github.com/canonical/maubot-operator) | `0242cf19` | Completed ✅ |
+| [`canonical/synapse-operator`](https://github.com/canonical/synapse-operator) | `97e2d8dc` | Completed ✅ |
+| [`canonical/mattermost-k8s-operator`](https://github.com/canonical/mattermost-k8s-operator) | `8711e2a7` | Completed ✅ |
+| [`canonical/discourse-k8s-operator`](https://github.com/canonical/discourse-k8s-operator) | `d351212f` | Completed ✅ |
+| [`canonical/nginx-ingress-integrator-operator`](https://github.com/canonical/nginx-ingress-integrator-operator) | `4d73fd27` | Completed ✅ |
+| [`canonical/mysql-operators`](https://github.com/canonical/mysql-operators) | `268e6159` | Completed ✅ |
+| [`canonical/haproxy-operator`](https://github.com/canonical/haproxy-operator) | `df7db2c3` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
