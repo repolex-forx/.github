@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,712**
+- **Total Indexed Repositories**: **4,722**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`canonical/sdcore-gnbsim-operator`](https://github.com/canonical/sdcore-gnbsim-operator) | `95409339` | Completed ✅ |
-| [`canonical/sdcore-nms-operator`](https://github.com/canonical/sdcore-nms-operator) | `a9099d2d` | Completed ✅ |
-| [`canonical/openfga-operator`](https://github.com/canonical/openfga-operator) | `1426008d` | Completed ✅ |
-| [`canonical/data-platform-libs`](https://github.com/canonical/data-platform-libs) | `87e246a5` | Completed ✅ |
-| [`canonical/subiquity`](https://github.com/canonical/subiquity) | `d05694b1` | Completed ✅ |
-| [`canonical/cloud-init`](https://github.com/canonical/cloud-init) | `0d789329` | Completed ✅ |
-| [`canonical/multipass`](https://github.com/canonical/multipass) | `382a0eef` | Completed ✅ |
-| [`canonical/netplan`](https://github.com/canonical/netplan) | `241306a7` | Completed ✅ |
-| [`canonical/mlflow-operator`](https://github.com/canonical/mlflow-operator) | `2a52c6a8` | Completed ✅ |
-| [`canonical/kfp-operators`](https://github.com/canonical/kfp-operators) | `9fbf0ba0` | Completed ✅ |
+| [`canonical/cos-configuration-k8s-operator`](https://github.com/canonical/cos-configuration-k8s-operator) | `9364ce7e` | Completed ✅ |
+| [`canonical/cos-proxy-operator`](https://github.com/canonical/cos-proxy-operator) | `621c314d` | Completed ✅ |
+| [`canonical/loki-k8s-operator`](https://github.com/canonical/loki-k8s-operator) | `b26f8963` | Completed ✅ |
+| [`canonical/tempo-k8s-operator`](https://github.com/canonical/tempo-k8s-operator) | `16d9d066` | Completed ✅ |
+| [`canonical/alertmanager-k8s-operator`](https://github.com/canonical/alertmanager-k8s-operator) | `4f77240c` | Completed ✅ |
+| [`canonical/grafana-agent-k8s-operator`](https://github.com/canonical/grafana-agent-k8s-operator) | `1b88dc61` | Completed ✅ |
+| [`canonical/karma-k8s-operator`](https://github.com/canonical/karma-k8s-operator) | `695cabcc` | Completed ✅ |
+| [`canonical/catalogue-k8s-operator`](https://github.com/canonical/catalogue-k8s-operator) | `86343dfa` | Completed ✅ |
+| [`canonical/saml-integrator-operator`](https://github.com/canonical/saml-integrator-operator) | `651358e8` | Completed ✅ |
+| [`canonical/oauth2-proxy-k8s-operator`](https://github.com/canonical/oauth2-proxy-k8s-operator) | `933570c2` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
