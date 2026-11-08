@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,555**
+- **Total Indexed Repositories**: **4,565**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`deepset-ai/spring-into-haystack`](https://github.com/deepset-ai/spring-into-haystack) | `33743038` | Completed ✅ |
-| [`deepset-ai/dap-github-agent-template`](https://github.com/deepset-ai/dap-github-agent-template) | `0ee0930a` | Completed ✅ |
-| [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) | `405a2fa7` | Completed ✅ |
-| [`vllm-project/compressed-tensors`](https://github.com/vllm-project/compressed-tensors) | `11489fea` | Completed ✅ |
-| [`argilla-io/argilla-server`](https://github.com/argilla-io/argilla-server) | `6130c634` | Completed ✅ |
-| [`PrefectHQ/prefect-recipes`](https://github.com/PrefectHQ/prefect-recipes) | `ebc974b2` | Completed ✅ |
-| [`cohere-ai/notebooks`](https://github.com/cohere-ai/notebooks) | `62cfb71b` | Completed ✅ |
-| [`cohere-ai/sandbox-toy-semantic-search`](https://github.com/cohere-ai/sandbox-toy-semantic-search) | `c27c9174` | Completed ✅ |
-| [`chroma-core/docs`](https://github.com/chroma-core/docs) | `e83a441e` | Completed ✅ |
-| [`EleutherAI/cookbook`](https://github.com/EleutherAI/cookbook) | `827ee3b2` | Completed ✅ |
+| [`EleutherAI/polyglot`](https://github.com/EleutherAI/polyglot) | `59238131` | Completed ✅ |
+| [`explosion/spacy-course`](https://github.com/explosion/spacy-course) | `77d8ee16` | Completed ✅ |
+| [`cohere-ai/integritee`](https://github.com/cohere-ai/integritee) | `7a458b3b` | Completed ✅ |
+| [`skypilot-org/airflow-provider-skypilot`](https://github.com/skypilot-org/airflow-provider-skypilot) | `aedad847` | Completed ✅ |
+| [`skypilot-org/new-cloud-skeleton`](https://github.com/skypilot-org/new-cloud-skeleton) | `94409bea` | Completed ✅ |
+| [`skypilot-org/sky-llama`](https://github.com/skypilot-org/sky-llama) | `b2d8e2f0` | Completed ✅ |
+| [`ray-project/travis-tracker-v2`](https://github.com/ray-project/travis-tracker-v2) | `a2e4a6f2` | Completed ✅ |
+| [`ray-project/serve_workloads`](https://github.com/ray-project/serve_workloads) | `9594a6db` | Completed ✅ |
+| [`nipy/nilabels`](https://github.com/nipy/nilabels) | `4a61cd95` | Completed ✅ |
+| [`nipy/PyLocator`](https://github.com/nipy/PyLocator) | `a8561fbd` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
