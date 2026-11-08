@@ -33,23 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,800**
+- **Total Indexed Repositories**: **4,809**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`UKPLab/acl2024-sparc-and-sparp`](https://github.com/UKPLab/acl2024-sparc-and-sparp) | `b4568a80` | Completed ✅ |
-| [`UKPLab/arxiv2024-constrained-ctest-generation`](https://github.com/UKPLab/arxiv2024-constrained-ctest-generation) | `e512c1ca` | Completed ✅ |
-| [`UKPLab/acl2025-lfqa-hallucination`](https://github.com/UKPLab/acl2025-lfqa-hallucination) | `4fc6162d` | Completed ✅ |
-| [`UKPLab/tmlr2025-icl-investigation`](https://github.com/UKPLab/tmlr2025-icl-investigation) | `90668b36` | Completed ✅ |
-| [`UKPLab/arxiv2025-self-awareness`](https://github.com/UKPLab/arxiv2025-self-awareness) | `e95f0790` | Completed ✅ |
-| [`canonical/discourse-operator`](https://github.com/canonical/discourse-operator) | `d351212f` | Completed ✅ |
-| [`canonical/pgbouncer-k8s-operator`](https://github.com/canonical/pgbouncer-k8s-operator) | `a4c57c09` | Completed ✅ |
-| [`canonical/mysql-k8s-operator`](https://github.com/canonical/mysql-k8s-operator) | `e669bb80` | Completed ✅ |
-| [`canonical/vault-operator`](https://github.com/canonical/vault-operator) | `14b4bb94` | Completed ✅ |
-| [`canonical/mimir-k8s-operator`](https://github.com/canonical/mimir-k8s-operator) | `4b433bb5` | Completed ✅ |
+| [`canonical/litellm-operator`](https://github.com/canonical/litellm-operator) | `0ec6f5a6` | Completed ✅ |
+| [`canonical/kafka-operator`](https://github.com/canonical/kafka-operator) | `6f1d8af2` | Completed ✅ |
+| [`canonical/hindsight-operator`](https://github.com/canonical/hindsight-operator) | `e2dd8dfe` | Completed ✅ |
+| [`canonical/ubuntu-static-reports-operator`](https://github.com/canonical/ubuntu-static-reports-operator) | `ae8fafd2` | Completed ✅ |
+| [`canonical/pylego`](https://github.com/canonical/pylego) | `971f6ece` | Completed ✅ |
+| [`canonical/geoclue-snap`](https://github.com/canonical/geoclue-snap) | `6ff98519` | Completed ✅ |
+| [`canonical/fprintd-snap`](https://github.com/canonical/fprintd-snap) | `91f564a4` | Completed ✅ |
+| [`canonical/boltd-snap`](https://github.com/canonical/boltd-snap) | `733c91ba` | Completed ✅ |
+| [`canonical/provd-snap`](https://github.com/canonical/provd-snap) | `9758ea87` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
