@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,409**
+- **Total Indexed Repositories**: **4,419**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`pysal/pysalREST`](https://github.com/pysal/pysalREST) | `6ef0e961` | Completed ✅ |
-| [`pysal/pPysal`](https://github.com/pysal/pPysal) | `06b54c0e` | Completed ✅ |
-| [`scikit-image/scikit-image-paper`](https://github.com/scikit-image/scikit-image-paper) | `e5971605` | Completed ✅ |
-| [`pyg-team/pytorch_geometric`](https://github.com/pyg-team/pytorch_geometric) | `d1f2f864` | Completed ✅ |
-| [`pyg-team/pytorch-frame`](https://github.com/pyg-team/pytorch-frame) | `3ed76b13` | Completed ✅ |
-| [`scrapy/scrapy`](https://github.com/scrapy/scrapy) | `1bc04739` | Completed ✅ |
-| [`scverse/squidpy`](https://github.com/scverse/squidpy) | `7123a38b` | Completed ✅ |
-| [`scverse/gget`](https://github.com/scverse/gget) | `64d10bf0` | Completed ✅ |
-| [`scverse/mantispy`](https://github.com/scverse/mantispy) | `c28373f7` | Completed ✅ |
-| [`scverse/liana`](https://github.com/scverse/liana) | `bf70ace9` | Completed ✅ |
+| [`langchain-ai/paid-media-agent`](https://github.com/langchain-ai/paid-media-agent) | `3cd7a0e0` | Completed ✅ |
+| [`langchain-ai/langchain-mongodb`](https://github.com/langchain-ai/langchain-mongodb) | `3cad5ec4` | Completed ✅ |
+| [`langchain-ai/langchain-google`](https://github.com/langchain-ai/langchain-google) | `4d0b2142` | Completed ✅ |
+| [`langchain-ai/langchain-cohere`](https://github.com/langchain-ai/langchain-cohere) | `28e67ec8` | Completed ✅ |
+| [`langchain-ai/fleet-deepagents-export`](https://github.com/langchain-ai/fleet-deepagents-export) | `9fb264ca` | Completed ✅ |
+| [`langchain-ai/langchain-litellm`](https://github.com/langchain-ai/langchain-litellm) | `77cacd9a` | Completed ✅ |
+| [`langchain-ai/gen-ui-workflow`](https://github.com/langchain-ai/gen-ui-workflow) | `addec0c5` | Completed ✅ |
+| [`langchain-ai/new-langgraph-project`](https://github.com/langchain-ai/new-langgraph-project) | `6d3f4229` | Completed ✅ |
+| [`langchain-ai/open-swe`](https://github.com/langchain-ai/open-swe) | `54be3670` | Completed ✅ |
+| [`langchain-ai/simple-agent-template`](https://github.com/langchain-ai/simple-agent-template) | `bc464b5a` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
