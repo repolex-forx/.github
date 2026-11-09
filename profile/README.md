@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,818**
+- **Total Indexed Repositories**: **4,828**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`FilledStacks/flutter-tutorials`](https://github.com/FilledStacks/flutter-tutorials) | `ea17632f` | Completed ✅ |
-| [`softwaremill/elasticmq`](https://github.com/softwaremill/elasticmq) | `73a1c655` | Completed ✅ |
-| [`HMBSbige/NatTypeTester`](https://github.com/HMBSbige/NatTypeTester) | `a1935d46` | Completed ✅ |
-| [`block/mdx-daemon-plugin`](https://github.com/block/mdx-daemon-plugin) | `071e4b0b` | Completed ✅ |
-| [`JohnSundell/Publish`](https://github.com/JohnSundell/Publish) | `58e94304` | Completed ✅ |
-| [`ulid/javascript`](https://github.com/ulid/javascript) | `11c20678` | Completed ✅ |
-| [`block/goose-mobile-demo-personal-shopper`](https://github.com/block/goose-mobile-demo-personal-shopper) | `bb6876e5` | Completed ✅ |
-| [`apple/device-management`](https://github.com/apple/device-management) | `9e7fdbe2` | Completed ✅ |
-| [`block/finch`](https://github.com/block/finch) | `3f4bb5c0` | Completed ✅ |
-| [`repolex-ai/repolex-parser-py`](https://github.com/repolex-ai/repolex-parser-py) | `4ad4d822` | Completed ✅ |
+| [`TopQuadrant/shacl-js`](https://github.com/TopQuadrant/shacl-js) | `7ed360b7` | Completed ✅ |
+| [`isar/hive`](https://github.com/isar/hive) | `1b4febe9` | Completed ✅ |
+| [`spark-jobserver/spark-jobserver`](https://github.com/spark-jobserver/spark-jobserver) | `f58280bb` | Completed ✅ |
+| [`BililiveRecorder/BililiveRecorder`](https://github.com/BililiveRecorder/BililiveRecorder) | `2744d605` | Completed ✅ |
+| [`block/trailblaze`](https://github.com/block/trailblaze) | `1c42e5e1` | Completed ✅ |
+| [`XcodesOrg/xcodes`](https://github.com/XcodesOrg/xcodes) | `a5b72c81` | Completed ✅ |
+| [`yahoo/serialize-javascript`](https://github.com/yahoo/serialize-javascript) | `4d0d8a68` | Completed ✅ |
+| [`block/berd`](https://github.com/block/berd) | `a6b03407` | Completed ✅ |
+| [`cucumber/cucumber-ruby`](https://github.com/cucumber/cucumber-ruby) | `0a5512bd` | Completed ✅ |
+| [`block/spirit`](https://github.com/block/spirit) | `a0a8e828` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
