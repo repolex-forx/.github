@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,881**
+- **Total Indexed Repositories**: **4,891**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`swiftbar/SwiftBar`](https://github.com/swiftbar/SwiftBar) | `97f4f87d` | Completed ✅ |
-| [`qos-ch/logback`](https://github.com/qos-ch/logback) | `5761779e` | Completed ✅ |
-| [`ThomasAribart/json-schema-to-ts`](https://github.com/ThomasAribart/json-schema-to-ts) | `5a7fcd43` | Completed ✅ |
-| [`rack/rack-test`](https://github.com/rack/rack-test) | `b3bfdbc7` | Completed ✅ |
-| [`google/go-cmp`](https://github.com/google/go-cmp) | `5deca1c7` | Completed ✅ |
-| [`akubera/bigdecimal-rs`](https://github.com/akubera/bigdecimal-rs) | `f0a1f920` | Completed ✅ |
-| [`graphql/graphql-js`](https://github.com/graphql/graphql-js) | `56a9830a` | Completed ✅ |
-| [`rrousselGit/flutter_hooks`](https://github.com/rrousselGit/flutter_hooks) | `1c478218` | Completed ✅ |
-| [`foundweekends/giter8`](https://github.com/foundweekends/giter8) | `1c261298` | Completed ✅ |
-| [`metatube-community/jellyfin-plugin-metatube`](https://github.com/metatube-community/jellyfin-plugin-metatube) | `f7c1f336` | Completed ✅ |
+| [`airbnb/DeepLinkDispatch`](https://github.com/airbnb/DeepLinkDispatch) | `280a91f2` | Completed ✅ |
+| [`devicekit/DeviceKit`](https://github.com/devicekit/DeviceKit) | `fab82bd9` | Completed ✅ |
+| [`apache/avro`](https://github.com/apache/avro) | `726c25e2` | Completed ✅ |
+| [`YousefED/typescript-json-schema`](https://github.com/YousefED/typescript-json-schema) | `9ec6bfce` | Completed ✅ |
+| [`sinatra/sinatra`](https://github.com/sinatra/sinatra) | `cb22afd7` | Completed ✅ |
+| [`hashicorp/go-cleanhttp`](https://github.com/hashicorp/go-cleanhttp) | `b0e8488e` | Completed ✅ |
+| [`chronotope/chrono-tz`](https://github.com/chronotope/chrono-tz) | `64c3e4da` | Completed ✅ |
+| [`ikatyang-collab/vnopts`](https://github.com/ikatyang-collab/vnopts) | `eca8ed17` | Completed ✅ |
+| [`xujiyou/zhihu-flutter`](https://github.com/xujiyou/zhihu-flutter) | `c1aaaac4` | Completed ✅ |
+| [`fthomas/refined`](https://github.com/fthomas/refined) | `2d9cd421` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
