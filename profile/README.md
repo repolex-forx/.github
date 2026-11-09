@@ -33,22 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,871**
+- **Total Indexed Repositories**: **4,881**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`airbnb/javascript`](https://github.com/airbnb/javascript) | `8ed19247` | Completed ✅ |
-| [`ruby/rubygems`](https://github.com/ruby/rubygems) | `7f323abe` | Completed ✅ |
-| [`cpuguy83/go-md2man`](https://github.com/cpuguy83/go-md2man) | `061b6c7c` | Completed ✅ |
-| [`Amanieu/parking_lot`](https://github.com/Amanieu/parking_lot) | `85827ffa` | Completed ✅ |
-| [`eslint/js`](https://github.com/eslint/js) | `f32d8a61` | Completed ✅ |
-| [`GhostenEditor/Ghosten-Player`](https://github.com/GhostenEditor/Ghosten-Player) | `8c4fc325` | Completed ✅ |
-| [`MojoJolo/textteaser`](https://github.com/MojoJolo/textteaser) | `f96cc742` | Completed ✅ |
-| [`cmliu/SubsCheck-Win-GUI`](https://github.com/cmliu/SubsCheck-Win-GUI) | `3bca9694` | Completed ✅ |
-| [`ReVanced/revanced-patches-template`](https://github.com/ReVanced/revanced-patches-template) | `bd4b564f` | Completed ✅ |
+| [`swiftbar/SwiftBar`](https://github.com/swiftbar/SwiftBar) | `97f4f87d` | Completed ✅ |
+| [`qos-ch/logback`](https://github.com/qos-ch/logback) | `5761779e` | Completed ✅ |
+| [`ThomasAribart/json-schema-to-ts`](https://github.com/ThomasAribart/json-schema-to-ts) | `5a7fcd43` | Completed ✅ |
+| [`rack/rack-test`](https://github.com/rack/rack-test) | `b3bfdbc7` | Completed ✅ |
+| [`google/go-cmp`](https://github.com/google/go-cmp) | `5deca1c7` | Completed ✅ |
+| [`akubera/bigdecimal-rs`](https://github.com/akubera/bigdecimal-rs) | `f0a1f920` | Completed ✅ |
+| [`graphql/graphql-js`](https://github.com/graphql/graphql-js) | `56a9830a` | Completed ✅ |
+| [`rrousselGit/flutter_hooks`](https://github.com/rrousselGit/flutter_hooks) | `1c478218` | Completed ✅ |
+| [`foundweekends/giter8`](https://github.com/foundweekends/giter8) | `1c261298` | Completed ✅ |
+| [`metatube-community/jellyfin-plugin-metatube`](https://github.com/metatube-community/jellyfin-plugin-metatube) | `f7c1f336` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
