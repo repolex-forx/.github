@@ -33,22 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,836**
+- **Total Indexed Repositories**: **4,846**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`repolex-ai/subtexture`](https://github.com/repolex-ai/subtexture) | `6e3cf917` | Completed ✅ |
-| [`anthropics/claude-quickstarts`](https://github.com/anthropics/claude-quickstarts) | `4a4224bd` | Completed ✅ |
-| [`OpenFlutter/flutter_screenutil`](https://github.com/OpenFlutter/flutter_screenutil) | `65a9f0c0` | Completed ✅ |
-| [`aditya-grover/node2vec`](https://github.com/aditya-grover/node2vec) | `883241e8` | Completed ✅ |
-| [`Cysharp/MemoryPack`](https://github.com/Cysharp/MemoryPack) | `eed91b29` | Completed ✅ |
-| [`block/domain-api`](https://github.com/block/domain-api) | `07397baf` | Completed ✅ |
-| [`sunshinejr/SwiftyUserDefaults`](https://github.com/sunshinejr/SwiftyUserDefaults) | `558c015e` | Completed ✅ |
-| [`block/buzz-app`](https://github.com/block/buzz-app) | `3a1eb560` | Completed ✅ |
-| [`socketry/multipart-post`](https://github.com/socketry/multipart-post) | `cce36348` | Completed ✅ |
+| [`block/checks4shell`](https://github.com/block/checks4shell) | `e2655951` | Completed ✅ |
+| [`BurntSushi/bstr`](https://github.com/BurntSushi/bstr) | `134195be` | Completed ✅ |
+| [`apple/ARKitScenes`](https://github.com/apple/ARKitScenes) | `474aaa83` | Completed ✅ |
+| [`lukepighetti/fluro`](https://github.com/lukepighetti/fluro) | `c2bc0592` | Completed ✅ |
+| [`twitter-archive/gizzard`](https://github.com/twitter-archive/gizzard) | `9b843254` | Completed ✅ |
+| [`GhostPack/Seatbelt`](https://github.com/GhostPack/Seatbelt) | `392171df` | Completed ✅ |
+| [`android10/Android-CleanArchitecture-Kotlin`](https://github.com/android10/Android-CleanArchitecture-Kotlin) | `e11746a2` | Completed ✅ |
+| [`KelvinJin/AnimatedCollectionViewLayout`](https://github.com/KelvinJin/AnimatedCollectionViewLayout) | `f6d163d7` | Completed ✅ |
+| [`google/uuid`](https://github.com/google/uuid) | `2d3c2a9c` | Completed ✅ |
+| [`anthropics/anthropic-tokenizer-typescript`](https://github.com/anthropics/anthropic-tokenizer-typescript) | `4d75e64d` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
