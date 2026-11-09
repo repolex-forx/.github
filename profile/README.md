@@ -33,22 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,809**
+- **Total Indexed Repositories**: **4,818**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`canonical/litellm-operator`](https://github.com/canonical/litellm-operator) | `0ec6f5a6` | Completed ✅ |
-| [`canonical/kafka-operator`](https://github.com/canonical/kafka-operator) | `6f1d8af2` | Completed ✅ |
-| [`canonical/hindsight-operator`](https://github.com/canonical/hindsight-operator) | `e2dd8dfe` | Completed ✅ |
-| [`canonical/ubuntu-static-reports-operator`](https://github.com/canonical/ubuntu-static-reports-operator) | `ae8fafd2` | Completed ✅ |
-| [`canonical/pylego`](https://github.com/canonical/pylego) | `971f6ece` | Completed ✅ |
-| [`canonical/geoclue-snap`](https://github.com/canonical/geoclue-snap) | `6ff98519` | Completed ✅ |
-| [`canonical/fprintd-snap`](https://github.com/canonical/fprintd-snap) | `91f564a4` | Completed ✅ |
-| [`canonical/boltd-snap`](https://github.com/canonical/boltd-snap) | `733c91ba` | Completed ✅ |
-| [`canonical/provd-snap`](https://github.com/canonical/provd-snap) | `9758ea87` | Completed ✅ |
+| [`FilledStacks/flutter-tutorials`](https://github.com/FilledStacks/flutter-tutorials) | `ea17632f` | Completed ✅ |
+| [`softwaremill/elasticmq`](https://github.com/softwaremill/elasticmq) | `73a1c655` | Completed ✅ |
+| [`HMBSbige/NatTypeTester`](https://github.com/HMBSbige/NatTypeTester) | `a1935d46` | Completed ✅ |
+| [`block/mdx-daemon-plugin`](https://github.com/block/mdx-daemon-plugin) | `071e4b0b` | Completed ✅ |
+| [`JohnSundell/Publish`](https://github.com/JohnSundell/Publish) | `58e94304` | Completed ✅ |
+| [`ulid/javascript`](https://github.com/ulid/javascript) | `11c20678` | Completed ✅ |
+| [`block/goose-mobile-demo-personal-shopper`](https://github.com/block/goose-mobile-demo-personal-shopper) | `bb6876e5` | Completed ✅ |
+| [`apple/device-management`](https://github.com/apple/device-management) | `9e7fdbe2` | Completed ✅ |
+| [`block/finch`](https://github.com/block/finch) | `3f4bb5c0` | Completed ✅ |
+| [`repolex-ai/repolex-parser-py`](https://github.com/repolex-ai/repolex-parser-py) | `4ad4d822` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
