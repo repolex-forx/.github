@@ -33,23 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,828**
+- **Total Indexed Repositories**: **4,836**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`TopQuadrant/shacl-js`](https://github.com/TopQuadrant/shacl-js) | `7ed360b7` | Completed ✅ |
-| [`isar/hive`](https://github.com/isar/hive) | `1b4febe9` | Completed ✅ |
-| [`spark-jobserver/spark-jobserver`](https://github.com/spark-jobserver/spark-jobserver) | `f58280bb` | Completed ✅ |
-| [`BililiveRecorder/BililiveRecorder`](https://github.com/BililiveRecorder/BililiveRecorder) | `2744d605` | Completed ✅ |
-| [`block/trailblaze`](https://github.com/block/trailblaze) | `1c42e5e1` | Completed ✅ |
-| [`XcodesOrg/xcodes`](https://github.com/XcodesOrg/xcodes) | `a5b72c81` | Completed ✅ |
-| [`yahoo/serialize-javascript`](https://github.com/yahoo/serialize-javascript) | `4d0d8a68` | Completed ✅ |
-| [`block/berd`](https://github.com/block/berd) | `a6b03407` | Completed ✅ |
-| [`cucumber/cucumber-ruby`](https://github.com/cucumber/cucumber-ruby) | `0a5512bd` | Completed ✅ |
-| [`block/spirit`](https://github.com/block/spirit) | `a0a8e828` | Completed ✅ |
+| [`repolex-ai/subtexture`](https://github.com/repolex-ai/subtexture) | `6e3cf917` | Completed ✅ |
+| [`anthropics/claude-quickstarts`](https://github.com/anthropics/claude-quickstarts) | `4a4224bd` | Completed ✅ |
+| [`OpenFlutter/flutter_screenutil`](https://github.com/OpenFlutter/flutter_screenutil) | `65a9f0c0` | Completed ✅ |
+| [`aditya-grover/node2vec`](https://github.com/aditya-grover/node2vec) | `883241e8` | Completed ✅ |
+| [`Cysharp/MemoryPack`](https://github.com/Cysharp/MemoryPack) | `eed91b29` | Completed ✅ |
+| [`block/domain-api`](https://github.com/block/domain-api) | `07397baf` | Completed ✅ |
+| [`sunshinejr/SwiftyUserDefaults`](https://github.com/sunshinejr/SwiftyUserDefaults) | `558c015e` | Completed ✅ |
+| [`block/buzz-app`](https://github.com/block/buzz-app) | `3a1eb560` | Completed ✅ |
+| [`socketry/multipart-post`](https://github.com/socketry/multipart-post) | `cce36348` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
