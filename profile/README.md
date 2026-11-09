@@ -33,23 +33,21 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,846**
+- **Total Indexed Repositories**: **4,854**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`block/checks4shell`](https://github.com/block/checks4shell) | `e2655951` | Completed ✅ |
-| [`BurntSushi/bstr`](https://github.com/BurntSushi/bstr) | `134195be` | Completed ✅ |
-| [`apple/ARKitScenes`](https://github.com/apple/ARKitScenes) | `474aaa83` | Completed ✅ |
-| [`lukepighetti/fluro`](https://github.com/lukepighetti/fluro) | `c2bc0592` | Completed ✅ |
-| [`twitter-archive/gizzard`](https://github.com/twitter-archive/gizzard) | `9b843254` | Completed ✅ |
-| [`GhostPack/Seatbelt`](https://github.com/GhostPack/Seatbelt) | `392171df` | Completed ✅ |
-| [`android10/Android-CleanArchitecture-Kotlin`](https://github.com/android10/Android-CleanArchitecture-Kotlin) | `e11746a2` | Completed ✅ |
-| [`KelvinJin/AnimatedCollectionViewLayout`](https://github.com/KelvinJin/AnimatedCollectionViewLayout) | `f6d163d7` | Completed ✅ |
-| [`google/uuid`](https://github.com/google/uuid) | `2d3c2a9c` | Completed ✅ |
-| [`anthropics/anthropic-tokenizer-typescript`](https://github.com/anthropics/anthropic-tokenizer-typescript) | `4d75e64d` | Completed ✅ |
+| [`rubyzip/rubyzip`](https://github.com/rubyzip/rubyzip) | `3b9c6280` | Completed ✅ |
+| [`block/proto-fleet`](https://github.com/block/proto-fleet) | `cf88e5c3` | Completed ✅ |
+| [`rust-lang/rustc-hash`](https://github.com/rust-lang/rustc-hash) | `f16da569` | Completed ✅ |
+| [`TheAlphamerc/flutter_ecommerce_app`](https://github.com/TheAlphamerc/flutter_ecommerce_app) | `f7622934` | Completed ✅ |
+| [`laurilehmijoki/s3_website`](https://github.com/laurilehmijoki/s3_website) | `292a9e33` | Completed ✅ |
+| [`zalo/MathUtilities`](https://github.com/zalo/MathUtilities) | `8ab22736` | Completed ✅ |
+| [`izhangzhihao/intellij-rainbow-brackets`](https://github.com/izhangzhihao/intellij-rainbow-brackets) | `c7bdbda6` | Completed ✅ |
+| [`Ahmed-Ali/JSONExport`](https://github.com/Ahmed-Ali/JSONExport) | `9f1064fd` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
