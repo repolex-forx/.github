@@ -33,21 +33,21 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,854**
+- **Total Indexed Repositories**: **4,862**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`rubyzip/rubyzip`](https://github.com/rubyzip/rubyzip) | `3b9c6280` | Completed ✅ |
-| [`block/proto-fleet`](https://github.com/block/proto-fleet) | `cf88e5c3` | Completed ✅ |
-| [`rust-lang/rustc-hash`](https://github.com/rust-lang/rustc-hash) | `f16da569` | Completed ✅ |
-| [`TheAlphamerc/flutter_ecommerce_app`](https://github.com/TheAlphamerc/flutter_ecommerce_app) | `f7622934` | Completed ✅ |
-| [`laurilehmijoki/s3_website`](https://github.com/laurilehmijoki/s3_website) | `292a9e33` | Completed ✅ |
-| [`zalo/MathUtilities`](https://github.com/zalo/MathUtilities) | `8ab22736` | Completed ✅ |
-| [`izhangzhihao/intellij-rainbow-brackets`](https://github.com/izhangzhihao/intellij-rainbow-brackets) | `c7bdbda6` | Completed ✅ |
-| [`Ahmed-Ali/JSONExport`](https://github.com/Ahmed-Ali/JSONExport) | `9f1064fd` | Completed ✅ |
+| [`ruby-prof/ruby-prof`](https://github.com/ruby-prof/ruby-prof) | `769d3a45` | Completed ✅ |
+| [`rust-random/getrandom`](https://github.com/rust-random/getrandom) | `6a049007` | Completed ✅ |
+| [`inspect-js/hasOwn`](https://github.com/inspect-js/hasOwn) | `65c9fc9c` | Completed ✅ |
+| [`ReactiveX/rxdart`](https://github.com/ReactiveX/rxdart) | `d1f3ba64` | Completed ✅ |
+| [`pocorall/scaloid`](https://github.com/pocorall/scaloid) | `b9d13c78` | Completed ✅ |
+| [`QianMo/Unity-Design-Pattern`](https://github.com/QianMo/Unity-Design-Pattern) | `a4c0d5df` | Completed ✅ |
+| [`kittinunf/fuel`](https://github.com/kittinunf/fuel) | `57aa8912` | Completed ✅ |
+| [`nickoneill/PermissionScope`](https://github.com/nickoneill/PermissionScope) | `156eb08d` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
