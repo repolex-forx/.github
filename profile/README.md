@@ -33,21 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,862**
+- **Total Indexed Repositories**: **4,871**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`ruby-prof/ruby-prof`](https://github.com/ruby-prof/ruby-prof) | `769d3a45` | Completed ✅ |
-| [`rust-random/getrandom`](https://github.com/rust-random/getrandom) | `6a049007` | Completed ✅ |
-| [`inspect-js/hasOwn`](https://github.com/inspect-js/hasOwn) | `65c9fc9c` | Completed ✅ |
-| [`ReactiveX/rxdart`](https://github.com/ReactiveX/rxdart) | `d1f3ba64` | Completed ✅ |
-| [`pocorall/scaloid`](https://github.com/pocorall/scaloid) | `b9d13c78` | Completed ✅ |
-| [`QianMo/Unity-Design-Pattern`](https://github.com/QianMo/Unity-Design-Pattern) | `a4c0d5df` | Completed ✅ |
-| [`kittinunf/fuel`](https://github.com/kittinunf/fuel) | `57aa8912` | Completed ✅ |
-| [`nickoneill/PermissionScope`](https://github.com/nickoneill/PermissionScope) | `156eb08d` | Completed ✅ |
+| [`airbnb/javascript`](https://github.com/airbnb/javascript) | `8ed19247` | Completed ✅ |
+| [`ruby/rubygems`](https://github.com/ruby/rubygems) | `7f323abe` | Completed ✅ |
+| [`cpuguy83/go-md2man`](https://github.com/cpuguy83/go-md2man) | `061b6c7c` | Completed ✅ |
+| [`Amanieu/parking_lot`](https://github.com/Amanieu/parking_lot) | `85827ffa` | Completed ✅ |
+| [`eslint/js`](https://github.com/eslint/js) | `f32d8a61` | Completed ✅ |
+| [`GhostenEditor/Ghosten-Player`](https://github.com/GhostenEditor/Ghosten-Player) | `8c4fc325` | Completed ✅ |
+| [`MojoJolo/textteaser`](https://github.com/MojoJolo/textteaser) | `f96cc742` | Completed ✅ |
+| [`cmliu/SubsCheck-Win-GUI`](https://github.com/cmliu/SubsCheck-Win-GUI) | `3bca9694` | Completed ✅ |
+| [`ReVanced/revanced-patches-template`](https://github.com/ReVanced/revanced-patches-template) | `bd4b564f` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
