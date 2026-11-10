@@ -33,22 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,939**
+- **Total Indexed Repositories**: **4,949**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`paupino/rust-decimal`](https://github.com/paupino/rust-decimal) | `a7f0216e` | Completed ✅ |
-| [`postcss/postcss-scss`](https://github.com/postcss/postcss-scss) | `02838080` | Completed ✅ |
-| [`flutter/agent-plugins`](https://github.com/flutter/agent-plugins) | `b7d5a0be` | Completed ✅ |
-| [`GravityLabs/goose`](https://github.com/GravityLabs/goose) | `462f04a0` | Completed ✅ |
-| [`redis-windows/redis-windows`](https://github.com/redis-windows/redis-windows) | `04bee108` | Completed ✅ |
-| [`HdShare/WAuxiliary_Public`](https://github.com/HdShare/WAuxiliary_Public) | `5a5fbed4` | Completed ✅ |
-| [`kudoleh/iOS-Clean-Architecture-MVVM`](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM) | `a68da3e3` | Completed ✅ |
-| [`google/argh`](https://github.com/google/argh) | `939affd3` | Completed ✅ |
-| [`rubocop/rubocop-rake`](https://github.com/rubocop/rubocop-rake) | `890aabc9` | Completed ✅ |
+| [`mattn/go-runewidth`](https://github.com/mattn/go-runewidth) | `99da4275` | Completed ✅ |
+| [`rayon-rs/either`](https://github.com/rayon-rs/either) | `1e4326df` | Completed ✅ |
+| [`postcss/postcss-selector-parser`](https://github.com/postcss/postcss-selector-parser) | `7591d8d6` | Completed ✅ |
+| [`jogboms/flutter_spinkit`](https://github.com/jogboms/flutter_spinkit) | `a813e6f7` | Completed ✅ |
+| [`json4s/json4s`](https://github.com/json4s/json4s) | `f31d2fbc` | Completed ✅ |
+| [`pojala/electrino`](https://github.com/pojala/electrino) | `0bf75954` | Completed ✅ |
+| [`sharish/ShimmerRecyclerView`](https://github.com/sharish/ShimmerRecyclerView) | `24cf1a07` | Completed ✅ |
+| [`devxoul/Then`](https://github.com/devxoul/Then) | `21910ae0` | Completed ✅ |
+| [`google/gofuzz`](https://github.com/google/gofuzz) | `5dfa3b70` | Completed ✅ |
+| [`eslint/typescript-eslint-parser`](https://github.com/eslint/typescript-eslint-parser) | `76b4d42e` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
