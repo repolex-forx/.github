@@ -33,23 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,949**
+- **Total Indexed Repositories**: **4,958**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`mattn/go-runewidth`](https://github.com/mattn/go-runewidth) | `99da4275` | Completed ✅ |
-| [`rayon-rs/either`](https://github.com/rayon-rs/either) | `1e4326df` | Completed ✅ |
-| [`postcss/postcss-selector-parser`](https://github.com/postcss/postcss-selector-parser) | `7591d8d6` | Completed ✅ |
-| [`jogboms/flutter_spinkit`](https://github.com/jogboms/flutter_spinkit) | `a813e6f7` | Completed ✅ |
-| [`json4s/json4s`](https://github.com/json4s/json4s) | `f31d2fbc` | Completed ✅ |
-| [`pojala/electrino`](https://github.com/pojala/electrino) | `0bf75954` | Completed ✅ |
-| [`sharish/ShimmerRecyclerView`](https://github.com/sharish/ShimmerRecyclerView) | `24cf1a07` | Completed ✅ |
-| [`devxoul/Then`](https://github.com/devxoul/Then) | `21910ae0` | Completed ✅ |
-| [`google/gofuzz`](https://github.com/google/gofuzz) | `5dfa3b70` | Completed ✅ |
-| [`eslint/typescript-eslint-parser`](https://github.com/eslint/typescript-eslint-parser) | `76b4d42e` | Completed ✅ |
+| [`jfelchner/ruby-progressbar`](https://github.com/jfelchner/ruby-progressbar) | `bafa278b` | Completed ✅ |
+| [`rogpeppe/go-internal`](https://github.com/rogpeppe/go-internal) | `38c169d6` | Completed ✅ |
+| [`reem/rust-ordered-float`](https://github.com/reem/rust-ordered-float) | `aa4c4f2d` | Completed ✅ |
+| [`xiaoyaocz/flutter_dmzj`](https://github.com/xiaoyaocz/flutter_dmzj) | `6e27f949` | Completed ✅ |
+| [`vkostyukov/scalacaster`](https://github.com/vkostyukov/scalacaster) | `807f0a95` | Completed ✅ |
+| [`PowerShell/PSReadLine`](https://github.com/PowerShell/PSReadLine) | `a2d143f7` | Completed ✅ |
+| [`orhanobut/hawk`](https://github.com/orhanobut/hawk) | `0b20db65` | Completed ✅ |
+| [`uraimo/Awesome-Swift-Playgrounds`](https://github.com/uraimo/Awesome-Swift-Playgrounds) | `fed28248` | Completed ✅ |
+| [`lukeed/escalade`](https://github.com/lukeed/escalade) | `fa5be167` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
