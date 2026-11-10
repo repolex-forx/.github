@@ -33,22 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,958**
+- **Total Indexed Repositories**: **4,968**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`jfelchner/ruby-progressbar`](https://github.com/jfelchner/ruby-progressbar) | `bafa278b` | Completed ✅ |
-| [`rogpeppe/go-internal`](https://github.com/rogpeppe/go-internal) | `38c169d6` | Completed ✅ |
-| [`reem/rust-ordered-float`](https://github.com/reem/rust-ordered-float) | `aa4c4f2d` | Completed ✅ |
-| [`xiaoyaocz/flutter_dmzj`](https://github.com/xiaoyaocz/flutter_dmzj) | `6e27f949` | Completed ✅ |
-| [`vkostyukov/scalacaster`](https://github.com/vkostyukov/scalacaster) | `807f0a95` | Completed ✅ |
-| [`PowerShell/PSReadLine`](https://github.com/PowerShell/PSReadLine) | `a2d143f7` | Completed ✅ |
-| [`orhanobut/hawk`](https://github.com/orhanobut/hawk) | `0b20db65` | Completed ✅ |
-| [`uraimo/Awesome-Swift-Playgrounds`](https://github.com/uraimo/Awesome-Swift-Playgrounds) | `fed28248` | Completed ✅ |
-| [`lukeed/escalade`](https://github.com/lukeed/escalade) | `fa5be167` | Completed ✅ |
+| [`dsherret/ts-simple-ast`](https://github.com/dsherret/ts-simple-ast) | `f288183d` | Completed ✅ |
+| [`ruby/debug`](https://github.com/ruby/debug) | `6510cfbc` | Completed ✅ |
+| [`googleapis/google-cloud-go`](https://github.com/googleapis/google-cloud-go) | `1ddfb07e` | Completed ✅ |
+| [`rust-lang/hashbrown`](https://github.com/rust-lang/hashbrown) | `f7bae3d1` | Completed ✅ |
+| [`prettier/angular-html-parser`](https://github.com/prettier/angular-html-parser) | `0b9e1364` | Completed ✅ |
+| [`academind/flutter-complete-guide-course-resources`](https://github.com/academind/flutter-complete-guide-course-resources) | `ec5eac12` | Completed ✅ |
+| [`akka/alpakka-kafka`](https://github.com/akka/alpakka-kafka) | `4e1e9fb1` | Completed ✅ |
+| [`microsoft/RulesEngine`](https://github.com/microsoft/RulesEngine) | `b35f2be0` | Completed ✅ |
+| [`tanujnotes/Olauncher`](https://github.com/tanujnotes/Olauncher) | `26069733` | Completed ✅ |
+| [`Trinea/android-common`](https://github.com/Trinea/android-common) | `56be0385` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
