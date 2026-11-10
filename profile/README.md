@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,968**
+- **Total Indexed Repositories**: **4,978**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`dsherret/ts-simple-ast`](https://github.com/dsherret/ts-simple-ast) | `f288183d` | Completed ✅ |
-| [`ruby/debug`](https://github.com/ruby/debug) | `6510cfbc` | Completed ✅ |
-| [`googleapis/google-cloud-go`](https://github.com/googleapis/google-cloud-go) | `1ddfb07e` | Completed ✅ |
-| [`rust-lang/hashbrown`](https://github.com/rust-lang/hashbrown) | `f7bae3d1` | Completed ✅ |
-| [`prettier/angular-html-parser`](https://github.com/prettier/angular-html-parser) | `0b9e1364` | Completed ✅ |
-| [`academind/flutter-complete-guide-course-resources`](https://github.com/academind/flutter-complete-guide-course-resources) | `ec5eac12` | Completed ✅ |
-| [`akka/alpakka-kafka`](https://github.com/akka/alpakka-kafka) | `4e1e9fb1` | Completed ✅ |
-| [`microsoft/RulesEngine`](https://github.com/microsoft/RulesEngine) | `b35f2be0` | Completed ✅ |
-| [`tanujnotes/Olauncher`](https://github.com/tanujnotes/Olauncher) | `26069733` | Completed ✅ |
-| [`Trinea/android-common`](https://github.com/Trinea/android-common) | `56be0385` | Completed ✅ |
+| [`dsherret/ts-nameof`](https://github.com/dsherret/ts-nameof) | `5e817b83` | Completed ✅ |
+| [`minitest/minitest-mock`](https://github.com/minitest/minitest-mock) | `f4656e5a` | Completed ✅ |
+| [`golang/protobuf`](https://github.com/golang/protobuf) | `1e63d344` | Completed ✅ |
+| [`rust-num/num-bigint`](https://github.com/rust-num/num-bigint) | `41f0b035` | Completed ✅ |
+| [`prettier/html-event-attributes`](https://github.com/prettier/html-event-attributes) | `d13b4f00` | Completed ✅ |
+| [`Baseflow/flutter_cached_network_image`](https://github.com/Baseflow/flutter_cached_network_image) | `5387cfac` | Completed ✅ |
+| [`mauricio/postgresql-async`](https://github.com/mauricio/postgresql-async) | `5716ac43` | Completed ✅ |
+| [`khellang/Scrutor`](https://github.com/khellang/Scrutor) | `7f315dab` | Completed ✅ |
+| [`Yalantis/Context-Menu.Android`](https://github.com/Yalantis/Context-Menu.Android) | `595c679e` | Completed ✅ |
+| [`spring-attic/spring-mvc-showcase`](https://github.com/spring-attic/spring-mvc-showcase) | `71d8c7e3` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
