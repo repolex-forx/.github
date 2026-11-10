@@ -33,23 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,930**
+- **Total Indexed Repositories**: **4,939**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`postcss/postcss`](https://github.com/postcss/postcss) | `4740f8a2` | Completed ✅ |
-| [`fluttergems/awesome-open-source-flutter-apps`](https://github.com/fluttergems/awesome-open-source-flutter-apps) | `1e7e724e` | Completed ✅ |
-| [`combust/mleap`](https://github.com/combust/mleap) | `53697f87` | Completed ✅ |
-| [`UnityCommunity/UnityLibrary`](https://github.com/UnityCommunity/UnityLibrary) | `9d05a534` | Completed ✅ |
-| [`rumboalla/apkupdater`](https://github.com/rumboalla/apkupdater) | `69b6fcdf` | Completed ✅ |
-| [`ts1/BLEUnlock`](https://github.com/ts1/BLEUnlock) | `2eeb35dc` | Completed ✅ |
-| [`cowboy/javascript-sync-async-foreach`](https://github.com/cowboy/javascript-sync-async-foreach) | `148e7fcd` | Completed ✅ |
-| [`modelcontextprotocol/typescript-sdk`](https://github.com/modelcontextprotocol/typescript-sdk) | `1e608cae` | Completed ✅ |
-| [`rubocop/rubocop-performance`](https://github.com/rubocop/rubocop-performance) | `22a6f217` | Completed ✅ |
-| [`mattn/go-colorable`](https://github.com/mattn/go-colorable) | `56c5db56` | Completed ✅ |
+| [`paupino/rust-decimal`](https://github.com/paupino/rust-decimal) | `a7f0216e` | Completed ✅ |
+| [`postcss/postcss-scss`](https://github.com/postcss/postcss-scss) | `02838080` | Completed ✅ |
+| [`flutter/agent-plugins`](https://github.com/flutter/agent-plugins) | `b7d5a0be` | Completed ✅ |
+| [`GravityLabs/goose`](https://github.com/GravityLabs/goose) | `462f04a0` | Completed ✅ |
+| [`redis-windows/redis-windows`](https://github.com/redis-windows/redis-windows) | `04bee108` | Completed ✅ |
+| [`HdShare/WAuxiliary_Public`](https://github.com/HdShare/WAuxiliary_Public) | `5a5fbed4` | Completed ✅ |
+| [`kudoleh/iOS-Clean-Architecture-MVVM`](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM) | `a68da3e3` | Completed ✅ |
+| [`google/argh`](https://github.com/google/argh) | `939affd3` | Completed ✅ |
+| [`rubocop/rubocop-rake`](https://github.com/rubocop/rubocop-rake) | `890aabc9` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
