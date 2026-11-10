@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,978**
+- **Total Indexed Repositories**: **4,988**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`dsherret/ts-nameof`](https://github.com/dsherret/ts-nameof) | `5e817b83` | Completed ✅ |
-| [`minitest/minitest-mock`](https://github.com/minitest/minitest-mock) | `f4656e5a` | Completed ✅ |
-| [`golang/protobuf`](https://github.com/golang/protobuf) | `1e63d344` | Completed ✅ |
-| [`rust-num/num-bigint`](https://github.com/rust-num/num-bigint) | `41f0b035` | Completed ✅ |
-| [`prettier/html-event-attributes`](https://github.com/prettier/html-event-attributes) | `d13b4f00` | Completed ✅ |
-| [`Baseflow/flutter_cached_network_image`](https://github.com/Baseflow/flutter_cached_network_image) | `5387cfac` | Completed ✅ |
-| [`mauricio/postgresql-async`](https://github.com/mauricio/postgresql-async) | `5716ac43` | Completed ✅ |
-| [`khellang/Scrutor`](https://github.com/khellang/Scrutor) | `7f315dab` | Completed ✅ |
-| [`Yalantis/Context-Menu.Android`](https://github.com/Yalantis/Context-Menu.Android) | `595c679e` | Completed ✅ |
-| [`spring-attic/spring-mvc-showcase`](https://github.com/spring-attic/spring-mvc-showcase) | `71d8c7e3` | Completed ✅ |
+| [`cevek/ttypescript`](https://github.com/cevek/ttypescript) | `0c36bbfd` | Completed ✅ |
+| [`ksss/rubocop-on-rbs`](https://github.com/ksss/rubocop-on-rbs) | `e42b63f9` | Completed ✅ |
+| [`mongodb/mongo-go-driver`](https://github.com/mongodb/mongo-go-driver) | `31be4fe7` | Completed ✅ |
+| [`rust-num/num-traits`](https://github.com/rust-num/num-traits) | `1166177e` | Completed ✅ |
+| [`prettier/html-tags`](https://github.com/prettier/html-tags) | `0828a65d` | Completed ✅ |
+| [`Predidit/KazumiRules`](https://github.com/Predidit/KazumiRules) | `2967d7ba` | Completed ✅ |
+| [`tensorflow/ecosystem`](https://github.com/tensorflow/ecosystem) | `c3937889` | Completed ✅ |
+| [`jamesmh/coravel`](https://github.com/jamesmh/coravel) | `4072e041` | Completed ✅ |
+| [`RedApparat/Fotoapparat`](https://github.com/RedApparat/Fotoapparat) | `9454f3e4` | Completed ✅ |
+| [`frogermcs/InstaMaterial`](https://github.com/frogermcs/InstaMaterial) | `6a8f6261` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
