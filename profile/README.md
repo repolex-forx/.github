@@ -33,23 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,891**
+- **Total Indexed Repositories**: **4,900**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`airbnb/DeepLinkDispatch`](https://github.com/airbnb/DeepLinkDispatch) | `280a91f2` | Completed ✅ |
-| [`devicekit/DeviceKit`](https://github.com/devicekit/DeviceKit) | `fab82bd9` | Completed ✅ |
-| [`apache/avro`](https://github.com/apache/avro) | `726c25e2` | Completed ✅ |
-| [`YousefED/typescript-json-schema`](https://github.com/YousefED/typescript-json-schema) | `9ec6bfce` | Completed ✅ |
-| [`sinatra/sinatra`](https://github.com/sinatra/sinatra) | `cb22afd7` | Completed ✅ |
-| [`hashicorp/go-cleanhttp`](https://github.com/hashicorp/go-cleanhttp) | `b0e8488e` | Completed ✅ |
-| [`chronotope/chrono-tz`](https://github.com/chronotope/chrono-tz) | `64c3e4da` | Completed ✅ |
-| [`ikatyang-collab/vnopts`](https://github.com/ikatyang-collab/vnopts) | `eca8ed17` | Completed ✅ |
-| [`xujiyou/zhihu-flutter`](https://github.com/xujiyou/zhihu-flutter) | `c1aaaac4` | Completed ✅ |
-| [`fthomas/refined`](https://github.com/fthomas/refined) | `2d9cd421` | Completed ✅ |
+| [`Archeb/opentrace`](https://github.com/Archeb/opentrace) | `1f4dc839` | Completed ✅ |
+| [`Triple-T/gradle-play-publisher`](https://github.com/Triple-T/gradle-play-publisher) | `18af1828` | Completed ✅ |
+| [`optonaut/ActiveLabel.swift`](https://github.com/optonaut/ActiveLabel.swift) | `36949c1a` | Completed ✅ |
+| [`qos-ch/cal10n`](https://github.com/qos-ch/cal10n) | `db338cf4` | Completed ✅ |
+| [`asciidoctor/asciidoctor`](https://github.com/asciidoctor/asciidoctor) | `356f79cd` | Completed ✅ |
+| [`hashicorp/go-multierror`](https://github.com/hashicorp/go-multierror) | `1fda6a37` | Completed ✅ |
+| [`dtolnay/inventory`](https://github.com/dtolnay/inventory) | `e26963a9` | Completed ✅ |
+| [`micromatch/micromatch`](https://github.com/micromatch/micromatch) | `8bd704ec` | Completed ✅ |
+| [`diegoveloper/flutter-samples`](https://github.com/diegoveloper/flutter-samples) | `feb76b20` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
