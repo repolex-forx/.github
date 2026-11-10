@@ -33,23 +33,21 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,988**
+- **Total Indexed Repositories**: **4,996**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`cevek/ttypescript`](https://github.com/cevek/ttypescript) | `0c36bbfd` | Completed ✅ |
-| [`ksss/rubocop-on-rbs`](https://github.com/ksss/rubocop-on-rbs) | `e42b63f9` | Completed ✅ |
-| [`mongodb/mongo-go-driver`](https://github.com/mongodb/mongo-go-driver) | `31be4fe7` | Completed ✅ |
-| [`rust-num/num-traits`](https://github.com/rust-num/num-traits) | `1166177e` | Completed ✅ |
-| [`prettier/html-tags`](https://github.com/prettier/html-tags) | `0828a65d` | Completed ✅ |
-| [`Predidit/KazumiRules`](https://github.com/Predidit/KazumiRules) | `2967d7ba` | Completed ✅ |
-| [`tensorflow/ecosystem`](https://github.com/tensorflow/ecosystem) | `c3937889` | Completed ✅ |
-| [`jamesmh/coravel`](https://github.com/jamesmh/coravel) | `4072e041` | Completed ✅ |
-| [`RedApparat/Fotoapparat`](https://github.com/RedApparat/Fotoapparat) | `9454f3e4` | Completed ✅ |
-| [`frogermcs/InstaMaterial`](https://github.com/frogermcs/InstaMaterial) | `6a8f6261` | Completed ✅ |
+| [`borderless/ts-scripts`](https://github.com/borderless/ts-scripts) | `35dceb72` | Completed ✅ |
+| [`rake-compiler/rake-compiler`](https://github.com/rake-compiler/rake-compiler) | `56a1a12c` | Completed ✅ |
+| [`servo/rust-smallvec`](https://github.com/servo/rust-smallvec) | `23288680` | Completed ✅ |
+| [`Xmarmalade/alisthelper`](https://github.com/Xmarmalade/alisthelper) | `6d7e1acb` | Completed ✅ |
+| [`twitter-archive/iago`](https://github.com/twitter-archive/iago) | `019a4adf` | Completed ✅ |
+| [`Azure/DotNetty`](https://github.com/Azure/DotNetty) | `379d8cc1` | Completed ✅ |
+| [`Devlight/NavigationTabBar`](https://github.com/Devlight/NavigationTabBar) | `bd5d7795` | Completed ✅ |
+| [`timocov/dts-bundle-generator`](https://github.com/timocov/dts-bundle-generator) | `1dfdcf89` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
