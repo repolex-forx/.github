@@ -33,21 +33,22 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,996**
+- **Total Indexed Repositories**: **5,005**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`borderless/ts-scripts`](https://github.com/borderless/ts-scripts) | `35dceb72` | Completed ✅ |
-| [`rake-compiler/rake-compiler`](https://github.com/rake-compiler/rake-compiler) | `56a1a12c` | Completed ✅ |
-| [`servo/rust-smallvec`](https://github.com/servo/rust-smallvec) | `23288680` | Completed ✅ |
-| [`Xmarmalade/alisthelper`](https://github.com/Xmarmalade/alisthelper) | `6d7e1acb` | Completed ✅ |
-| [`twitter-archive/iago`](https://github.com/twitter-archive/iago) | `019a4adf` | Completed ✅ |
-| [`Azure/DotNetty`](https://github.com/Azure/DotNetty) | `379d8cc1` | Completed ✅ |
-| [`Devlight/NavigationTabBar`](https://github.com/Devlight/NavigationTabBar) | `bd5d7795` | Completed ✅ |
-| [`timocov/dts-bundle-generator`](https://github.com/timocov/dts-bundle-generator) | `1dfdcf89` | Completed ✅ |
+| [`rails/rails`](https://github.com/rails/rails) | `126d0d64` | Completed ✅ |
+| [`google/eslint-config-google`](https://github.com/google/eslint-config-google) | `0273839f` | Completed ✅ |
+| [`strawlab/iana-time-zone`](https://github.com/strawlab/iana-time-zone) | `c6fe5ec5` | Completed ✅ |
+| [`zubairehman/flutter_boilerplate_project`](https://github.com/zubairehman/flutter_boilerplate_project) | `70657cd1` | Completed ✅ |
+| [`softwaremill/macwire`](https://github.com/softwaremill/macwire) | `10571d59` | Completed ✅ |
+| [`brandonlw/Psychson`](https://github.com/brandonlw/Psychson) | `4522989a` | Completed ✅ |
+| [`amitshekhariitbhu/RxJava2-Android-Samples`](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) | `74693e26` | Completed ✅ |
+| [`total-typescript/ts-reset`](https://github.com/total-typescript/ts-reset) | `81b3b261` | Completed ✅ |
+| [`rubocop/rubocop-rubycw`](https://github.com/rubocop/rubocop-rubycw) | `ac73b642` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
