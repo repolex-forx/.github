@@ -33,23 +33,23 @@ rlex download repolex-ai/rlex
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 ### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **4,910**
+- **Total Indexed Repositories**: **4,920**
 - **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
 - **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
 
 ### 🚀 Recently Indexed Repositories (Latest Wave)
 | Repository | Commit | Status |
 | :--- | :--- | :--- |
-| [`typelevel/skunk`](https://github.com/typelevel/skunk) | `1045d3b2` | Completed ✅ |
-| [`dremin/RetroBar`](https://github.com/dremin/RetroBar) | `d2b0b853` | Completed ✅ |
-| [`ChadCSong/ShineButton`](https://github.com/ChadCSong/ShineButton) | `91983d10` | Completed ✅ |
-| [`duemunk/Async`](https://github.com/duemunk/Async) | `0004dec3` | Completed ✅ |
-| [`google/zx`](https://github.com/google/zx) | `3b04a6ae` | Completed ✅ |
-| [`weirdpattern/eslint-config-typescript`](https://github.com/weirdpattern/eslint-config-typescript) | `98ab70a4` | Completed ✅ |
-| [`tagliala/coveralls-ruby-reborn`](https://github.com/tagliala/coveralls-ruby-reborn) | `7f6287e8` | Completed ✅ |
-| [`hashicorp/go-retryablehttp`](https://github.com/hashicorp/go-retryablehttp) | `fd004584` | Completed ✅ |
-| [`indexmap-rs/indexmap`](https://github.com/indexmap-rs/indexmap) | `41a87088` | Completed ✅ |
-| [`mycoboco/wcwidth.js`](https://github.com/mycoboco/wcwidth.js) | `465c4042` | Completed ✅ |
+| [`MaximeBeasse/KeyDecoder`](https://github.com/MaximeBeasse/KeyDecoder) | `325477da` | Completed ✅ |
+| [`holdenk/spark-testing-base`](https://github.com/holdenk/spark-testing-base) | `649d3c50` | Completed ✅ |
+| [`BlueHeisenberg/SCSKiller`](https://github.com/BlueHeisenberg/SCSKiller) | `a996cfe7` | Completed ✅ |
+| [`iamr0s/Dhizuku`](https://github.com/iamr0s/Dhizuku) | `5fbda16a` | Completed ✅ |
+| [`badoo/Chatto`](https://github.com/badoo/Chatto) | `92355605` | Completed ✅ |
+| [`junit-team/junit-framework`](https://github.com/junit-team/junit-framework) | `12f007f5` | Completed ✅ |
+| [`smithy-lang/smithy-typescript`](https://github.com/smithy-lang/smithy-typescript) | `fd1d44eb` | Completed ✅ |
+| [`ruby/prism`](https://github.com/ruby/prism) | `774aebc1` | Completed ✅ |
+| [`jmespath/go-jmespath`](https://github.com/jmespath/go-jmespath) | `b0104c82` | Completed ✅ |
+| [`matklad/once_cell`](https://github.com/matklad/once_cell) | `80fe900b` | Completed ✅ |
 
 <!-- END AUTO-UPDATED -->
 
