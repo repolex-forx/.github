@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/.github](https://github.com/repolex-forx/block--.github) | main | 2026-11-21 |
 | [block/ln-invoice](https://github.com/repolex-forx/block--ln-invoice) | v0.0.6 | 2026-11-21 |
 | [block/finch](https://github.com/repolex-forx/block--finch) | main | 2026-11-21 |
 | [block/radiography](https://github.com/repolex-forx/block--radiography) | v2.10 | 2026-11-21 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [jpopesculian/eventsource-stream](https://github.com/repolex-forx/jpopesculian--eventsource-stream) | v0.2.3 | 2026-11-21 |
 | [tokio-rs/valuable](https://github.com/repolex-forx/tokio-rs--valuable) | v0.1.1 | 2026-11-21 |
 | [swc-project/pkgs](https://github.com/repolex-forx/swc-project--pkgs) | v0.0.1 | 2026-11-21 |
-| [block/devkit](https://github.com/repolex-forx/block--devkit) | main | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
