@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/ln-invoice](https://github.com/repolex-forx/block--ln-invoice) | v0.0.6 | 2026-11-21 |
+| [block/finch](https://github.com/repolex-forx/block--finch) | main | 2026-11-21 |
+| [block/radiography](https://github.com/repolex-forx/block--radiography) | v2.10 | 2026-11-21 |
 | [block/etre](https://github.com/repolex-forx/block--etre) | v0.16.1 | 2026-11-21 |
 | [exa-labs/exa-py](https://github.com/repolex-forx/exa-labs--exa-py) | kronos/0.1.8709-hotfix | 2026-11-21 |
 | [block/lhm](https://github.com/repolex-forx/block--lhm) | v0.14.1 | 2026-11-21 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [tokio-rs/valuable](https://github.com/repolex-forx/tokio-rs--valuable) | v0.1.1 | 2026-11-21 |
 | [swc-project/pkgs](https://github.com/repolex-forx/swc-project--pkgs) | v0.0.1 | 2026-11-21 |
 | [block/devkit](https://github.com/repolex-forx/block--devkit) | main | 2026-11-21 |
-| [Kimundi/scoped-threadpool-rs](https://github.com/repolex-forx/Kimundi--scoped-threadpool-rs) | v0.1.7 | 2026-11-21 |
-| [block/bitcoin-augur-benchmarking](https://github.com/repolex-forx/block--bitcoin-augur-benchmarking) | main | 2026-11-21 |
-| [dtolnay/itoa](https://github.com/repolex-forx/dtolnay--itoa) | 1.0.18 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
