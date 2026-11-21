@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/ospo](https://github.com/repolex-forx/block--ospo) | main | 2026-11-21 |
+| [block/oss-project-template](https://github.com/repolex-forx/block--oss-project-template) | main | 2026-11-21 |
+| [facebookresearch/pytorchvideo](https://github.com/repolex-forx/facebookresearch--pytorchvideo) | 0.1.3 | 2026-11-21 |
+| [block/nostrino](https://github.com/repolex-forx/block--nostrino) | nostrino-0.0.7 | 2026-11-21 |
 | [block/.github](https://github.com/repolex-forx/block--.github) | main | 2026-11-21 |
 | [block/ln-invoice](https://github.com/repolex-forx/block--ln-invoice) | v0.0.6 | 2026-11-21 |
 | [block/finch](https://github.com/repolex-forx/block--finch) | main | 2026-11-21 |
 | [block/radiography](https://github.com/repolex-forx/block--radiography) | v2.10 | 2026-11-21 |
 | [block/etre](https://github.com/repolex-forx/block--etre) | v0.16.1 | 2026-11-21 |
 | [exa-labs/exa-py](https://github.com/repolex-forx/exa-labs--exa-py) | kronos/0.1.8709-hotfix | 2026-11-21 |
-| [block/lhm](https://github.com/repolex-forx/block--lhm) | v0.14.1 | 2026-11-21 |
-| [jpopesculian/eventsource-stream](https://github.com/repolex-forx/jpopesculian--eventsource-stream) | v0.2.3 | 2026-11-21 |
-| [tokio-rs/valuable](https://github.com/repolex-forx/tokio-rs--valuable) | v0.1.1 | 2026-11-21 |
-| [swc-project/pkgs](https://github.com/repolex-forx/swc-project--pkgs) | v0.0.1 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
