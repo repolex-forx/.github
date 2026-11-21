@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [liluo/pygments-github-lexers](https://github.com/repolex-forx/liluo--pygments-github-lexers) | v0.01 | 2026-11-21 |
+| [princjef/commitlint-azure-pipelines-cli](https://github.com/repolex-forx/princjef--commitlint-azure-pipelines-cli) | v1.0.5 | 2026-11-21 |
+| [tcmetzger/sphinx-favicon](https://github.com/repolex-forx/tcmetzger--sphinx-favicon) | v1.1.0 | 2026-11-21 |
+| [dryrust/getenv.rs](https://github.com/repolex-forx/dryrust--getenv.rs) | 0.1.2 | 2026-11-21 |
+| [blyxxyz/lexopt](https://github.com/repolex-forx/blyxxyz--lexopt) | v0.3.2 | 2026-11-21 |
 | [samypr100/backports.asyncio.runner](https://github.com/repolex-forx/samypr100--backports.asyncio.runner) | v1.2.0 | 2026-11-21 |
 | [apple/ccs-pykerberos](https://github.com/repolex-forx/apple--ccs-pykerberos) | PyKerberos-1.3.1 | 2026-11-21 |
 | [SergioBenitez/version_check](https://github.com/repolex-forx/SergioBenitez--version_check) | v0.9.5 | 2026-11-21 |
 | [AbstractUmbra/audioop](https://github.com/repolex-forx/AbstractUmbra--audioop) | 0.2.2 | 2026-11-21 |
 | [ionelmc/python-process-tests](https://github.com/repolex-forx/ionelmc--python-process-tests) | v3.0.0 | 2026-11-21 |
-| [kennethreitz/omnijson](https://github.com/repolex-forx/kennethreitz--omnijson) | v0.1.2 | 2026-11-21 |
-| [kvesteri/intervals](https://github.com/repolex-forx/kvesteri--intervals) | 0.9.2 | 2026-11-21 |
-| [coderaiser/fs-copy-file-sync](https://github.com/repolex-forx/coderaiser--fs-copy-file-sync) | v1.1.1 | 2026-11-21 |
-| [tusharsadhwani/pytokens](https://github.com/repolex-forx/tusharsadhwani--pytokens) | 0.4.1 | 2026-11-21 |
-| [aio-libs/sphinxcontrib-asyncio](https://github.com/repolex-forx/aio-libs--sphinxcontrib-asyncio) | v0.3.0 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
