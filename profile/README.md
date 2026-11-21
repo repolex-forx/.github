@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-lang/glob](https://github.com/repolex-forx/rust-lang--glob) | v0.3.4 | 2026-11-21 |
+| [zopefoundation/MultiMapping](https://github.com/repolex-forx/zopefoundation--MultiMapping) | 5.1 | 2026-11-21 |
+| [sphinx-doc/sphinxcontrib-qthelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-qthelp) | 2.0.0 | 2026-11-21 |
+| [alexmojaki/eval_type_backport](https://github.com/repolex-forx/alexmojaki--eval_type_backport) | v0.3.1 | 2026-11-21 |
+| [Actyx/sync_wrapper](https://github.com/repolex-forx/Actyx--sync_wrapper) | v1.0.1 | 2026-11-21 |
 | [sean2077/jsonpath-python](https://github.com/repolex-forx/sean2077--jsonpath-python) | v1.0.5 | 2026-11-21 |
 | [sphinx-doc/sphinxcontrib-devhelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-devhelp) | 2.0.0 | 2026-11-21 |
 | [sphinx-doc/sphinxcontrib-applehelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-applehelp) | 2.0.0 | 2026-11-21 |
 | [conduit-rust/conduit-git-http-backend](https://github.com/repolex-forx/conduit-rust--conduit-git-http-backend) | v0.10.0 | 2026-11-21 |
 | [jtgeibel/rust-civet](https://github.com/repolex-forx/jtgeibel--rust-civet) | v0.12.0-alpha.0 | 2026-11-21 |
-| [chrisjsewell/markdown-it-pyrs](https://github.com/repolex-forx/chrisjsewell--markdown-it-pyrs) | v0.4.0 | 2026-11-21 |
-| [smol-rs/atomic-waker](https://github.com/repolex-forx/smol-rs--atomic-waker) | v1.1.2 | 2026-11-21 |
-| [seanmonstar/spmc](https://github.com/repolex-forx/seanmonstar--spmc) | v0.3.0 | 2026-11-21 |
-| [zkat/supports-unicode](https://github.com/repolex-forx/zkat--supports-unicode) | v3.0.0 | 2026-11-21 |
-| [bluss/bencher](https://github.com/repolex-forx/bluss--bencher) | 0.1.5 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
