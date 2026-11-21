@@ -32,24 +32,18 @@ rlex download repolex-ai/rlex
 ## Recently Parsed
 
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
-### 📊 Live Index Statistics
-- **Total Indexed Repositories**: **5,005**
-- **Catalog Strategy**: Strictly WIDE (1 latest HEAD release per unique repo)
-- **Local Compute Spend**: **$0.00** (100% GitHub Actions Free Cloud Runners)
-
-### 🚀 Recently Indexed Repositories (Latest Wave)
-| Repository | Commit | Status |
-| :--- | :--- | :--- |
-| [`rails/rails`](https://github.com/rails/rails) | `126d0d64` | Completed ✅ |
-| [`google/eslint-config-google`](https://github.com/google/eslint-config-google) | `0273839f` | Completed ✅ |
-| [`strawlab/iana-time-zone`](https://github.com/strawlab/iana-time-zone) | `c6fe5ec5` | Completed ✅ |
-| [`zubairehman/flutter_boilerplate_project`](https://github.com/zubairehman/flutter_boilerplate_project) | `70657cd1` | Completed ✅ |
-| [`softwaremill/macwire`](https://github.com/softwaremill/macwire) | `10571d59` | Completed ✅ |
-| [`brandonlw/Psychson`](https://github.com/brandonlw/Psychson) | `4522989a` | Completed ✅ |
-| [`amitshekhariitbhu/RxJava2-Android-Samples`](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) | `74693e26` | Completed ✅ |
-| [`total-typescript/ts-reset`](https://github.com/total-typescript/ts-reset) | `81b3b261` | Completed ✅ |
-| [`rubocop/rubocop-rubycw`](https://github.com/rubocop/rubocop-rubycw) | `ac73b642` | Completed ✅ |
-
+| Data Source | Tag | Parsed |
+|-------------|-----|--------|
+| [dryrust/jq.rs](https://github.com/repolex-forx/dryrust--jq.rs) | 0.1.0 | 2026-11-21 |
+| [GuillaumeGomez/doc-comment](https://github.com/repolex-forx/GuillaumeGomez--doc-comment) | v0.3.4 | 2026-11-21 |
+| [baoyachi/rust_is_debug](https://github.com/repolex-forx/baoyachi--rust_is_debug) | v1.1.0 | 2026-11-21 |
+| [timmywil/grunt-npmcopy](https://github.com/repolex-forx/timmywil--grunt-npmcopy) | 0.2.0 | 2026-11-21 |
+| [kennethreitz/envoy](https://github.com/repolex-forx/kennethreitz--envoy) | v0.0.2 | 2026-11-21 |
+| [rails/rails](https://github.com/repolex-forx/rails--rails) | `126d0d64d5` | 2026-11-10 |
+| [softwaremill/macwire](https://github.com/repolex-forx/softwaremill--macwire) | `10571d5991` | 2026-11-10 |
+| [zubairehman/flutter_boilerplate_project](https://github.com/repolex-forx/zubairehman--flutter_boilerplate_project) | `70657cd1e7` | 2026-11-10 |
+| [total-typescript/ts-reset](https://github.com/repolex-forx/total-typescript--ts-reset) | `81b3b2614a` | 2026-11-10 |
+| [rubocop/rubocop-rubycw](https://github.com/repolex-forx/rubocop--rubocop-rubycw) | `ac73b642d6` | 2026-11-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
