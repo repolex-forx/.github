@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [kvesteri/intervals](https://github.com/repolex-forx/kvesteri--intervals) | 0.9.2 | 2026-11-21 |
+| [coderaiser/fs-copy-file-sync](https://github.com/repolex-forx/coderaiser--fs-copy-file-sync) | v1.1.1 | 2026-11-21 |
+| [tusharsadhwani/pytokens](https://github.com/repolex-forx/tusharsadhwani--pytokens) | 0.4.1 | 2026-11-21 |
 | [aio-libs/sphinxcontrib-asyncio](https://github.com/repolex-forx/aio-libs--sphinxcontrib-asyncio) | v0.3.0 | 2026-11-21 |
 | [Python-Markdown/github-links](https://github.com/repolex-forx/Python-Markdown--github-links) | 0.4 | 2026-11-21 |
 | [explosion/spacy-loggers](https://github.com/repolex-forx/explosion--spacy-loggers) | v1.0.5 | 2026-11-21 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [block/stoic](https://github.com/repolex-forx/block--stoic) | v0.9.1 | 2026-11-21 |
 | [explosion/ml-datasets](https://github.com/repolex-forx/explosion--ml-datasets) | v0.2.0 | 2026-11-21 |
 | [block/quiver](https://github.com/repolex-forx/block--quiver) | v1.0.5 | 2026-11-21 |
-| [block/kotlin-formatter](https://github.com/repolex-forx/block--kotlin-formatter) | 1.8.0 | 2026-11-21 |
-| [rust-lang/rustc-hash](https://github.com/repolex-forx/rust-lang--rustc-hash) | v2.1.2 | 2026-11-21 |
-| [ActiveState/appdirs](https://github.com/repolex-forx/ActiveState--appdirs) | 1.4.4 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
