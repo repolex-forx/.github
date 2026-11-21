@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [apple/ccs-pykerberos](https://github.com/repolex-forx/apple--ccs-pykerberos) | PyKerberos-1.3.1 | 2026-11-21 |
+| [SergioBenitez/version_check](https://github.com/repolex-forx/SergioBenitez--version_check) | v0.9.5 | 2026-11-21 |
+| [AbstractUmbra/audioop](https://github.com/repolex-forx/AbstractUmbra--audioop) | 0.2.2 | 2026-11-21 |
+| [ionelmc/python-process-tests](https://github.com/repolex-forx/ionelmc--python-process-tests) | v3.0.0 | 2026-11-21 |
+| [kennethreitz/omnijson](https://github.com/repolex-forx/kennethreitz--omnijson) | v0.1.2 | 2026-11-21 |
 | [kvesteri/intervals](https://github.com/repolex-forx/kvesteri--intervals) | 0.9.2 | 2026-11-21 |
 | [coderaiser/fs-copy-file-sync](https://github.com/repolex-forx/coderaiser--fs-copy-file-sync) | v1.1.1 | 2026-11-21 |
 | [tusharsadhwani/pytokens](https://github.com/repolex-forx/tusharsadhwani--pytokens) | 0.4.1 | 2026-11-21 |
 | [aio-libs/sphinxcontrib-asyncio](https://github.com/repolex-forx/aio-libs--sphinxcontrib-asyncio) | v0.3.0 | 2026-11-21 |
 | [Python-Markdown/github-links](https://github.com/repolex-forx/Python-Markdown--github-links) | 0.4 | 2026-11-21 |
-| [explosion/spacy-loggers](https://github.com/repolex-forx/explosion--spacy-loggers) | v1.0.5 | 2026-11-21 |
-| [fastapi/annotated-doc](https://github.com/repolex-forx/fastapi--annotated-doc) | 0.0.4 | 2026-11-21 |
-| [block/stoic](https://github.com/repolex-forx/block--stoic) | v0.9.1 | 2026-11-21 |
-| [explosion/ml-datasets](https://github.com/repolex-forx/explosion--ml-datasets) | v0.2.0 | 2026-11-21 |
-| [block/quiver](https://github.com/repolex-forx/block--quiver) | v1.0.5 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
