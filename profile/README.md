@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/devkit](https://github.com/repolex-forx/block--devkit) | main | 2026-11-21 |
+| [Kimundi/scoped-threadpool-rs](https://github.com/repolex-forx/Kimundi--scoped-threadpool-rs) | v0.1.7 | 2026-11-21 |
+| [block/bitcoin-augur-benchmarking](https://github.com/repolex-forx/block--bitcoin-augur-benchmarking) | main | 2026-11-21 |
+| [dtolnay/itoa](https://github.com/repolex-forx/dtolnay--itoa) | 1.0.18 | 2026-11-21 |
+| [block/deplock](https://github.com/repolex-forx/block--deplock) | v0.1.1 | 2026-11-21 |
+| [block/goose-discord](https://github.com/repolex-forx/block--goose-discord) | main | 2026-11-21 |
+| [abonander/mime_guess](https://github.com/repolex-forx/abonander--mime_guess) | 1.8.0 | 2026-11-21 |
 | [dryrust/jq.rs](https://github.com/repolex-forx/dryrust--jq.rs) | 0.1.0 | 2026-11-21 |
 | [GuillaumeGomez/doc-comment](https://github.com/repolex-forx/GuillaumeGomez--doc-comment) | v0.3.4 | 2026-11-21 |
 | [baoyachi/rust_is_debug](https://github.com/repolex-forx/baoyachi--rust_is_debug) | v1.1.0 | 2026-11-21 |
-| [timmywil/grunt-npmcopy](https://github.com/repolex-forx/timmywil--grunt-npmcopy) | 0.2.0 | 2026-11-21 |
-| [kennethreitz/envoy](https://github.com/repolex-forx/kennethreitz--envoy) | v0.0.2 | 2026-11-21 |
-| [rails/rails](https://github.com/repolex-forx/rails--rails) | `126d0d64d5` | 2026-11-10 |
-| [softwaremill/macwire](https://github.com/repolex-forx/softwaremill--macwire) | `10571d5991` | 2026-11-10 |
-| [zubairehman/flutter_boilerplate_project](https://github.com/repolex-forx/zubairehman--flutter_boilerplate_project) | `70657cd1e7` | 2026-11-10 |
-| [total-typescript/ts-reset](https://github.com/repolex-forx/total-typescript--ts-reset) | `81b3b2614a` | 2026-11-10 |
-| [rubocop/rubocop-rubycw](https://github.com/repolex-forx/rubocop--rubocop-rubycw) | `ac73b642d6` | 2026-11-10 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
