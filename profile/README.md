@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [samypr100/backports.asyncio.runner](https://github.com/repolex-forx/samypr100--backports.asyncio.runner) | v1.2.0 | 2026-11-21 |
 | [apple/ccs-pykerberos](https://github.com/repolex-forx/apple--ccs-pykerberos) | PyKerberos-1.3.1 | 2026-11-21 |
 | [SergioBenitez/version_check](https://github.com/repolex-forx/SergioBenitez--version_check) | v0.9.5 | 2026-11-21 |
 | [AbstractUmbra/audioop](https://github.com/repolex-forx/AbstractUmbra--audioop) | 0.2.2 | 2026-11-21 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [coderaiser/fs-copy-file-sync](https://github.com/repolex-forx/coderaiser--fs-copy-file-sync) | v1.1.1 | 2026-11-21 |
 | [tusharsadhwani/pytokens](https://github.com/repolex-forx/tusharsadhwani--pytokens) | 0.4.1 | 2026-11-21 |
 | [aio-libs/sphinxcontrib-asyncio](https://github.com/repolex-forx/aio-libs--sphinxcontrib-asyncio) | v0.3.0 | 2026-11-21 |
-| [Python-Markdown/github-links](https://github.com/repolex-forx/Python-Markdown--github-links) | 0.4 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
