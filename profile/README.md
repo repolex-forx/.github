@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [enthought/pywin32-ctypes](https://github.com/repolex-forx/enthought--pywin32-ctypes) | v0.2.3 | 2026-11-21 |
 | [rust-lang/glob](https://github.com/repolex-forx/rust-lang--glob) | v0.3.4 | 2026-11-21 |
 | [zopefoundation/MultiMapping](https://github.com/repolex-forx/zopefoundation--MultiMapping) | 5.1 | 2026-11-21 |
 | [sphinx-doc/sphinxcontrib-qthelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-qthelp) | 2.0.0 | 2026-11-21 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [sphinx-doc/sphinxcontrib-devhelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-devhelp) | 2.0.0 | 2026-11-21 |
 | [sphinx-doc/sphinxcontrib-applehelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-applehelp) | 2.0.0 | 2026-11-21 |
 | [conduit-rust/conduit-git-http-backend](https://github.com/repolex-forx/conduit-rust--conduit-git-http-backend) | v0.10.0 | 2026-11-21 |
-| [jtgeibel/rust-civet](https://github.com/repolex-forx/jtgeibel--rust-civet) | v0.12.0-alpha.0 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
