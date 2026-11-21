@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/lhm](https://github.com/repolex-forx/block--lhm) | v0.14.1 | 2026-11-21 |
+| [jpopesculian/eventsource-stream](https://github.com/repolex-forx/jpopesculian--eventsource-stream) | v0.2.3 | 2026-11-21 |
+| [tokio-rs/valuable](https://github.com/repolex-forx/tokio-rs--valuable) | v0.1.1 | 2026-11-21 |
+| [swc-project/pkgs](https://github.com/repolex-forx/swc-project--pkgs) | v0.0.1 | 2026-11-21 |
 | [block/devkit](https://github.com/repolex-forx/block--devkit) | main | 2026-11-21 |
 | [Kimundi/scoped-threadpool-rs](https://github.com/repolex-forx/Kimundi--scoped-threadpool-rs) | v0.1.7 | 2026-11-21 |
 | [block/bitcoin-augur-benchmarking](https://github.com/repolex-forx/block--bitcoin-augur-benchmarking) | main | 2026-11-21 |
 | [dtolnay/itoa](https://github.com/repolex-forx/dtolnay--itoa) | 1.0.18 | 2026-11-21 |
 | [block/deplock](https://github.com/repolex-forx/block--deplock) | v0.1.1 | 2026-11-21 |
 | [block/goose-discord](https://github.com/repolex-forx/block--goose-discord) | main | 2026-11-21 |
-| [abonander/mime_guess](https://github.com/repolex-forx/abonander--mime_guess) | 1.8.0 | 2026-11-21 |
-| [dryrust/jq.rs](https://github.com/repolex-forx/dryrust--jq.rs) | 0.1.0 | 2026-11-21 |
-| [GuillaumeGomez/doc-comment](https://github.com/repolex-forx/GuillaumeGomez--doc-comment) | v0.3.4 | 2026-11-21 |
-| [baoyachi/rust_is_debug](https://github.com/repolex-forx/baoyachi--rust_is_debug) | v1.1.0 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
