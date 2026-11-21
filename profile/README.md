@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zkat/supports-unicode](https://github.com/repolex-forx/zkat--supports-unicode) | v3.0.0 | 2026-11-21 |
 | [bluss/bencher](https://github.com/repolex-forx/bluss--bencher) | 0.1.5 | 2026-11-21 |
 | [workhorsy/py-cpuinfo](https://github.com/repolex-forx/workhorsy--py-cpuinfo) | v9.0.0 | 2026-11-21 |
 | [rust-cli/roff-rs](https://github.com/repolex-forx/rust-cli--roff-rs) | v1.1.1 | 2026-11-21 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [dryrust/getenv.rs](https://github.com/repolex-forx/dryrust--getenv.rs) | 0.1.2 | 2026-11-21 |
 | [blyxxyz/lexopt](https://github.com/repolex-forx/blyxxyz--lexopt) | v0.3.2 | 2026-11-21 |
 | [samypr100/backports.asyncio.runner](https://github.com/repolex-forx/samypr100--backports.asyncio.runner) | v1.2.0 | 2026-11-21 |
-| [apple/ccs-pykerberos](https://github.com/repolex-forx/apple--ccs-pykerberos) | PyKerberos-1.3.1 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
