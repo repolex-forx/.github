@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [bluss/bencher](https://github.com/repolex-forx/bluss--bencher) | 0.1.5 | 2026-11-21 |
+| [workhorsy/py-cpuinfo](https://github.com/repolex-forx/workhorsy--py-cpuinfo) | v9.0.0 | 2026-11-21 |
+| [rust-cli/roff-rs](https://github.com/repolex-forx/rust-cli--roff-rs) | v1.1.1 | 2026-11-21 |
 | [liluo/pygments-github-lexers](https://github.com/repolex-forx/liluo--pygments-github-lexers) | v0.01 | 2026-11-21 |
 | [princjef/commitlint-azure-pipelines-cli](https://github.com/repolex-forx/princjef--commitlint-azure-pipelines-cli) | v1.0.5 | 2026-11-21 |
 | [tcmetzger/sphinx-favicon](https://github.com/repolex-forx/tcmetzger--sphinx-favicon) | v1.1.0 | 2026-11-21 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [blyxxyz/lexopt](https://github.com/repolex-forx/blyxxyz--lexopt) | v0.3.2 | 2026-11-21 |
 | [samypr100/backports.asyncio.runner](https://github.com/repolex-forx/samypr100--backports.asyncio.runner) | v1.2.0 | 2026-11-21 |
 | [apple/ccs-pykerberos](https://github.com/repolex-forx/apple--ccs-pykerberos) | PyKerberos-1.3.1 | 2026-11-21 |
-| [SergioBenitez/version_check](https://github.com/repolex-forx/SergioBenitez--version_check) | v0.9.5 | 2026-11-21 |
-| [AbstractUmbra/audioop](https://github.com/repolex-forx/AbstractUmbra--audioop) | 0.2.2 | 2026-11-21 |
-| [ionelmc/python-process-tests](https://github.com/repolex-forx/ionelmc--python-process-tests) | v3.0.0 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
