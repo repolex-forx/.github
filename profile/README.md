@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/stoic](https://github.com/repolex-forx/block--stoic) | v0.9.1 | 2026-11-21 |
+| [explosion/ml-datasets](https://github.com/repolex-forx/explosion--ml-datasets) | v0.2.0 | 2026-11-21 |
 | [block/quiver](https://github.com/repolex-forx/block--quiver) | v1.0.5 | 2026-11-21 |
 | [block/kotlin-formatter](https://github.com/repolex-forx/block--kotlin-formatter) | 1.8.0 | 2026-11-21 |
 | [rust-lang/rustc-hash](https://github.com/repolex-forx/rust-lang--rustc-hash) | v2.1.2 | 2026-11-21 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [block/example-jvm-maven](https://github.com/repolex-forx/block--example-jvm-maven) | v0.2.0-alpha-2 | 2026-11-21 |
 | [block/ospo](https://github.com/repolex-forx/block--ospo) | main | 2026-11-21 |
 | [block/oss-project-template](https://github.com/repolex-forx/block--oss-project-template) | main | 2026-11-21 |
-| [facebookresearch/pytorchvideo](https://github.com/repolex-forx/facebookresearch--pytorchvideo) | 0.1.3 | 2026-11-21 |
-| [block/nostrino](https://github.com/repolex-forx/block--nostrino) | nostrino-0.0.7 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
