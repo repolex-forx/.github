@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/etre](https://github.com/repolex-forx/block--etre) | v0.16.1 | 2026-11-21 |
 | [exa-labs/exa-py](https://github.com/repolex-forx/exa-labs--exa-py) | kronos/0.1.8709-hotfix | 2026-11-21 |
 | [block/lhm](https://github.com/repolex-forx/block--lhm) | v0.14.1 | 2026-11-21 |
 | [jpopesculian/eventsource-stream](https://github.com/repolex-forx/jpopesculian--eventsource-stream) | v0.2.3 | 2026-11-21 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [Kimundi/scoped-threadpool-rs](https://github.com/repolex-forx/Kimundi--scoped-threadpool-rs) | v0.1.7 | 2026-11-21 |
 | [block/bitcoin-augur-benchmarking](https://github.com/repolex-forx/block--bitcoin-augur-benchmarking) | main | 2026-11-21 |
 | [dtolnay/itoa](https://github.com/repolex-forx/dtolnay--itoa) | 1.0.18 | 2026-11-21 |
-| [block/deplock](https://github.com/repolex-forx/block--deplock) | v0.1.1 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
