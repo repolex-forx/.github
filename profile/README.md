@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dtolnay/unsafe-libyaml](https://github.com/repolex-forx/dtolnay--unsafe-libyaml) | 0.2.11 | 2026-11-22 |
 | [cecton/pure-rust-locales](https://github.com/repolex-forx/cecton--pure-rust-locales) | v0.8.2 | 2026-11-22 |
 | [dtolnay/build-alert](https://github.com/repolex-forx/dtolnay--build-alert) | 0.1.8 | 2026-11-22 |
 | [python-telegram-bot/python-telegram-bot](https://github.com/repolex-forx/python-telegram-bot--python-telegram-bot) | v22.7 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [mitsuhiko/similar-asserts](https://github.com/repolex-forx/mitsuhiko--similar-asserts) | 2.0.0 | 2026-11-22 |
 | [stub42/pytz](https://github.com/repolex-forx/stub42--pytz) | release_2026.3 | 2026-11-22 |
 | [knurling-rs/defmt](https://github.com/repolex-forx/knurling-rs--defmt) | v0.2.0-with-qemu-run-ignore-version | 2026-11-22 |
-| [rust-fuzz/arbitrary](https://github.com/repolex-forx/rust-fuzz--arbitrary) | v1.4.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
