@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/tempora](https://github.com/repolex-forx/jaraco--tempora) | v5.8.1 | 2026-11-22 |
+| [jaraco/jaraco.functools](https://github.com/repolex-forx/jaraco--jaraco.functools) | v4.4.0 | 2026-11-22 |
 | [BurntSushi/bstr](https://github.com/repolex-forx/BurntSushi--bstr) | 1.12.1 | 2026-11-22 |
 | [explosion/wasabi](https://github.com/repolex-forx/explosion--wasabi) | v1.1.3 | 2026-11-22 |
 | [PyCQA/pyflakes](https://github.com/repolex-forx/PyCQA--pyflakes) | 3.4.0 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [explosion/cymem](https://github.com/repolex-forx/explosion--cymem) | v2.0.9a13 | 2026-11-22 |
 | [colin-kiegel/rust-derive-builder](https://github.com/repolex-forx/colin-kiegel--rust-derive-builder) | v0.20.2 | 2026-11-22 |
 | [realpython/pytest-mypy](https://github.com/repolex-forx/realpython--pytest-mypy) | v1.0.1 | 2026-11-22 |
-| [rust-num/num-bigint](https://github.com/repolex-forx/rust-num--num-bigint) | num-bigint-0.4.6 | 2026-11-22 |
-| [zopefoundation/zope.configuration](https://github.com/repolex-forx/zopefoundation--zope.configuration) | 7.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
