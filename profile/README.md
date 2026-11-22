@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/jaraco.packaging](https://github.com/repolex-forx/jaraco--jaraco.packaging) | v10.4.0 | 2026-11-22 |
 | [pradyunsg/furo](https://github.com/repolex-forx/pradyunsg--furo) | 2025.12.19 | 2026-11-22 |
 | [pypa/wheel](https://github.com/repolex-forx/pypa--wheel) | 0.46.3 | 2026-11-22 |
 | [mrabarnett/mrab-regex](https://github.com/repolex-forx/mrabarnett--mrab-regex) | 2026.4.4 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [explosion/thinc](https://github.com/repolex-forx/explosion--thinc) | v9.1.1.dev0 | 2026-11-22 |
 | [open-source-cooperative/keyring-rs](https://github.com/repolex-forx/open-source-cooperative--keyring-rs) | v4.0.0-rc.3 | 2026-11-22 |
 | [PyCQA/flake8](https://github.com/repolex-forx/PyCQA--flake8) | 7.3.0 | 2026-11-22 |
-| [aio-libs/yarl](https://github.com/repolex-forx/aio-libs--yarl) | v1.23.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
