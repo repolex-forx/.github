@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [mgeisler/textwrap](https://github.com/repolex-forx/mgeisler--textwrap) | 0.16.2 | 2026-11-22 |
+| [rust-lang/backtrace-rs](https://github.com/repolex-forx/rust-lang--backtrace-rs) | backtrace-v0.3.76 | 2026-11-22 |
 | [dtolnay/semver](https://github.com/repolex-forx/dtolnay--semver) | 1.0.28 | 2026-11-22 |
 | [rust-lang-nursery/lazy-static.rs](https://github.com/repolex-forx/rust-lang-nursery--lazy-static.rs) | 1.5.0 | 2026-11-22 |
 | [zkat/supports-color](https://github.com/repolex-forx/zkat--supports-color) | v3.0.2 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [jaraco/pytest-home](https://github.com/repolex-forx/jaraco--pytest-home) | v0.6.0 | 2026-11-22 |
 | [jaraco/jaraco.envs](https://github.com/repolex-forx/jaraco--jaraco.envs) | v2.6.0 | 2026-11-22 |
 | [aklajnert/pytest-subprocess](https://github.com/repolex-forx/aklajnert--pytest-subprocess) | 1.5.4 | 2026-11-22 |
-| [jaraco/jaraco.test](https://github.com/repolex-forx/jaraco--jaraco.test) | v5.6.0 | 2026-11-22 |
-| [sphinx-contrib/sphinxcontrib-towncrier](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-towncrier) | v0.5.0a0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
