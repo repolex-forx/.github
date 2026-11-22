@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pytorch/data](https://github.com/repolex-forx/pytorch--data) | xl-tm-sd-v1 | 2026-11-22 |
 | [mayeut/pybase64](https://github.com/repolex-forx/mayeut--pybase64) | v1.4.3 | 2026-11-22 |
 | [pytorch/text](https://github.com/repolex-forx/pytorch--text) | v1.8-rc1 | 2026-11-22 |
 | [rogdham/backports.zstd](https://github.com/repolex-forx/rogdham--backports.zstd) | v1.3.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pyodide/pyodide](https://github.com/repolex-forx/pyodide--pyodide) | v0.1.7 | 2026-11-22 |
 | [lxml/lxml-stubs](https://github.com/repolex-forx/lxml--lxml-stubs) | 0.5.1 | 2026-11-22 |
 | [pytorch/audio](https://github.com/repolex-forx/pytorch--audio) | v2.11.0-rc5 | 2026-11-22 |
-| [ifduyue/python-xxhash](https://github.com/repolex-forx/ifduyue--python-xxhash) | v3.6.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
