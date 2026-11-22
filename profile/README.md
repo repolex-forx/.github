@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [spatialaudio/python-sounddevice](https://github.com/repolex-forx/spatialaudio--python-sounddevice) | 0.5.5 | 2026-11-22 |
+| [PyMySQL/PyMySQL](https://github.com/repolex-forx/PyMySQL--PyMySQL) | v1.1.2 | 2026-11-22 |
 | [Ezibenroc/PyRoaringBitMap](https://github.com/repolex-forx/Ezibenroc--PyRoaringBitMap) | 1.0.4 | 2026-11-22 |
 | [near/near-cli-rs](https://github.com/repolex-forx/near--near-cli-rs) | v0.25.0 | 2026-11-22 |
 | [jaraco/jaraco.packaging](https://github.com/repolex-forx/jaraco--jaraco.packaging) | v10.4.0 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [mrabarnett/mrab-regex](https://github.com/repolex-forx/mrabarnett--mrab-regex) | 2026.4.4 | 2026-11-22 |
 | [zopefoundation/zope.interface](https://github.com/repolex-forx/zopefoundation--zope.interface) | 8.3 | 2026-11-22 |
 | [pyca/pyopenssl](https://github.com/repolex-forx/pyca--pyopenssl) | v0.14a1 | 2026-11-22 |
-| [joerick/pyinstrument](https://github.com/repolex-forx/joerick--pyinstrument) | v5.1.2 | 2026-11-22 |
-| [explosion/thinc](https://github.com/repolex-forx/explosion--thinc) | v9.1.1.dev0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
