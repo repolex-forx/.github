@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ratatui/ansi-to-tui](https://github.com/repolex-forx/ratatui--ansi-to-tui) | v8.0.1 | 2026-11-22 |
 | [oconnor663/duct.rs](https://github.com/repolex-forx/oconnor663--duct.rs) | 1.1.1 | 2026-11-22 |
 | [googleapis/python-bigquery](https://github.com/repolex-forx/googleapis--python-bigquery) | v3.40.1 | 2026-11-22 |
 | [ratatui/line-clipping](https://github.com/repolex-forx/ratatui--line-clipping) | v0.3.7 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [bytecodealliance/rustix](https://github.com/repolex-forx/bytecodealliance--rustix) | v1.1.4 | 2026-11-22 |
 | [near/near-abi-rs](https://github.com/repolex-forx/near--near-abi-rs) | v0.3.0 | 2026-11-22 |
 | [near/near-jsonrpc-client-rs](https://github.com/repolex-forx/near--near-jsonrpc-client-rs) | v0.21.0 | 2026-11-22 |
-| [near/near-sdk-rs](https://github.com/repolex-forx/near--near-sdk-rs) | v2.0.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
