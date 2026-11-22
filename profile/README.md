@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [executablebooks/sphinx-book-theme](https://github.com/repolex-forx/executablebooks--sphinx-book-theme) | v1.2.0 | 2026-11-22 |
 | [Ethiraric/yaml-rust2](https://github.com/repolex-forx/Ethiraric--yaml-rust2) | v0.11.0 | 2026-11-22 |
 | [jupyter/jupyter-sphinx](https://github.com/repolex-forx/jupyter--jupyter-sphinx) | v0.5.3 | 2026-11-22 |
 | [taiki-e/pin-project-lite](https://github.com/repolex-forx/taiki-e--pin-project-lite) | v0.2.17 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [googleapis/python-bigquery](https://github.com/repolex-forx/googleapis--python-bigquery) | v3.40.1 | 2026-11-22 |
 | [ratatui/line-clipping](https://github.com/repolex-forx/ratatui--line-clipping) | v0.3.7 | 2026-11-22 |
 | [dtolnay/async-trait](https://github.com/repolex-forx/dtolnay--async-trait) | 0.1.89 | 2026-11-22 |
-| [Nullus157/bs58-rs](https://github.com/repolex-forx/Nullus157--bs58-rs) | cli-0.1.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
