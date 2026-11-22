@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [elevenlabs/elevenlabs-python](https://github.com/repolex-forx/elevenlabs--elevenlabs-python) | v2.43.0 | 2026-11-22 |
 | [mcountryman/simd-adler32](https://github.com/repolex-forx/mcountryman--simd-adler32) | v0.3.10 | 2026-11-22 |
 | [BurntSushi/same-file](https://github.com/repolex-forx/BurntSushi--same-file) | 1.0.6 | 2026-11-22 |
 | [ipython/ipykernel](https://github.com/repolex-forx/ipython--ipykernel) | v7.2.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [mongodb/bson-rust](https://github.com/repolex-forx/mongodb--bson-rust) | v3.1.0 | 2026-11-22 |
 | [executablebooks/mdit-py-plugins](https://github.com/repolex-forx/executablebooks--mdit-py-plugins) | v0.5.0 | 2026-11-22 |
 | [executablebooks/sphinx-design](https://github.com/repolex-forx/executablebooks--sphinx-design) | v0.7.0 | 2026-11-22 |
-| [executablebooks/sphinx-book-theme](https://github.com/repolex-forx/executablebooks--sphinx-book-theme) | v1.2.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
