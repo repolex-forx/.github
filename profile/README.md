@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [seanmonstar/httparse](https://github.com/repolex-forx/seanmonstar--httparse) | v1.10.1 | 2026-11-22 |
+| [seanmonstar/pretty-env-logger](https://github.com/repolex-forx/seanmonstar--pretty-env-logger) | v0.5.0 | 2026-11-22 |
 | [pydantic/httpx2](https://github.com/repolex-forx/pydantic--httpx2) | v2.13.0 | 2026-11-22 |
 | [seanmonstar/want](https://github.com/repolex-forx/seanmonstar--want) | v0.3.1 | 2026-11-22 |
 | [rkyv/rkyv](https://github.com/repolex-forx/rkyv--rkyv) | v0.7.43 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [dtolnay/build-alert](https://github.com/repolex-forx/dtolnay--build-alert) | 0.1.8 | 2026-11-22 |
 | [python-telegram-bot/python-telegram-bot](https://github.com/repolex-forx/python-telegram-bot--python-telegram-bot) | v22.7 | 2026-11-22 |
 | [dtolnay/ryu](https://github.com/repolex-forx/dtolnay--ryu) | 1.0.23 | 2026-11-22 |
-| [BurntSushi/termcolor](https://github.com/repolex-forx/BurntSushi--termcolor) | wincolor-1.0.2 | 2026-11-22 |
-| [composefs/tar-rs](https://github.com/repolex-forx/composefs--tar-rs) | v0.4.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
