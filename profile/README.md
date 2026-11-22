@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-doc/sphinxcontrib-websupport](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-websupport) | 2.0.0 | 2026-11-22 |
+| [pytest-dev/pytest-timeout](https://github.com/repolex-forx/pytest-dev--pytest-timeout) | 2.4.0 | 2026-11-22 |
+| [pradyunsg/sphinx-inline-tabs](https://github.com/repolex-forx/pradyunsg--sphinx-inline-tabs) | 2025.12.21.14 | 2026-11-22 |
+| [oprypin/mkdocs-section-index](https://github.com/repolex-forx/oprypin--mkdocs-section-index) | v0.3.11 | 2026-11-22 |
+| [oprypin/mkdocs-gen-files](https://github.com/repolex-forx/oprypin--mkdocs-gen-files) | v0.6.1 | 2026-11-22 |
+| [mpkocher/pydantic-cli](https://github.com/repolex-forx/mpkocher--pydantic-cli) | v10.0.0 | 2026-11-22 |
 | [aio-libs/aiosignal](https://github.com/repolex-forx/aio-libs--aiosignal) | v1.4.0 | 2026-11-22 |
 | [zopefoundation/zope.size](https://github.com/repolex-forx/zopefoundation--zope.size) | 6.0 | 2026-11-22 |
 | [zopefoundation/zope.browserpage](https://github.com/repolex-forx/zopefoundation--zope.browserpage) | 6.0 | 2026-11-22 |
 | [zopefoundation/zope.globalrequest](https://github.com/repolex-forx/zopefoundation--zope.globalrequest) | 3.0 | 2026-11-22 |
-| [explosion/weasel](https://github.com/repolex-forx/explosion--weasel) | v0.4.1 | 2026-11-22 |
-| [zopefoundation/zope.browsermenu](https://github.com/repolex-forx/zopefoundation--zope.browsermenu) | 6.0 | 2026-11-22 |
-| [zopefoundation/zExceptions](https://github.com/repolex-forx/zopefoundation--zExceptions) | 6.0 | 2026-11-22 |
-| [python-trio/pytest-trio](https://github.com/repolex-forx/python-trio--pytest-trio) | v0.8.0 | 2026-11-22 |
-| [dtolnay/serde-untagged](https://github.com/repolex-forx/dtolnay--serde-untagged) | 0.1.9 | 2026-11-22 |
-| [Peternator7/strum](https://github.com/repolex-forx/Peternator7--strum) | v0.28.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
