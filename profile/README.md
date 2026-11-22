@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.i18n](https://github.com/repolex-forx/zopefoundation--zope.i18n) | backups/monolithic-zope3@75140 | 2026-11-22 |
 | [explosion/cymem](https://github.com/repolex-forx/explosion--cymem) | v2.0.9a13 | 2026-11-22 |
 | [colin-kiegel/rust-derive-builder](https://github.com/repolex-forx/colin-kiegel--rust-derive-builder) | v0.20.2 | 2026-11-22 |
 | [realpython/pytest-mypy](https://github.com/repolex-forx/realpython--pytest-mypy) | v1.0.1 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [zopefoundation/zope.pagetemplate](https://github.com/repolex-forx/zopefoundation--zope.pagetemplate) | backups/monolithic-zope3@75158 | 2026-11-22 |
 | [zopefoundation/transaction](https://github.com/repolex-forx/zopefoundation--transaction) | 5.1 | 2026-11-22 |
 | [zopefoundation/zope.exceptions](https://github.com/repolex-forx/zopefoundation--zope.exceptions) | 6.0 | 2026-11-22 |
-| [zopefoundation/DocumentTemplate](https://github.com/repolex-forx/zopefoundation--DocumentTemplate) | 5.3 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
