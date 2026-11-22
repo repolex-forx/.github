@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pypa/virtualenv](https://github.com/repolex-forx/pypa--virtualenv) | 21.2.3 | 2026-11-22 |
 | [apache/datafusion-python](https://github.com/repolex-forx/apache--datafusion-python) | ci-release-mode-rc1 | 2026-11-22 |
 | [scikit-learn/scikit-learn](https://github.com/repolex-forx/scikit-learn--scikit-learn) | sprint01 | 2026-11-22 |
 | [zopefoundation/ZODB](https://github.com/repolex-forx/zopefoundation--ZODB) | new-doc | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pyca/pynacl](https://github.com/repolex-forx/pyca--pynacl) | v0.3.0 | 2026-11-22 |
 | [indygreg/python-zstandard](https://github.com/repolex-forx/indygreg--python-zstandard) | 0.25.0 | 2026-11-22 |
 | [spatialaudio/python-sounddevice](https://github.com/repolex-forx/spatialaudio--python-sounddevice) | 0.5.5 | 2026-11-22 |
-| [PyMySQL/PyMySQL](https://github.com/repolex-forx/PyMySQL--PyMySQL) | v1.1.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
