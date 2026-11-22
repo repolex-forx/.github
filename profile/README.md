@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-fuzz/honggfuzz-rs](https://github.com/repolex-forx/rust-fuzz--honggfuzz-rs) | v0.5.60 | 2026-11-22 |
 | [rust-pretty-assertions/rust-pretty-assertions](https://github.com/repolex-forx/rust-pretty-assertions--rust-pretty-assertions) | v1.4.1 | 2026-11-22 |
 | [serde-rs/test](https://github.com/repolex-forx/serde-rs--test) | 1.0.177 | 2026-11-22 |
 | [harryfei/which-rs](https://github.com/repolex-forx/harryfei--which-rs) | 8.0.2 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [messense/rustc-test](https://github.com/repolex-forx/messense--rustc-test) | v0.9.1 | 2026-11-22 |
 | [docopt/docopt.rs](https://github.com/repolex-forx/docopt--docopt.rs) | version.1 | 2026-11-22 |
 | [rust-random/rngs](https://github.com/repolex-forx/rust-random--rngs) | rand_xoshiro-0.8.0-rc.0 | 2026-11-22 |
-| [dtolnay/proc-macro-hack](https://github.com/repolex-forx/dtolnay--proc-macro-hack) | 0.5.20 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
