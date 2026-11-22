@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [open-dingtalk/dingtalk-stream-sdk-python](https://github.com/repolex-forx/open-dingtalk--dingtalk-stream-sdk-python) | v0.24.3 | 2026-11-22 |
 | [pyodide/pyodide](https://github.com/repolex-forx/pyodide--pyodide) | v0.1.7 | 2026-11-22 |
 | [lxml/lxml-stubs](https://github.com/repolex-forx/lxml--lxml-stubs) | 0.5.1 | 2026-11-22 |
 | [pytorch/audio](https://github.com/repolex-forx/pytorch--audio) | v2.11.0-rc5 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [jazzband/pip-tools](https://github.com/repolex-forx/jazzband--pip-tools) | v7.5.3 | 2026-11-22 |
 | [redis/hiredis-py](https://github.com/repolex-forx/redis--hiredis-py) | v3.3.1 | 2026-11-22 |
 | [criterion-rs/criterion.rs](https://github.com/repolex-forx/criterion-rs--criterion.rs) | criterion-v0.8.2 | 2026-11-22 |
-| [danielfm/pybreaker](https://github.com/repolex-forx/danielfm--pybreaker) | v1.4.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
