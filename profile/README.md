@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/ExtensionClass](https://github.com/repolex-forx/zopefoundation--ExtensionClass) | backups/zope2@96245 | 2026-11-22 |
 | [jaraco/jaraco.context](https://github.com/repolex-forx/jaraco--jaraco.context) | v6.1.2 | 2026-11-22 |
 | [jaraco/pytest-checkdocs](https://github.com/repolex-forx/jaraco--pytest-checkdocs) | v2.14.0 | 2026-11-22 |
 | [Delgan/loguru](https://github.com/repolex-forx/Delgan--loguru) | 0.7.3 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [davidhalter/parso](https://github.com/repolex-forx/davidhalter--parso) | v0.8.6 | 2026-11-22 |
 | [sphinx-contrib/sphinx-lint](https://github.com/repolex-forx/sphinx-contrib--sphinx-lint) | v1.0.2 | 2026-11-22 |
 | [tox-dev/pyproject-api](https://github.com/repolex-forx/tox-dev--pyproject-api) | 1.10.0 | 2026-11-22 |
-| [aio-libs/frozenlist](https://github.com/repolex-forx/aio-libs--frozenlist) | v1.8.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
