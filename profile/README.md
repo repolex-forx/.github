@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-random/rand_core](https://github.com/repolex-forx/rust-random--rand_core) | v0.10.1 | 2026-11-22 |
+| [BurntSushi/tabwriter](https://github.com/repolex-forx/BurntSushi--tabwriter) | tabwriter-bin-0.2.2 | 2026-11-22 |
 | [hyperium/h2](https://github.com/repolex-forx/hyperium--h2) | v0.4.19 | 2026-11-22 |
 | [alexcrichton/curl-rust](https://github.com/repolex-forx/alexcrichton--curl-rust) | curl-sys-0.4.90 | 2026-11-22 |
 | [TeXitoi/structopt](https://github.com/repolex-forx/TeXitoi--structopt) | v0.3.26 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [rustls/openssl-probe](https://github.com/repolex-forx/rustls--openssl-probe) | 0.2.1 | 2026-11-22 |
 | [trifectatechfoundation/zlib-rs](https://github.com/repolex-forx/trifectatechfoundation--zlib-rs) | v0.6.7 | 2026-11-22 |
 | [timothee-haudebourg/json-ld](https://github.com/repolex-forx/timothee-haudebourg--json-ld) | v0.21.4 | 2026-11-22 |
-| [cloudflare/zlib](https://github.com/repolex-forx/cloudflare--zlib) | v1.2.7.3 | 2026-11-22 |
-| [rust-lang/pkg-config-rs](https://github.com/repolex-forx/rust-lang--pkg-config-rs) | 0.3.34 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
