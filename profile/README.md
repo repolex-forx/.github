@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rustls/rustls](https://github.com/repolex-forx/rustls--rustls) | v/0.23.45 | 2026-11-22 |
 | [rust-native-tls/rust-native-tls](https://github.com/repolex-forx/rust-native-tls--rust-native-tls) | v0.2.18 | 2026-11-22 |
 | [askama-rs/askama](https://github.com/repolex-forx/askama-rs--askama) | v0.16.1 | 2026-11-22 |
 | [metrics-rs/metrics](https://github.com/repolex-forx/metrics-rs--metrics) | metrics-v0.24.6 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [djc/bb8](https://github.com/repolex-forx/djc--bb8) | v0.9.1 | 2026-11-22 |
 | [hyperium/headers](https://github.com/repolex-forx/hyperium--headers) | headers-v0.4.1 | 2026-11-22 |
 | [http-rs/async-session](https://github.com/repolex-forx/http-rs--async-session) | v3.0.0 | 2026-11-22 |
-| [nox/serde_urlencoded](https://github.com/repolex-forx/nox--serde_urlencoded) | v0.6.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
