@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ipython/ipykernel](https://github.com/repolex-forx/ipython--ipykernel) | v7.2.0 | 2026-11-22 |
+| [softprops/atty](https://github.com/repolex-forx/softprops--atty) | 0.2.14 | 2026-11-22 |
 | [tsutsu3/linkify-it-py](https://github.com/repolex-forx/tsutsu3--linkify-it-py) | v2.1.0 | 2026-11-22 |
 | [ESSS/pytest-regressions](https://github.com/repolex-forx/ESSS--pytest-regressions) | v2.10.0 | 2026-11-22 |
 | [mongodb/bson-rust](https://github.com/repolex-forx/mongodb--bson-rust) | v3.1.0 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [executablebooks/sphinx-book-theme](https://github.com/repolex-forx/executablebooks--sphinx-book-theme) | v1.2.0 | 2026-11-22 |
 | [Ethiraric/yaml-rust2](https://github.com/repolex-forx/Ethiraric--yaml-rust2) | v0.11.0 | 2026-11-22 |
 | [jupyter/jupyter-sphinx](https://github.com/repolex-forx/jupyter--jupyter-sphinx) | v0.5.3 | 2026-11-22 |
-| [taiki-e/pin-project-lite](https://github.com/repolex-forx/taiki-e--pin-project-lite) | v0.2.17 | 2026-11-22 |
-| [Amanieu/thread_local-rs](https://github.com/repolex-forx/Amanieu--thread_local-rs) | v1.1.9 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
