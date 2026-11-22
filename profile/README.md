@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pypa/distlib](https://github.com/repolex-forx/pypa--distlib) | 0.4.0 | 2026-11-22 |
+| [msgpack/msgpack-python](https://github.com/repolex-forx/msgpack--msgpack-python) | v1.1.2 | 2026-11-22 |
 | [zopefoundation/zope.proxy](https://github.com/repolex-forx/zopefoundation--zope.proxy) | 7.1 | 2026-11-22 |
 | [zopefoundation/zope.container](https://github.com/repolex-forx/zopefoundation--zope.container) | 7.2 | 2026-11-22 |
 | [zopefoundation/zope.component](https://github.com/repolex-forx/zopefoundation--zope.component) | 7.1 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [python-babel/babel](https://github.com/repolex-forx/python-babel--babel) | v2.18.0 | 2026-11-22 |
 | [zopefoundation/RestrictedPython](https://github.com/repolex-forx/zopefoundation--RestrictedPython) | backups/zope2@76328 | 2026-11-22 |
 | [zopefoundation/DateTime](https://github.com/repolex-forx/zopefoundation--DateTime) | 6.0 | 2026-11-22 |
-| [dtolnay/inventory](https://github.com/repolex-forx/dtolnay--inventory) | 0.3.24 | 2026-11-22 |
-| [rust-random/getrandom](https://github.com/repolex-forx/rust-random--getrandom) | v0.4.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
