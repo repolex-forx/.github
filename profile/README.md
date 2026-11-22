@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [mongodb/bson-rust](https://github.com/repolex-forx/mongodb--bson-rust) | v3.1.0 | 2026-11-22 |
 | [executablebooks/mdit-py-plugins](https://github.com/repolex-forx/executablebooks--mdit-py-plugins) | v0.5.0 | 2026-11-22 |
 | [executablebooks/sphinx-design](https://github.com/repolex-forx/executablebooks--sphinx-design) | v0.7.0 | 2026-11-22 |
 | [executablebooks/sphinx-book-theme](https://github.com/repolex-forx/executablebooks--sphinx-book-theme) | v1.2.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [Amanieu/thread_local-rs](https://github.com/repolex-forx/Amanieu--thread_local-rs) | v1.1.9 | 2026-11-22 |
 | [ratatui/ansi-to-tui](https://github.com/repolex-forx/ratatui--ansi-to-tui) | v8.0.1 | 2026-11-22 |
 | [oconnor663/duct.rs](https://github.com/repolex-forx/oconnor663--duct.rs) | 1.1.1 | 2026-11-22 |
-| [googleapis/python-bigquery](https://github.com/repolex-forx/googleapis--python-bigquery) | v3.40.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
