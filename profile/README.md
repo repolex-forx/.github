@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [duckdb/duckdb-python](https://github.com/repolex-forx/duckdb--duckdb-python) | v1.5.1 | 2026-11-22 |
 | [dryrust/gofer.rs](https://github.com/repolex-forx/dryrust--gofer.rs) | 0.2.0 | 2026-11-22 |
 | [pytorch/data](https://github.com/repolex-forx/pytorch--data) | xl-tm-sd-v1 | 2026-11-22 |
 | [mayeut/pybase64](https://github.com/repolex-forx/mayeut--pybase64) | v1.4.3 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [agentclientprotocol/python-sdk](https://github.com/repolex-forx/agentclientprotocol--python-sdk) | 0.9.0 | 2026-11-22 |
 | [open-dingtalk/dingtalk-stream-sdk-python](https://github.com/repolex-forx/open-dingtalk--dingtalk-stream-sdk-python) | v0.24.3 | 2026-11-22 |
 | [pyodide/pyodide](https://github.com/repolex-forx/pyodide--pyodide) | v0.1.7 | 2026-11-22 |
-| [lxml/lxml-stubs](https://github.com/repolex-forx/lxml--lxml-stubs) | 0.5.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
