@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/spelling](https://github.com/repolex-forx/sphinx-contrib--spelling) | 8.0.2 | 2026-11-22 |
 | [MagicStack/asyncpg](https://github.com/repolex-forx/MagicStack--asyncpg) | v0.31.0 | 2026-11-22 |
 | [alex/rust-asn1](https://github.com/repolex-forx/alex--rust-asn1) | 0.24.1 | 2026-11-22 |
 | [jcreekmore/pem-rs](https://github.com/repolex-forx/jcreekmore--pem-rs) | v3.0.6 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [rust-cli/anstyle](https://github.com/repolex-forx/rust-cli--anstyle) | v1.0.14 | 2026-11-22 |
 | [jedisct1/rust-siphash](https://github.com/repolex-forx/jedisct1--rust-siphash) | 1.0.2 | 2026-11-22 |
 | [dtolnay/dissimilar](https://github.com/repolex-forx/dtolnay--dissimilar) | 1.0.11 | 2026-11-22 |
-| [pyparsing/pyparsing](https://github.com/repolex-forx/pyparsing--pyparsing) | pyparsing_3.1.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
