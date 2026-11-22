@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Manishearth/pathdiff](https://github.com/repolex-forx/Manishearth--pathdiff) | v0.2.3 | 2026-11-22 |
 | [gifnksm/topological-sort-rs](https://github.com/repolex-forx/gifnksm--topological-sort-rs) | v0.3.1 | 2026-11-22 |
 | [HdrHistogram/HdrHistogram_rust](https://github.com/repolex-forx/HdrHistogram--HdrHistogram_rust) | v7.6.0 | 2026-11-22 |
 | [mina86/ansi_colours](https://github.com/repolex-forx/mina86--ansi_colours) | v1.2.2 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [rwf2/multer](https://github.com/repolex-forx/rwf2--multer) | v3.0.0 | 2026-11-22 |
 | [assert-rs/predicates-rs](https://github.com/repolex-forx/assert-rs--predicates-rs) | v3.1.4 | 2026-11-22 |
 | [tokio-rs/async-stream](https://github.com/repolex-forx/tokio-rs--async-stream) | v0.3.6 | 2026-11-22 |
-| [snapview/tungstenite-rs](https://github.com/repolex-forx/snapview--tungstenite-rs) | v0.30.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
