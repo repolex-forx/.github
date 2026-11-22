@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [programatik29/axum-server](https://github.com/repolex-forx/programatik29--axum-server) | v0.8.0 | 2026-11-22 |
 | [djc/bb8](https://github.com/repolex-forx/djc--bb8) | v0.9.1 | 2026-11-22 |
 | [hyperium/headers](https://github.com/repolex-forx/hyperium--headers) | headers-v0.4.1 | 2026-11-22 |
 | [http-rs/async-session](https://github.com/repolex-forx/http-rs--async-session) | v3.0.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [RustCrypto/stream-ciphers](https://github.com/repolex-forx/RustCrypto--stream-ciphers) | salsa20-v0.11.0 | 2026-11-22 |
 | [snapview/tokio-tungstenite](https://github.com/repolex-forx/snapview--tokio-tungstenite) | v0.30.0 | 2026-11-22 |
 | [rust-random/rand_core](https://github.com/repolex-forx/rust-random--rand_core) | v0.10.1 | 2026-11-22 |
-| [BurntSushi/tabwriter](https://github.com/repolex-forx/BurntSushi--tabwriter) | tabwriter-bin-0.2.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
