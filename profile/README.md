@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-lang-nursery/lazy-static.rs](https://github.com/repolex-forx/rust-lang-nursery--lazy-static.rs) | 1.5.0 | 2026-11-22 |
 | [zkat/supports-color](https://github.com/repolex-forx/zkat--supports-color) | v3.0.2 | 2026-11-22 |
 | [zkat/supports-hyperlinks](https://github.com/repolex-forx/zkat--supports-hyperlinks) | v3.2.0 | 2026-11-22 |
 | [documatt/sphinx-reredirects](https://github.com/repolex-forx/documatt--sphinx-reredirects) | v1.1.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [jaraco/jaraco.test](https://github.com/repolex-forx/jaraco--jaraco.test) | v5.6.0 | 2026-11-22 |
 | [sphinx-contrib/sphinxcontrib-towncrier](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-towncrier) | v0.5.0a0 | 2026-11-22 |
 | [jaraco/jaraco.develop](https://github.com/repolex-forx/jaraco--jaraco.develop) | v8.19.2 | 2026-11-22 |
-| [jaraco/jaraco.path](https://github.com/repolex-forx/jaraco--jaraco.path) | v3.7.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
