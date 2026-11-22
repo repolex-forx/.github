@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [scikit-image/scikit-image](https://github.com/repolex-forx/scikit-image--scikit-image) | v0.26.0 | 2026-11-22 |
+| [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.0.0-rc.2 | 2026-11-22 |
 | [pytest-dev/pytest-randomly](https://github.com/repolex-forx/pytest-dev--pytest-randomly) | 4.0.1 | 2026-11-22 |
 | [sphinx-contrib/spelling](https://github.com/repolex-forx/sphinx-contrib--spelling) | 8.0.2 | 2026-11-22 |
 | [MagicStack/asyncpg](https://github.com/repolex-forx/MagicStack--asyncpg) | v0.31.0 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [pyenchant/pyenchant](https://github.com/repolex-forx/pyenchant--pyenchant) | v3.3.0 | 2026-11-22 |
 | [sindresorhus/tempy](https://github.com/repolex-forx/sindresorhus--tempy) | v3.2.0 | 2026-11-22 |
 | [Stebalien/tempfile](https://github.com/repolex-forx/Stebalien--tempfile) | v3.27.0 | 2026-11-22 |
-| [rust-cli/anstyle](https://github.com/repolex-forx/rust-cli--anstyle) | v1.0.14 | 2026-11-22 |
-| [jedisct1/rust-siphash](https://github.com/repolex-forx/jedisct1--rust-siphash) | 1.0.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
