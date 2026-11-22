@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [mgedmin/check-manifest](https://github.com/repolex-forx/mgedmin--check-manifest) | v0.19 | 2026-11-22 |
+| [sphinx-doc/sphinxext-opengraph](https://github.com/repolex-forx/sphinx-doc--sphinxext-opengraph) | v0.13.0 | 2026-11-22 |
 | [CodSpeedHQ/codspeed-rust](https://github.com/repolex-forx/CodSpeedHQ--codspeed-rust) | v4.4.1 | 2026-11-22 |
 | [googleapis/google-auth-library-python](https://github.com/repolex-forx/googleapis--google-auth-library-python) | v3.0.0.dev0 | 2026-11-22 |
 | [tiran/defusedxml](https://github.com/repolex-forx/tiran--defusedxml) | v0.8.0rc2 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [stefankoegl/python-json-pointer](https://github.com/repolex-forx/stefankoegl--python-json-pointer) | v3.1.1 | 2026-11-22 |
 | [dvarrazzo/py-setproctitle](https://github.com/repolex-forx/dvarrazzo--py-setproctitle) | version-1.3.7 | 2026-11-22 |
 | [nvzqz/static-assertions-rs](https://github.com/repolex-forx/nvzqz--static-assertions-rs) | v1.1.0 | 2026-11-22 |
-| [dtolnay/trybuild](https://github.com/repolex-forx/dtolnay--trybuild) | 1.0.116 | 2026-11-22 |
-| [rust-openssl/rust-openssl](https://github.com/repolex-forx/rust-openssl--rust-openssl) | v0.9.23 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
