@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-lang/pkg-config-rs](https://github.com/repolex-forx/rust-lang--pkg-config-rs) | 0.3.34 | 2026-11-22 |
 | [juhaku/utoipa](https://github.com/repolex-forx/juhaku--utoipa) | utoipa-swagger-ui-vendored-0.1.2 | 2026-11-22 |
 | [rust-lang/libz-sys](https://github.com/repolex-forx/rust-lang--libz-sys) | 1.1.29-zng | 2026-11-22 |
 | [image-rs/image-png](https://github.com/repolex-forx/image-rs--image-png) | v0.18.0-rc.3 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [ratatui/instability](https://github.com/repolex-forx/ratatui--instability) | instability-v0.3.13 | 2026-11-22 |
 | [chyh1990/yaml-rust](https://github.com/repolex-forx/chyh1990--yaml-rust) | 0.4.5 | 2026-11-22 |
 | [seanmonstar/httparse](https://github.com/repolex-forx/seanmonstar--httparse) | v1.10.1 | 2026-11-22 |
-| [seanmonstar/pretty-env-logger](https://github.com/repolex-forx/seanmonstar--pretty-env-logger) | v0.5.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
