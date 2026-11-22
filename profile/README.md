@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rustls/hyper-rustls](https://github.com/repolex-forx/rustls--hyper-rustls) | v/0.27.9 | 2026-11-22 |
 | [console-rs/dialoguer](https://github.com/repolex-forx/console-rs--dialoguer) | v0.12.0 | 2026-11-22 |
 | [RustCrypto/block-ciphers](https://github.com/repolex-forx/RustCrypto--block-ciphers) | xtea-v0.1.0 | 2026-11-22 |
 | [chronotope/humantime](https://github.com/repolex-forx/chronotope--humantime) | v2.4.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pyfisch/httpdate](https://github.com/repolex-forx/pyfisch--httpdate) | v1.0.3 | 2026-11-22 |
 | [3Hren/msgpack-rust](https://github.com/repolex-forx/3Hren--msgpack-rust) | v0.6.0 | 2026-11-22 |
 | [RustCrypto/sponges](https://github.com/repolex-forx/RustCrypto--sponges) | keccak-v0.2.2 | 2026-11-22 |
-| [RustCrypto/hybrid-array](https://github.com/repolex-forx/RustCrypto--hybrid-array) | v0.4.15 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
