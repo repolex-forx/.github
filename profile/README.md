@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-random/rngs](https://github.com/repolex-forx/rust-random--rngs) | rand_xoshiro-0.8.0-rc.0 | 2026-11-22 |
 | [dtolnay/proc-macro-hack](https://github.com/repolex-forx/dtolnay--proc-macro-hack) | 0.5.20 | 2026-11-22 |
 | [dtolnay/ref-cast](https://github.com/repolex-forx/dtolnay--ref-cast) | 1.0.25 | 2026-11-22 |
 | [slackapi/bolt-python](https://github.com/repolex-forx/slackapi--bolt-python) | v1.28.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [mdsteele/rust-cfb](https://github.com/repolex-forx/mdsteele--rust-cfb) | v0.14.0 | 2026-11-22 |
 | [crate-ci/clap-cargo](https://github.com/repolex-forx/crate-ci--clap-cargo) | v0.18.3 | 2026-11-22 |
 | [oli-obk/cargo_metadata](https://github.com/repolex-forx/oli-obk--cargo_metadata) | 0.23.1 | 2026-11-22 |
-| [dtolnay/rustversion](https://github.com/repolex-forx/dtolnay--rustversion) | 1.0.22 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
