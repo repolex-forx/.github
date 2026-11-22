@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.i18nmessageid](https://github.com/repolex-forx/zopefoundation--zope.i18nmessageid) | 8.2 | 2026-11-22 |
+| [zopefoundation/zope.pagetemplate](https://github.com/repolex-forx/zopefoundation--zope.pagetemplate) | backups/monolithic-zope3@75158 | 2026-11-22 |
+| [zopefoundation/transaction](https://github.com/repolex-forx/zopefoundation--transaction) | 5.1 | 2026-11-22 |
 | [zopefoundation/zope.exceptions](https://github.com/repolex-forx/zopefoundation--zope.exceptions) | 6.0 | 2026-11-22 |
 | [zopefoundation/DocumentTemplate](https://github.com/repolex-forx/zopefoundation--DocumentTemplate) | 5.3 | 2026-11-22 |
 | [rust-num/num-traits](https://github.com/repolex-forx/rust-num--num-traits) | num-traits-0.2.19 | 2026-11-22 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [zopefoundation/ExtensionClass](https://github.com/repolex-forx/zopefoundation--ExtensionClass) | backups/zope2@96245 | 2026-11-22 |
 | [jaraco/jaraco.context](https://github.com/repolex-forx/jaraco--jaraco.context) | v6.1.2 | 2026-11-22 |
 | [jaraco/pytest-checkdocs](https://github.com/repolex-forx/jaraco--pytest-checkdocs) | v2.14.0 | 2026-11-22 |
-| [Delgan/loguru](https://github.com/repolex-forx/Delgan--loguru) | 0.7.3 | 2026-11-22 |
-| [jaraco/rst.linker](https://github.com/repolex-forx/jaraco--rst.linker) | v2.6.0 | 2026-11-22 |
-| [akubera/bigdecimal-rs](https://github.com/repolex-forx/akubera--bigdecimal-rs) | v0.4.10 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
