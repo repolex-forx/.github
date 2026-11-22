@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dogmatists/dogma.rs](https://github.com/repolex-forx/dogmatists--dogma.rs) | 0.1.11 | 2026-11-22 |
 | [jaraco/jaraco.text](https://github.com/repolex-forx/jaraco--jaraco.text) | v4.2.0 | 2026-11-22 |
 | [duckdb/duckdb-python](https://github.com/repolex-forx/duckdb--duckdb-python) | v1.5.1 | 2026-11-22 |
 | [dryrust/gofer.rs](https://github.com/repolex-forx/dryrust--gofer.rs) | 0.2.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [rogdham/backports.zstd](https://github.com/repolex-forx/rogdham--backports.zstd) | v1.3.0 | 2026-11-22 |
 | [parallel-web/parallel-sdk-python](https://github.com/repolex-forx/parallel-web--parallel-sdk-python) | v0.5.0 | 2026-11-22 |
 | [agentclientprotocol/python-sdk](https://github.com/repolex-forx/agentclientprotocol--python-sdk) | 0.9.0 | 2026-11-22 |
-| [open-dingtalk/dingtalk-stream-sdk-python](https://github.com/repolex-forx/open-dingtalk--dingtalk-stream-sdk-python) | v0.24.3 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
