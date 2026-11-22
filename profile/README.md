@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [tiran/defusedxml](https://github.com/repolex-forx/tiran--defusedxml) | v0.8.0rc2 | 2026-11-22 |
 | [regebro/pyroma](https://github.com/repolex-forx/regebro--pyroma) | 5.0.1 | 2026-11-22 |
 | [sphinx-doc/sphinx-autobuild](https://github.com/repolex-forx/sphinx-doc--sphinx-autobuild) | v0.7.1 | 2026-11-22 |
 | [stefankoegl/python-json-pointer](https://github.com/repolex-forx/stefankoegl--python-json-pointer) | v3.1.1 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [rust-openssl/rust-openssl](https://github.com/repolex-forx/rust-openssl--rust-openssl) | v0.9.23 | 2026-11-22 |
 | [tafia/quick-xml](https://github.com/repolex-forx/tafia--quick-xml) | v0.39.2 | 2026-11-22 |
 | [pydantic/speedate](https://github.com/repolex-forx/pydantic--speedate) | v0.17.0 | 2026-11-22 |
-| [pytest-dev/pyfakefs](https://github.com/repolex-forx/pytest-dev--pyfakefs) | v6.2.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
