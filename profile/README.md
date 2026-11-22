@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rkyv/rkyv](https://github.com/repolex-forx/rkyv--rkyv) | v0.7.43 | 2026-11-22 |
 | [dtolnay/unsafe-libyaml](https://github.com/repolex-forx/dtolnay--unsafe-libyaml) | 0.2.11 | 2026-11-22 |
 | [cecton/pure-rust-locales](https://github.com/repolex-forx/cecton--pure-rust-locales) | v0.8.2 | 2026-11-22 |
 | [dtolnay/build-alert](https://github.com/repolex-forx/dtolnay--build-alert) | 0.1.8 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [composefs/tar-rs](https://github.com/repolex-forx/composefs--tar-rs) | v0.4.0 | 2026-11-22 |
 | [mitsuhiko/similar-asserts](https://github.com/repolex-forx/mitsuhiko--similar-asserts) | 2.0.0 | 2026-11-22 |
 | [stub42/pytz](https://github.com/repolex-forx/stub42--pytz) | release_2026.3 | 2026-11-22 |
-| [knurling-rs/defmt](https://github.com/repolex-forx/knurling-rs--defmt) | v0.2.0-with-qemu-run-ignore-version | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
