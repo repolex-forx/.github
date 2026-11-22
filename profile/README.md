@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [regebro/pyroma](https://github.com/repolex-forx/regebro--pyroma) | 5.0.1 | 2026-11-22 |
+| [sphinx-doc/sphinx-autobuild](https://github.com/repolex-forx/sphinx-doc--sphinx-autobuild) | v0.7.1 | 2026-11-22 |
 | [stefankoegl/python-json-pointer](https://github.com/repolex-forx/stefankoegl--python-json-pointer) | v3.1.1 | 2026-11-22 |
 | [dvarrazzo/py-setproctitle](https://github.com/repolex-forx/dvarrazzo--py-setproctitle) | version-1.3.7 | 2026-11-22 |
 | [nvzqz/static-assertions-rs](https://github.com/repolex-forx/nvzqz--static-assertions-rs) | v1.1.0 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [tafia/quick-xml](https://github.com/repolex-forx/tafia--quick-xml) | v0.39.2 | 2026-11-22 |
 | [pydantic/speedate](https://github.com/repolex-forx/pydantic--speedate) | v0.17.0 | 2026-11-22 |
 | [pytest-dev/pyfakefs](https://github.com/repolex-forx/pytest-dev--pyfakefs) | v6.2.0 | 2026-11-22 |
-| [JoshData/python-email-validator](https://github.com/repolex-forx/JoshData--python-email-validator) | v2.3.0 | 2026-11-22 |
-| [marshallpierce/rust-base64](https://github.com/repolex-forx/marshallpierce--rust-base64) | v0.22.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
