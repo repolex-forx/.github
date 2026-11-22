@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.proxy](https://github.com/repolex-forx/zopefoundation--zope.proxy) | 7.1 | 2026-11-22 |
+| [zopefoundation/zope.container](https://github.com/repolex-forx/zopefoundation--zope.container) | 7.2 | 2026-11-22 |
+| [zopefoundation/zope.component](https://github.com/repolex-forx/zopefoundation--zope.component) | 7.1 | 2026-11-22 |
 | [zopefoundation/ZConfig](https://github.com/repolex-forx/zopefoundation--ZConfig) | test-tag | 2026-11-22 |
 | [zopefoundation/z3c.pt](https://github.com/repolex-forx/zopefoundation--z3c.pt) | backups/Missing_hanlding@113116 | 2026-11-22 |
 | [python-babel/babel](https://github.com/repolex-forx/python-babel--babel) | v2.18.0 | 2026-11-22 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [zopefoundation/DateTime](https://github.com/repolex-forx/zopefoundation--DateTime) | 6.0 | 2026-11-22 |
 | [dtolnay/inventory](https://github.com/repolex-forx/dtolnay--inventory) | 0.3.24 | 2026-11-22 |
 | [rust-random/getrandom](https://github.com/repolex-forx/rust-random--getrandom) | v0.4.2 | 2026-11-22 |
-| [jaraco/tempora](https://github.com/repolex-forx/jaraco--tempora) | v5.8.1 | 2026-11-22 |
-| [jaraco/jaraco.functools](https://github.com/repolex-forx/jaraco--jaraco.functools) | v4.4.0 | 2026-11-22 |
-| [BurntSushi/bstr](https://github.com/repolex-forx/BurntSushi--bstr) | 1.12.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
