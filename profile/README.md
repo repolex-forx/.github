@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [mkdocstrings/autorefs](https://github.com/repolex-forx/mkdocstrings--autorefs) | 1.4.4 | 2026-11-22 |
+| [rayon-rs/either](https://github.com/repolex-forx/rayon-rs--either) | 1.15.0 | 2026-11-22 |
 | [zopefoundation/zope.browserresource](https://github.com/repolex-forx/zopefoundation--zope.browserresource) | backups/mgedmin-etag-support@115668 | 2026-11-22 |
 | [explosion/confection](https://github.com/repolex-forx/explosion--confection) | v0.1.5 | 2026-11-22 |
 | [jaraco/jaraco.classes](https://github.com/repolex-forx/jaraco--jaraco.classes) | v3.4.0 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [oprypin/mkdocs-literate-nav](https://github.com/repolex-forx/oprypin--mkdocs-literate-nav) | v0.6.3 | 2026-11-22 |
 | [sphinx-doc/sphinxcontrib-websupport](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-websupport) | 2.0.0 | 2026-11-22 |
 | [pytest-dev/pytest-timeout](https://github.com/repolex-forx/pytest-dev--pytest-timeout) | 2.4.0 | 2026-11-22 |
-| [pradyunsg/sphinx-inline-tabs](https://github.com/repolex-forx/pradyunsg--sphinx-inline-tabs) | 2025.12.21.14 | 2026-11-22 |
-| [oprypin/mkdocs-section-index](https://github.com/repolex-forx/oprypin--mkdocs-section-index) | v0.3.11 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
