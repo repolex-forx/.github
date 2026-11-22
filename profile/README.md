@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sethmlarson/truststore](https://github.com/repolex-forx/sethmlarson--truststore) | v0.10.4 | 2026-11-22 |
+| [aio-libs/async-timeout](https://github.com/repolex-forx/aio-libs--async-timeout) | v5.0.1 | 2026-11-22 |
+| [zopefoundation/zope.viewlet](https://github.com/repolex-forx/zopefoundation--zope.viewlet) | backups/monolithic-zope3@75208 | 2026-11-22 |
+| [pypa/pyproject-hooks](https://github.com/repolex-forx/pypa--pyproject-hooks) | v1.2.0 | 2026-11-22 |
+| [jaraco/backports.functools_lru_cache](https://github.com/repolex-forx/jaraco--backports.functools_lru_cache) | v2.0.0 | 2026-11-22 |
 | [zopefoundation/zope.deferredimport](https://github.com/repolex-forx/zopefoundation--zope.deferredimport) | backups/3.4@112079 | 2026-11-22 |
 | [zopefoundation/zope.lifecycleevent](https://github.com/repolex-forx/zopefoundation--zope.lifecycleevent) | backups/movedaddedremoved@100038 | 2026-11-22 |
 | [zopefoundation/zope.contenttype](https://github.com/repolex-forx/zopefoundation--zope.contenttype) | 6.0 | 2026-11-22 |
 | [zopefoundation/zope.contentprovider](https://github.com/repolex-forx/zopefoundation--zope.contentprovider) | backups/monolithic-zope3@75077 | 2026-11-22 |
 | [mkdocstrings/autorefs](https://github.com/repolex-forx/mkdocstrings--autorefs) | 1.4.4 | 2026-11-22 |
-| [rayon-rs/either](https://github.com/repolex-forx/rayon-rs--either) | 1.15.0 | 2026-11-22 |
-| [zopefoundation/zope.browserresource](https://github.com/repolex-forx/zopefoundation--zope.browserresource) | backups/mgedmin-etag-support@115668 | 2026-11-22 |
-| [explosion/confection](https://github.com/repolex-forx/explosion--confection) | v0.1.5 | 2026-11-22 |
-| [jaraco/jaraco.classes](https://github.com/repolex-forx/jaraco--jaraco.classes) | v3.4.0 | 2026-11-22 |
-| [google/python-subprocess32](https://github.com/repolex-forx/google--python-subprocess32) | test_travis_deploy_006 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
