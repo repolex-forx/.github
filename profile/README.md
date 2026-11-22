@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pytorch/text](https://github.com/repolex-forx/pytorch--text) | v1.8-rc1 | 2026-11-22 |
 | [rogdham/backports.zstd](https://github.com/repolex-forx/rogdham--backports.zstd) | v1.3.0 | 2026-11-22 |
 | [parallel-web/parallel-sdk-python](https://github.com/repolex-forx/parallel-web--parallel-sdk-python) | v0.5.0 | 2026-11-22 |
 | [agentclientprotocol/python-sdk](https://github.com/repolex-forx/agentclientprotocol--python-sdk) | 0.9.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pytorch/audio](https://github.com/repolex-forx/pytorch--audio) | v2.11.0-rc5 | 2026-11-22 |
 | [ifduyue/python-xxhash](https://github.com/repolex-forx/ifduyue--python-xxhash) | v3.6.0 | 2026-11-22 |
 | [pybind/pybind11](https://github.com/repolex-forx/pybind--pybind11) | v3.0.3 | 2026-11-22 |
-| [nvzqz/divan](https://github.com/repolex-forx/nvzqz--divan) | v0.1.21 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
