@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [reem/rust-ordered-float](https://github.com/repolex-forx/reem--rust-ordered-float) | v5.3.0 | 2026-11-22 |
 | [matklad/once_cell](https://github.com/repolex-forx/matklad--once_cell) | v1.21.4 | 2026-11-22 |
 | [chronotope/chrono-tz](https://github.com/repolex-forx/chronotope--chrono-tz) | zoneinfo-parse-v0.5.0 | 2026-11-22 |
 | [pypa/distlib](https://github.com/repolex-forx/pypa--distlib) | 0.4.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [zopefoundation/zope.component](https://github.com/repolex-forx/zopefoundation--zope.component) | 7.1 | 2026-11-22 |
 | [zopefoundation/ZConfig](https://github.com/repolex-forx/zopefoundation--ZConfig) | test-tag | 2026-11-22 |
 | [zopefoundation/z3c.pt](https://github.com/repolex-forx/zopefoundation--z3c.pt) | backups/Missing_hanlding@113116 | 2026-11-22 |
-| [python-babel/babel](https://github.com/repolex-forx/python-babel--babel) | v2.18.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
