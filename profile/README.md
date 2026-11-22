@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/sphinx-lint](https://github.com/repolex-forx/sphinx-contrib--sphinx-lint) | v1.0.2 | 2026-11-22 |
+| [tox-dev/pyproject-api](https://github.com/repolex-forx/tox-dev--pyproject-api) | 1.10.0 | 2026-11-22 |
 | [aio-libs/frozenlist](https://github.com/repolex-forx/aio-libs--frozenlist) | v1.8.0 | 2026-11-22 |
 | [eliben/pycparser](https://github.com/repolex-forx/eliben--pycparser) | release_2.01 | 2026-11-22 |
 | [businho/pytest-ruff](https://github.com/repolex-forx/businho--pytest-ruff) | v0.5 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [zopefoundation/zope.event](https://github.com/repolex-forx/zopefoundation--zope.event) | 6.1 | 2026-11-22 |
 | [rbarrois/python-semanticversion](https://github.com/repolex-forx/rbarrois--python-semanticversion) | v2.6.0 | 2026-11-22 |
 | [explosion/preshed](https://github.com/repolex-forx/explosion--preshed) | v4.0.0 | 2026-11-22 |
-| [explosion/catalogue](https://github.com/repolex-forx/explosion--catalogue) | v2.1.0 | 2026-11-22 |
-| [pytest-dev/pytest-env](https://github.com/repolex-forx/pytest-dev--pytest-env) | 1.6.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
