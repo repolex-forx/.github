@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-lang-nursery/pin-utils](https://github.com/repolex-forx/rust-lang-nursery--pin-utils) | 0.1.0 | 2026-11-22 |
 | [rustls/pki-types](https://github.com/repolex-forx/rustls--pki-types) | v/1.15.1 | 2026-11-22 |
 | [Keats/jsonwebtoken](https://github.com/repolex-forx/Keats--jsonwebtoken) | v11.0.0 | 2026-11-22 |
 | [rustls/rustls](https://github.com/repolex-forx/rustls--rustls) | v/0.23.45 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [ramosbugs/oauth2-rs](https://github.com/repolex-forx/ramosbugs--oauth2-rs) | oauth2-reqwest-0.1.0-alpha.3 | 2026-11-22 |
 | [ibraheemdev/matchit](https://github.com/repolex-forx/ibraheemdev--matchit) | v0.9.2 | 2026-11-22 |
 | [programatik29/axum-server](https://github.com/repolex-forx/programatik29--axum-server) | v0.8.0 | 2026-11-22 |
-| [djc/bb8](https://github.com/repolex-forx/djc--bb8) | v0.9.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
