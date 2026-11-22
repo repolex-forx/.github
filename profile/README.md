@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pyenchant/pyenchant](https://github.com/repolex-forx/pyenchant--pyenchant) | v3.3.0 | 2026-11-22 |
 | [sindresorhus/tempy](https://github.com/repolex-forx/sindresorhus--tempy) | v3.2.0 | 2026-11-22 |
 | [Stebalien/tempfile](https://github.com/repolex-forx/Stebalien--tempfile) | v3.27.0 | 2026-11-22 |
 | [rust-cli/anstyle](https://github.com/repolex-forx/rust-cli--anstyle) | v1.0.14 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pypa/virtualenv](https://github.com/repolex-forx/pypa--virtualenv) | 21.2.3 | 2026-11-22 |
 | [apache/datafusion-python](https://github.com/repolex-forx/apache--datafusion-python) | ci-release-mode-rc1 | 2026-11-22 |
 | [scikit-learn/scikit-learn](https://github.com/repolex-forx/scikit-learn--scikit-learn) | sprint01 | 2026-11-22 |
-| [zopefoundation/ZODB](https://github.com/repolex-forx/zopefoundation--ZODB) | new-doc | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
