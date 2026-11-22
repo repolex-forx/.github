@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [eliben/pycparser](https://github.com/repolex-forx/eliben--pycparser) | release_2.01 | 2026-11-22 |
+| [businho/pytest-ruff](https://github.com/repolex-forx/businho--pytest-ruff) | v0.5 | 2026-11-22 |
+| [zopefoundation/zope.tales](https://github.com/repolex-forx/zopefoundation--zope.tales) | backups/nikhil_n-py25@78055 | 2026-11-22 |
+| [zopefoundation/zope.location](https://github.com/repolex-forx/zopefoundation--zope.location) | 6.0 | 2026-11-22 |
 | [zopefoundation/zope.event](https://github.com/repolex-forx/zopefoundation--zope.event) | 6.1 | 2026-11-22 |
 | [rbarrois/python-semanticversion](https://github.com/repolex-forx/rbarrois--python-semanticversion) | v2.6.0 | 2026-11-22 |
 | [explosion/preshed](https://github.com/repolex-forx/explosion--preshed) | v4.0.0 | 2026-11-22 |
 | [explosion/catalogue](https://github.com/repolex-forx/explosion--catalogue) | v2.1.0 | 2026-11-22 |
 | [pytest-dev/pytest-env](https://github.com/repolex-forx/pytest-dev--pytest-env) | 1.6.0 | 2026-11-22 |
 | [jamielennox/requests-mock](https://github.com/repolex-forx/jamielennox--requests-mock) | 1.12.1 | 2026-11-22 |
-| [explosion/murmurhash](https://github.com/repolex-forx/explosion--murmurhash) | v1.1.0.dev0 | 2026-11-22 |
-| [jaraco/pytest-enabler](https://github.com/repolex-forx/jaraco--pytest-enabler) | v3.4.0 | 2026-11-22 |
-| [pytest-dev/pytest-subtests](https://github.com/repolex-forx/pytest-dev--pytest-subtests) | v0.15.0 | 2026-11-22 |
-| [scikit-build/ninja-python-distributions](https://github.com/repolex-forx/scikit-build--ninja-python-distributions) | 1.13.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
