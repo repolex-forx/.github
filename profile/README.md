@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [RustCrypto/sponges](https://github.com/repolex-forx/RustCrypto--sponges) | keccak-v0.2.2 | 2026-11-22 |
+| [RustCrypto/hybrid-array](https://github.com/repolex-forx/RustCrypto--hybrid-array) | v0.4.15 | 2026-11-22 |
 | [cryptocorrosion/cryptocorrosion](https://github.com/repolex-forx/cryptocorrosion--cryptocorrosion) | threefish-cipher-0.4.0 | 2026-11-22 |
 | [elevenlabs/elevenlabs-python](https://github.com/repolex-forx/elevenlabs--elevenlabs-python) | v2.43.0 | 2026-11-22 |
 | [mcountryman/simd-adler32](https://github.com/repolex-forx/mcountryman--simd-adler32) | v0.3.10 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [softprops/atty](https://github.com/repolex-forx/softprops--atty) | 0.2.14 | 2026-11-22 |
 | [tsutsu3/linkify-it-py](https://github.com/repolex-forx/tsutsu3--linkify-it-py) | v2.1.0 | 2026-11-22 |
 | [ESSS/pytest-regressions](https://github.com/repolex-forx/ESSS--pytest-regressions) | v2.10.0 | 2026-11-22 |
-| [mongodb/bson-rust](https://github.com/repolex-forx/mongodb--bson-rust) | v3.1.0 | 2026-11-22 |
-| [executablebooks/mdit-py-plugins](https://github.com/repolex-forx/executablebooks--mdit-py-plugins) | v0.5.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
