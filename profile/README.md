@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [aklajnert/pytest-subprocess](https://github.com/repolex-forx/aklajnert--pytest-subprocess) | 1.5.4 | 2026-11-22 |
+| [jaraco/jaraco.test](https://github.com/repolex-forx/jaraco--jaraco.test) | v5.6.0 | 2026-11-22 |
 | [sphinx-contrib/sphinxcontrib-towncrier](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-towncrier) | v0.5.0a0 | 2026-11-22 |
 | [jaraco/jaraco.develop](https://github.com/repolex-forx/jaraco--jaraco.develop) | v8.19.2 | 2026-11-22 |
 | [jaraco/jaraco.path](https://github.com/repolex-forx/jaraco--jaraco.path) | v3.7.2 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [jaraco/jaraco.text](https://github.com/repolex-forx/jaraco--jaraco.text) | v4.2.0 | 2026-11-22 |
 | [duckdb/duckdb-python](https://github.com/repolex-forx/duckdb--duckdb-python) | v1.5.1 | 2026-11-22 |
 | [dryrust/gofer.rs](https://github.com/repolex-forx/dryrust--gofer.rs) | 0.2.0 | 2026-11-22 |
-| [pytorch/data](https://github.com/repolex-forx/pytorch--data) | xl-tm-sd-v1 | 2026-11-22 |
-| [mayeut/pybase64](https://github.com/repolex-forx/mayeut--pybase64) | v1.4.3 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
