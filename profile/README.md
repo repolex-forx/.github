@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/ZConfig](https://github.com/repolex-forx/zopefoundation--ZConfig) | test-tag | 2026-11-22 |
+| [zopefoundation/z3c.pt](https://github.com/repolex-forx/zopefoundation--z3c.pt) | backups/Missing_hanlding@113116 | 2026-11-22 |
+| [python-babel/babel](https://github.com/repolex-forx/python-babel--babel) | v2.18.0 | 2026-11-22 |
 | [zopefoundation/RestrictedPython](https://github.com/repolex-forx/zopefoundation--RestrictedPython) | backups/zope2@76328 | 2026-11-22 |
 | [zopefoundation/DateTime](https://github.com/repolex-forx/zopefoundation--DateTime) | 6.0 | 2026-11-22 |
 | [dtolnay/inventory](https://github.com/repolex-forx/dtolnay--inventory) | 0.3.24 | 2026-11-22 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [jaraco/tempora](https://github.com/repolex-forx/jaraco--tempora) | v5.8.1 | 2026-11-22 |
 | [jaraco/jaraco.functools](https://github.com/repolex-forx/jaraco--jaraco.functools) | v4.4.0 | 2026-11-22 |
 | [BurntSushi/bstr](https://github.com/repolex-forx/BurntSushi--bstr) | 1.12.1 | 2026-11-22 |
-| [explosion/wasabi](https://github.com/repolex-forx/explosion--wasabi) | v1.1.3 | 2026-11-22 |
-| [PyCQA/pyflakes](https://github.com/repolex-forx/PyCQA--pyflakes) | 3.4.0 | 2026-11-22 |
-| [explosion/srsly](https://github.com/repolex-forx/explosion--srsly) | v3.0.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
