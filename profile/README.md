@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pydantic/httpx2](https://github.com/repolex-forx/pydantic--httpx2) | v2.13.0 | 2026-11-22 |
 | [seanmonstar/want](https://github.com/repolex-forx/seanmonstar--want) | v0.3.1 | 2026-11-22 |
 | [rkyv/rkyv](https://github.com/repolex-forx/rkyv--rkyv) | v0.7.43 | 2026-11-22 |
 | [dtolnay/unsafe-libyaml](https://github.com/repolex-forx/dtolnay--unsafe-libyaml) | 0.2.11 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [dtolnay/ryu](https://github.com/repolex-forx/dtolnay--ryu) | 1.0.23 | 2026-11-22 |
 | [BurntSushi/termcolor](https://github.com/repolex-forx/BurntSushi--termcolor) | wincolor-1.0.2 | 2026-11-22 |
 | [composefs/tar-rs](https://github.com/repolex-forx/composefs--tar-rs) | v0.4.0 | 2026-11-22 |
-| [mitsuhiko/similar-asserts](https://github.com/repolex-forx/mitsuhiko--similar-asserts) | 2.0.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
