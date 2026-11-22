@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [khorolets/near-ledger-rs](https://github.com/repolex-forx/khorolets--near-ledger-rs) | v0.9.3 | 2026-11-22 |
 | [near/near-workspaces-rs](https://github.com/repolex-forx/near--near-workspaces-rs) | near-workspaces-v0.22.1 | 2026-11-22 |
 | [rust-bitcoin/rust-bip39](https://github.com/repolex-forx/rust-bitcoin--rust-bip39) | v2.2.2 | 2026-11-22 |
 | [apache/arrow-nanoarrow](https://github.com/repolex-forx/apache--arrow-nanoarrow) | apache-arrow-nanoarrow-0.9.0.dev | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [rust-fuzz/honggfuzz-rs](https://github.com/repolex-forx/rust-fuzz--honggfuzz-rs) | v0.5.60 | 2026-11-22 |
 | [rust-pretty-assertions/rust-pretty-assertions](https://github.com/repolex-forx/rust-pretty-assertions--rust-pretty-assertions) | v1.4.1 | 2026-11-22 |
 | [serde-rs/test](https://github.com/repolex-forx/serde-rs--test) | 1.0.177 | 2026-11-22 |
-| [harryfei/which-rs](https://github.com/repolex-forx/harryfei--which-rs) | 8.0.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
