@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pyca/pyopenssl](https://github.com/repolex-forx/pyca--pyopenssl) | v0.14a1 | 2026-11-22 |
 | [joerick/pyinstrument](https://github.com/repolex-forx/joerick--pyinstrument) | v5.1.2 | 2026-11-22 |
 | [explosion/thinc](https://github.com/repolex-forx/explosion--thinc) | v9.1.1.dev0 | 2026-11-22 |
 | [open-source-cooperative/keyring-rs](https://github.com/repolex-forx/open-source-cooperative--keyring-rs) | v4.0.0-rc.3 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [time-rs/time](https://github.com/repolex-forx/time-rs--time) | v0.3.47 | 2026-11-22 |
 | [fastapi/typer](https://github.com/repolex-forx/fastapi--typer) | 0.24.1 | 2026-11-22 |
 | [aio-libs/aiohappyeyeballs](https://github.com/repolex-forx/aio-libs--aiohappyeyeballs) | v2.6.1 | 2026-11-22 |
-| [zopefoundation/zope.traversing](https://github.com/repolex-forx/zopefoundation--zope.traversing) | backups/3.5@112098 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
