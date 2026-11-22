@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [console-rs/dialoguer](https://github.com/repolex-forx/console-rs--dialoguer) | v0.12.0 | 2026-11-22 |
+| [RustCrypto/block-ciphers](https://github.com/repolex-forx/RustCrypto--block-ciphers) | xtea-v0.1.0 | 2026-11-22 |
 | [chronotope/humantime](https://github.com/repolex-forx/chronotope--humantime) | v2.4.0 | 2026-11-22 |
 | [rustls/tokio-rustls](https://github.com/repolex-forx/rustls--tokio-rustls) | v/0.26.5 | 2026-11-22 |
 | [actix/actix-net](https://github.com/repolex-forx/actix--actix-net) | v0.2.6 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [3Hren/msgpack-rust](https://github.com/repolex-forx/3Hren--msgpack-rust) | v0.6.0 | 2026-11-22 |
 | [RustCrypto/sponges](https://github.com/repolex-forx/RustCrypto--sponges) | keccak-v0.2.2 | 2026-11-22 |
 | [RustCrypto/hybrid-array](https://github.com/repolex-forx/RustCrypto--hybrid-array) | v0.4.15 | 2026-11-22 |
-| [cryptocorrosion/cryptocorrosion](https://github.com/repolex-forx/cryptocorrosion--cryptocorrosion) | threefish-cipher-0.4.0 | 2026-11-22 |
-| [elevenlabs/elevenlabs-python](https://github.com/repolex-forx/elevenlabs--elevenlabs-python) | v2.43.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
