@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [uuid-rs/uuid](https://github.com/repolex-forx/uuid-rs--uuid) | v1.23.0 | 2026-11-22 |
 | [zopefoundation/Acquisition](https://github.com/repolex-forx/zopefoundation--Acquisition) | backups/zope2@96236 | 2026-11-22 |
 | [strawlab/iana-time-zone](https://github.com/repolex-forx/strawlab--iana-time-zone) | v0.1.65 | 2026-11-22 |
 | [reem/rust-ordered-float](https://github.com/repolex-forx/reem--rust-ordered-float) | v5.3.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [msgpack/msgpack-python](https://github.com/repolex-forx/msgpack--msgpack-python) | v1.1.2 | 2026-11-22 |
 | [zopefoundation/zope.proxy](https://github.com/repolex-forx/zopefoundation--zope.proxy) | 7.1 | 2026-11-22 |
 | [zopefoundation/zope.container](https://github.com/repolex-forx/zopefoundation--zope.container) | 7.2 | 2026-11-22 |
-| [zopefoundation/zope.component](https://github.com/repolex-forx/zopefoundation--zope.component) | 7.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
