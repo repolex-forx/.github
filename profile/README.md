@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.schema](https://github.com/repolex-forx/zopefoundation--zope.schema) | 8.1 | 2026-11-22 |
+| [opencv/opencv-python](https://github.com/repolex-forx/opencv--opencv-python) | 92 | 2026-11-22 |
 | [rust-lang/hashbrown](https://github.com/repolex-forx/rust-lang--hashbrown) | v0.17.0 | 2026-11-22 |
 | [zopefoundation/zope.testbrowser](https://github.com/repolex-forx/zopefoundation--zope.testbrowser) | backups/3.8@116447 | 2026-11-22 |
 | [zopefoundation/zope.testing](https://github.com/repolex-forx/zopefoundation--zope.testing) | 6.1 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [zopefoundation/Acquisition](https://github.com/repolex-forx/zopefoundation--Acquisition) | backups/zope2@96236 | 2026-11-22 |
 | [strawlab/iana-time-zone](https://github.com/repolex-forx/strawlab--iana-time-zone) | v0.1.65 | 2026-11-22 |
 | [reem/rust-ordered-float](https://github.com/repolex-forx/reem--rust-ordered-float) | v5.3.0 | 2026-11-22 |
-| [matklad/once_cell](https://github.com/repolex-forx/matklad--once_cell) | v1.21.4 | 2026-11-22 |
-| [chronotope/chrono-tz](https://github.com/repolex-forx/chronotope--chrono-tz) | zoneinfo-parse-v0.5.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
