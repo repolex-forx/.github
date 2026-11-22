@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [comex/rust-shlex](https://github.com/repolex-forx/comex--rust-shlex) | 1.3.0 | 2026-11-22 |
 | [dtolnay/automod](https://github.com/repolex-forx/dtolnay--automod) | 1.0.16 | 2026-11-22 |
 | [mdsteele/rust-cfb](https://github.com/repolex-forx/mdsteele--rust-cfb) | v0.14.0 | 2026-11-22 |
 | [crate-ci/clap-cargo](https://github.com/repolex-forx/crate-ci--clap-cargo) | v0.18.3 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [mgeisler/textwrap](https://github.com/repolex-forx/mgeisler--textwrap) | 0.16.2 | 2026-11-22 |
 | [rust-lang/backtrace-rs](https://github.com/repolex-forx/rust-lang--backtrace-rs) | backtrace-v0.3.76 | 2026-11-22 |
 | [dtolnay/semver](https://github.com/repolex-forx/dtolnay--semver) | 1.0.28 | 2026-11-22 |
-| [rust-lang-nursery/lazy-static.rs](https://github.com/repolex-forx/rust-lang-nursery--lazy-static.rs) | 1.5.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
