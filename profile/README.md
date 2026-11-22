@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [timothee-haudebourg/json-ld](https://github.com/repolex-forx/timothee-haudebourg--json-ld) | v0.21.4 | 2026-11-22 |
 | [cloudflare/zlib](https://github.com/repolex-forx/cloudflare--zlib) | v1.2.7.3 | 2026-11-22 |
 | [rust-lang/pkg-config-rs](https://github.com/repolex-forx/rust-lang--pkg-config-rs) | 0.3.34 | 2026-11-22 |
 | [juhaku/utoipa](https://github.com/repolex-forx/juhaku--utoipa) | utoipa-swagger-ui-vendored-0.1.2 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [kevinmehall/rust-peg](https://github.com/repolex-forx/kevinmehall--rust-peg) | 0.8.6 | 2026-11-22 |
 | [mitsuhiko/insta](https://github.com/repolex-forx/mitsuhiko--insta) | 1.48.0 | 2026-11-22 |
 | [ratatui/instability](https://github.com/repolex-forx/ratatui--instability) | instability-v0.3.13 | 2026-11-22 |
-| [chyh1990/yaml-rust](https://github.com/repolex-forx/chyh1990--yaml-rust) | 0.4.5 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
