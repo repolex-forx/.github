@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dtolnay/no-panic](https://github.com/repolex-forx/dtolnay--no-panic) | 0.1.36 | 2026-11-22 |
 | [purpleprotocol/mimalloc_rust](https://github.com/repolex-forx/purpleprotocol--mimalloc_rust) | v0.1.48 | 2026-11-22 |
 | [fastapi/fastapi-cli](https://github.com/repolex-forx/fastapi--fastapi-cli) | 0.0.24 | 2026-11-22 |
 | [webpack/copy-webpack-plugin](https://github.com/repolex-forx/webpack--copy-webpack-plugin) | v14.0.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [mgedmin/check-manifest](https://github.com/repolex-forx/mgedmin--check-manifest) | v0.19 | 2026-11-22 |
 | [sphinx-doc/sphinxext-opengraph](https://github.com/repolex-forx/sphinx-doc--sphinxext-opengraph) | v0.13.0 | 2026-11-22 |
 | [CodSpeedHQ/codspeed-rust](https://github.com/repolex-forx/CodSpeedHQ--codspeed-rust) | v4.4.1 | 2026-11-22 |
-| [googleapis/google-auth-library-python](https://github.com/repolex-forx/googleapis--google-auth-library-python) | v3.0.0.dev0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
