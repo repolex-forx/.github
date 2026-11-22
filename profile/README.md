@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-native-tls/rust-native-tls](https://github.com/repolex-forx/rust-native-tls--rust-native-tls) | v0.2.18 | 2026-11-22 |
 | [askama-rs/askama](https://github.com/repolex-forx/askama-rs--askama) | v0.16.1 | 2026-11-22 |
 | [metrics-rs/metrics](https://github.com/repolex-forx/metrics-rs--metrics) | metrics-v0.24.6 | 2026-11-22 |
 | [ramosbugs/oauth2-rs](https://github.com/repolex-forx/ramosbugs--oauth2-rs) | oauth2-reqwest-0.1.0-alpha.3 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [hyperium/headers](https://github.com/repolex-forx/hyperium--headers) | headers-v0.4.1 | 2026-11-22 |
 | [http-rs/async-session](https://github.com/repolex-forx/http-rs--async-session) | v3.0.0 | 2026-11-22 |
 | [nox/serde_urlencoded](https://github.com/repolex-forx/nox--serde_urlencoded) | v0.6.1 | 2026-11-22 |
-| [SergioBenitez/cookie-rs](https://github.com/repolex-forx/SergioBenitez--cookie-rs) | 0.18.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
