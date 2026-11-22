@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.event](https://github.com/repolex-forx/zopefoundation--zope.event) | 6.1 | 2026-11-22 |
 | [rbarrois/python-semanticversion](https://github.com/repolex-forx/rbarrois--python-semanticversion) | v2.6.0 | 2026-11-22 |
 | [explosion/preshed](https://github.com/repolex-forx/explosion--preshed) | v4.0.0 | 2026-11-22 |
 | [explosion/catalogue](https://github.com/repolex-forx/explosion--catalogue) | v2.1.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [jaraco/pytest-enabler](https://github.com/repolex-forx/jaraco--pytest-enabler) | v3.4.0 | 2026-11-22 |
 | [pytest-dev/pytest-subtests](https://github.com/repolex-forx/pytest-dev--pytest-subtests) | v0.15.0 | 2026-11-22 |
 | [scikit-build/ninja-python-distributions](https://github.com/repolex-forx/scikit-build--ninja-python-distributions) | 1.13.0 | 2026-11-22 |
-| [sethmlarson/truststore](https://github.com/repolex-forx/sethmlarson--truststore) | v0.10.4 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
