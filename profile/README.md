@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [fastapi/typer](https://github.com/repolex-forx/fastapi--typer) | 0.24.1 | 2026-11-22 |
 | [aio-libs/aiohappyeyeballs](https://github.com/repolex-forx/aio-libs--aiohappyeyeballs) | v2.6.1 | 2026-11-22 |
 | [zopefoundation/zope.traversing](https://github.com/repolex-forx/zopefoundation--zope.traversing) | backups/3.5@112098 | 2026-11-22 |
 | [zopefoundation/zope.publisher](https://github.com/repolex-forx/zopefoundation--zope.publisher) | backups/3.9@112085 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [Amanieu/parking_lot](https://github.com/repolex-forx/Amanieu--parking_lot) | parking_lot_core-v0.9.12 | 2026-11-22 |
 | [indexmap-rs/indexmap](https://github.com/repolex-forx/indexmap-rs--indexmap) | v1.1.0 | 2026-11-22 |
 | [servo/rust-smallvec](https://github.com/repolex-forx/servo--rust-smallvec) | v2.0.0-alpha.12 | 2026-11-22 |
-| [Farama-Foundation/Gymnasium](https://github.com/repolex-forx/Farama-Foundation--Gymnasium) | v1.2.3 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
