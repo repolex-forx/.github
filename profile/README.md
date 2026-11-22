@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [servo/rust-fnv](https://github.com/repolex-forx/servo--rust-fnv) | v1.0.7 | 2026-11-22 |
+| [jaraco/jaraco.tidelift](https://github.com/repolex-forx/jaraco--jaraco.tidelift) | v1.5.1 | 2026-11-22 |
+| [executablebooks/sphinx-copybutton](https://github.com/repolex-forx/executablebooks--sphinx-copybutton) | v0.5.2 | 2026-11-22 |
+| [intake/python-snappy](https://github.com/repolex-forx/intake--python-snappy) | 0.7.2 | 2026-11-22 |
 | [python-trio/sphinxcontrib-trio](https://github.com/repolex-forx/python-trio--sphinxcontrib-trio) | v1.2.0 | 2026-11-22 |
 | [karpetrosyan/httpx-aiohttp](https://github.com/repolex-forx/karpetrosyan--httpx-aiohttp) | v0.1.1 | 2026-11-22 |
 | [aio-libs/propcache](https://github.com/repolex-forx/aio-libs--propcache) | v0.4.1 | 2026-11-22 |
 | [python/mypy_extensions](https://github.com/repolex-forx/python--mypy_extensions) | 1.1.0 | 2026-11-21 |
 | [zopefoundation/zope.ptresource](https://github.com/repolex-forx/zopefoundation--zope.ptresource) | 6.0 | 2026-11-21 |
 | [zopefoundation/zope.processlifetime](https://github.com/repolex-forx/zopefoundation--zope.processlifetime) | 4.0 | 2026-11-21 |
-| [zopefoundation/zope.sequencesort](https://github.com/repolex-forx/zopefoundation--zope.sequencesort) | backups/monolithic-zope3@75180 | 2026-11-21 |
-| [zopefoundation/zope.datetime](https://github.com/repolex-forx/zopefoundation--zope.datetime) | backups/monolithic-zope3@75101 | 2026-11-21 |
-| [enthought/pywin32-ctypes](https://github.com/repolex-forx/enthought--pywin32-ctypes) | v0.2.3 | 2026-11-21 |
-| [rust-lang/glob](https://github.com/repolex-forx/rust-lang--glob) | v0.3.4 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
