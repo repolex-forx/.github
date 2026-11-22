@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-num/num-traits](https://github.com/repolex-forx/rust-num--num-traits) | num-traits-0.2.19 | 2026-11-22 |
 | [zopefoundation/Persistence](https://github.com/repolex-forx/zopefoundation--Persistence) | backups/zope2@96249 | 2026-11-22 |
 | [zopefoundation/ExtensionClass](https://github.com/repolex-forx/zopefoundation--ExtensionClass) | backups/zope2@96245 | 2026-11-22 |
 | [jaraco/jaraco.context](https://github.com/repolex-forx/jaraco--jaraco.context) | v6.1.2 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [akubera/bigdecimal-rs](https://github.com/repolex-forx/akubera--bigdecimal-rs) | v0.4.10 | 2026-11-22 |
 | [zopefoundation/zope.tal](https://github.com/repolex-forx/zopefoundation--zope.tal) | backups/monolithic-zope3@75193 | 2026-11-22 |
 | [davidhalter/parso](https://github.com/repolex-forx/davidhalter--parso) | v0.8.6 | 2026-11-22 |
-| [sphinx-contrib/sphinx-lint](https://github.com/repolex-forx/sphinx-contrib--sphinx-lint) | v1.0.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
