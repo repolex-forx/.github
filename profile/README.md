@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [tox-dev/python-discovery](https://github.com/repolex-forx/tox-dev--python-discovery) | 1.2.2 | 2026-11-22 |
 | [servo/rust-fnv](https://github.com/repolex-forx/servo--rust-fnv) | v1.0.7 | 2026-11-22 |
 | [jaraco/jaraco.tidelift](https://github.com/repolex-forx/jaraco--jaraco.tidelift) | v1.5.1 | 2026-11-22 |
 | [executablebooks/sphinx-copybutton](https://github.com/repolex-forx/executablebooks--sphinx-copybutton) | v0.5.2 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [aio-libs/propcache](https://github.com/repolex-forx/aio-libs--propcache) | v0.4.1 | 2026-11-22 |
 | [python/mypy_extensions](https://github.com/repolex-forx/python--mypy_extensions) | 1.1.0 | 2026-11-21 |
 | [zopefoundation/zope.ptresource](https://github.com/repolex-forx/zopefoundation--zope.ptresource) | 6.0 | 2026-11-21 |
-| [zopefoundation/zope.processlifetime](https://github.com/repolex-forx/zopefoundation--zope.processlifetime) | 4.0 | 2026-11-21 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
