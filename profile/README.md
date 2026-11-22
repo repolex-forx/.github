@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [HdrHistogram/HdrHistogram_rust](https://github.com/repolex-forx/HdrHistogram--HdrHistogram_rust) | v7.6.0 | 2026-11-22 |
 | [mina86/ansi_colours](https://github.com/repolex-forx/mina86--ansi_colours) | v1.2.2 | 2026-11-22 |
 | [al8n/fs4](https://github.com/repolex-forx/al8n--fs4) | 1.1.0 | 2026-11-22 |
 | [lunacookies/etcetera](https://github.com/repolex-forx/lunacookies--etcetera) | v0.11.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [tokio-rs/async-stream](https://github.com/repolex-forx/tokio-rs--async-stream) | v0.3.6 | 2026-11-22 |
 | [snapview/tungstenite-rs](https://github.com/repolex-forx/snapview--tungstenite-rs) | v0.30.0 | 2026-11-22 |
 | [dtolnay/path-to-error](https://github.com/repolex-forx/dtolnay--path-to-error) | 0.1.20 | 2026-11-22 |
-| [mitsuhiko/minijinja](https://github.com/repolex-forx/mitsuhiko--minijinja) | minijinja-go/v2.24.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
