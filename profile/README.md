@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [explosion/confection](https://github.com/repolex-forx/explosion--confection) | v0.1.5 | 2026-11-22 |
+| [jaraco/jaraco.classes](https://github.com/repolex-forx/jaraco--jaraco.classes) | v3.4.0 | 2026-11-22 |
+| [google/python-subprocess32](https://github.com/repolex-forx/google--python-subprocess32) | test_travis_deploy_006 | 2026-11-22 |
+| [python-distro/distro](https://github.com/repolex-forx/python-distro--distro) | v1.9.0 | 2026-11-22 |
+| [oprypin/mkdocs-literate-nav](https://github.com/repolex-forx/oprypin--mkdocs-literate-nav) | v0.6.3 | 2026-11-22 |
 | [sphinx-doc/sphinxcontrib-websupport](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-websupport) | 2.0.0 | 2026-11-22 |
 | [pytest-dev/pytest-timeout](https://github.com/repolex-forx/pytest-dev--pytest-timeout) | 2.4.0 | 2026-11-22 |
 | [pradyunsg/sphinx-inline-tabs](https://github.com/repolex-forx/pradyunsg--sphinx-inline-tabs) | 2025.12.21.14 | 2026-11-22 |
 | [oprypin/mkdocs-section-index](https://github.com/repolex-forx/oprypin--mkdocs-section-index) | v0.3.11 | 2026-11-22 |
 | [oprypin/mkdocs-gen-files](https://github.com/repolex-forx/oprypin--mkdocs-gen-files) | v0.6.1 | 2026-11-22 |
-| [mpkocher/pydantic-cli](https://github.com/repolex-forx/mpkocher--pydantic-cli) | v10.0.0 | 2026-11-22 |
-| [aio-libs/aiosignal](https://github.com/repolex-forx/aio-libs--aiosignal) | v1.4.0 | 2026-11-22 |
-| [zopefoundation/zope.size](https://github.com/repolex-forx/zopefoundation--zope.size) | 6.0 | 2026-11-22 |
-| [zopefoundation/zope.browserpage](https://github.com/repolex-forx/zopefoundation--zope.browserpage) | 6.0 | 2026-11-22 |
-| [zopefoundation/zope.globalrequest](https://github.com/repolex-forx/zopefoundation--zope.globalrequest) | 3.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
