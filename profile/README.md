@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [explosion/preshed](https://github.com/repolex-forx/explosion--preshed) | v4.0.0 | 2026-11-22 |
 | [explosion/catalogue](https://github.com/repolex-forx/explosion--catalogue) | v2.1.0 | 2026-11-22 |
 | [pytest-dev/pytest-env](https://github.com/repolex-forx/pytest-dev--pytest-env) | 1.6.0 | 2026-11-22 |
 | [jamielennox/requests-mock](https://github.com/repolex-forx/jamielennox--requests-mock) | 1.12.1 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [scikit-build/ninja-python-distributions](https://github.com/repolex-forx/scikit-build--ninja-python-distributions) | 1.13.0 | 2026-11-22 |
 | [sethmlarson/truststore](https://github.com/repolex-forx/sethmlarson--truststore) | v0.10.4 | 2026-11-22 |
 | [aio-libs/async-timeout](https://github.com/repolex-forx/aio-libs--async-timeout) | v5.0.1 | 2026-11-22 |
-| [zopefoundation/zope.viewlet](https://github.com/repolex-forx/zopefoundation--zope.viewlet) | backups/monolithic-zope3@75208 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
