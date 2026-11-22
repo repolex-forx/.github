@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [chronotope/chrono-tz](https://github.com/repolex-forx/chronotope--chrono-tz) | zoneinfo-parse-v0.5.0 | 2026-11-22 |
 | [pypa/distlib](https://github.com/repolex-forx/pypa--distlib) | 0.4.0 | 2026-11-22 |
 | [msgpack/msgpack-python](https://github.com/repolex-forx/msgpack--msgpack-python) | v1.1.2 | 2026-11-22 |
 | [zopefoundation/zope.proxy](https://github.com/repolex-forx/zopefoundation--zope.proxy) | 7.1 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [zopefoundation/z3c.pt](https://github.com/repolex-forx/zopefoundation--z3c.pt) | backups/Missing_hanlding@113116 | 2026-11-22 |
 | [python-babel/babel](https://github.com/repolex-forx/python-babel--babel) | v2.18.0 | 2026-11-22 |
 | [zopefoundation/RestrictedPython](https://github.com/repolex-forx/zopefoundation--RestrictedPython) | backups/zope2@76328 | 2026-11-22 |
-| [zopefoundation/DateTime](https://github.com/repolex-forx/zopefoundation--DateTime) | 6.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
