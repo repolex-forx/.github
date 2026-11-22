@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [gyscos/zstd-rs](https://github.com/repolex-forx/gyscos--zstd-rs) | zstd-sys-2.0.15 | 2026-11-22 |
 | [bytecodealliance/rustix](https://github.com/repolex-forx/bytecodealliance--rustix) | v1.1.4 | 2026-11-22 |
 | [near/near-abi-rs](https://github.com/repolex-forx/near--near-abi-rs) | v0.3.0 | 2026-11-22 |
 | [near/near-jsonrpc-client-rs](https://github.com/repolex-forx/near--near-jsonrpc-client-rs) | v0.21.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [rust-bitcoin/rust-bip39](https://github.com/repolex-forx/rust-bitcoin--rust-bip39) | v2.2.2 | 2026-11-22 |
 | [apache/arrow-nanoarrow](https://github.com/repolex-forx/apache--arrow-nanoarrow) | apache-arrow-nanoarrow-0.9.0.dev | 2026-11-22 |
 | [dtolnay/paste](https://github.com/repolex-forx/dtolnay--paste) | 1.0.15 | 2026-11-22 |
-| [bitflags/bitflags](https://github.com/repolex-forx/bitflags--bitflags) | 2.11.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
