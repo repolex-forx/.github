@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/ZODB](https://github.com/repolex-forx/zopefoundation--ZODB) | new-doc | 2026-11-22 |
 | [Blosc/python-blosc2](https://github.com/repolex-forx/Blosc--python-blosc2) | v4.1.2 | 2026-11-22 |
 | [sdispater/pendulum](https://github.com/repolex-forx/sdispater--pendulum) | 3.2.0 | 2026-11-22 |
 | [pyca/pynacl](https://github.com/repolex-forx/pyca--pynacl) | v0.3.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [Ezibenroc/PyRoaringBitMap](https://github.com/repolex-forx/Ezibenroc--PyRoaringBitMap) | 1.0.4 | 2026-11-22 |
 | [near/near-cli-rs](https://github.com/repolex-forx/near--near-cli-rs) | v0.25.0 | 2026-11-22 |
 | [jaraco/jaraco.packaging](https://github.com/repolex-forx/jaraco--jaraco.packaging) | v10.4.0 | 2026-11-22 |
-| [pradyunsg/furo](https://github.com/repolex-forx/pradyunsg--furo) | 2025.12.19 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
