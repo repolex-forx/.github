@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-lang/jobserver-rs](https://github.com/repolex-forx/rust-lang--jobserver-rs) | 0.1.34 | 2026-11-22 |
 | [open-i18n/rust-unic](https://github.com/repolex-forx/open-i18n--rust-unic) | v0.9.0 | 2026-11-22 |
 | [microsoft/rust_debugger_test](https://github.com/repolex-forx/microsoft--rust_debugger_test) | debugger_test_parser-0.2.0 | 2026-11-22 |
 | [messense/rustc-test](https://github.com/repolex-forx/messense--rustc-test) | v0.9.1 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [dtolnay/ref-cast](https://github.com/repolex-forx/dtolnay--ref-cast) | 1.0.25 | 2026-11-22 |
 | [slackapi/bolt-python](https://github.com/repolex-forx/slackapi--bolt-python) | v1.28.0 | 2026-11-22 |
 | [rapidfuzz/strsim-rs](https://github.com/repolex-forx/rapidfuzz--strsim-rs) | v0.11.1 | 2026-11-22 |
-| [comex/rust-shlex](https://github.com/repolex-forx/comex--rust-shlex) | 1.3.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
