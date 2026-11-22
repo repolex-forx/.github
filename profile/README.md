@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [kevinmehall/rust-peg](https://github.com/repolex-forx/kevinmehall--rust-peg) | 0.8.6 | 2026-11-22 |
 | [mitsuhiko/insta](https://github.com/repolex-forx/mitsuhiko--insta) | 1.48.0 | 2026-11-22 |
 | [ratatui/instability](https://github.com/repolex-forx/ratatui--instability) | instability-v0.3.13 | 2026-11-22 |
 | [chyh1990/yaml-rust](https://github.com/repolex-forx/chyh1990--yaml-rust) | 0.4.5 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [seanmonstar/want](https://github.com/repolex-forx/seanmonstar--want) | v0.3.1 | 2026-11-22 |
 | [rkyv/rkyv](https://github.com/repolex-forx/rkyv--rkyv) | v0.7.43 | 2026-11-22 |
 | [dtolnay/unsafe-libyaml](https://github.com/repolex-forx/dtolnay--unsafe-libyaml) | 0.2.11 | 2026-11-22 |
-| [cecton/pure-rust-locales](https://github.com/repolex-forx/cecton--pure-rust-locales) | v0.8.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
