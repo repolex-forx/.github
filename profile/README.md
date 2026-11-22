@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [PyCQA/pyflakes](https://github.com/repolex-forx/PyCQA--pyflakes) | 3.4.0 | 2026-11-22 |
+| [explosion/srsly](https://github.com/repolex-forx/explosion--srsly) | v3.0.0 | 2026-11-22 |
 | [zopefoundation/zope.i18n](https://github.com/repolex-forx/zopefoundation--zope.i18n) | backups/monolithic-zope3@75140 | 2026-11-22 |
 | [explosion/cymem](https://github.com/repolex-forx/explosion--cymem) | v2.0.9a13 | 2026-11-22 |
 | [colin-kiegel/rust-derive-builder](https://github.com/repolex-forx/colin-kiegel--rust-derive-builder) | v0.20.2 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [zopefoundation/zope.configuration](https://github.com/repolex-forx/zopefoundation--zope.configuration) | 7.1 | 2026-11-22 |
 | [zopefoundation/zope.i18nmessageid](https://github.com/repolex-forx/zopefoundation--zope.i18nmessageid) | 8.2 | 2026-11-22 |
 | [zopefoundation/zope.pagetemplate](https://github.com/repolex-forx/zopefoundation--zope.pagetemplate) | backups/monolithic-zope3@75158 | 2026-11-22 |
-| [zopefoundation/transaction](https://github.com/repolex-forx/zopefoundation--transaction) | 5.1 | 2026-11-22 |
-| [zopefoundation/zope.exceptions](https://github.com/repolex-forx/zopefoundation--zope.exceptions) | 6.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
