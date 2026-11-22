@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-pretty-assertions/rust-pretty-assertions](https://github.com/repolex-forx/rust-pretty-assertions--rust-pretty-assertions) | v1.4.1 | 2026-11-22 |
+| [serde-rs/test](https://github.com/repolex-forx/serde-rs--test) | 1.0.177 | 2026-11-22 |
 | [harryfei/which-rs](https://github.com/repolex-forx/harryfei--which-rs) | 8.0.2 | 2026-11-22 |
 | [rust-lang/jobserver-rs](https://github.com/repolex-forx/rust-lang--jobserver-rs) | 0.1.34 | 2026-11-22 |
 | [open-i18n/rust-unic](https://github.com/repolex-forx/open-i18n--rust-unic) | v0.9.0 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [docopt/docopt.rs](https://github.com/repolex-forx/docopt--docopt.rs) | version.1 | 2026-11-22 |
 | [rust-random/rngs](https://github.com/repolex-forx/rust-random--rngs) | rand_xoshiro-0.8.0-rc.0 | 2026-11-22 |
 | [dtolnay/proc-macro-hack](https://github.com/repolex-forx/dtolnay--proc-macro-hack) | 0.5.20 | 2026-11-22 |
-| [dtolnay/ref-cast](https://github.com/repolex-forx/dtolnay--ref-cast) | 1.0.25 | 2026-11-22 |
-| [slackapi/bolt-python](https://github.com/repolex-forx/slackapi--bolt-python) | v1.28.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
