@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ionelmc/pytest-benchmark](https://github.com/repolex-forx/ionelmc--pytest-benchmark) | v5.2.3 | 2026-11-22 |
 | [scikit-image/scikit-image](https://github.com/repolex-forx/scikit-image--scikit-image) | v0.26.0 | 2026-11-22 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.0.0-rc.2 | 2026-11-22 |
 | [pytest-dev/pytest-randomly](https://github.com/repolex-forx/pytest-dev--pytest-randomly) | 4.0.1 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [jcreekmore/pem-rs](https://github.com/repolex-forx/jcreekmore--pem-rs) | v3.0.6 | 2026-11-22 |
 | [pyenchant/pyenchant](https://github.com/repolex-forx/pyenchant--pyenchant) | v3.3.0 | 2026-11-22 |
 | [sindresorhus/tempy](https://github.com/repolex-forx/sindresorhus--tempy) | v3.2.0 | 2026-11-22 |
-| [Stebalien/tempfile](https://github.com/repolex-forx/Stebalien--tempfile) | v3.27.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
