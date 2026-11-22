@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [ifduyue/python-xxhash](https://github.com/repolex-forx/ifduyue--python-xxhash) | v3.6.0 | 2026-11-22 |
 | [pybind/pybind11](https://github.com/repolex-forx/pybind--pybind11) | v3.0.3 | 2026-11-22 |
 | [nvzqz/divan](https://github.com/repolex-forx/nvzqz--divan) | v0.1.21 | 2026-11-22 |
 | [jazzband/pip-tools](https://github.com/repolex-forx/jazzband--pip-tools) | v7.5.3 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [epage/toml-test-rs](https://github.com/repolex-forx/epage--toml-test-rs) | v1.0.4 | 2026-11-22 |
 | [zen-xu/pyarrow-stubs](https://github.com/repolex-forx/zen-xu--pyarrow-stubs) | 20.0.0.20251215 | 2026-11-22 |
 | [pydantic/pydantic-extra-types](https://github.com/repolex-forx/pydantic--pydantic-extra-types) | v2.11.2 | 2026-11-22 |
-| [dtolnay/no-panic](https://github.com/repolex-forx/dtolnay--no-panic) | 0.1.36 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
