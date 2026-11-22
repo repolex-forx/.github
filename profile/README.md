@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [SergioBenitez/cookie-rs](https://github.com/repolex-forx/SergioBenitez--cookie-rs) | 0.18.2 | 2026-11-22 |
 | [rust-lang/annotate-snippets-rs](https://github.com/repolex-forx/rust-lang--annotate-snippets-rs) | 0.12.16 | 2026-11-22 |
 | [RustCrypto/stream-ciphers](https://github.com/repolex-forx/RustCrypto--stream-ciphers) | salsa20-v0.11.0 | 2026-11-22 |
 | [snapview/tokio-tungstenite](https://github.com/repolex-forx/snapview--tokio-tungstenite) | v0.30.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [alexcrichton/curl-rust](https://github.com/repolex-forx/alexcrichton--curl-rust) | curl-sys-0.4.90 | 2026-11-22 |
 | [TeXitoi/structopt](https://github.com/repolex-forx/TeXitoi--structopt) | v0.3.26 | 2026-11-22 |
 | [ruuda/thread-id](https://github.com/repolex-forx/ruuda--thread-id) | v5.1.0 | 2026-11-22 |
-| [alexcrichton/ssh2-rs](https://github.com/repolex-forx/alexcrichton--ssh2-rs) | libssh2-sys-0.3.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
