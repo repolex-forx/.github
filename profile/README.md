@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [indygreg/python-zstandard](https://github.com/repolex-forx/indygreg--python-zstandard) | 0.25.0 | 2026-11-22 |
 | [spatialaudio/python-sounddevice](https://github.com/repolex-forx/spatialaudio--python-sounddevice) | 0.5.5 | 2026-11-22 |
 | [PyMySQL/PyMySQL](https://github.com/repolex-forx/PyMySQL--PyMySQL) | v1.1.2 | 2026-11-22 |
 | [Ezibenroc/PyRoaringBitMap](https://github.com/repolex-forx/Ezibenroc--PyRoaringBitMap) | 1.0.4 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pypa/wheel](https://github.com/repolex-forx/pypa--wheel) | 0.46.3 | 2026-11-22 |
 | [mrabarnett/mrab-regex](https://github.com/repolex-forx/mrabarnett--mrab-regex) | 2026.4.4 | 2026-11-22 |
 | [zopefoundation/zope.interface](https://github.com/repolex-forx/zopefoundation--zope.interface) | 8.3 | 2026-11-22 |
-| [pyca/pyopenssl](https://github.com/repolex-forx/pyca--pyopenssl) | v0.14a1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
