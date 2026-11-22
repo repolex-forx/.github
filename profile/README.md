@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.globalrequest](https://github.com/repolex-forx/zopefoundation--zope.globalrequest) | 3.0 | 2026-11-22 |
 | [explosion/weasel](https://github.com/repolex-forx/explosion--weasel) | v0.4.1 | 2026-11-22 |
 | [zopefoundation/zope.browsermenu](https://github.com/repolex-forx/zopefoundation--zope.browsermenu) | 6.0 | 2026-11-22 |
 | [zopefoundation/zExceptions](https://github.com/repolex-forx/zopefoundation--zExceptions) | 6.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [sphinx-doc/sphinxcontrib-serializinghtml](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-serializinghtml) | 2.0.0 | 2026-11-22 |
 | [shibukawa/imagesize_py](https://github.com/repolex-forx/shibukawa--imagesize_py) | 2.0.0 | 2026-11-22 |
 | [sphinx-doc/sphinxcontrib-htmlhelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-htmlhelp) | 2.1.0 | 2026-11-22 |
-| [lixxu/flask-paginate](https://github.com/repolex-forx/lixxu--flask-paginate) | v2024.4.12 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
