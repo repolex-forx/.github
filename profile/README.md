@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [near/near-abi-rs](https://github.com/repolex-forx/near--near-abi-rs) | v0.3.0 | 2026-11-22 |
 | [near/near-jsonrpc-client-rs](https://github.com/repolex-forx/near--near-jsonrpc-client-rs) | v0.21.0 | 2026-11-22 |
 | [near/near-sdk-rs](https://github.com/repolex-forx/near--near-sdk-rs) | v2.0.1 | 2026-11-22 |
 | [khorolets/near-ledger-rs](https://github.com/repolex-forx/khorolets--near-ledger-rs) | v0.9.3 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [dtolnay/paste](https://github.com/repolex-forx/dtolnay--paste) | 1.0.15 | 2026-11-22 |
 | [bitflags/bitflags](https://github.com/repolex-forx/bitflags--bitflags) | 2.11.1 | 2026-11-22 |
 | [BurntSushi/quickcheck](https://github.com/repolex-forx/BurntSushi--quickcheck) | version.1 | 2026-11-22 |
-| [rust-fuzz/honggfuzz-rs](https://github.com/repolex-forx/rust-fuzz--honggfuzz-rs) | v0.5.60 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
