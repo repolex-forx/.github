@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [BurntSushi/bstr](https://github.com/repolex-forx/BurntSushi--bstr) | 1.12.1 | 2026-11-22 |
+| [explosion/wasabi](https://github.com/repolex-forx/explosion--wasabi) | v1.1.3 | 2026-11-22 |
 | [PyCQA/pyflakes](https://github.com/repolex-forx/PyCQA--pyflakes) | 3.4.0 | 2026-11-22 |
 | [explosion/srsly](https://github.com/repolex-forx/explosion--srsly) | v3.0.0 | 2026-11-22 |
 | [zopefoundation/zope.i18n](https://github.com/repolex-forx/zopefoundation--zope.i18n) | backups/monolithic-zope3@75140 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [realpython/pytest-mypy](https://github.com/repolex-forx/realpython--pytest-mypy) | v1.0.1 | 2026-11-22 |
 | [rust-num/num-bigint](https://github.com/repolex-forx/rust-num--num-bigint) | num-bigint-0.4.6 | 2026-11-22 |
 | [zopefoundation/zope.configuration](https://github.com/repolex-forx/zopefoundation--zope.configuration) | 7.1 | 2026-11-22 |
-| [zopefoundation/zope.i18nmessageid](https://github.com/repolex-forx/zopefoundation--zope.i18nmessageid) | 8.2 | 2026-11-22 |
-| [zopefoundation/zope.pagetemplate](https://github.com/repolex-forx/zopefoundation--zope.pagetemplate) | backups/monolithic-zope3@75158 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
