@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [mitsuhiko/similar-asserts](https://github.com/repolex-forx/mitsuhiko--similar-asserts) | 2.0.0 | 2026-11-22 |
 | [stub42/pytz](https://github.com/repolex-forx/stub42--pytz) | release_2026.3 | 2026-11-22 |
 | [knurling-rs/defmt](https://github.com/repolex-forx/knurling-rs--defmt) | v0.2.0-with-qemu-run-ignore-version | 2026-11-22 |
 | [rust-fuzz/arbitrary](https://github.com/repolex-forx/rust-fuzz--arbitrary) | v1.4.2 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [RustCrypto/block-ciphers](https://github.com/repolex-forx/RustCrypto--block-ciphers) | xtea-v0.1.0 | 2026-11-22 |
 | [chronotope/humantime](https://github.com/repolex-forx/chronotope--humantime) | v2.4.0 | 2026-11-22 |
 | [rustls/tokio-rustls](https://github.com/repolex-forx/rustls--tokio-rustls) | v/0.26.5 | 2026-11-22 |
-| [actix/actix-net](https://github.com/repolex-forx/actix--actix-net) | v0.2.6 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
