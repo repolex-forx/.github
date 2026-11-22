@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [apache/datafusion-python](https://github.com/repolex-forx/apache--datafusion-python) | ci-release-mode-rc1 | 2026-11-22 |
 | [scikit-learn/scikit-learn](https://github.com/repolex-forx/scikit-learn--scikit-learn) | sprint01 | 2026-11-22 |
 | [zopefoundation/ZODB](https://github.com/repolex-forx/zopefoundation--ZODB) | new-doc | 2026-11-22 |
+| [aio-libs/multidict](https://github.com/repolex-forx/aio-libs--multidict) | v6.7.1 | 2026-11-22 |
 | [Blosc/python-blosc2](https://github.com/repolex-forx/Blosc--python-blosc2) | v4.1.2 | 2026-11-22 |
 | [sdispater/pendulum](https://github.com/repolex-forx/sdispater--pendulum) | 3.2.0 | 2026-11-22 |
 | [pyca/pynacl](https://github.com/repolex-forx/pyca--pynacl) | v0.3.0 | 2026-11-22 |
 | [indygreg/python-zstandard](https://github.com/repolex-forx/indygreg--python-zstandard) | 0.25.0 | 2026-11-22 |
 | [spatialaudio/python-sounddevice](https://github.com/repolex-forx/spatialaudio--python-sounddevice) | 0.5.5 | 2026-11-22 |
 | [PyMySQL/PyMySQL](https://github.com/repolex-forx/PyMySQL--PyMySQL) | v1.1.2 | 2026-11-22 |
-| [Ezibenroc/PyRoaringBitMap](https://github.com/repolex-forx/Ezibenroc--PyRoaringBitMap) | 1.0.4 | 2026-11-22 |
-| [near/near-cli-rs](https://github.com/repolex-forx/near--near-cli-rs) | v0.25.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
