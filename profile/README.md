@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [webpack/copy-webpack-plugin](https://github.com/repolex-forx/webpack--copy-webpack-plugin) | v14.0.0 | 2026-11-22 |
 | [trentm/python-markdown2](https://github.com/repolex-forx/trentm--python-markdown2) | v1.0.1.17 | 2026-11-22 |
 | [pypa/trove-classifiers](https://github.com/repolex-forx/pypa--trove-classifiers) | 2026.1.14.14 | 2026-11-22 |
 | [jaraco/pytest-perf](https://github.com/repolex-forx/jaraco--pytest-perf) | v0.15.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [googleapis/google-auth-library-python](https://github.com/repolex-forx/googleapis--google-auth-library-python) | v3.0.0.dev0 | 2026-11-22 |
 | [tiran/defusedxml](https://github.com/repolex-forx/tiran--defusedxml) | v0.8.0rc2 | 2026-11-22 |
 | [regebro/pyroma](https://github.com/repolex-forx/regebro--pyroma) | 5.0.1 | 2026-11-22 |
-| [sphinx-doc/sphinx-autobuild](https://github.com/repolex-forx/sphinx-doc--sphinx-autobuild) | v0.7.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
