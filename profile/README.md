@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.publisher](https://github.com/repolex-forx/zopefoundation--zope.publisher) | backups/3.9@112085 | 2026-11-22 |
 | [pygobject/pygobject-stubs](https://github.com/repolex-forx/pygobject--pygobject-stubs) | v2.17.0 | 2026-11-22 |
 | [mkdocstrings/mkdocstrings](https://github.com/repolex-forx/mkdocstrings--mkdocstrings) | v0.13.1 | 2026-11-22 |
 | [paupino/rust-decimal](https://github.com/repolex-forx/paupino--rust-decimal) | 1.41.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [Farama-Foundation/Gymnasium](https://github.com/repolex-forx/Farama-Foundation--Gymnasium) | v1.2.3 | 2026-11-22 |
 | [zopefoundation/AccessControl](https://github.com/repolex-forx/zopefoundation--AccessControl) | 7.3 | 2026-11-22 |
 | [zopefoundation/zope.schema](https://github.com/repolex-forx/zopefoundation--zope.schema) | 8.1 | 2026-11-22 |
-| [opencv/opencv-python](https://github.com/repolex-forx/opencv--opencv-python) | 92 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
