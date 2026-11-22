@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [djc/bb8](https://github.com/repolex-forx/djc--bb8) | v0.9.1 | 2026-11-22 |
+| [hyperium/headers](https://github.com/repolex-forx/hyperium--headers) | headers-v0.4.1 | 2026-11-22 |
 | [http-rs/async-session](https://github.com/repolex-forx/http-rs--async-session) | v3.0.0 | 2026-11-22 |
 | [nox/serde_urlencoded](https://github.com/repolex-forx/nox--serde_urlencoded) | v0.6.1 | 2026-11-22 |
 | [SergioBenitez/cookie-rs](https://github.com/repolex-forx/SergioBenitez--cookie-rs) | 0.18.2 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [snapview/tokio-tungstenite](https://github.com/repolex-forx/snapview--tokio-tungstenite) | v0.30.0 | 2026-11-22 |
 | [rust-random/rand_core](https://github.com/repolex-forx/rust-random--rand_core) | v0.10.1 | 2026-11-22 |
 | [BurntSushi/tabwriter](https://github.com/repolex-forx/BurntSushi--tabwriter) | tabwriter-bin-0.2.2 | 2026-11-22 |
-| [hyperium/h2](https://github.com/repolex-forx/hyperium--h2) | v0.4.19 | 2026-11-22 |
-| [alexcrichton/curl-rust](https://github.com/repolex-forx/alexcrichton--curl-rust) | curl-sys-0.4.90 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
