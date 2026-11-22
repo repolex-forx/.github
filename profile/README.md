@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.browserresource](https://github.com/repolex-forx/zopefoundation--zope.browserresource) | backups/mgedmin-etag-support@115668 | 2026-11-22 |
 | [explosion/confection](https://github.com/repolex-forx/explosion--confection) | v0.1.5 | 2026-11-22 |
 | [jaraco/jaraco.classes](https://github.com/repolex-forx/jaraco--jaraco.classes) | v3.4.0 | 2026-11-22 |
 | [google/python-subprocess32](https://github.com/repolex-forx/google--python-subprocess32) | test_travis_deploy_006 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pytest-dev/pytest-timeout](https://github.com/repolex-forx/pytest-dev--pytest-timeout) | 2.4.0 | 2026-11-22 |
 | [pradyunsg/sphinx-inline-tabs](https://github.com/repolex-forx/pradyunsg--sphinx-inline-tabs) | 2025.12.21.14 | 2026-11-22 |
 | [oprypin/mkdocs-section-index](https://github.com/repolex-forx/oprypin--mkdocs-section-index) | v0.3.11 | 2026-11-22 |
-| [oprypin/mkdocs-gen-files](https://github.com/repolex-forx/oprypin--mkdocs-gen-files) | v0.6.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
