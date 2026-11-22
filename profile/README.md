@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dtolnay/paste](https://github.com/repolex-forx/dtolnay--paste) | 1.0.15 | 2026-11-22 |
+| [bitflags/bitflags](https://github.com/repolex-forx/bitflags--bitflags) | 2.11.1 | 2026-11-22 |
 | [BurntSushi/quickcheck](https://github.com/repolex-forx/BurntSushi--quickcheck) | version.1 | 2026-11-22 |
 | [rust-fuzz/honggfuzz-rs](https://github.com/repolex-forx/rust-fuzz--honggfuzz-rs) | v0.5.60 | 2026-11-22 |
 | [rust-pretty-assertions/rust-pretty-assertions](https://github.com/repolex-forx/rust-pretty-assertions--rust-pretty-assertions) | v1.4.1 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [rust-lang/jobserver-rs](https://github.com/repolex-forx/rust-lang--jobserver-rs) | 0.1.34 | 2026-11-22 |
 | [open-i18n/rust-unic](https://github.com/repolex-forx/open-i18n--rust-unic) | v0.9.0 | 2026-11-22 |
 | [microsoft/rust_debugger_test](https://github.com/repolex-forx/microsoft--rust_debugger_test) | debugger_test_parser-0.2.0 | 2026-11-22 |
-| [messense/rustc-test](https://github.com/repolex-forx/messense--rustc-test) | v0.9.1 | 2026-11-22 |
-| [docopt/docopt.rs](https://github.com/repolex-forx/docopt--docopt.rs) | version.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
