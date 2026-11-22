@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [explosion/weasel](https://github.com/repolex-forx/explosion--weasel) | v0.4.1 | 2026-11-22 |
+| [zopefoundation/zope.browsermenu](https://github.com/repolex-forx/zopefoundation--zope.browsermenu) | 6.0 | 2026-11-22 |
+| [zopefoundation/zExceptions](https://github.com/repolex-forx/zopefoundation--zExceptions) | 6.0 | 2026-11-22 |
+| [python-trio/pytest-trio](https://github.com/repolex-forx/python-trio--pytest-trio) | v0.8.0 | 2026-11-22 |
 | [dtolnay/serde-untagged](https://github.com/repolex-forx/dtolnay--serde-untagged) | 0.1.9 | 2026-11-22 |
 | [Peternator7/strum](https://github.com/repolex-forx/Peternator7--strum) | v0.28.0 | 2026-11-22 |
 | [sphinx-doc/sphinxcontrib-serializinghtml](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-serializinghtml) | 2.0.0 | 2026-11-22 |
 | [shibukawa/imagesize_py](https://github.com/repolex-forx/shibukawa--imagesize_py) | 2.0.0 | 2026-11-22 |
 | [sphinx-doc/sphinxcontrib-htmlhelp](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-htmlhelp) | 2.1.0 | 2026-11-22 |
 | [lixxu/flask-paginate](https://github.com/repolex-forx/lixxu--flask-paginate) | v2024.4.12 | 2026-11-22 |
-| [tox-dev/python-discovery](https://github.com/repolex-forx/tox-dev--python-discovery) | 1.2.2 | 2026-11-22 |
-| [servo/rust-fnv](https://github.com/repolex-forx/servo--rust-fnv) | v1.0.7 | 2026-11-22 |
-| [jaraco/jaraco.tidelift](https://github.com/repolex-forx/jaraco--jaraco.tidelift) | v1.5.1 | 2026-11-22 |
-| [executablebooks/sphinx-copybutton](https://github.com/repolex-forx/executablebooks--sphinx-copybutton) | v0.5.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
