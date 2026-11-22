@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [explosion/thinc](https://github.com/repolex-forx/explosion--thinc) | v9.1.1.dev0 | 2026-11-22 |
 | [open-source-cooperative/keyring-rs](https://github.com/repolex-forx/open-source-cooperative--keyring-rs) | v4.0.0-rc.3 | 2026-11-22 |
 | [PyCQA/flake8](https://github.com/repolex-forx/PyCQA--flake8) | 7.3.0 | 2026-11-22 |
 | [aio-libs/yarl](https://github.com/repolex-forx/aio-libs--yarl) | v1.23.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [aio-libs/aiohappyeyeballs](https://github.com/repolex-forx/aio-libs--aiohappyeyeballs) | v2.6.1 | 2026-11-22 |
 | [zopefoundation/zope.traversing](https://github.com/repolex-forx/zopefoundation--zope.traversing) | backups/3.5@112098 | 2026-11-22 |
 | [zopefoundation/zope.publisher](https://github.com/repolex-forx/zopefoundation--zope.publisher) | backups/3.9@112085 | 2026-11-22 |
-| [pygobject/pygobject-stubs](https://github.com/repolex-forx/pygobject--pygobject-stubs) | v2.17.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
