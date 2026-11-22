@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dtolnay/async-trait](https://github.com/repolex-forx/dtolnay--async-trait) | 0.1.89 | 2026-11-22 |
+| [Nullus157/bs58-rs](https://github.com/repolex-forx/Nullus157--bs58-rs) | cli-0.1.2 | 2026-11-22 |
 | [gyscos/zstd-rs](https://github.com/repolex-forx/gyscos--zstd-rs) | zstd-sys-2.0.15 | 2026-11-22 |
 | [bytecodealliance/rustix](https://github.com/repolex-forx/bytecodealliance--rustix) | v1.1.4 | 2026-11-22 |
 | [near/near-abi-rs](https://github.com/repolex-forx/near--near-abi-rs) | v0.3.0 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [khorolets/near-ledger-rs](https://github.com/repolex-forx/khorolets--near-ledger-rs) | v0.9.3 | 2026-11-22 |
 | [near/near-workspaces-rs](https://github.com/repolex-forx/near--near-workspaces-rs) | near-workspaces-v0.22.1 | 2026-11-22 |
 | [rust-bitcoin/rust-bip39](https://github.com/repolex-forx/rust-bitcoin--rust-bip39) | v2.2.2 | 2026-11-22 |
-| [apache/arrow-nanoarrow](https://github.com/repolex-forx/apache--arrow-nanoarrow) | apache-arrow-nanoarrow-0.9.0.dev | 2026-11-22 |
-| [dtolnay/paste](https://github.com/repolex-forx/dtolnay--paste) | 1.0.15 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
