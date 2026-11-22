@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dropbox/rust-brotli-decompressor](https://github.com/repolex-forx/dropbox--rust-brotli-decompressor) | pre-vet-patches | 2026-11-22 |
 | [rwf2/multer](https://github.com/repolex-forx/rwf2--multer) | v3.0.0 | 2026-11-22 |
 | [assert-rs/predicates-rs](https://github.com/repolex-forx/assert-rs--predicates-rs) | v3.1.4 | 2026-11-22 |
 | [tokio-rs/async-stream](https://github.com/repolex-forx/tokio-rs--async-stream) | v0.3.6 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [davidpdrsn/assert-json-diff](https://github.com/repolex-forx/davidpdrsn--assert-json-diff) | v2.0.2 | 2026-11-22 |
 | [deadpool-rs/deadpool](https://github.com/repolex-forx/deadpool-rs--deadpool) | deadpool-v0.12.1 | 2026-11-22 |
 | [rust-lang-nursery/pin-utils](https://github.com/repolex-forx/rust-lang-nursery--pin-utils) | 0.1.0 | 2026-11-22 |
-| [rustls/pki-types](https://github.com/repolex-forx/rustls--pki-types) | v/1.15.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
