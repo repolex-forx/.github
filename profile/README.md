@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pypa/wheel](https://github.com/repolex-forx/pypa--wheel) | 0.46.3 | 2026-11-22 |
 | [mrabarnett/mrab-regex](https://github.com/repolex-forx/mrabarnett--mrab-regex) | 2026.4.4 | 2026-11-22 |
 | [zopefoundation/zope.interface](https://github.com/repolex-forx/zopefoundation--zope.interface) | 8.3 | 2026-11-22 |
 | [pyca/pyopenssl](https://github.com/repolex-forx/pyca--pyopenssl) | v0.14a1 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [PyCQA/flake8](https://github.com/repolex-forx/PyCQA--flake8) | 7.3.0 | 2026-11-22 |
 | [aio-libs/yarl](https://github.com/repolex-forx/aio-libs--yarl) | v1.23.0 | 2026-11-22 |
 | [zopefoundation/zope.security](https://github.com/repolex-forx/zopefoundation--zope.security) | 8.3 | 2026-11-22 |
-| [time-rs/time](https://github.com/repolex-forx/time-rs--time) | v0.3.47 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
