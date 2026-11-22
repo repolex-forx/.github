@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [tafia/quick-xml](https://github.com/repolex-forx/tafia--quick-xml) | v0.39.2 | 2026-11-22 |
+| [pydantic/speedate](https://github.com/repolex-forx/pydantic--speedate) | v0.17.0 | 2026-11-22 |
 | [pytest-dev/pyfakefs](https://github.com/repolex-forx/pytest-dev--pyfakefs) | v6.2.0 | 2026-11-22 |
 | [JoshData/python-email-validator](https://github.com/repolex-forx/JoshData--python-email-validator) | v2.3.0 | 2026-11-22 |
 | [marshallpierce/rust-base64](https://github.com/repolex-forx/marshallpierce--rust-base64) | v0.22.1 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.0.0-rc.2 | 2026-11-22 |
 | [pytest-dev/pytest-randomly](https://github.com/repolex-forx/pytest-dev--pytest-randomly) | 4.0.1 | 2026-11-22 |
 | [sphinx-contrib/spelling](https://github.com/repolex-forx/sphinx-contrib--spelling) | 8.0.2 | 2026-11-22 |
-| [MagicStack/asyncpg](https://github.com/repolex-forx/MagicStack--asyncpg) | v0.31.0 | 2026-11-22 |
-| [alex/rust-asn1](https://github.com/repolex-forx/alex--rust-asn1) | 0.24.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
