@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/rst.linker](https://github.com/repolex-forx/jaraco--rst.linker) | v2.6.0 | 2026-11-22 |
+| [akubera/bigdecimal-rs](https://github.com/repolex-forx/akubera--bigdecimal-rs) | v0.4.10 | 2026-11-22 |
 | [zopefoundation/zope.tal](https://github.com/repolex-forx/zopefoundation--zope.tal) | backups/monolithic-zope3@75193 | 2026-11-22 |
 | [davidhalter/parso](https://github.com/repolex-forx/davidhalter--parso) | v0.8.6 | 2026-11-22 |
 | [sphinx-contrib/sphinx-lint](https://github.com/repolex-forx/sphinx-contrib--sphinx-lint) | v1.0.2 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [eliben/pycparser](https://github.com/repolex-forx/eliben--pycparser) | release_2.01 | 2026-11-22 |
 | [businho/pytest-ruff](https://github.com/repolex-forx/businho--pytest-ruff) | v0.5 | 2026-11-22 |
 | [zopefoundation/zope.tales](https://github.com/repolex-forx/zopefoundation--zope.tales) | backups/nikhil_n-py25@78055 | 2026-11-22 |
-| [zopefoundation/zope.location](https://github.com/repolex-forx/zopefoundation--zope.location) | 6.0 | 2026-11-22 |
-| [zopefoundation/zope.event](https://github.com/repolex-forx/zopefoundation--zope.event) | 6.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
