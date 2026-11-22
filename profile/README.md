@@ -34,16 +34,16 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/zope.deferredimport](https://github.com/repolex-forx/zopefoundation--zope.deferredimport) | backups/3.4@112079 | 2026-11-22 |
+| [zopefoundation/zope.lifecycleevent](https://github.com/repolex-forx/zopefoundation--zope.lifecycleevent) | backups/movedaddedremoved@100038 | 2026-11-22 |
+| [zopefoundation/zope.contenttype](https://github.com/repolex-forx/zopefoundation--zope.contenttype) | 6.0 | 2026-11-22 |
+| [zopefoundation/zope.contentprovider](https://github.com/repolex-forx/zopefoundation--zope.contentprovider) | backups/monolithic-zope3@75077 | 2026-11-22 |
 | [mkdocstrings/autorefs](https://github.com/repolex-forx/mkdocstrings--autorefs) | 1.4.4 | 2026-11-22 |
 | [rayon-rs/either](https://github.com/repolex-forx/rayon-rs--either) | 1.15.0 | 2026-11-22 |
 | [zopefoundation/zope.browserresource](https://github.com/repolex-forx/zopefoundation--zope.browserresource) | backups/mgedmin-etag-support@115668 | 2026-11-22 |
 | [explosion/confection](https://github.com/repolex-forx/explosion--confection) | v0.1.5 | 2026-11-22 |
 | [jaraco/jaraco.classes](https://github.com/repolex-forx/jaraco--jaraco.classes) | v3.4.0 | 2026-11-22 |
 | [google/python-subprocess32](https://github.com/repolex-forx/google--python-subprocess32) | test_travis_deploy_006 | 2026-11-22 |
-| [python-distro/distro](https://github.com/repolex-forx/python-distro--distro) | v1.9.0 | 2026-11-22 |
-| [oprypin/mkdocs-literate-nav](https://github.com/repolex-forx/oprypin--mkdocs-literate-nav) | v0.6.3 | 2026-11-22 |
-| [sphinx-doc/sphinxcontrib-websupport](https://github.com/repolex-forx/sphinx-doc--sphinxcontrib-websupport) | 2.0.0 | 2026-11-22 |
-| [pytest-dev/pytest-timeout](https://github.com/repolex-forx/pytest-dev--pytest-timeout) | 2.4.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
