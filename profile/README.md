@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [knurling-rs/defmt](https://github.com/repolex-forx/knurling-rs--defmt) | v0.2.0-with-qemu-run-ignore-version | 2026-11-22 |
 | [rust-fuzz/arbitrary](https://github.com/repolex-forx/rust-fuzz--arbitrary) | v1.4.2 | 2026-11-22 |
 | [hyperium/hyper-util](https://github.com/repolex-forx/hyperium--hyper-util) | v0.1.20 | 2026-11-22 |
 | [rustls/hyper-rustls](https://github.com/repolex-forx/rustls--hyper-rustls) | v/0.27.9 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [rustls/tokio-rustls](https://github.com/repolex-forx/rustls--tokio-rustls) | v/0.26.5 | 2026-11-22 |
 | [actix/actix-net](https://github.com/repolex-forx/actix--actix-net) | v0.2.6 | 2026-11-22 |
 | [tokio-rs/tokio-openssl](https://github.com/repolex-forx/tokio-rs--tokio-openssl) | 0.6.5 | 2026-11-22 |
-| [pyfisch/httpdate](https://github.com/repolex-forx/pyfisch--httpdate) | v1.0.3 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
