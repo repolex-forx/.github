@@ -34,6 +34,9 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [explosion/catalogue](https://github.com/repolex-forx/explosion--catalogue) | v2.1.0 | 2026-11-22 |
+| [pytest-dev/pytest-env](https://github.com/repolex-forx/pytest-dev--pytest-env) | 1.6.0 | 2026-11-22 |
+| [jamielennox/requests-mock](https://github.com/repolex-forx/jamielennox--requests-mock) | 1.12.1 | 2026-11-22 |
 | [explosion/murmurhash](https://github.com/repolex-forx/explosion--murmurhash) | v1.1.0.dev0 | 2026-11-22 |
 | [jaraco/pytest-enabler](https://github.com/repolex-forx/jaraco--pytest-enabler) | v3.4.0 | 2026-11-22 |
 | [pytest-dev/pytest-subtests](https://github.com/repolex-forx/pytest-dev--pytest-subtests) | v0.15.0 | 2026-11-22 |
@@ -41,9 +44,6 @@ rlex download repolex-ai/rlex
 | [sethmlarson/truststore](https://github.com/repolex-forx/sethmlarson--truststore) | v0.10.4 | 2026-11-22 |
 | [aio-libs/async-timeout](https://github.com/repolex-forx/aio-libs--async-timeout) | v5.0.1 | 2026-11-22 |
 | [zopefoundation/zope.viewlet](https://github.com/repolex-forx/zopefoundation--zope.viewlet) | backups/monolithic-zope3@75208 | 2026-11-22 |
-| [pypa/pyproject-hooks](https://github.com/repolex-forx/pypa--pyproject-hooks) | v1.2.0 | 2026-11-22 |
-| [jaraco/backports.functools_lru_cache](https://github.com/repolex-forx/jaraco--backports.functools_lru_cache) | v2.0.0 | 2026-11-22 |
-| [zopefoundation/zope.deferredimport](https://github.com/repolex-forx/zopefoundation--zope.deferredimport) | backups/3.4@112079 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
