@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [davidpdrsn/assert-json-diff](https://github.com/repolex-forx/davidpdrsn--assert-json-diff) | v2.0.2 | 2026-11-22 |
 | [deadpool-rs/deadpool](https://github.com/repolex-forx/deadpool-rs--deadpool) | deadpool-v0.12.1 | 2026-11-22 |
 | [rust-lang-nursery/pin-utils](https://github.com/repolex-forx/rust-lang-nursery--pin-utils) | 0.1.0 | 2026-11-22 |
 | [rustls/pki-types](https://github.com/repolex-forx/rustls--pki-types) | v/1.15.1 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [askama-rs/askama](https://github.com/repolex-forx/askama-rs--askama) | v0.16.1 | 2026-11-22 |
 | [metrics-rs/metrics](https://github.com/repolex-forx/metrics-rs--metrics) | metrics-v0.24.6 | 2026-11-22 |
 | [ramosbugs/oauth2-rs](https://github.com/repolex-forx/ramosbugs--oauth2-rs) | oauth2-reqwest-0.1.0-alpha.3 | 2026-11-22 |
-| [ibraheemdev/matchit](https://github.com/repolex-forx/ibraheemdev--matchit) | v0.9.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
