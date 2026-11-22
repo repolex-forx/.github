@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zen-xu/pyarrow-stubs](https://github.com/repolex-forx/zen-xu--pyarrow-stubs) | 20.0.0.20251215 | 2026-11-22 |
 | [pydantic/pydantic-extra-types](https://github.com/repolex-forx/pydantic--pydantic-extra-types) | v2.11.2 | 2026-11-22 |
 | [dtolnay/no-panic](https://github.com/repolex-forx/dtolnay--no-panic) | 0.1.36 | 2026-11-22 |
 | [purpleprotocol/mimalloc_rust](https://github.com/repolex-forx/purpleprotocol--mimalloc_rust) | v0.1.48 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pypa/trove-classifiers](https://github.com/repolex-forx/pypa--trove-classifiers) | 2026.1.14.14 | 2026-11-22 |
 | [jaraco/pytest-perf](https://github.com/repolex-forx/jaraco--pytest-perf) | v0.15.0 | 2026-11-22 |
 | [mgedmin/check-manifest](https://github.com/repolex-forx/mgedmin--check-manifest) | v0.19 | 2026-11-22 |
-| [sphinx-doc/sphinxext-opengraph](https://github.com/repolex-forx/sphinx-doc--sphinxext-opengraph) | v0.13.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
