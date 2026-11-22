@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dtolnay/ryu](https://github.com/repolex-forx/dtolnay--ryu) | 1.0.23 | 2026-11-22 |
 | [BurntSushi/termcolor](https://github.com/repolex-forx/BurntSushi--termcolor) | wincolor-1.0.2 | 2026-11-22 |
 | [composefs/tar-rs](https://github.com/repolex-forx/composefs--tar-rs) | v0.4.0 | 2026-11-22 |
 | [mitsuhiko/similar-asserts](https://github.com/repolex-forx/mitsuhiko--similar-asserts) | 2.0.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [hyperium/hyper-util](https://github.com/repolex-forx/hyperium--hyper-util) | v0.1.20 | 2026-11-22 |
 | [rustls/hyper-rustls](https://github.com/repolex-forx/rustls--hyper-rustls) | v/0.27.9 | 2026-11-22 |
 | [console-rs/dialoguer](https://github.com/repolex-forx/console-rs--dialoguer) | v0.12.0 | 2026-11-22 |
-| [RustCrypto/block-ciphers](https://github.com/repolex-forx/RustCrypto--block-ciphers) | xtea-v0.1.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
