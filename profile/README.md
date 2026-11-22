@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jazzband/pip-tools](https://github.com/repolex-forx/jazzband--pip-tools) | v7.5.3 | 2026-11-22 |
 | [redis/hiredis-py](https://github.com/repolex-forx/redis--hiredis-py) | v3.3.1 | 2026-11-22 |
 | [criterion-rs/criterion.rs](https://github.com/repolex-forx/criterion-rs--criterion.rs) | criterion-v0.8.2 | 2026-11-22 |
 | [danielfm/pybreaker](https://github.com/repolex-forx/danielfm--pybreaker) | v1.4.1 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [dtolnay/no-panic](https://github.com/repolex-forx/dtolnay--no-panic) | 0.1.36 | 2026-11-22 |
 | [purpleprotocol/mimalloc_rust](https://github.com/repolex-forx/purpleprotocol--mimalloc_rust) | v0.1.48 | 2026-11-22 |
 | [fastapi/fastapi-cli](https://github.com/repolex-forx/fastapi--fastapi-cli) | 0.0.24 | 2026-11-22 |
-| [webpack/copy-webpack-plugin](https://github.com/repolex-forx/webpack--copy-webpack-plugin) | v14.0.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
