@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [snapview/tungstenite-rs](https://github.com/repolex-forx/snapview--tungstenite-rs) | v0.30.0 | 2026-11-22 |
 | [dtolnay/path-to-error](https://github.com/repolex-forx/dtolnay--path-to-error) | 0.1.20 | 2026-11-22 |
 | [mitsuhiko/minijinja](https://github.com/repolex-forx/mitsuhiko--minijinja) | minijinja-go/v2.24.0 | 2026-11-22 |
 | [davidpdrsn/assert-json-diff](https://github.com/repolex-forx/davidpdrsn--assert-json-diff) | v2.0.2 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [Keats/jsonwebtoken](https://github.com/repolex-forx/Keats--jsonwebtoken) | v11.0.0 | 2026-11-22 |
 | [rustls/rustls](https://github.com/repolex-forx/rustls--rustls) | v/0.23.45 | 2026-11-22 |
 | [rust-native-tls/rust-native-tls](https://github.com/repolex-forx/rust-native-tls--rust-native-tls) | v0.2.18 | 2026-11-22 |
-| [askama-rs/askama](https://github.com/repolex-forx/askama-rs--askama) | v0.16.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
