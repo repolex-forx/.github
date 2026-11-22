@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pytest-dev/pyfakefs](https://github.com/repolex-forx/pytest-dev--pyfakefs) | v6.2.0 | 2026-11-22 |
+| [JoshData/python-email-validator](https://github.com/repolex-forx/JoshData--python-email-validator) | v2.3.0 | 2026-11-22 |
 | [marshallpierce/rust-base64](https://github.com/repolex-forx/marshallpierce--rust-base64) | v0.22.1 | 2026-11-22 |
 | [ionelmc/pytest-benchmark](https://github.com/repolex-forx/ionelmc--pytest-benchmark) | v5.2.3 | 2026-11-22 |
 | [scikit-image/scikit-image](https://github.com/repolex-forx/scikit-image--scikit-image) | v0.26.0 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [sphinx-contrib/spelling](https://github.com/repolex-forx/sphinx-contrib--spelling) | 8.0.2 | 2026-11-22 |
 | [MagicStack/asyncpg](https://github.com/repolex-forx/MagicStack--asyncpg) | v0.31.0 | 2026-11-22 |
 | [alex/rust-asn1](https://github.com/repolex-forx/alex--rust-asn1) | 0.24.1 | 2026-11-22 |
-| [jcreekmore/pem-rs](https://github.com/repolex-forx/jcreekmore--pem-rs) | v3.0.6 | 2026-11-22 |
-| [pyenchant/pyenchant](https://github.com/repolex-forx/pyenchant--pyenchant) | v3.3.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
