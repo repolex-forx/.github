@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [3Hren/msgpack-rust](https://github.com/repolex-forx/3Hren--msgpack-rust) | v0.6.0 | 2026-11-22 |
 | [RustCrypto/sponges](https://github.com/repolex-forx/RustCrypto--sponges) | keccak-v0.2.2 | 2026-11-22 |
 | [RustCrypto/hybrid-array](https://github.com/repolex-forx/RustCrypto--hybrid-array) | v0.4.15 | 2026-11-22 |
 | [cryptocorrosion/cryptocorrosion](https://github.com/repolex-forx/cryptocorrosion--cryptocorrosion) | threefish-cipher-0.4.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [ipython/ipykernel](https://github.com/repolex-forx/ipython--ipykernel) | v7.2.0 | 2026-11-22 |
 | [softprops/atty](https://github.com/repolex-forx/softprops--atty) | 0.2.14 | 2026-11-22 |
 | [tsutsu3/linkify-it-py](https://github.com/repolex-forx/tsutsu3--linkify-it-py) | v2.1.0 | 2026-11-22 |
-| [ESSS/pytest-regressions](https://github.com/repolex-forx/ESSS--pytest-regressions) | v2.10.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
