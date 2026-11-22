@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dtolnay/prettyplease](https://github.com/repolex-forx/dtolnay--prettyplease) | 0.2.37 | 2026-11-22 |
 | [mgeisler/textwrap](https://github.com/repolex-forx/mgeisler--textwrap) | 0.16.2 | 2026-11-22 |
 | [rust-lang/backtrace-rs](https://github.com/repolex-forx/rust-lang--backtrace-rs) | backtrace-v0.3.76 | 2026-11-22 |
 | [dtolnay/semver](https://github.com/repolex-forx/dtolnay--semver) | 1.0.28 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [documatt/sphinx-reredirects](https://github.com/repolex-forx/documatt--sphinx-reredirects) | v1.1.0 | 2026-11-22 |
 | [jaraco/pytest-home](https://github.com/repolex-forx/jaraco--pytest-home) | v0.6.0 | 2026-11-22 |
 | [jaraco/jaraco.envs](https://github.com/repolex-forx/jaraco--jaraco.envs) | v2.6.0 | 2026-11-22 |
-| [aklajnert/pytest-subprocess](https://github.com/repolex-forx/aklajnert--pytest-subprocess) | 1.5.4 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
