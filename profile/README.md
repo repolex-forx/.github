@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [al8n/fs4](https://github.com/repolex-forx/al8n--fs4) | 1.1.0 | 2026-11-22 |
 | [lunacookies/etcetera](https://github.com/repolex-forx/lunacookies--etcetera) | v0.11.0 | 2026-11-22 |
 | [dropbox/rust-brotli-decompressor](https://github.com/repolex-forx/dropbox--rust-brotli-decompressor) | pre-vet-patches | 2026-11-22 |
 | [rwf2/multer](https://github.com/repolex-forx/rwf2--multer) | v3.0.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [dtolnay/path-to-error](https://github.com/repolex-forx/dtolnay--path-to-error) | 0.1.20 | 2026-11-22 |
 | [mitsuhiko/minijinja](https://github.com/repolex-forx/mitsuhiko--minijinja) | minijinja-go/v2.24.0 | 2026-11-22 |
 | [davidpdrsn/assert-json-diff](https://github.com/repolex-forx/davidpdrsn--assert-json-diff) | v2.0.2 | 2026-11-22 |
-| [deadpool-rs/deadpool](https://github.com/repolex-forx/deadpool-rs--deadpool) | deadpool-v0.12.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
