@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/sphinxcontrib-towncrier](https://github.com/repolex-forx/sphinx-contrib--sphinxcontrib-towncrier) | v0.5.0a0 | 2026-11-22 |
 | [jaraco/jaraco.develop](https://github.com/repolex-forx/jaraco--jaraco.develop) | v8.19.2 | 2026-11-22 |
 | [jaraco/jaraco.path](https://github.com/repolex-forx/jaraco--jaraco.path) | v3.7.2 | 2026-11-22 |
 | [h5py/h5py](https://github.com/repolex-forx/h5py--h5py) | 3.16.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [dryrust/gofer.rs](https://github.com/repolex-forx/dryrust--gofer.rs) | 0.2.0 | 2026-11-22 |
 | [pytorch/data](https://github.com/repolex-forx/pytorch--data) | xl-tm-sd-v1 | 2026-11-22 |
 | [mayeut/pybase64](https://github.com/repolex-forx/mayeut--pybase64) | v1.4.3 | 2026-11-22 |
-| [pytorch/text](https://github.com/repolex-forx/pytorch--text) | v1.8-rc1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
