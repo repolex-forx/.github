@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/jaraco.develop](https://github.com/repolex-forx/jaraco--jaraco.develop) | v8.19.2 | 2026-11-22 |
 | [jaraco/jaraco.path](https://github.com/repolex-forx/jaraco--jaraco.path) | v3.7.2 | 2026-11-22 |
 | [h5py/h5py](https://github.com/repolex-forx/h5py--h5py) | 3.16.0 | 2026-11-22 |
 | [dogmatists/dogma.rs](https://github.com/repolex-forx/dogmatists--dogma.rs) | 0.1.11 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pytorch/data](https://github.com/repolex-forx/pytorch--data) | xl-tm-sd-v1 | 2026-11-22 |
 | [mayeut/pybase64](https://github.com/repolex-forx/mayeut--pybase64) | v1.4.3 | 2026-11-22 |
 | [pytorch/text](https://github.com/repolex-forx/pytorch--text) | v1.8-rc1 | 2026-11-22 |
-| [rogdham/backports.zstd](https://github.com/repolex-forx/rogdham--backports.zstd) | v1.3.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
