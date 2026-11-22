@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jcreekmore/pem-rs](https://github.com/repolex-forx/jcreekmore--pem-rs) | v3.0.6 | 2026-11-22 |
 | [pyenchant/pyenchant](https://github.com/repolex-forx/pyenchant--pyenchant) | v3.3.0 | 2026-11-22 |
 | [sindresorhus/tempy](https://github.com/repolex-forx/sindresorhus--tempy) | v3.2.0 | 2026-11-22 |
 | [Stebalien/tempfile](https://github.com/repolex-forx/Stebalien--tempfile) | v3.27.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [pyparsing/pyparsing](https://github.com/repolex-forx/pyparsing--pyparsing) | pyparsing_3.1.2 | 2026-11-22 |
 | [pypa/virtualenv](https://github.com/repolex-forx/pypa--virtualenv) | 21.2.3 | 2026-11-22 |
 | [apache/datafusion-python](https://github.com/repolex-forx/apache--datafusion-python) | ci-release-mode-rc1 | 2026-11-22 |
-| [scikit-learn/scikit-learn](https://github.com/repolex-forx/scikit-learn--scikit-learn) | sprint01 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
