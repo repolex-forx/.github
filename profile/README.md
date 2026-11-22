@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [snapview/tokio-tungstenite](https://github.com/repolex-forx/snapview--tokio-tungstenite) | v0.30.0 | 2026-11-22 |
 | [rust-random/rand_core](https://github.com/repolex-forx/rust-random--rand_core) | v0.10.1 | 2026-11-22 |
 | [BurntSushi/tabwriter](https://github.com/repolex-forx/BurntSushi--tabwriter) | tabwriter-bin-0.2.2 | 2026-11-22 |
 | [hyperium/h2](https://github.com/repolex-forx/hyperium--h2) | v0.4.19 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [alexcrichton/ssh2-rs](https://github.com/repolex-forx/alexcrichton--ssh2-rs) | libssh2-sys-0.3.2 | 2026-11-22 |
 | [rustls/openssl-probe](https://github.com/repolex-forx/rustls--openssl-probe) | 0.2.1 | 2026-11-22 |
 | [trifectatechfoundation/zlib-rs](https://github.com/repolex-forx/trifectatechfoundation--zlib-rs) | v0.6.7 | 2026-11-22 |
-| [timothee-haudebourg/json-ld](https://github.com/repolex-forx/timothee-haudebourg--json-ld) | v0.21.4 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
