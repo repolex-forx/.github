@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [TeXitoi/structopt](https://github.com/repolex-forx/TeXitoi--structopt) | v0.3.26 | 2026-11-22 |
+| [ruuda/thread-id](https://github.com/repolex-forx/ruuda--thread-id) | v5.1.0 | 2026-11-22 |
 | [alexcrichton/ssh2-rs](https://github.com/repolex-forx/alexcrichton--ssh2-rs) | libssh2-sys-0.3.2 | 2026-11-22 |
 | [rustls/openssl-probe](https://github.com/repolex-forx/rustls--openssl-probe) | 0.2.1 | 2026-11-22 |
 | [trifectatechfoundation/zlib-rs](https://github.com/repolex-forx/trifectatechfoundation--zlib-rs) | v0.6.7 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [rust-lang/pkg-config-rs](https://github.com/repolex-forx/rust-lang--pkg-config-rs) | 0.3.34 | 2026-11-22 |
 | [juhaku/utoipa](https://github.com/repolex-forx/juhaku--utoipa) | utoipa-swagger-ui-vendored-0.1.2 | 2026-11-22 |
 | [rust-lang/libz-sys](https://github.com/repolex-forx/rust-lang--libz-sys) | 1.1.29-zng | 2026-11-22 |
-| [image-rs/image-png](https://github.com/repolex-forx/image-rs--image-png) | v0.18.0-rc.3 | 2026-11-22 |
-| [GREsau/schemars](https://github.com/repolex-forx/GREsau--schemars) | v1.2.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
