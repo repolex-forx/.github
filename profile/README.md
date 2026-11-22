@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rapidfuzz/strsim-rs](https://github.com/repolex-forx/rapidfuzz--strsim-rs) | v0.11.1 | 2026-11-22 |
 | [comex/rust-shlex](https://github.com/repolex-forx/comex--rust-shlex) | 1.3.0 | 2026-11-22 |
 | [dtolnay/automod](https://github.com/repolex-forx/dtolnay--automod) | 1.0.16 | 2026-11-22 |
 | [mdsteele/rust-cfb](https://github.com/repolex-forx/mdsteele--rust-cfb) | v0.14.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [dtolnay/prettyplease](https://github.com/repolex-forx/dtolnay--prettyplease) | 0.2.37 | 2026-11-22 |
 | [mgeisler/textwrap](https://github.com/repolex-forx/mgeisler--textwrap) | 0.16.2 | 2026-11-22 |
 | [rust-lang/backtrace-rs](https://github.com/repolex-forx/rust-lang--backtrace-rs) | backtrace-v0.3.76 | 2026-11-22 |
-| [dtolnay/semver](https://github.com/repolex-forx/dtolnay--semver) | 1.0.28 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
