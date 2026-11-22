@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-openssl/rust-openssl](https://github.com/repolex-forx/rust-openssl--rust-openssl) | v0.9.23 | 2026-11-22 |
 | [tafia/quick-xml](https://github.com/repolex-forx/tafia--quick-xml) | v0.39.2 | 2026-11-22 |
 | [pydantic/speedate](https://github.com/repolex-forx/pydantic--speedate) | v0.17.0 | 2026-11-22 |
 | [pytest-dev/pyfakefs](https://github.com/repolex-forx/pytest-dev--pyfakefs) | v6.2.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [scikit-image/scikit-image](https://github.com/repolex-forx/scikit-image--scikit-image) | v0.26.0 | 2026-11-22 |
 | [webpack/webpack](https://github.com/repolex-forx/webpack--webpack) | v5.0.0-rc.2 | 2026-11-22 |
 | [pytest-dev/pytest-randomly](https://github.com/repolex-forx/pytest-dev--pytest-randomly) | 4.0.1 | 2026-11-22 |
-| [sphinx-contrib/spelling](https://github.com/repolex-forx/sphinx-contrib--spelling) | 8.0.2 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
