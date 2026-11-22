@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [jaraco/pytest-checkdocs](https://github.com/repolex-forx/jaraco--pytest-checkdocs) | v2.14.0 | 2026-11-22 |
+| [Delgan/loguru](https://github.com/repolex-forx/Delgan--loguru) | 0.7.3 | 2026-11-22 |
 | [jaraco/rst.linker](https://github.com/repolex-forx/jaraco--rst.linker) | v2.6.0 | 2026-11-22 |
 | [akubera/bigdecimal-rs](https://github.com/repolex-forx/akubera--bigdecimal-rs) | v0.4.10 | 2026-11-22 |
 | [zopefoundation/zope.tal](https://github.com/repolex-forx/zopefoundation--zope.tal) | backups/monolithic-zope3@75193 | 2026-11-22 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [tox-dev/pyproject-api](https://github.com/repolex-forx/tox-dev--pyproject-api) | 1.10.0 | 2026-11-22 |
 | [aio-libs/frozenlist](https://github.com/repolex-forx/aio-libs--frozenlist) | v1.8.0 | 2026-11-22 |
 | [eliben/pycparser](https://github.com/repolex-forx/eliben--pycparser) | release_2.01 | 2026-11-22 |
-| [businho/pytest-ruff](https://github.com/repolex-forx/businho--pytest-ruff) | v0.5 | 2026-11-22 |
-| [zopefoundation/zope.tales](https://github.com/repolex-forx/zopefoundation--zope.tales) | backups/nikhil_n-py25@78055 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
