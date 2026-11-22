@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/AccessControl](https://github.com/repolex-forx/zopefoundation--AccessControl) | 7.3 | 2026-11-22 |
 | [zopefoundation/zope.schema](https://github.com/repolex-forx/zopefoundation--zope.schema) | 8.1 | 2026-11-22 |
 | [opencv/opencv-python](https://github.com/repolex-forx/opencv--opencv-python) | 92 | 2026-11-22 |
 | [rust-lang/hashbrown](https://github.com/repolex-forx/rust-lang--hashbrown) | v0.17.0 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [uuid-rs/uuid](https://github.com/repolex-forx/uuid-rs--uuid) | v1.23.0 | 2026-11-22 |
 | [zopefoundation/Acquisition](https://github.com/repolex-forx/zopefoundation--Acquisition) | backups/zope2@96236 | 2026-11-22 |
 | [strawlab/iana-time-zone](https://github.com/repolex-forx/strawlab--iana-time-zone) | v0.1.65 | 2026-11-22 |
-| [reem/rust-ordered-float](https://github.com/repolex-forx/reem--rust-ordered-float) | v5.3.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
