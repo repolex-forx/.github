@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [paupino/rust-decimal](https://github.com/repolex-forx/paupino--rust-decimal) | 1.41.0 | 2026-11-22 |
 | [Amanieu/parking_lot](https://github.com/repolex-forx/Amanieu--parking_lot) | parking_lot_core-v0.9.12 | 2026-11-22 |
 | [indexmap-rs/indexmap](https://github.com/repolex-forx/indexmap-rs--indexmap) | v1.1.0 | 2026-11-22 |
 | [servo/rust-smallvec](https://github.com/repolex-forx/servo--rust-smallvec) | v2.0.0-alpha.12 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [opencv/opencv-python](https://github.com/repolex-forx/opencv--opencv-python) | 92 | 2026-11-22 |
 | [rust-lang/hashbrown](https://github.com/repolex-forx/rust-lang--hashbrown) | v0.17.0 | 2026-11-22 |
 | [zopefoundation/zope.testbrowser](https://github.com/repolex-forx/zopefoundation--zope.testbrowser) | backups/3.8@116447 | 2026-11-22 |
-| [zopefoundation/zope.testing](https://github.com/repolex-forx/zopefoundation--zope.testing) | 6.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
