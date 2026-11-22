@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [zopefoundation/DateTime](https://github.com/repolex-forx/zopefoundation--DateTime) | 6.0 | 2026-11-22 |
 | [dtolnay/inventory](https://github.com/repolex-forx/dtolnay--inventory) | 0.3.24 | 2026-11-22 |
 | [rust-random/getrandom](https://github.com/repolex-forx/rust-random--getrandom) | v0.4.2 | 2026-11-22 |
 | [jaraco/tempora](https://github.com/repolex-forx/jaraco--tempora) | v5.8.1 | 2026-11-22 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [PyCQA/pyflakes](https://github.com/repolex-forx/PyCQA--pyflakes) | 3.4.0 | 2026-11-22 |
 | [explosion/srsly](https://github.com/repolex-forx/explosion--srsly) | v3.0.0 | 2026-11-22 |
 | [zopefoundation/zope.i18n](https://github.com/repolex-forx/zopefoundation--zope.i18n) | backups/monolithic-zope3@75140 | 2026-11-22 |
-| [explosion/cymem](https://github.com/repolex-forx/explosion--cymem) | v2.0.9a13 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
