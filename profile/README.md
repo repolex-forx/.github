@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [dtolnay/serde-stacker](https://github.com/repolex-forx/dtolnay--serde-stacker) | 0.1.14 | 2026-11-23 |
 | [dtolnay/zmij](https://github.com/repolex-forx/dtolnay--zmij) | 1.0.23 | 2026-11-23 |
 | [rustls/rustls-platform-verifier](https://github.com/repolex-forx/rustls--rustls-platform-verifier) | v/0.7.0 | 2026-11-23 |
 | [Detegr/rust-ctrlc](https://github.com/repolex-forx/Detegr--rust-ctrlc) | v3.1.7 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [alexcrichton/futures-rs](https://github.com/repolex-forx/alexcrichton--futures-rs) | futures-cpupool-0.1.8 | 2026-11-23 |
 | [VoidStarKat/widestring-rs](https://github.com/repolex-forx/VoidStarKat--widestring-rs) | v1.2.1 | 2026-11-23 |
 | [Manishearth/pathdiff](https://github.com/repolex-forx/Manishearth--pathdiff) | v0.2.3 | 2026-11-22 |
-| [gifnksm/topological-sort-rs](https://github.com/repolex-forx/gifnksm--topological-sort-rs) | v0.3.1 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
