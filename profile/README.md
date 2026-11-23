@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [google/re2](https://github.com/repolex-forx/google--re2) | abseil.old | 2026-11-23 |
+| [block/bitcoin-treasury](https://github.com/repolex-forx/block--bitcoin-treasury) | main | 2026-11-23 |
 | [block/renovate-config](https://github.com/repolex-forx/block--renovate-config) | main | 2026-11-23 |
 | [block/gradle-monorepo-ij-plugin](https://github.com/repolex-forx/block--gradle-monorepo-ij-plugin) | v0.1.28 | 2026-11-23 |
 | [youtype/mypy_boto3_builder](https://github.com/repolex-forx/youtype--mypy_boto3_builder) | 8.12.0 | 2026-11-23 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [mesqueeb/copy-anything](https://github.com/repolex-forx/mesqueeb--copy-anything) | v4.1.0 | 2026-11-23 |
 | [tinylibs/tinyspy](https://github.com/repolex-forx/tinylibs--tinyspy) | v4.0.6 | 2026-11-23 |
 | [facelessuser/pymdown-extensions](https://github.com/repolex-forx/facelessuser--pymdown-extensions) | 12.0.1 | 2026-11-23 |
-| [redis-rs/redis-rs](https://github.com/repolex-forx/redis-rs--redis-rs) | redis-test-1.0.2 | 2026-11-23 |
-| [jaraco/jaraco.itertools](https://github.com/repolex-forx/jaraco--jaraco.itertools) | v6.4.3 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
