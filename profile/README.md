@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [andfoy/winpty-rs](https://github.com/repolex-forx/andfoy--winpty-rs) | v1.0.6 | 2026-11-23 |
 | [Teemu/pytest-sugar](https://github.com/repolex-forx/Teemu--pytest-sugar) | v1.1.1 | 2026-11-23 |
 | [pytest-dev/pytest-repeat](https://github.com/repolex-forx/pytest-dev--pytest-repeat) | v0.9.4 | 2026-11-23 |
 | [pydata/pydata-sphinx-theme](https://github.com/repolex-forx/pydata--pydata-sphinx-theme) | v0.22.0rc0 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [waylan/pyyaml-env-tag](https://github.com/repolex-forx/waylan--pyyaml-env-tag) | 1.1 | 2026-11-23 |
 | [mozilla/mp4parse-rust](https://github.com/repolex-forx/mozilla--mp4parse-rust) | v0.12.0 | 2026-11-23 |
 | [aldanor/qoi-rust](https://github.com/repolex-forx/aldanor--qoi-rust) | v0.4.1 | 2026-11-23 |
-| [RoaringBitmap/roaring-rs](https://github.com/repolex-forx/RoaringBitmap--roaring-rs) | v0.11.5 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
