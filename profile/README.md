@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [sphinx-contrib/emojicodes](https://github.com/repolex-forx/sphinx-contrib--emojicodes) | v0.3.2 | 2026-11-23 |
 | [dropbox/rust-brotli](https://github.com/repolex-forx/dropbox--rust-brotli) | 8.0.3 | 2026-11-23 |
 | [termcolor/termcolor](https://github.com/repolex-forx/termcolor--termcolor) | 3.3.0 | 2026-11-23 |
 | [wolph/portalocker](https://github.com/repolex-forx/wolph--portalocker) | v4.3.2 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [darvid/python-hyperscan](https://github.com/repolex-forx/darvid--python-hyperscan) | v0.8.2 | 2026-11-23 |
 | [DelSkayn/rquickjs](https://github.com/repolex-forx/DelSkayn--rquickjs) | v0.12.2 | 2026-11-23 |
 | [andfoy/winpty-rs](https://github.com/repolex-forx/andfoy--winpty-rs) | v1.0.6 | 2026-11-23 |
-| [Teemu/pytest-sugar](https://github.com/repolex-forx/Teemu--pytest-sugar) | v1.1.1 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
