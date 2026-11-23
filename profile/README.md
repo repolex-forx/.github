@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Keats/jsonwebtoken](https://github.com/repolex-forx/Keats--jsonwebtoken) | v11.0.0 | 2026-11-23 |
 | [sebastienrousseau/libyml](https://github.com/repolex-forx/sebastienrousseau--libyml) | v0.0.6 | 2026-11-23 |
 | [djc/rustc-version-rs](https://github.com/repolex-forx/djc--rustc-version-rs) | v0.4.1 | 2026-11-23 |
 | [serde-rs/bytes](https://github.com/repolex-forx/serde-rs--bytes) | 0.11.19 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [Detegr/rust-ctrlc](https://github.com/repolex-forx/Detegr--rust-ctrlc) | v3.1.7 | 2026-11-23 |
 | [sfackler/streaming-iterator](https://github.com/repolex-forx/sfackler--streaming-iterator) | v0.1.9 | 2026-11-23 |
 | [servo/smallbitvec](https://github.com/repolex-forx/servo--smallbitvec) | v2.6.1 | 2026-11-23 |
-| [mitsuhiko/similar](https://github.com/repolex-forx/mitsuhiko--similar) | 3.2.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
