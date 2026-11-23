@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [django/daphne](https://github.com/repolex-forx/django--daphne) | 4.2.3 | 2026-11-23 |
 | [executablebooks/sphinx-tabs](https://github.com/repolex-forx/executablebooks--sphinx-tabs) | v3.5.0 | 2026-11-23 |
 | [readthedocs/sphinx-autoapi](https://github.com/repolex-forx/readthedocs--sphinx-autoapi) | v3.8.1 | 2026-11-23 |
 | [sphinx-contrib/emojicodes](https://github.com/repolex-forx/sphinx-contrib--emojicodes) | v0.3.2 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [rapidfuzz/Levenshtein](https://github.com/repolex-forx/rapidfuzz--Levenshtein) | v0.27.5 | 2026-11-23 |
 | [carsongee/pytest-pylint](https://github.com/repolex-forx/carsongee--pytest-pylint) | v0.21.0 | 2026-11-23 |
 | [pytest-dev/pytest-runner](https://github.com/repolex-forx/pytest-dev--pytest-runner) | v6.0.1 | 2026-11-23 |
-| [darvid/python-hyperscan](https://github.com/repolex-forx/darvid--python-hyperscan) | v0.8.2 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
