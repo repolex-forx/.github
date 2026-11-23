@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [swc-project/swc-node](https://github.com/repolex-forx/swc-project--swc-node) | @swc-node/sourcemap-support@0.6.1 | 2026-11-23 |
 | [huggingface/accelerate](https://github.com/repolex-forx/huggingface--accelerate) | v1.10.0 | 2026-11-23 |
 | [huggingface/optimum-onnx](https://github.com/repolex-forx/huggingface--optimum-onnx) | v0.1.0 | 2026-11-23 |
 | [huggingface/math-verify](https://github.com/repolex-forx/huggingface--math-verify) | 1.0.0 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/bitcoin-augur-reference](https://github.com/repolex-forx/block--bitcoin-augur-reference) | main | 2026-11-23 |
 | [block/bitcoin-augur](https://github.com/repolex-forx/block--bitcoin-augur) | augur-0.3.1 | 2026-11-23 |
 | [block/docs-site-kickstarter](https://github.com/repolex-forx/block--docs-site-kickstarter) | main | 2026-11-23 |
-| [block/mdx-daemon-plugin](https://github.com/repolex-forx/block--mdx-daemon-plugin) | v0.1.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
