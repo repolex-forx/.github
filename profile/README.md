@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [Detegr/rust-ctrlc](https://github.com/repolex-forx/Detegr--rust-ctrlc) | v3.1.7 | 2026-11-23 |
 | [sfackler/streaming-iterator](https://github.com/repolex-forx/sfackler--streaming-iterator) | v0.1.9 | 2026-11-23 |
 | [servo/smallbitvec](https://github.com/repolex-forx/servo--smallbitvec) | v2.6.1 | 2026-11-23 |
 | [mitsuhiko/similar](https://github.com/repolex-forx/mitsuhiko--similar) | 3.2.0 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [gifnksm/topological-sort-rs](https://github.com/repolex-forx/gifnksm--topological-sort-rs) | v0.3.1 | 2026-11-22 |
 | [HdrHistogram/HdrHistogram_rust](https://github.com/repolex-forx/HdrHistogram--HdrHistogram_rust) | v7.6.0 | 2026-11-22 |
 | [mina86/ansi_colours](https://github.com/repolex-forx/mina86--ansi_colours) | v1.2.2 | 2026-11-22 |
-| [al8n/fs4](https://github.com/repolex-forx/al8n--fs4) | 1.1.0 | 2026-11-22 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
