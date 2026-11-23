@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [wolph/portalocker](https://github.com/repolex-forx/wolph--portalocker) | v4.3.2 | 2026-11-23 |
+| [rapidfuzz/Levenshtein](https://github.com/repolex-forx/rapidfuzz--Levenshtein) | v0.27.5 | 2026-11-23 |
 | [carsongee/pytest-pylint](https://github.com/repolex-forx/carsongee--pytest-pylint) | v0.21.0 | 2026-11-23 |
 | [pytest-dev/pytest-runner](https://github.com/repolex-forx/pytest-dev--pytest-runner) | v6.0.1 | 2026-11-23 |
 | [darvid/python-hyperscan](https://github.com/repolex-forx/darvid--python-hyperscan) | v0.8.2 | 2026-11-23 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [Teemu/pytest-sugar](https://github.com/repolex-forx/Teemu--pytest-sugar) | v1.1.1 | 2026-11-23 |
 | [pytest-dev/pytest-repeat](https://github.com/repolex-forx/pytest-dev--pytest-repeat) | v0.9.4 | 2026-11-23 |
 | [pydata/pydata-sphinx-theme](https://github.com/repolex-forx/pydata--pydata-sphinx-theme) | v0.22.0rc0 | 2026-11-23 |
-| [davidfritzsche/pytest-mypy-testing](https://github.com/repolex-forx/davidfritzsche--pytest-mypy-testing) | v0.2.0 | 2026-11-23 |
-| [guts/mkdocs-rss-plugin](https://github.com/repolex-forx/guts--mkdocs-rss-plugin) | 1.19.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
