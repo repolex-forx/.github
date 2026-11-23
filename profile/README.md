@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [diesel-rs/diesel](https://github.com/repolex-forx/diesel-rs--diesel) | v2.3.11 | 2026-11-23 |
 | [BurntSushi/fst](https://github.com/repolex-forx/BurntSushi--fst) | fst-regex-0.3.0 | 2026-11-23 |
 | [launchbadge/sqlx](https://github.com/repolex-forx/launchbadge--sqlx) | v0.8.5 | 2026-11-23 |
 | [amodm/webbrowser-rs](https://github.com/repolex-forx/amodm--webbrowser-rs) | v1.2.3 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [serde-rs/bytes](https://github.com/repolex-forx/serde-rs--bytes) | 0.11.19 | 2026-11-23 |
 | [dtolnay/serde-stacker](https://github.com/repolex-forx/dtolnay--serde-stacker) | 0.1.14 | 2026-11-23 |
 | [dtolnay/zmij](https://github.com/repolex-forx/dtolnay--zmij) | 1.0.23 | 2026-11-23 |
-| [rustls/rustls-platform-verifier](https://github.com/repolex-forx/rustls--rustls-platform-verifier) | v/0.7.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
