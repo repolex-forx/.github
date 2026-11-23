@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [launchbadge/sqlx](https://github.com/repolex-forx/launchbadge--sqlx) | v0.8.5 | 2026-11-23 |
 | [amodm/webbrowser-rs](https://github.com/repolex-forx/amodm--webbrowser-rs) | v1.2.3 | 2026-11-23 |
 | [Keats/jsonwebtoken](https://github.com/repolex-forx/Keats--jsonwebtoken) | v11.0.0 | 2026-11-23 |
 | [sebastienrousseau/libyml](https://github.com/repolex-forx/sebastienrousseau--libyml) | v0.0.6 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [dtolnay/zmij](https://github.com/repolex-forx/dtolnay--zmij) | 1.0.23 | 2026-11-23 |
 | [rustls/rustls-platform-verifier](https://github.com/repolex-forx/rustls--rustls-platform-verifier) | v/0.7.0 | 2026-11-23 |
 | [Detegr/rust-ctrlc](https://github.com/repolex-forx/Detegr--rust-ctrlc) | v3.1.7 | 2026-11-23 |
-| [sfackler/streaming-iterator](https://github.com/repolex-forx/sfackler--streaming-iterator) | v0.1.9 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
