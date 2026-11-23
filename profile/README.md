@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/renovate-config](https://github.com/repolex-forx/block--renovate-config) | main | 2026-11-23 |
 | [block/gradle-monorepo-ij-plugin](https://github.com/repolex-forx/block--gradle-monorepo-ij-plugin) | v0.1.28 | 2026-11-23 |
 | [youtype/mypy_boto3_builder](https://github.com/repolex-forx/youtype--mypy_boto3_builder) | 8.12.0 | 2026-11-23 |
 | [sindresorhus/cpy-cli](https://github.com/repolex-forx/sindresorhus--cpy-cli) | v7.0.0 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [facelessuser/pymdown-extensions](https://github.com/repolex-forx/facelessuser--pymdown-extensions) | 12.0.1 | 2026-11-23 |
 | [redis-rs/redis-rs](https://github.com/repolex-forx/redis-rs--redis-rs) | redis-test-1.0.2 | 2026-11-23 |
 | [jaraco/jaraco.itertools](https://github.com/repolex-forx/jaraco--jaraco.itertools) | v6.4.3 | 2026-11-23 |
-| [coherent-oss/pytest-ignore-flaky](https://github.com/repolex-forx/coherent-oss--pytest-ignore-flaky) | v2.2.1 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
