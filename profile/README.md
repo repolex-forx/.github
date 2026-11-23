@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [youtype/mypy_boto3_builder](https://github.com/repolex-forx/youtype--mypy_boto3_builder) | 8.12.0 | 2026-11-23 |
 | [sindresorhus/cpy-cli](https://github.com/repolex-forx/sindresorhus--cpy-cli) | v7.0.0 | 2026-11-23 |
 | [hirezio/observer-spy](https://github.com/repolex-forx/hirezio--observer-spy) | v2.2.0 | 2026-11-23 |
 | [mesqueeb/copy-anything](https://github.com/repolex-forx/mesqueeb--copy-anything) | v4.1.0 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [jaraco/jaraco.itertools](https://github.com/repolex-forx/jaraco--jaraco.itertools) | v6.4.3 | 2026-11-23 |
 | [coherent-oss/pytest-ignore-flaky](https://github.com/repolex-forx/coherent-oss--pytest-ignore-flaky) | v2.2.1 | 2026-11-23 |
 | [django/daphne](https://github.com/repolex-forx/django--daphne) | 4.2.3 | 2026-11-23 |
-| [executablebooks/sphinx-tabs](https://github.com/repolex-forx/executablebooks--sphinx-tabs) | v3.5.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
