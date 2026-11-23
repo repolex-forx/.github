@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [kornelski/cavif-rs](https://github.com/repolex-forx/kornelski--cavif-rs) | v1.8.0 | 2026-11-23 |
 | [rust-av/dav1d-rs](https://github.com/repolex-forx/rust-av--dav1d-rs) | v0.11.1 | 2026-11-23 |
 | [qnighy/libwebp-rs](https://github.com/repolex-forx/qnighy--libwebp-rs) | v0.1.2 | 2026-11-23 |
 | [hsivonen/encoding_rs](https://github.com/repolex-forx/hsivonen--encoding_rs) | v0.8.40 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [BurntSushi/fst](https://github.com/repolex-forx/BurntSushi--fst) | fst-regex-0.3.0 | 2026-11-23 |
 | [launchbadge/sqlx](https://github.com/repolex-forx/launchbadge--sqlx) | v0.8.5 | 2026-11-23 |
 | [amodm/webbrowser-rs](https://github.com/repolex-forx/amodm--webbrowser-rs) | v1.2.3 | 2026-11-23 |
-| [Keats/jsonwebtoken](https://github.com/repolex-forx/Keats--jsonwebtoken) | v11.0.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
