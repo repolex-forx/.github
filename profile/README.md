@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [rust-av/dav1d-rs](https://github.com/repolex-forx/rust-av--dav1d-rs) | v0.11.1 | 2026-11-23 |
+| [qnighy/libwebp-rs](https://github.com/repolex-forx/qnighy--libwebp-rs) | v0.1.2 | 2026-11-23 |
 | [hsivonen/encoding_rs](https://github.com/repolex-forx/hsivonen--encoding_rs) | v0.8.40 | 2026-11-23 |
 | [BurntSushi/ucd-generate](https://github.com/repolex-forx/BurntSushi--ucd-generate) | ucd-util-0.2.1 | 2026-11-23 |
 | [BurntSushi/byteorder](https://github.com/repolex-forx/BurntSushi--byteorder) | 1.5.0 | 2026-11-23 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [launchbadge/sqlx](https://github.com/repolex-forx/launchbadge--sqlx) | v0.8.5 | 2026-11-23 |
 | [amodm/webbrowser-rs](https://github.com/repolex-forx/amodm--webbrowser-rs) | v1.2.3 | 2026-11-23 |
 | [Keats/jsonwebtoken](https://github.com/repolex-forx/Keats--jsonwebtoken) | v11.0.0 | 2026-11-23 |
-| [sebastienrousseau/libyml](https://github.com/repolex-forx/sebastienrousseau--libyml) | v0.0.6 | 2026-11-23 |
-| [djc/rustc-version-rs](https://github.com/repolex-forx/djc--rustc-version-rs) | v0.4.1 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
