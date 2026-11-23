@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/bitcoin-augur-reference](https://github.com/repolex-forx/block--bitcoin-augur-reference) | main | 2026-11-23 |
 | [block/bitcoin-augur](https://github.com/repolex-forx/block--bitcoin-augur) | augur-0.3.1 | 2026-11-23 |
 | [block/docs-site-kickstarter](https://github.com/repolex-forx/block--docs-site-kickstarter) | main | 2026-11-23 |
 | [block/mdx-daemon-plugin](https://github.com/repolex-forx/block--mdx-daemon-plugin) | v0.1.0 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/bitcoin-treasury](https://github.com/repolex-forx/block--bitcoin-treasury) | main | 2026-11-23 |
 | [block/renovate-config](https://github.com/repolex-forx/block--renovate-config) | main | 2026-11-23 |
 | [block/gradle-monorepo-ij-plugin](https://github.com/repolex-forx/block--gradle-monorepo-ij-plugin) | v0.1.28 | 2026-11-23 |
-| [youtype/mypy_boto3_builder](https://github.com/repolex-forx/youtype--mypy_boto3_builder) | 8.12.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
