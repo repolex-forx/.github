@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [block/goose-mobile-demo-personal-shopper](https://github.com/repolex-forx/block--goose-mobile-demo-personal-shopper) | main | 2026-11-23 |
 | [block/sf-deity](https://github.com/repolex-forx/block--sf-deity) | main | 2026-11-23 |
 | [google/re2](https://github.com/repolex-forx/google--re2) | abseil.old | 2026-11-23 |
 | [block/bitcoin-treasury](https://github.com/repolex-forx/block--bitcoin-treasury) | main | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [sindresorhus/cpy-cli](https://github.com/repolex-forx/sindresorhus--cpy-cli) | v7.0.0 | 2026-11-23 |
 | [hirezio/observer-spy](https://github.com/repolex-forx/hirezio--observer-spy) | v2.2.0 | 2026-11-23 |
 | [mesqueeb/copy-anything](https://github.com/repolex-forx/mesqueeb--copy-anything) | v4.1.0 | 2026-11-23 |
-| [tinylibs/tinyspy](https://github.com/repolex-forx/tinylibs--tinyspy) | v4.0.6 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
