@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [pytest-dev/pytest-runner](https://github.com/repolex-forx/pytest-dev--pytest-runner) | v6.0.1 | 2026-11-23 |
 | [darvid/python-hyperscan](https://github.com/repolex-forx/darvid--python-hyperscan) | v0.8.2 | 2026-11-23 |
 | [DelSkayn/rquickjs](https://github.com/repolex-forx/DelSkayn--rquickjs) | v0.12.2 | 2026-11-23 |
 | [andfoy/winpty-rs](https://github.com/repolex-forx/andfoy--winpty-rs) | v1.0.6 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [davidfritzsche/pytest-mypy-testing](https://github.com/repolex-forx/davidfritzsche--pytest-mypy-testing) | v0.2.0 | 2026-11-23 |
 | [guts/mkdocs-rss-plugin](https://github.com/repolex-forx/guts--mkdocs-rss-plugin) | 1.19.0 | 2026-11-23 |
 | [unum-cloud/USearch](https://github.com/repolex-forx/unum-cloud--USearch) | v2.25.3 | 2026-11-23 |
-| [waylan/pyyaml-env-tag](https://github.com/repolex-forx/waylan--pyyaml-env-tag) | 1.1 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
