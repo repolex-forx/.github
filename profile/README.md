@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [huggingface/hf_transfer](https://github.com/repolex-forx/huggingface--hf_transfer) | v0.1.9 | 2026-11-23 |
 | [huggingface/safetensors](https://github.com/repolex-forx/huggingface--safetensors) | v0.8.0-rc.0 | 2026-11-23 |
 | [block/bitcoin-augur-reference](https://github.com/repolex-forx/block--bitcoin-augur-reference) | main | 2026-11-23 |
 | [block/bitcoin-augur](https://github.com/repolex-forx/block--bitcoin-augur) | augur-0.3.1 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [block/sf-deity](https://github.com/repolex-forx/block--sf-deity) | main | 2026-11-23 |
 | [google/re2](https://github.com/repolex-forx/google--re2) | abseil.old | 2026-11-23 |
 | [block/bitcoin-treasury](https://github.com/repolex-forx/block--bitcoin-treasury) | main | 2026-11-23 |
-| [block/renovate-config](https://github.com/repolex-forx/block--renovate-config) | main | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
