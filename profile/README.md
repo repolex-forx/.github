@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [waylan/pyyaml-env-tag](https://github.com/repolex-forx/waylan--pyyaml-env-tag) | 1.1 | 2026-11-23 |
 | [mozilla/mp4parse-rust](https://github.com/repolex-forx/mozilla--mp4parse-rust) | v0.12.0 | 2026-11-23 |
 | [aldanor/qoi-rust](https://github.com/repolex-forx/aldanor--qoi-rust) | v0.4.1 | 2026-11-23 |
 | [RoaringBitmap/roaring-rs](https://github.com/repolex-forx/RoaringBitmap--roaring-rs) | v0.11.5 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [qnighy/libwebp-rs](https://github.com/repolex-forx/qnighy--libwebp-rs) | v0.1.2 | 2026-11-23 |
 | [hsivonen/encoding_rs](https://github.com/repolex-forx/hsivonen--encoding_rs) | v0.8.40 | 2026-11-23 |
 | [BurntSushi/ucd-generate](https://github.com/repolex-forx/BurntSushi--ucd-generate) | ucd-util-0.2.1 | 2026-11-23 |
-| [BurntSushi/byteorder](https://github.com/repolex-forx/BurntSushi--byteorder) | 1.5.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
