@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [facelessuser/pymdown-extensions](https://github.com/repolex-forx/facelessuser--pymdown-extensions) | 12.0.1 | 2026-11-23 |
 | [redis-rs/redis-rs](https://github.com/repolex-forx/redis-rs--redis-rs) | redis-test-1.0.2 | 2026-11-23 |
 | [jaraco/jaraco.itertools](https://github.com/repolex-forx/jaraco--jaraco.itertools) | v6.4.3 | 2026-11-23 |
 | [coherent-oss/pytest-ignore-flaky](https://github.com/repolex-forx/coherent-oss--pytest-ignore-flaky) | v2.2.1 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [sphinx-contrib/emojicodes](https://github.com/repolex-forx/sphinx-contrib--emojicodes) | v0.3.2 | 2026-11-23 |
 | [dropbox/rust-brotli](https://github.com/repolex-forx/dropbox--rust-brotli) | 8.0.3 | 2026-11-23 |
 | [termcolor/termcolor](https://github.com/repolex-forx/termcolor--termcolor) | 3.3.0 | 2026-11-23 |
-| [wolph/portalocker](https://github.com/repolex-forx/wolph--portalocker) | v4.3.2 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
