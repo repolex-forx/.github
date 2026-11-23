@@ -34,6 +34,8 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [redis-rs/redis-rs](https://github.com/repolex-forx/redis-rs--redis-rs) | redis-test-1.0.2 | 2026-11-23 |
+| [jaraco/jaraco.itertools](https://github.com/repolex-forx/jaraco--jaraco.itertools) | v6.4.3 | 2026-11-23 |
 | [coherent-oss/pytest-ignore-flaky](https://github.com/repolex-forx/coherent-oss--pytest-ignore-flaky) | v2.2.1 | 2026-11-23 |
 | [django/daphne](https://github.com/repolex-forx/django--daphne) | 4.2.3 | 2026-11-23 |
 | [executablebooks/sphinx-tabs](https://github.com/repolex-forx/executablebooks--sphinx-tabs) | v3.5.0 | 2026-11-23 |
@@ -42,8 +44,6 @@ rlex download repolex-ai/rlex
 | [dropbox/rust-brotli](https://github.com/repolex-forx/dropbox--rust-brotli) | 8.0.3 | 2026-11-23 |
 | [termcolor/termcolor](https://github.com/repolex-forx/termcolor--termcolor) | 3.3.0 | 2026-11-23 |
 | [wolph/portalocker](https://github.com/repolex-forx/wolph--portalocker) | v4.3.2 | 2026-11-23 |
-| [rapidfuzz/Levenshtein](https://github.com/repolex-forx/rapidfuzz--Levenshtein) | v0.27.5 | 2026-11-23 |
-| [carsongee/pytest-pylint](https://github.com/repolex-forx/carsongee--pytest-pylint) | v0.21.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
