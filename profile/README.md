@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [BurntSushi/ucd-generate](https://github.com/repolex-forx/BurntSushi--ucd-generate) | ucd-util-0.2.1 | 2026-11-23 |
 | [BurntSushi/byteorder](https://github.com/repolex-forx/BurntSushi--byteorder) | 1.5.0 | 2026-11-23 |
 | [diesel-rs/diesel](https://github.com/repolex-forx/diesel-rs--diesel) | v2.3.11 | 2026-11-23 |
 | [BurntSushi/fst](https://github.com/repolex-forx/BurntSushi--fst) | fst-regex-0.3.0 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [sebastienrousseau/libyml](https://github.com/repolex-forx/sebastienrousseau--libyml) | v0.0.6 | 2026-11-23 |
 | [djc/rustc-version-rs](https://github.com/repolex-forx/djc--rustc-version-rs) | v0.4.1 | 2026-11-23 |
 | [serde-rs/bytes](https://github.com/repolex-forx/serde-rs--bytes) | 0.11.19 | 2026-11-23 |
-| [dtolnay/serde-stacker](https://github.com/repolex-forx/dtolnay--serde-stacker) | 0.1.14 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
