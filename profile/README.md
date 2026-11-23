@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [aldanor/qoi-rust](https://github.com/repolex-forx/aldanor--qoi-rust) | v0.4.1 | 2026-11-23 |
 | [RoaringBitmap/roaring-rs](https://github.com/repolex-forx/RoaringBitmap--roaring-rs) | v0.11.5 | 2026-11-23 |
 | [kornelski/rust-rgb](https://github.com/repolex-forx/kornelski--rust-rgb) | v0.8.54 | 2026-11-23 |
 | [kornelski/cavif-rs](https://github.com/repolex-forx/kornelski--cavif-rs) | v1.8.0 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [BurntSushi/ucd-generate](https://github.com/repolex-forx/BurntSushi--ucd-generate) | ucd-util-0.2.1 | 2026-11-23 |
 | [BurntSushi/byteorder](https://github.com/repolex-forx/BurntSushi--byteorder) | 1.5.0 | 2026-11-23 |
 | [diesel-rs/diesel](https://github.com/repolex-forx/diesel-rs--diesel) | v2.3.11 | 2026-11-23 |
-| [BurntSushi/fst](https://github.com/repolex-forx/BurntSushi--fst) | fst-regex-0.3.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
