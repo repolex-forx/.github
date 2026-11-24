@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [deedy5/primp](https://github.com/repolex-forx/deedy5--primp) | v0.15.0 | 2026-11-24 |
 | [huggingface/xet-core](https://github.com/repolex-forx/huggingface--xet-core) | v20241218-00-dedup-upload-ctrlc | 2026-11-23 |
 | [swc-project/swc-node](https://github.com/repolex-forx/swc-project--swc-node) | @swc-node/sourcemap-support@0.6.1 | 2026-11-23 |
 | [huggingface/accelerate](https://github.com/repolex-forx/huggingface--accelerate) | v1.10.0 | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [huggingface/hf_transfer](https://github.com/repolex-forx/huggingface--hf_transfer) | v0.1.9 | 2026-11-23 |
 | [huggingface/safetensors](https://github.com/repolex-forx/huggingface--safetensors) | v0.8.0-rc.0 | 2026-11-23 |
 | [block/bitcoin-augur-reference](https://github.com/repolex-forx/block--bitcoin-augur-reference) | main | 2026-11-23 |
-| [block/bitcoin-augur](https://github.com/repolex-forx/block--bitcoin-augur) | augur-0.3.1 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
