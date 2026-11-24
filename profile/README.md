@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [RustCrypto/utils](https://github.com/repolex-forx/RustCrypto--utils) | zeroize-v1.9.0 | 2026-11-24 |
 | [RustCrypto/formats](https://github.com/repolex-forx/RustCrypto--formats) | x509-tsp/v0.1.0 | 2026-11-24 |
 | [deedy5/primp](https://github.com/repolex-forx/deedy5--primp) | v0.15.0 | 2026-11-24 |
 | [huggingface/xet-core](https://github.com/repolex-forx/huggingface--xet-core) | v20241218-00-dedup-upload-ctrlc | 2026-11-23 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [huggingface/math-verify](https://github.com/repolex-forx/huggingface--math-verify) | 1.0.0 | 2026-11-23 |
 | [quinn-rs/quinn](https://github.com/repolex-forx/quinn-rs--quinn) | quinn-udp-0.6.1 | 2026-11-23 |
 | [huggingface/hf_transfer](https://github.com/repolex-forx/huggingface--hf_transfer) | v0.1.9 | 2026-11-23 |
-| [huggingface/safetensors](https://github.com/repolex-forx/huggingface--safetensors) | v0.8.0-rc.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
