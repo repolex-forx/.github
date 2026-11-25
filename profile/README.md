@@ -34,6 +34,7 @@ rlex download repolex-ai/rlex
 <!-- AUTO-UPDATED BY FORX - DO NOT EDIT BELOW -->
 | Data Source | Tag | Parsed |
 |-------------|-----|--------|
+| [huggingface/peft](https://github.com/repolex-forx/huggingface--peft) | v0.15.0 | 2026-11-25 |
 | [huggingface/tokenizers](https://github.com/repolex-forx/huggingface--tokenizers) | v0.13.4.rc3 | 2026-11-24 |
 | [Azure/azure-sdk-for-python](https://github.com/repolex-forx/Azure--azure-sdk-for-python) | v2.0.0a1 | 2026-11-24 |
 | [RustCrypto/traits](https://github.com/repolex-forx/RustCrypto--traits) | universal-hash-v0.6.1 | 2026-11-24 |
@@ -43,7 +44,6 @@ rlex download repolex-ai/rlex
 | [huggingface/xet-core](https://github.com/repolex-forx/huggingface--xet-core) | v20241218-00-dedup-upload-ctrlc | 2026-11-23 |
 | [swc-project/swc-node](https://github.com/repolex-forx/swc-project--swc-node) | @swc-node/sourcemap-support@0.6.1 | 2026-11-23 |
 | [huggingface/accelerate](https://github.com/repolex-forx/huggingface--accelerate) | v1.10.0 | 2026-11-23 |
-| [huggingface/optimum-onnx](https://github.com/repolex-forx/huggingface--optimum-onnx) | v0.1.0 | 2026-11-23 |
 <!-- END AUTO-UPDATED -->
 
 > Browse the full catalog at **[forx-index](https://github.com/repolex-forx/forx-index)**
